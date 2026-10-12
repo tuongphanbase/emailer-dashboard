@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T18:41:24+00:00",
+ "generated_at": "2026-10-12T21:34:29+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38290551987"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38309815711"
        ],
        17,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38288547317"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38308485592"
        ],
        47,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38290177109"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38309593096"
        ],
        45,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38288564585"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38308520576"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38289182090"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38308858296"
        ],
        47,
        0,
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 01:05",
+   "as_of": "2026-10-13 04:06",
    "blocks": [
     {
      "type": "tiles",
@@ -914,6 +914,22 @@
      "rows": [
       [
        [
+        "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
+        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50va"
+       ],
+       "33.990.000",
+       13.3
+      ],
+      [
+       [
+        "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11)",
+        "https://gearvn.com/products/laptop-acer-aspire-lite-15-al15-410p-r1w8-ryzen-5-3500u-8gb-512gb-15-6-fhd-ips"
+       ],
+       "19.990.000",
+       11.1
+      ],
+      [
+       [
         "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
         "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
@@ -935,14 +951,6 @@
        ],
        "3.290.000",
        4.4
-      ],
-      [
-       [
-        "Laptop gaming Acer Nitro ProPanel ANV16-72-71T9 (Core 7-240H/ RTX 5060/ 16GB/ 512GB/ 16.0\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-propanel-anv16-72-71t9"
-       ],
-       "44.990.000",
-       2.3
       ]
      ]
     }
@@ -952,10 +960,11 @@
     "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-9.1%)",
     "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.790.000 (-2.1%)",
     "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám): 33.590.000 (-1.2%)",
+    "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
+    "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
     "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)",
-    "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)",
-    "Laptop gaming Acer Nitro ProPanel ANV16-72-71T9 (Core 7-240H/ RTX 5060/ 16GB/ 512GB/ 16.0\" FHD/ Win 11): 44.990.000 (+2.3%)"
+    "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)"
    ]
   },
   {
