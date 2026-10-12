@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T09:41:18+00:00",
+ "generated_at": "2026-10-12T13:02:20+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,17 +33,26 @@
      "rows": [
       [
        [
-        "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38228219485"
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38247365258"
        ],
-       48,
+       8,
+       1,
+       "❌ Send Top Memes of the Day lỗi lúc 19:10 12/10"
+      ],
+      [
+       [
+        "gold-price-emailer",
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38247854797"
+       ],
+       47,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38214736218"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38231860886"
        ],
        14,
        0,
@@ -52,9 +61,9 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38229600843"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38250286664"
        ],
-       16,
+       17,
        0,
        "✅ bình thường"
       ],
@@ -63,14 +72,14 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38190602560"
        ],
-       4,
+       3,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38227971525"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38247535752"
        ],
        47,
        0,
@@ -79,16 +88,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38229321927"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38249758505"
        ],
-       47,
+       46,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38227981666"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38247514854"
        ],
        47,
        0,
@@ -97,18 +106,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38228482127"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38248235230"
        ],
-       48,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38211030314"
-       ],
-       8,
+       47,
        0,
        "✅ bình thường"
       ],
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/48 lỗi)",
+    "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/8 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/47 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/14 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/16 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/17 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/47 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/46 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/48 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -261,7 +261,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-12 16:08",
+   "as_of": "2026-10-12 19:12",
    "blocks": [
     {
      "type": "tiles",
@@ -839,6 +839,14 @@
        ],
        "2.790.000",
        -2.1
+      ],
+      [
+       [
+        "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-f16-fx607vjr-tu328w.html"
+       ],
+       "33.590.000",
+       -1.2
       ]
      ]
     },
@@ -907,6 +915,7 @@
    "text": [
     "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-9.1%)",
     "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.790.000 (-2.1%)",
+    "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám): 33.590.000 (-1.2%)",
     "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)",
     "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)",
