@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T13:02:20+00:00",
+ "generated_at": "2026-10-12T15:39:22+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,15 @@
      "rows": [
       [
        [
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38253491537"
+       ],
+       16,
+       2,
+       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10"
+      ],
+      [
+       [
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38247365258"
        ],
@@ -43,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38247854797"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38268572093"
        ],
        47,
        0,
@@ -51,17 +60,8 @@
       ],
       [
        [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38231860886"
-       ],
-       14,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38250286664"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38269731626"
        ],
        17,
        0,
@@ -70,16 +70,16 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38190602560"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38254870745"
        ],
-       3,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38247535752"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38268367969"
        ],
        47,
        0,
@@ -88,16 +88,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38249758505"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38269499978"
        ],
-       46,
+       45,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38247514854"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38268384435"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38248235230"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38268808239"
        ],
        47,
        0,
@@ -125,13 +125,13 @@
     }
    ],
    "text": [
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/16 lỗi)",
     "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/8 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/14 lỗi)",
     "house-price-emailer: ✅ bình thường (0/17 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/3 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/46 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/45 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
@@ -261,7 +261,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-12 19:12",
+   "as_of": "2026-10-12 22:11",
    "blocks": [
     {
      "type": "tiles",
@@ -894,14 +894,6 @@
       ],
       [
        [
-        "Laptop Gigabyte A16 (A16-CMHI2VN893SH) (i7 13620H/16GB RAM/512GB SSD/RTX 4050 6G/WF6E/16.0FHD+ 165Hz/Win 11/Đen)",
-        "https://hacom.vn/laptop-gigabyte-a16-a16-cmhi2vn893sh-ltgi0066"
-       ],
-       "33.999.000",
-       3.0
-      ],
-      [
-       [
         "Laptop gaming Acer Nitro ProPanel ANV16-72-71T9 (Core 7-240H/ RTX 5060/ 16GB/ 512GB/ 16.0\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-nitro-propanel-anv16-72-71t9"
        ],
@@ -919,7 +911,6 @@
     "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)",
     "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)",
-    "Laptop Gigabyte A16 (A16-CMHI2VN893SH) (i7 13620H/16GB RAM/512GB SSD/RTX 4050 6G/WF6E/16.0FHD+ 165Hz/Win 11/Đen): 33.999.000 (+3.0%)",
     "Laptop gaming Acer Nitro ProPanel ANV16-72-71T9 (Core 7-240H/ RTX 5060/ 16GB/ 512GB/ 16.0\" FHD/ Win 11): 44.990.000 (+2.3%)"
    ]
   },
@@ -928,7 +919,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-12 01:12",
+   "as_of": "2026-10-12 13:24",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -960,31 +951,11 @@
       [
        [
         "Apple iPhone 18 Pro 256GB",
-        "https://clickbuy.com.vn/iphone-18-pro.html"
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
-       36750000,
-       "Clickbuy",
-       4,
-       null
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro Max 256GB",
-        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
-       ],
-       39490000,
+       35990000,
        "24hStore",
        4,
-       null
-      ],
-      [
-       [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28207"
-       ],
-       24990000,
-       "MediaMart",
-       3,
        null
       ],
       [
@@ -999,12 +970,12 @@
       ],
       [
        [
-        "Apple iPad Air 11 M4 2026 256GB",
-        "https://cellphones.com.vn/apple-ipad-air-m4-11-inch-256gb-wifi.html"
+        "Apple iPhone 18 Pro Max 256GB",
+        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
        ],
-       21990000,
-       "CellphoneS",
-       2,
+       39490000,
+       "24hStore",
+       3,
        null
       ],
       [
@@ -1012,7 +983,17 @@
         "Apple iPad Air M4 2026 11 128GB",
         "https://minhtuanmobile.com/ipad-air-m4/"
        ],
-       19190000,
+       18990000,
+       "Minh Tuấn Mobile",
+       2,
+       null
+      ],
+      [
+       [
+        "Apple iPad Air M4 2026 11 256GB",
+        "https://minhtuanmobile.com/ipad-air-m4-11-inch-256gb/"
+       ],
+       21790000,
        "Minh Tuấn Mobile",
        2,
        null
@@ -1022,7 +1003,7 @@
         "Apple iPad Mini 7 2024 128GB",
         "https://minhtuanmobile.com/ipad-mini-7/"
        ],
-       15790000,
+       15590000,
        "Minh Tuấn Mobile",
        2,
        null
@@ -1049,6 +1030,16 @@
       ],
       [
        [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28207"
+       ],
+       24990000,
+       "MediaMart",
+       2,
+       null
+      ],
+      [
+       [
         "Apple iPhone 17 Pro 1TB",
         "https://24hstore.vn/iphone-17-pro/iphone-17-pro-1tb-p11590"
        ],
@@ -1061,15 +1052,15 @@
     }
    ],
    "text": [
-    "Apple iPhone 18 Pro 256GB: 36,750,000 (Clickbuy)",
-    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
-    "Apple iPad Air 11 M4 2026 256GB: 21,990,000 (CellphoneS)",
-    "Apple iPad Air M4 2026 11 128GB: 19,190,000 (Minh Tuấn Mobile)",
-    "Apple iPad Mini 7 2024 128GB: 15,790,000 (Minh Tuấn Mobile)",
+    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
+    "Apple iPad Air M4 2026 11 128GB: 18,990,000 (Minh Tuấn Mobile)",
+    "Apple iPad Air M4 2026 11 256GB: 21,790,000 (Minh Tuấn Mobile)",
+    "Apple iPad Mini 7 2024 128GB: 15,590,000 (Minh Tuấn Mobile)",
     "Apple iPad Pro M5 11 256GB: 33,790,000 (Minh Tuấn Mobile)",
     "Apple iPhone 16E 128GB: 13,328,000 (Hoàng Hà Mobile)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)"
    ]
   }
