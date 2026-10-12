@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T15:39:22+00:00",
+ "generated_at": "2026-10-12T18:41:24+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "3 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,10 +33,19 @@
      "rows": [
       [
        [
+        "gold-price-emailer",
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38275446073"
+       ],
+       47,
+       1,
+       "❌ Send Gold Price lỗi lúc 23:09 12/10"
+      ],
+      [
+       [
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38253491537"
        ],
-       16,
+       17,
        2,
        "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10"
       ],
@@ -51,17 +60,8 @@
       ],
       [
        [
-        "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38268572093"
-       ],
-       47,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38269731626"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38290551987"
        ],
        17,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38268367969"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38288547317"
        ],
        47,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38269499978"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38290177109"
        ],
        45,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38268384435"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38288564585"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38268808239"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38289182090"
        ],
        47,
        0,
@@ -125,9 +125,9 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/16 lỗi)",
+    "gold-price-emailer: ❌ Send Gold Price lỗi lúc 23:09 12/10 (1/47 lỗi)",
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/17 lỗi)",
     "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/8 lỗi)",
-    "gold-price-emailer: ✅ bình thường (0/47 lỗi)",
     "house-price-emailer: ✅ bình thường (0/17 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-12",
+   "as_of": "2026-10-13",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -167,6 +167,10 @@
         [
          "2026-10-12",
          144300000
+        ],
+        [
+         "2026-10-13",
+         144300000
         ]
        ]
       },
@@ -188,6 +192,10 @@
         [
          "2026-10-12",
          144300000
+        ],
+        [
+         "2026-10-13",
+         144300000
         ]
        ]
       },
@@ -208,6 +216,10 @@
         ],
         [
          "2026-10-12",
+         144300000
+        ],
+        [
+         "2026-10-13",
          144300000
         ]
        ]
@@ -235,17 +247,17 @@
       [
        "SJC",
        144300000,
-       -0.35
+       0.0
       ],
       [
        "PNJ",
        144300000,
-       -0.35
+       0.0
       ],
       [
        "DOJI",
        144300000,
-       -0.35
+       0.0
       ]
      ]
     }
@@ -261,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-12 22:11",
+   "as_of": "2026-10-13 01:05",
    "blocks": [
     {
      "type": "tiles",
@@ -284,6 +296,10 @@
         [
          "2026-10-12",
          25886.36
+        ],
+        [
+         "2026-10-13",
+         25886.36
         ]
        ]
       },
@@ -303,6 +319,10 @@
         ],
         [
          "2026-10-12",
+         29000.14
+        ],
+        [
+         "2026-10-13",
          29000.14
         ]
        ]
@@ -324,6 +344,10 @@
         [
          "2026-10-12",
          163.6
+        ],
+        [
+         "2026-10-13",
+         163.6
         ]
        ]
       },
@@ -343,6 +367,10 @@
         ],
         [
          "2026-10-12",
+         3863.46
+        ],
+        [
+         "2026-10-13",
          3863.46
         ]
        ]
@@ -364,6 +392,10 @@
         [
          "2026-10-12",
          19.31
+        ],
+        [
+         "2026-10-13",
+         19.31
         ]
        ]
       },
@@ -383,6 +415,10 @@
         ],
         [
          "2026-10-12",
+         34259.12
+        ],
+        [
+         "2026-10-13",
          34259.12
         ]
        ]
@@ -404,6 +440,10 @@
         [
          "2026-10-12",
          20211.94
+        ],
+        [
+         "2026-10-13",
+         20211.94
         ]
        ]
       },
@@ -423,6 +463,10 @@
         ],
         [
          "2026-10-12",
+         18079.57
+        ],
+        [
+         "2026-10-13",
          18079.57
         ]
        ]
