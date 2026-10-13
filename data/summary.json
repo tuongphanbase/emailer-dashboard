@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T18:45:48+00:00",
+ "generated_at": "2026-10-13T21:47:30+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,25 +34,25 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38444827106"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38470226496"
        ],
-       48,
+       47,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38424454650"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38449977684"
        ],
-       15,
+       14,
        0,
        "✅ bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38446709337"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38470823421"
        ],
        16,
        0,
@@ -70,36 +70,36 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38444371095"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38469623468"
        ],
-       48,
+       47,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38446410803"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38470515731"
        ],
-       46,
+       44,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38444388737"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38469626546"
        ],
-       48,
+       47,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38445237198"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38470806123"
        ],
-       48,
+       47,
        0,
        "✅ bình thường"
       ],
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/48 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/15 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/47 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/14 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/48 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/46 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/48 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/48 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/44 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/14 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -285,7 +285,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-14 01:09",
+   "as_of": "2026-10-14 04:19",
    "blocks": [
     {
      "type": "tiles",
@@ -962,27 +962,27 @@
       ],
       [
        [
-        "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
-        "https://hacom.vn/laptop-asus-vivobook-e1404fa-eb935w-ltau1082"
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
        ],
-       "20.490.000",
-       -2.4
+       "550.000.000",
+       -6.8
       ],
       [
        [
-        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
-        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell"
        ],
-       "2.790.000",
-       -2.1
+       "555.000.000",
+       -5.9
       ],
       [
        [
-        "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-f16-fx607vjr-tu328w.html"
+        "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA",
+        "https://memoryzone.com.vn/hdd-toshiba-s300-surveillance-2tb-3-5-inch-sata-iii-128mb-cache-5400rpm-hdwt720uzsva"
        ],
-       "33.390.000",
-       -1.8
+       "3.450.000",
+       -3.9
       ]
      ]
     },
@@ -1030,19 +1030,19 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "64.699.000",
-       7.8
-      ],
-      [
-       [
         "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
         "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
        "7.999.000",
        5.3
+      ],
+      [
+       [
+        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home)",
+        "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w"
+       ],
+       "28.900.000",
+       5.1
       ]
      ]
     }
@@ -1051,14 +1051,14 @@
    "text": [
     "Laptop Asus Gaming V3607VJ-TK189W (Core 5 210H/ 16GB RAM D5/ 512B SSD/ 16 WUXGA 144hz/ RTX 3050 6GB/ W6/ BT/ Win11H/ Đen): 32.990.000 (-19.5%)",
     "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-9.1%)",
-    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 20.490.000 (-2.4%)",
-    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.790.000 (-2.1%)",
-    "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám): 33.390.000 (-1.8%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 555.000.000 (-5.9%)",
+    "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA: 3.450.000 (-3.9%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)",
-    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
+    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
    ]
   },
   {
