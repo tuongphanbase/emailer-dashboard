@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T03:38:46+00:00",
+ "generated_at": "2026-10-13T06:48:01+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -54,14 +54,14 @@
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38247365258"
        ],
-       8,
+       14,
        1,
        "❌ Send Top Memes of the Day lỗi lúc 19:10 12/10"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38341256861"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38356813491"
        ],
        17,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38340185469"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38355081147"
        ],
        47,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38341098125"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38356586133"
        ],
        44,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38340188710"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38355094416"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38340486246"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38355657931"
        ],
        47,
        0,
@@ -127,7 +127,7 @@
    "text": [
     "gold-price-emailer: ❌ Send Gold Price lỗi lúc 23:09 12/10 (1/47 lỗi)",
     "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/17 lỗi)",
-    "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/8 lỗi)",
+    "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/14 lỗi)",
     "house-price-emailer: ✅ bình thường (0/17 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 10:07",
+   "as_of": "2026-10-13 13:08",
    "blocks": [
     {
      "type": "tiles",
@@ -490,7 +490,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-13 10:07",
+   "as_of": "2026-10-13 11:45",
    "blocks": [
     {
      "type": "tiles",
@@ -498,8 +498,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 220000.0,
-       "change_pct": -0.18,
+       "value": 219900.0,
+       "change_pct": -0.27,
        "period": "24h",
        "points": [
         [
@@ -520,14 +520,14 @@
         ],
         [
          "2026-10-13",
-         220000.0
+         219900.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 64000.0,
-       "change_pct": -2.29,
+       "value": 63400.0,
+       "change_pct": -2.91,
        "period": "24h",
        "points": [
         [
@@ -548,14 +548,14 @@
         ],
         [
          "2026-10-13",
-         64000.0
+         63400.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56900.0,
-       "change_pct": 0.53,
+       "value": 56600.0,
+       "change_pct": -1.05,
        "period": "24h",
        "points": [
         [
@@ -576,14 +576,14 @@
         ],
         [
          "2026-10-13",
-         56900.0
+         56600.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33800.0,
-       "change_pct": -0.44,
+       "value": 33600.0,
+       "change_pct": -1.03,
        "period": "24h",
        "points": [
         [
@@ -604,14 +604,14 @@
         ],
         [
          "2026-10-13",
-         33800.0
+         33600.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 32900.0,
-       "change_pct": 1.86,
+       "value": 32700.0,
+       "change_pct": -0.15,
        "period": "24h",
        "points": [
         [
@@ -632,14 +632,14 @@
         ],
         [
          "2026-10-13",
-         32900.0
+         32700.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 29550.0,
-       "change_pct": 0.0,
+       "value": 29450.0,
+       "change_pct": 0.17,
        "period": "24h",
        "points": [
         [
@@ -660,14 +660,14 @@
         ],
         [
          "2026-10-13",
-         29550.0
+         29450.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24400.0,
-       "change_pct": 2.52,
+       "value": 24450.0,
+       "change_pct": 1.45,
        "period": "24h",
        "points": [
         [
@@ -685,13 +685,17 @@
         [
          "2026-10-12",
          24400.0
+        ],
+        [
+         "2026-10-13",
+         24450.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 79100.0,
-       "change_pct": -0.88,
+       "value": 77800.0,
+       "change_pct": -1.64,
        "period": "24h",
        "points": [
         [
@@ -712,7 +716,7 @@
         ],
         [
          "2026-10-13",
-         79100.0
+         77800.0
         ]
        ]
       }
@@ -742,37 +746,37 @@
        10.0
       ],
       [
+       "MVN",
+       62000.0,
+       -9.62
+      ],
+      [
+       "MSR",
+       62200.0,
+       -7.99
+      ],
+      [
        "PGS",
        87900.0,
        7.33
       ],
       [
-       "KOS",
-       8960.0,
-       -6.96
-      ],
-      [
-       "VIF",
-       13500.0,
-       -6.9
-      ],
-      [
-       "PGI",
-       21200.0,
-       6.8
+       "KSV",
+       117800.0,
+       -7.02
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 220,000.0 (-0.18%)",
-    "VHM: 64,000.0 (-2.29%)",
-    "VCB: 56,900.0 (+0.53%)",
-    "BID: 33,800.0 (-0.44%)",
-    "TCB: 32,900.0 (+1.86%)",
-    "CTG: 29,550.0 (+0.0%)",
-    "VPB: 24,400.0 (+2.52%)",
-    "GAS: 79,100.0 (-0.88%)"
+    "VIC: 219,900.0 (-0.27%)",
+    "VHM: 63,400.0 (-2.91%)",
+    "VCB: 56,600.0 (-1.05%)",
+    "BID: 33,600.0 (-1.03%)",
+    "TCB: 32,700.0 (-0.15%)",
+    "CTG: 29,450.0 (+0.17%)",
+    "VPB: 24,450.0 (+1.45%)",
+    "GAS: 77,800.0 (-1.64%)"
    ]
   },
   {
