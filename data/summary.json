@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T12:48:11+00:00",
+ "generated_at": "2026-10-13T15:39:52+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -36,23 +36,23 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38275446073"
        ],
-       47,
+       48,
        1,
        "❌ Send Gold Price lỗi lúc 23:09 12/10"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38253491537"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38400488576"
        ],
-       17,
-       2,
-       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10"
+       16,
+       0,
+       "✅ bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38397453479"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38421551782"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38330626632"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38402706530"
        ],
        4,
        0,
@@ -70,36 +70,36 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38395245176"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38419676826"
        ],
-       47,
+       48,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38397082837"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38421293305"
        ],
-       45,
+       46,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38395255797"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38419720250"
        ],
-       47,
+       48,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38396000871"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38420262401"
        ],
-       47,
+       48,
        0,
        "✅ bình thường"
       ],
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ❌ Send Gold Price lỗi lúc 23:09 12/10 (1/47 lỗi)",
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/17 lỗi)",
+    "gold-price-emailer: ❌ Send Gold Price lỗi lúc 23:09 12/10 (1/48 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/45 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/48 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/46 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/48 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/48 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/14 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 19:09",
+   "as_of": "2026-10-13 22:10",
    "blocks": [
     {
      "type": "tiles",
@@ -962,6 +962,14 @@
      "rows": [
       [
        [
+        "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition",
+        "https://gearvn.com/products/card-man-hinh-asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-rog-astral-rtx5080-o16g-gaming"
+       ],
+       "69.990.000",
+       16.7
+      ],
+      [
+       [
         "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50va"
        ],
@@ -991,14 +999,6 @@
        ],
        "28.900.000",
        5.1
-      ],
-      [
-       [
-        "Mainboard ASRock B760M Pro RS WIFI DDR5",
-        "https://memoryzone.com.vn/mainboard-pc-asrock-b760m-pro-rs-wifi"
-       ],
-       "3.290.000",
-       4.4
       ]
      ]
     }
@@ -1010,11 +1010,11 @@
     "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 20.490.000 (-2.4%)",
     "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.790.000 (-2.1%)",
     "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám): 33.390.000 (-1.8%)",
+    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
     "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)",
-    "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)"
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
    ]
   },
   {
@@ -1022,7 +1022,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-13 01:12",
+   "as_of": "2026-10-13 13:15",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -1059,16 +1059,6 @@
        35990000,
        "24hStore",
        4,
-       null
-      ],
-      [
-       [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28207"
-       ],
-       24990000,
-       "MediaMart",
-       3,
        null
       ],
       [
@@ -1124,10 +1114,10 @@
       [
        [
         "Apple iPad Pro M5 11 256GB",
-        "https://minhtuanmobile.com/ipad-pro-m5/"
+        "https://shopdunk.com/ipad-pro-m5-11-inch-wi-fi"
        ],
-       33790000,
-       "Minh Tuấn Mobile",
+       33490000,
+       "ShopDunk",
        2,
        null
       ],
@@ -1138,6 +1128,16 @@
        ],
        13328000,
        "Hoàng Hà Mobile",
+       2,
+       null
+      ],
+      [
+       [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28207"
+       ],
+       24990000,
+       "MediaMart",
        2,
        null
       ],
@@ -1156,14 +1156,14 @@
    ],
    "text": [
     "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
     "Apple iPad Air M4 2026 11 128GB: 18,990,000 (Minh Tuấn Mobile)",
     "Apple iPad Air M4 2026 11 256GB: 21,790,000 (Minh Tuấn Mobile)",
     "Apple iPad Mini 7 2024 128GB: 15,590,000 (Minh Tuấn Mobile)",
-    "Apple iPad Pro M5 11 256GB: 33,790,000 (Minh Tuấn Mobile)",
+    "Apple iPad Pro M5 11 256GB: 33,490,000 (ShopDunk)",
     "Apple iPhone 16E 128GB: 13,328,000 (Hoàng Hà Mobile)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)"
    ]
   }
