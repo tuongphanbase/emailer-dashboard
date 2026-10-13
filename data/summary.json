@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T21:34:29+00:00",
+ "generated_at": "2026-10-13T00:49:57+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38309815711"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38327751290"
        ],
        17,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38308485592"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38325763695"
        ],
        47,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38309593096"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38327441257"
        ],
        45,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38308520576"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38325773848"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38308858296"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38326453904"
        ],
        47,
        0,
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 04:06",
+   "as_of": "2026-10-13 07:08",
    "blocks": [
     {
      "type": "tiles",
