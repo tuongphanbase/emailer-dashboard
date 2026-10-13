@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T01:05:24+00:00",
+ "generated_at": "2026-10-13T03:30:58+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38327751290"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38341256861"
        ],
        17,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38254870745"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38330626632"
        ],
        4,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38329533020"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38340185469"
        ],
        47,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38327441257"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38341098125"
        ],
        44,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38329522637"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38340188710"
        ],
        47,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38329704215"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38340486246"
        ],
        47,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/38191469091"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/38331606929"
        ],
        2,
        0,
@@ -170,7 +170,7 @@
         ],
         [
          "2026-10-13",
-         144300000
+         143500000
         ]
        ]
       },
@@ -195,7 +195,7 @@
         ],
         [
          "2026-10-13",
-         144300000
+         143500000
         ]
        ]
       },
@@ -220,7 +220,7 @@
         ],
         [
          "2026-10-13",
-         144300000
+         143500000
         ]
        ]
       }
@@ -246,26 +246,26 @@
      "rows": [
       [
        "SJC",
-       144300000,
-       0.0
+       143500000,
+       -0.55
       ],
       [
        "PNJ",
-       144300000,
-       0.0
+       143500000,
+       -0.55
       ],
       [
        "DOJI",
-       144300000,
-       0.0
+       143500000,
+       -0.55
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 144,300,000 VND",
-    "PNJ: 144,300,000 VND",
-    "DOJI: 144,300,000 VND"
+    "SJC: 143,500,000 VND",
+    "PNJ: 143,500,000 VND",
+    "DOJI: 143,500,000 VND"
    ]
   },
   {
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 07:54",
+   "as_of": "2026-10-13 10:07",
    "blocks": [
     {
      "type": "tiles",
@@ -490,7 +490,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-12 15:09",
+   "as_of": "2026-10-13 10:07",
    "blocks": [
     {
      "type": "tiles",
@@ -498,8 +498,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 219000.0,
-       "change_pct": -2.88,
+       "value": 220000.0,
+       "change_pct": -0.18,
        "period": "24h",
        "points": [
         [
@@ -517,13 +517,17 @@
         [
          "2026-10-12",
          219000.0
+        ],
+        [
+         "2026-10-13",
+         220000.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 63900.0,
-       "change_pct": -3.18,
+       "value": 64000.0,
+       "change_pct": -2.29,
        "period": "24h",
        "points": [
         [
@@ -541,13 +545,17 @@
         [
          "2026-10-12",
          63900.0
+        ],
+        [
+         "2026-10-13",
+         64000.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56700.0,
-       "change_pct": 0.0,
+       "value": 56900.0,
+       "change_pct": 0.53,
        "period": "24h",
        "points": [
         [
@@ -565,13 +573,17 @@
         [
          "2026-10-12",
          56700.0
+        ],
+        [
+         "2026-10-13",
+         56900.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33850.0,
-       "change_pct": -0.15,
+       "value": 33800.0,
+       "change_pct": -0.44,
        "period": "24h",
        "points": [
         [
@@ -589,13 +601,17 @@
         [
          "2026-10-12",
          33850.0
+        ],
+        [
+         "2026-10-13",
+         33800.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 32600.0,
-       "change_pct": 0.77,
+       "value": 32900.0,
+       "change_pct": 1.86,
        "period": "24h",
        "points": [
         [
@@ -613,13 +629,17 @@
         [
          "2026-10-12",
          32600.0
+        ],
+        [
+         "2026-10-13",
+         32900.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 29600.0,
-       "change_pct": 0.34,
+       "value": 29550.0,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -637,6 +657,10 @@
         [
          "2026-10-12",
          29600.0
+        ],
+        [
+         "2026-10-13",
+         29550.0
         ]
        ]
       },
@@ -666,8 +690,8 @@
       },
       {
        "label": "GAS",
-       "value": 79000.0,
-       "change_pct": -2.11,
+       "value": 79100.0,
+       "change_pct": -0.88,
        "period": "24h",
        "points": [
         [
@@ -685,6 +709,10 @@
         [
          "2026-10-12",
          79000.0
+        ],
+        [
+         "2026-10-13",
+         79100.0
         ]
        ]
       }
@@ -710,41 +738,41 @@
      "rows": [
       [
        "THD",
-       98000.0,
-       9.99
+       107800.0,
+       10.0
       ],
       [
-       "VCR",
-       53100.0,
-       -8.45
+       "PGS",
+       87900.0,
+       7.33
       ],
       [
        "KOS",
-       9630.0,
+       8960.0,
        -6.96
       ],
       [
-       "PNJ",
-       18150.0,
-       -6.92
+       "VIF",
+       13500.0,
+       -6.9
       ],
       [
-       "NKG",
-       9930.0,
-       6.89
+       "PGI",
+       21200.0,
+       6.8
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 219,000.0 (-2.88%)",
-    "VHM: 63,900.0 (-3.18%)",
-    "VCB: 56,700.0 (+0.0%)",
-    "BID: 33,850.0 (-0.15%)",
-    "TCB: 32,600.0 (+0.77%)",
-    "CTG: 29,600.0 (+0.34%)",
+    "VIC: 220,000.0 (-0.18%)",
+    "VHM: 64,000.0 (-2.29%)",
+    "VCB: 56,900.0 (+0.53%)",
+    "BID: 33,800.0 (-0.44%)",
+    "TCB: 32,900.0 (+1.86%)",
+    "CTG: 29,550.0 (+0.0%)",
     "VPB: 24,400.0 (+2.52%)",
-    "GAS: 79,000.0 (-2.11%)"
+    "GAS: 79,100.0 (-0.88%)"
    ]
   },
   {
@@ -972,7 +1000,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-12 13:24",
+   "as_of": "2026-10-13 01:12",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -1009,6 +1037,16 @@
        35990000,
        "24hStore",
        4,
+       null
+      ],
+      [
+       [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28207"
+       ],
+       24990000,
+       "MediaMart",
+       3,
        null
       ],
       [
@@ -1083,16 +1121,6 @@
       ],
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28207"
-       ],
-       24990000,
-       "MediaMart",
-       2,
-       null
-      ],
-      [
-       [
         "Apple iPhone 17 Pro 1TB",
         "https://24hstore.vn/iphone-17-pro/iphone-17-pro-1tb-p11590"
        ],
@@ -1106,6 +1134,7 @@
    ],
    "text": [
     "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
     "Apple iPad Air M4 2026 11 128GB: 18,990,000 (Minh Tuấn Mobile)",
@@ -1113,7 +1142,6 @@
     "Apple iPad Mini 7 2024 128GB: 15,590,000 (Minh Tuấn Mobile)",
     "Apple iPad Pro M5 11 256GB: 33,790,000 (Minh Tuấn Mobile)",
     "Apple iPhone 16E 128GB: 13,328,000 (Hoàng Hà Mobile)",
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)"
    ]
   }
