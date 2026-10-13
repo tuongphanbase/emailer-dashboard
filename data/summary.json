@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T09:39:03+00:00",
+ "generated_at": "2026-10-13T12:48:11+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "3 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -51,19 +51,10 @@
       ],
       [
        [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38247365258"
-       ],
-       14,
-       1,
-       "❌ Send Top Memes of the Day lỗi lúc 19:10 12/10"
-      ],
-      [
-       [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38375875838"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38397453479"
        ],
-       17,
+       16,
        0,
        "✅ bình thường"
       ],
@@ -79,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38374071000"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38395245176"
        ],
        47,
        0,
@@ -88,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38375568924"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38397082837"
        ],
        45,
        0,
@@ -97,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38374098714"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38395255797"
        ],
        47,
        0,
@@ -106,9 +97,18 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38374699629"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38396000871"
        ],
        47,
+       0,
+       "✅ bình thường"
+      ],
+      [
+       [
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38395121175"
+       ],
+       14,
        0,
        "✅ bình thường"
       ],
@@ -127,13 +127,13 @@
    "text": [
     "gold-price-emailer: ❌ Send Gold Price lỗi lúc 23:09 12/10 (1/47 lỗi)",
     "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:07 12/10 (2/17 lỗi)",
-    "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 19:10 12/10 (1/14 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/17 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/45 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
+    "9gag-meme-emailer: ✅ bình thường (0/14 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -273,7 +273,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-13 16:07",
+   "as_of": "2026-10-13 19:09",
    "blocks": [
     {
      "type": "tiles",
@@ -978,14 +978,6 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "64.699.000",
-       7.8
-      ],
-      [
-       [
         "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
         "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
@@ -999,6 +991,14 @@
        ],
        "28.900.000",
        5.1
+      ],
+      [
+       [
+        "Mainboard ASRock B760M Pro RS WIFI DDR5",
+        "https://memoryzone.com.vn/mainboard-pc-asrock-b760m-pro-rs-wifi"
+       ],
+       "3.290.000",
+       4.4
       ]
      ]
     }
@@ -1012,9 +1012,9 @@
     "Laptop ASUS TUF Gaming F16 FX607VJR-TU328W (Intel Core 7 Processor 230H | RTX 3050 | 16 inch FHD+ 144Hz | 16GB | 512GB | Win 11 | Xám): 33.390.000 (-1.8%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)",
     "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)",
+    "Mainboard ASRock B760M Pro RS WIFI DDR5: 3.290.000 (+4.4%)"
    ]
   },
   {
