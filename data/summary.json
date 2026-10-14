@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T01:01:33+00:00",
+ "generated_at": "2026-10-14T01:15:45+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,19 +33,19 @@
      "rows": [
       [
        [
-        "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38489323944"
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38493764842"
        ],
-       47,
-       0,
-       "✅ bình thường"
+       16,
+       1,
+       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:05 14/10"
       ],
       [
        [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38473719806"
+        "gold-price-emailer",
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38494007325"
        ],
-       14,
+       47,
        0,
        "✅ bình thường"
       ],
@@ -63,14 +63,14 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38402706530"
        ],
-       4,
+       2,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38488933030"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38493940072"
        ],
        47,
        0,
@@ -81,14 +81,14 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38491003848"
        ],
-       43,
+       42,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38488924516"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38493945073"
        ],
        47,
        0,
@@ -97,9 +97,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38489735471"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38494133004"
        ],
-       47,
+       48,
        0,
        "✅ bình thường"
       ],
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:05 14/10 (1/16 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/14 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/2 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/47 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/43 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/42 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/47 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/47 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/48 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/14 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -285,7 +285,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-14 07:13",
+   "as_of": "2026-10-14 08:07",
    "blocks": [
     {
      "type": "tiles",
@@ -294,7 +294,7 @@
       {
        "label": "USD",
        "value": 25897.09,
-       "change_pct": 0.04,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -322,7 +322,7 @@
       {
        "label": "EUR",
        "value": 28986.43,
-       "change_pct": -0.05,
+       "change_pct": 0.19,
        "period": "24h",
        "points": [
         [
@@ -350,7 +350,7 @@
       {
        "label": "JPY",
        "value": 163.59,
-       "change_pct": -0.01,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -378,7 +378,7 @@
       {
        "label": "CNY",
        "value": 3862.34,
-       "change_pct": -0.03,
+       "change_pct": 0.01,
        "period": "24h",
        "points": [
         [
@@ -406,7 +406,7 @@
       {
        "label": "KRW",
        "value": 19.31,
-       "change_pct": 0.03,
+       "change_pct": -0.53,
        "period": "24h",
        "points": [
         [
@@ -434,7 +434,7 @@
       {
        "label": "GBP",
        "value": 34313.46,
-       "change_pct": 0.16,
+       "change_pct": 0.25,
        "period": "24h",
        "points": [
         [
@@ -462,7 +462,7 @@
       {
        "label": "SGD",
        "value": 20234.64,
-       "change_pct": 0.11,
+       "change_pct": 0.07,
        "period": "24h",
        "points": [
         [
@@ -490,7 +490,7 @@
       {
        "label": "AUD",
        "value": 18074.35,
-       "change_pct": -0.03,
+       "change_pct": 0.26,
        "period": "24h",
        "points": [
         [
@@ -519,14 +519,14 @@
     }
    ],
    "text": [
-    "USD: 25,897.09 (+0.04%)",
-    "EUR: 28,986.43 (-0.05%)",
-    "JPY: 163.59 (-0.01%)",
-    "CNY: 3,862.34 (-0.03%)",
-    "KRW: 19.31 (+0.03%)",
-    "GBP: 34,313.46 (+0.16%)",
-    "SGD: 20,234.64 (+0.11%)",
-    "AUD: 18,074.35 (-0.03%)"
+    "USD: 25,897.09 (+0.0%)",
+    "EUR: 28,986.43 (+0.19%)",
+    "JPY: 163.59 (+0.15%)",
+    "CNY: 3,862.34 (+0.01%)",
+    "KRW: 19.31 (-0.53%)",
+    "GBP: 34,313.46 (+0.25%)",
+    "SGD: 20,234.64 (+0.07%)",
+    "AUD: 18,074.35 (+0.26%)"
    ]
   },
   {
