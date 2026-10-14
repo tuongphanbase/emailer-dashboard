@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T03:51:40+00:00",
+ "generated_at": "2026-10-14T07:04:18+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38505700358"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38522477391"
        ],
        46,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38506507854"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38523239764"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38505467341"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38521421712"
        ],
        46,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38506883723"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38523723443"
        ],
-       42,
+       39,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38505477486"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38521440846"
        ],
        46,
        0,
@@ -97,18 +97,18 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38506057311"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38522627722"
        ],
-       46,
+       45,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38488775645"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38521289529"
        ],
-       13,
+       8,
        0,
        "✅ bình thường"
       ],
@@ -130,10 +130,10 @@
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/46 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/42 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/39 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/46 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/46 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/13 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/45 lỗi)",
+    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -285,7 +285,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-14 10:17",
+   "as_of": "2026-10-14 13:18",
    "blocks": [
     {
      "type": "tiles",
@@ -534,7 +534,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-14 10:17",
+   "as_of": "2026-10-14 13:18",
    "blocks": [
     {
      "type": "tiles",
@@ -542,7 +542,7 @@
      "items": [
       {
        "label": "VIC",
-       "value": 220000.0,
+       "value": 219900.0,
        "change_pct": 0.0,
        "period": "24h",
        "points": [
@@ -568,14 +568,14 @@
         ],
         [
          "2026-10-14",
-         220000.0
+         219900.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 63700.0,
-       "change_pct": -0.47,
+       "value": 63500.0,
+       "change_pct": 0.16,
        "period": "24h",
        "points": [
         [
@@ -600,14 +600,14 @@
         ],
         [
          "2026-10-14",
-         63700.0
+         63500.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56200.0,
-       "change_pct": -1.23,
+       "value": 56300.0,
+       "change_pct": -0.53,
        "period": "24h",
        "points": [
         [
@@ -632,14 +632,14 @@
         ],
         [
          "2026-10-14",
-         56200.0
+         56300.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33350.0,
-       "change_pct": -1.33,
+       "value": 33300.0,
+       "change_pct": -0.89,
        "period": "24h",
        "points": [
         [
@@ -664,14 +664,14 @@
         ],
         [
          "2026-10-14",
-         33350.0
+         33300.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 33100.0,
-       "change_pct": 0.61,
+       "value": 32850.0,
+       "change_pct": 0.46,
        "period": "24h",
        "points": [
         [
@@ -696,14 +696,14 @@
         ],
         [
          "2026-10-14",
-         33100.0
+         32850.0
         ]
        ]
       },
       {
        "label": "CTG",
        "value": 29450.0,
-       "change_pct": -0.34,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -734,8 +734,8 @@
       },
       {
        "label": "VPB",
-       "value": 24450.0,
-       "change_pct": 0.2,
+       "value": 24300.0,
+       "change_pct": -0.61,
        "period": "24h",
        "points": [
         [
@@ -760,14 +760,14 @@
         ],
         [
          "2026-10-14",
-         24450.0
+         24300.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 78500.0,
-       "change_pct": -0.38,
+       "value": 78000.0,
+       "change_pct": 0.26,
        "period": "24h",
        "points": [
         [
@@ -789,6 +789,10 @@
         [
          "2026-10-13",
          78500.0
+        ],
+        [
+         "2026-10-14",
+         78000.0
         ]
        ]
       }
@@ -813,14 +817,14 @@
      ],
      "rows": [
       [
-       "NVB",
-       14100.0,
-       -13.5
+       "PGS",
+       75900.0,
+       -13.65
       ],
       [
-       "THD",
-       117000.0,
-       8.53
+       "NVB",
+       14000.0,
+       -13.04
       ],
       [
        "TBC",
@@ -828,27 +832,27 @@
        -8.23
       ],
       [
-       "PGS",
-       75800.0,
-       -7.45
+       "KOS",
+       8340.0,
+       -6.92
       ],
       [
-       "MVN",
-       62100.0,
-       -7.31
+       "PGI",
+       21200.0,
+       6.8
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 220,000.0 (+0.0%)",
-    "VHM: 63,700.0 (-0.47%)",
-    "VCB: 56,200.0 (-1.23%)",
-    "BID: 33,350.0 (-1.33%)",
-    "TCB: 33,100.0 (+0.61%)",
-    "CTG: 29,450.0 (-0.34%)",
-    "VPB: 24,450.0 (+0.2%)",
-    "GAS: 78,500.0 (-0.38%)"
+    "VIC: 219,900.0 (+0.0%)",
+    "VHM: 63,500.0 (+0.16%)",
+    "VCB: 56,300.0 (-0.53%)",
+    "BID: 33,300.0 (-0.89%)",
+    "TCB: 32,850.0 (+0.46%)",
+    "CTG: 29,450.0 (+0.0%)",
+    "VPB: 24,300.0 (-0.61%)",
+    "GAS: 78,000.0 (+0.26%)"
    ],
    "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: F88"
   },
@@ -1059,19 +1063,19 @@
       ],
       [
        [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "64.699.000",
+       7.8
+      ],
+      [
+       [
         "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
         "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
        "7.999.000",
        5.3
-      ],
-      [
-       [
-        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home)",
-        "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w"
-       ],
-       "28.900.000",
-       5.1
       ]
      ]
     }
@@ -1086,8 +1090,8 @@
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)",
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)",
+    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
    ]
   },
   {
