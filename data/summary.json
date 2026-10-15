@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T15:52:21+00:00",
+ "generated_at": "2026-10-15T18:59:29+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38761453246"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38784802383"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38761684395"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38786623483"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38760512753"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38784588490"
        ],
        41,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38757177466"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38787255322"
        ],
-       27,
+       28,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38760573669"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38784716688"
        ],
        41,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38756668108"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38785404908"
        ],
        34,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38733599401"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38784319035"
        ],
        8,
        0,
@@ -130,7 +130,7 @@
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/41 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/27 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/41 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -179,6 +179,10 @@
         [
          "2026-10-15",
          143300000
+        ],
+        [
+         "2026-10-16",
+         143300000
         ]
        ]
       },
@@ -212,6 +216,10 @@
         [
          "2026-10-15",
          143300000
+        ],
+        [
+         "2026-10-16",
+         143300000
         ]
        ]
       },
@@ -244,6 +252,10 @@
         ],
         [
          "2026-10-15",
+         143300000
+        ],
+        [
+         "2026-10-16",
          143300000
         ]
        ]
@@ -297,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-15 22:28",
+   "as_of": "2026-10-16 01:20",
    "blocks": [
     {
      "type": "tiles",
@@ -332,6 +344,10 @@
         [
          "2026-10-15",
          25890.2
+        ],
+        [
+         "2026-10-16",
+         25890.2
         ]
        ]
       },
@@ -363,6 +379,10 @@
         ],
         [
          "2026-10-15",
+         28946.2
+        ],
+        [
+         "2026-10-16",
          28946.2
         ]
        ]
@@ -396,6 +416,10 @@
         [
          "2026-10-15",
          163.55
+        ],
+        [
+         "2026-10-16",
+         163.55
         ]
        ]
       },
@@ -427,6 +451,10 @@
         ],
         [
          "2026-10-15",
+         3860.47
+        ],
+        [
+         "2026-10-16",
          3860.47
         ]
        ]
@@ -460,6 +488,10 @@
         [
          "2026-10-15",
          19.32
+        ],
+        [
+         "2026-10-16",
+         19.32
         ]
        ]
       },
@@ -491,6 +523,10 @@
         ],
         [
          "2026-10-15",
+         34238.83
+        ],
+        [
+         "2026-10-16",
          34238.83
         ]
        ]
@@ -524,6 +560,10 @@
         [
          "2026-10-15",
          20178.56
+        ],
+        [
+         "2026-10-16",
+         20178.56
         ]
        ]
       },
@@ -555,6 +595,10 @@
         ],
         [
          "2026-10-15",
+         18066.87
+        ],
+        [
+         "2026-10-16",
          18066.87
         ]
        ]
@@ -1146,11 +1190,11 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
+        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
-       "64.699.000",
-       7.8
+       "7.999.000",
+       5.3
       ]
      ]
     }
@@ -1166,7 +1210,7 @@
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
+    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
    ]
   },
   {
