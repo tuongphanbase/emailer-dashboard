@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T21:49:22+00:00",
+ "generated_at": "2026-10-15T00:59:05+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38639759094"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38659098624"
        ],
        38,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38640727514"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38661123281"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38639214604"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38658657646"
        ],
        42,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38636779803"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38660822656"
        ],
        28,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38639252083"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38658687780"
        ],
        42,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38640175109"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38659553311"
        ],
        36,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38614024826"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38658514910"
        ],
        8,
        0,
@@ -297,7 +297,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-15 04:18",
+   "as_of": "2026-10-15 07:12",
    "blocks": [
     {
      "type": "tiles",
@@ -305,8 +305,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25897.09,
-       "change_pct": 0.0,
+       "value": 25890.2,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -331,14 +331,14 @@
         ],
         [
          "2026-10-15",
-         25897.09
+         25890.2
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28986.43,
-       "change_pct": 0.19,
+       "value": 28946.2,
+       "change_pct": 0.06,
        "period": "24h",
        "points": [
         [
@@ -363,14 +363,14 @@
         ],
         [
          "2026-10-15",
-         28986.43
+         28946.2
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.59,
-       "change_pct": 0.15,
+       "value": 163.55,
+       "change_pct": 0.12,
        "period": "24h",
        "points": [
         [
@@ -395,14 +395,14 @@
         ],
         [
          "2026-10-15",
-         163.59
+         163.55
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3862.34,
-       "change_pct": 0.01,
+       "value": 3860.47,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -427,14 +427,14 @@
         ],
         [
          "2026-10-15",
-         3862.34
+         3860.47
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.31,
-       "change_pct": -0.53,
+       "value": 19.32,
+       "change_pct": -0.48,
        "period": "24h",
        "points": [
         [
@@ -459,14 +459,14 @@
         ],
         [
          "2026-10-15",
-         19.31
+         19.32
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34313.46,
-       "change_pct": 0.25,
+       "value": 34238.83,
+       "change_pct": 0.03,
        "period": "24h",
        "points": [
         [
@@ -491,14 +491,14 @@
         ],
         [
          "2026-10-15",
-         34313.46
+         34238.83
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20234.64,
-       "change_pct": 0.07,
+       "value": 20178.56,
+       "change_pct": -0.2,
        "period": "24h",
        "points": [
         [
@@ -523,14 +523,14 @@
         ],
         [
          "2026-10-15",
-         20234.64
+         20178.56
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18074.35,
-       "change_pct": 0.26,
+       "value": 18066.87,
+       "change_pct": 0.22,
        "period": "24h",
        "points": [
         [
@@ -555,7 +555,7 @@
         ],
         [
          "2026-10-15",
-         18074.35
+         18066.87
         ]
        ]
       }
@@ -563,14 +563,14 @@
     }
    ],
    "text": [
-    "USD: 25,897.09 (+0.0%)",
-    "EUR: 28,986.43 (+0.19%)",
-    "JPY: 163.59 (+0.15%)",
-    "CNY: 3,862.34 (+0.01%)",
-    "KRW: 19.31 (-0.53%)",
-    "GBP: 34,313.46 (+0.25%)",
-    "SGD: 20,234.64 (+0.07%)",
-    "AUD: 18,074.35 (+0.26%)"
+    "USD: 25,890.2 (-0.03%)",
+    "EUR: 28,946.2 (+0.06%)",
+    "JPY: 163.55 (+0.12%)",
+    "CNY: 3,860.47 (-0.04%)",
+    "KRW: 19.32 (-0.48%)",
+    "GBP: 34,238.83 (+0.03%)",
+    "SGD: 20,178.56 (-0.2%)",
+    "AUD: 18,066.87 (+0.22%)"
    ]
   },
   {
@@ -1031,6 +1031,22 @@
       ],
       [
        [
+        "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY",
+        "https://hoanghapc.vn/ram-ddr5-teamgroup-t-force-delta-rgb-64gb-5600mhz-tray"
+       ],
+       "27.000.000",
+       -10.0
+      ],
+      [
+       [
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
+       ],
+       "550.000.000",
+       -6.8
+      ],
+      [
+       [
         "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA",
         "https://memoryzone.com.vn/hdd-toshiba-s300-surveillance-2tb-3-5-inch-sata-iii-128mb-cache-5400rpm-hdwt720uzsva"
        ],
@@ -1039,27 +1055,11 @@
       ],
       [
        [
-        "Nguồn máy tính MSI MAG A1000GL PCIE5 1000W 80 Plus Gold MAG-A1000GL-PCIE5",
-        "https://memoryzone.com.vn/nguon-may-tinh-msi-mag-a1000gl-pcie5-1000w-80-plus-gold-mag-a1000gl-pcie5"
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell"
        ],
-       "3.200.000",
-       -4.5
-      ],
-      [
-       [
-        "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
-        "https://hacom.vn/laptop-asus-vivobook-e1404fa-eb935w-ltau1082"
-       ],
-       "20.490.000",
-       -2.4
-      ],
-      [
-       [
-        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
-        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
-       ],
-       "2.790.000",
-       -2.1
+       "555.000.000",
+       -5.9
       ]
      ]
     },
@@ -1115,11 +1115,11 @@
       ],
       [
        [
-        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "7.999.000",
-       5.3
+       "64.699.000",
+       7.8
       ]
      ]
     }
@@ -1127,15 +1127,15 @@
    "empty_text": null,
    "text": [
     "Laptop Asus Gaming V3607VJ-TK189W (Core 5 210H/ 16GB RAM D5/ 512B SSD/ 16 WUXGA 144hz/ RTX 3050 6GB/ W6/ BT/ Win11H/ Đen): 32.990.000 (-19.5%)",
+    "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA: 3.350.000 (-6.7%)",
-    "Nguồn máy tính MSI MAG A1000GL PCIE5 1000W 80 Plus Gold MAG-A1000GL-PCIE5: 3.200.000 (-4.5%)",
-    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 20.490.000 (-2.4%)",
-    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.790.000 (-2.1%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 555.000.000 (-5.9%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
    ]
   },
   {
@@ -1180,7 +1180,7 @@
        35990000,
        "24hStore",
        5,
-       null
+       -2.07
       ],
       [
        [
@@ -1190,7 +1190,7 @@
        24990000,
        "MediaMart",
        4,
-       null
+       0.0
       ],
       [
        [
@@ -1200,7 +1200,7 @@
        33490000,
        "MediaMart",
        4,
-       null
+       0.0
       ],
       [
        [
@@ -1210,7 +1210,7 @@
        39490000,
        "24hStore",
        4,
-       null
+       0.0
       ],
       [
        [
@@ -1220,7 +1220,7 @@
        33490000,
        "ShopDunk",
        3,
-       null
+       -0.89
       ],
       [
        [
@@ -1230,7 +1230,7 @@
        64990000,
        "Điện Máy Xanh",
        3,
-       null
+       0.0
       ],
       [
        [
@@ -1240,7 +1240,7 @@
        9050000,
        "Clickbuy",
        3,
-       null
+       0.0
       ],
       [
        [
@@ -1250,7 +1250,7 @@
        10190000,
        "Clickbuy",
        3,
-       null
+       -0.97
       ],
       [
        [
@@ -1260,7 +1260,7 @@
        15990000,
        "Điện Máy Xanh",
        3,
-       null
+       0.0
       ],
       [
        [
@@ -1270,7 +1270,7 @@
        11290000,
        "CellphoneS",
        3,
-       null
+       0.0
       ]
      ]
     }
