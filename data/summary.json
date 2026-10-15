@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T03:51:50+00:00",
+ "generated_at": "2026-10-15T07:05:22+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38675908459"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38692171501"
        ],
        38,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38663446106"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38678836034"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38676558453"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38693536078"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38675575125"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38691698375"
        ],
        42,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38673956197"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38693287820"
        ],
        27,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38675635480"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38691709461"
        ],
        42,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38676426532"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38692736527"
        ],
        36,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38658514910"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38691550089"
        ],
        8,
        0,
@@ -297,7 +297,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-15 10:19",
+   "as_of": "2026-10-15 13:19",
    "blocks": [
     {
      "type": "tiles",
@@ -578,7 +578,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-15 10:18",
+   "as_of": "2026-10-15 13:19",
    "blocks": [
     {
      "type": "tiles",
@@ -586,8 +586,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 219000.0,
-       "change_pct": -0.45,
+       "value": 219500.0,
+       "change_pct": -0.18,
        "period": "24h",
        "points": [
         [
@@ -616,14 +616,14 @@
         ],
         [
          "2026-10-15",
-         219000.0
+         219500.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 59400.0,
-       "change_pct": -6.75,
+       "value": 60400.0,
+       "change_pct": -4.88,
        "period": "24h",
        "points": [
         [
@@ -652,13 +652,13 @@
         ],
         [
          "2026-10-15",
-         59400.0
+         60400.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56600.0,
+       "value": 56800.0,
        "change_pct": 0.71,
        "period": "24h",
        "points": [
@@ -688,14 +688,14 @@
         ],
         [
          "2026-10-15",
-         56600.0
+         56800.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33100.0,
-       "change_pct": -0.75,
+       "value": 33450.0,
+       "change_pct": 0.45,
        "period": "24h",
        "points": [
         [
@@ -724,14 +724,14 @@
         ],
         [
          "2026-10-15",
-         33100.0
+         33450.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 32700.0,
-       "change_pct": -1.21,
+       "value": 32750.0,
+       "change_pct": -0.3,
        "period": "24h",
        "points": [
         [
@@ -760,14 +760,14 @@
         ],
         [
          "2026-10-15",
-         32700.0
+         32750.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 29650.0,
-       "change_pct": 0.68,
+       "value": 29950.0,
+       "change_pct": 1.53,
        "period": "24h",
        "points": [
         [
@@ -796,14 +796,14 @@
         ],
         [
          "2026-10-15",
-         29650.0
+         29950.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24400.0,
-       "change_pct": -0.2,
+       "value": 24500.0,
+       "change_pct": 1.03,
        "period": "24h",
        "points": [
         [
@@ -832,14 +832,14 @@
         ],
         [
          "2026-10-15",
-         24400.0
+         24500.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 77000.0,
-       "change_pct": -1.91,
+       "value": 76100.0,
+       "change_pct": -2.19,
        "period": "24h",
        "points": [
         [
@@ -868,7 +868,7 @@
         ],
         [
          "2026-10-15",
-         77000.0
+         76100.0
         ]
        ]
       }
@@ -893,42 +893,42 @@
      ],
      "rows": [
       [
+       "VSF",
+       29200.0,
+       11.03
+      ],
+      [
        "CSV",
        23700.0,
-       8.97
+       8.47
       ],
       [
-       "KOS",
-       7760.0,
-       -6.95
+       "FTS",
+       18850.0,
+       8.33
       ],
       [
-       "QCG",
-       11000.0,
-       6.8
-      ],
-      [
-       "VHM",
-       59400.0,
-       -6.75
+       "CTS",
+       20450.0,
+       7.35
       ],
       [
        "NKG",
-       10400.0,
-       6.34
+       10600.0,
+       7.29
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 219,000.0 (-0.45%)",
-    "VHM: 59,400.0 (-6.75%)",
-    "VCB: 56,600.0 (+0.71%)",
-    "BID: 33,100.0 (-0.75%)",
-    "TCB: 32,700.0 (-1.21%)",
-    "CTG: 29,650.0 (+0.68%)",
-    "VPB: 24,400.0 (-0.2%)",
-    "GAS: 77,000.0 (-1.91%)"
+    "VIC: 219,500.0 (-0.18%)",
+    "VHM: 60,400.0 (-4.88%)",
+    "VCB: 56,800.0 (+0.71%)",
+    "BID: 33,450.0 (+0.45%)",
+    "TCB: 32,750.0 (-0.3%)",
+    "CTG: 29,950.0 (+1.53%)",
+    "VPB: 24,500.0 (+1.03%)",
+    "GAS: 76,100.0 (-2.19%)"
    ],
    "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: PRT"
   },
@@ -1147,11 +1147,11 @@
       ],
       [
        [
-        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "7.999.000",
-       5.3
+       "64.699.000",
+       7.8
       ]
      ]
     }
@@ -1167,7 +1167,7 @@
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
    ]
   },
   {
