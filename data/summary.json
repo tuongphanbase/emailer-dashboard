@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T13:04:32+00:00",
+ "generated_at": "2026-10-15T15:52:21+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38735697475"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38761453246"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38736151883"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38761684395"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38664761364"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38742264238"
        ],
        4,
        0,
@@ -70,16 +70,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38733993709"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38760512753"
        ],
-       42,
+       41,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38731499336"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38757177466"
        ],
        27,
        0,
@@ -88,18 +88,18 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38733947292"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38760573669"
        ],
-       42,
+       41,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38731574869"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38756668108"
        ],
-       35,
+       34,
        0,
        "✅ bình thường"
       ],
@@ -129,10 +129,10 @@
     "gold-price-emailer: ✅ bình thường (0/39 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/42 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/41 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/27 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/42 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/35 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/41 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -297,7 +297,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-15 19:21",
+   "as_of": "2026-10-15 22:28",
    "blocks": [
     {
      "type": "tiles",
@@ -1174,7 +1174,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-15 01:21",
+   "as_of": "2026-10-15 13:28",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -1205,16 +1205,6 @@
      "rows": [
       [
        [
-        "Apple iPhone 18 Pro 256GB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
-       ],
-       35990000,
-       "24hStore",
-       5,
-       -2.07
-      ],
-      [
-       [
         "Apple iPad Pro M5 11 256GB",
         "https://shopdunk.com/ipad-pro-m5-11-inch-wi-fi"
        ],
@@ -1225,33 +1215,13 @@
       ],
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28313"
+        "Apple iPhone 18 Pro 256GB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
-       24990000,
-       "MediaMart",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33490000,
-       "MediaMart",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro Max 256GB",
-        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
-       ],
-       39490000,
+       35990000,
        "24hStore",
        4,
-       0.0
+       -2.07
       ],
       [
        [
@@ -1265,23 +1235,53 @@
       ],
       [
        [
-        "Apple iPhone Duo 256GB",
-        "https://www.dienmayxanh.com/dien-thoai/iphone-duo"
+        "Apple iPad Air M4 11 128GB",
+        "https://hoanghamobile.com/may-tinh-bang/ipad-air-m4"
        ],
-       64990000,
-       "Điện Máy Xanh",
+       18990000,
+       "Hoàng Hà Mobile",
+       3,
+       null
+      ],
+      [
+       [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28313"
+       ],
+       24990000,
+       "MediaMart",
        3,
        0.0
       ],
       [
        [
-        "Samsung Galaxy A37 128GB",
-        "https://clickbuy.com.vn/samsung-galaxy-a37-5g.html"
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
        ],
-       9050000,
-       "Clickbuy",
+       33490000,
+       "MediaMart",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro Max 256GB",
+        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
+       ],
+       39490000,
+       "24hStore",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Samsung Galaxy A57 128GB",
+        "https://clickbuy.com.vn/samsung-galaxy-a57-5g.html"
+       ],
+       10190000,
+       "Clickbuy",
+       3,
+       -0.97
       ],
       [
        [
@@ -1298,25 +1298,25 @@
         "Samsung Galaxy Tab S10 Lite 128GB",
         "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-lite-wifi.html"
        ],
-       8890000,
+       8490000,
        "CellphoneS",
        3,
-       -1.11
+       -5.56
       ]
      ]
     }
    ],
    "text": [
-    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
     "Apple iPad Pro M5 11 256GB: 33,490,000 (ShopDunk)",
+    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
+    "Samsung Galaxy Tab S10 FE 128GB: 11,290,000 (CellphoneS)",
+    "Apple iPad Air M4 11 128GB: 18,990,000 (Hoàng Hà Mobile)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Samsung Galaxy Tab S10 FE 128GB: 11,290,000 (CellphoneS)",
-    "Apple iPhone Duo 256GB: 64,990,000 (Điện Máy Xanh)",
-    "Samsung Galaxy A37 128GB: 9,050,000 (Clickbuy)",
+    "Samsung Galaxy A57 128GB: 10,190,000 (Clickbuy)",
     "Samsung Galaxy Tab A11 64GB: 3,590,000 (CellphoneS)",
-    "Samsung Galaxy Tab S10 Lite 128GB: 8,890,000 (CellphoneS)"
+    "Samsung Galaxy Tab S10 Lite 128GB: 8,490,000 (CellphoneS)"
    ]
   }
  ]
