@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T00:59:05+00:00",
+ "generated_at": "2026-10-15T01:14:01+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,19 +33,19 @@
      "rows": [
       [
        [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38493764842"
+        "gold-price-emailer",
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38663717556"
        ],
-       16,
-       1,
-       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:05 14/10"
+       38,
+       0,
+       "✅ bình thường"
       ],
       [
        [
-        "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38659098624"
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38663446106"
        ],
-       38,
+       16,
        0,
        "✅ bình thường"
       ],
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38658657646"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38663604934"
        ],
        42,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38658687780"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38663620409"
        ],
        42,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38659553311"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38663849130"
        ],
        36,
        0,
@@ -125,8 +125,8 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:05 14/10 (1/16 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/38 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/42 lỗi)",
@@ -297,7 +297,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-15 07:12",
+   "as_of": "2026-10-15 08:04",
    "blocks": [
     {
      "type": "tiles",
@@ -338,7 +338,7 @@
       {
        "label": "EUR",
        "value": 28946.2,
-       "change_pct": 0.06,
+       "change_pct": -0.14,
        "period": "24h",
        "points": [
         [
@@ -370,7 +370,7 @@
       {
        "label": "JPY",
        "value": 163.55,
-       "change_pct": 0.12,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -402,7 +402,7 @@
       {
        "label": "CNY",
        "value": 3860.47,
-       "change_pct": -0.04,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -434,7 +434,7 @@
       {
        "label": "KRW",
        "value": 19.32,
-       "change_pct": -0.48,
+       "change_pct": 0.05,
        "period": "24h",
        "points": [
         [
@@ -466,7 +466,7 @@
       {
        "label": "GBP",
        "value": 34238.83,
-       "change_pct": 0.03,
+       "change_pct": -0.22,
        "period": "24h",
        "points": [
         [
@@ -498,7 +498,7 @@
       {
        "label": "SGD",
        "value": 20178.56,
-       "change_pct": -0.2,
+       "change_pct": -0.28,
        "period": "24h",
        "points": [
         [
@@ -530,7 +530,7 @@
       {
        "label": "AUD",
        "value": 18066.87,
-       "change_pct": 0.22,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -564,13 +564,13 @@
    ],
    "text": [
     "USD: 25,890.2 (-0.03%)",
-    "EUR: 28,946.2 (+0.06%)",
-    "JPY: 163.55 (+0.12%)",
-    "CNY: 3,860.47 (-0.04%)",
-    "KRW: 19.32 (-0.48%)",
-    "GBP: 34,238.83 (+0.03%)",
-    "SGD: 20,178.56 (-0.2%)",
-    "AUD: 18,066.87 (+0.22%)"
+    "EUR: 28,946.2 (-0.14%)",
+    "JPY: 163.55 (-0.03%)",
+    "CNY: 3,860.47 (-0.05%)",
+    "KRW: 19.32 (+0.05%)",
+    "GBP: 34,238.83 (-0.22%)",
+    "SGD: 20,178.56 (-0.28%)",
+    "AUD: 18,066.87 (-0.04%)"
    ]
   },
   {
@@ -1115,11 +1115,11 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
+        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
        ],
-       "64.699.000",
-       7.8
+       "7.999.000",
+       5.3
       ]
      ]
     }
@@ -1135,7 +1135,7 @@
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
+    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 7.999.000 (+5.3%)"
    ]
   },
   {
