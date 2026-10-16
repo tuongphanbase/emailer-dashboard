@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T03:51:23+00:00",
+ "generated_at": "2026-10-16T07:04:36+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38845194807"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38861111730"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38845800397"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38862145454"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38844891840"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38860477700"
        ],
        41,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38843311403"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38862577593"
        ],
        28,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38844870254"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38860494723"
        ],
        41,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38845754991"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38858755513"
        ],
-       35,
+       34,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38827844013"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38860364228"
        ],
        8,
        0,
@@ -132,7 +132,7 @@
     "vn-stock-price-emailer: ✅ bình thường (0/41 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/41 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/35 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -309,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-16 10:18",
+   "as_of": "2026-10-16 13:19",
    "blocks": [
     {
      "type": "tiles",
@@ -622,7 +622,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-16 10:19",
+   "as_of": "2026-10-16 13:18",
    "blocks": [
     {
      "type": "tiles",
@@ -630,8 +630,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 218300.0,
-       "change_pct": -0.32,
+       "value": 217000.0,
+       "change_pct": -1.27,
        "period": "24h",
        "points": [
         [
@@ -664,14 +664,14 @@
         ],
         [
          "2026-10-16",
-         218300.0
+         217000.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 61200.0,
-       "change_pct": 3.03,
+       "value": 60300.0,
+       "change_pct": 0.17,
        "period": "24h",
        "points": [
         [
@@ -704,14 +704,14 @@
         ],
         [
          "2026-10-16",
-         61200.0
+         60300.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56900.0,
-       "change_pct": 0.53,
+       "value": 57000.0,
+       "change_pct": 0.35,
        "period": "24h",
        "points": [
         [
@@ -744,14 +744,14 @@
         ],
         [
          "2026-10-16",
-         56900.0
+         57000.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33650.0,
-       "change_pct": 1.66,
+       "value": 33700.0,
+       "change_pct": 1.2,
        "period": "24h",
        "points": [
         [
@@ -784,14 +784,14 @@
         ],
         [
          "2026-10-16",
-         33650.0
+         33700.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 32850.0,
-       "change_pct": 0.0,
+       "value": 33000.0,
+       "change_pct": 0.61,
        "period": "24h",
        "points": [
         [
@@ -824,14 +824,14 @@
         ],
         [
          "2026-10-16",
-         32850.0
+         33000.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30100.0,
-       "change_pct": 1.52,
+       "value": 30200.0,
+       "change_pct": 0.83,
        "period": "24h",
        "points": [
         [
@@ -864,14 +864,14 @@
         ],
         [
          "2026-10-16",
-         30100.0
+         30200.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24450.0,
-       "change_pct": 0.41,
+       "value": 24400.0,
+       "change_pct": -0.41,
        "period": "24h",
        "points": [
         [
@@ -901,13 +901,17 @@
         [
          "2026-10-15",
          24450.0
+        ],
+        [
+         "2026-10-16",
+         24400.0
         ]
        ]
       },
       {
        "label": "GAS",
        "value": 76800.0,
-       "change_pct": -1.16,
+       "change_pct": 0.92,
        "period": "24h",
        "points": [
         [
@@ -965,42 +969,42 @@
      ],
      "rows": [
       [
-       "AVC",
-       35000.0,
-       -11.17
-      ],
-      [
-       "VSF",
-       29200.0,
-       10.61
-      ],
-      [
        "PGS",
        84000.0,
        9.66
       ],
       [
-       "THD",
-       100800.0,
-       -9.19
+       "KOS",
+       7220.0,
+       -6.96
       ],
       [
-       "BSI",
-       26150.0,
-       8.96
+       "DCL",
+       50000.0,
+       6.95
+      ],
+      [
+       "SJS",
+       57400.0,
+       6.89
+      ],
+      [
+       "F88",
+       54500.0,
+       -6.68
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 218,300.0 (-0.32%)",
-    "VHM: 61,200.0 (+3.03%)",
-    "VCB: 56,900.0 (+0.53%)",
-    "BID: 33,650.0 (+1.66%)",
-    "TCB: 32,850.0 (+0.0%)",
-    "CTG: 30,100.0 (+1.52%)",
-    "VPB: 24,450.0 (+0.41%)",
-    "GAS: 76,800.0 (-1.16%)"
+    "VIC: 217,000.0 (-1.27%)",
+    "VHM: 60,300.0 (+0.17%)",
+    "VCB: 57,000.0 (+0.35%)",
+    "BID: 33,700.0 (+1.2%)",
+    "TCB: 33,000.0 (+0.61%)",
+    "CTG: 30,200.0 (+0.83%)",
+    "VPB: 24,400.0 (-0.41%)",
+    "GAS: 76,800.0 (+0.92%)"
    ]
   },
   {
@@ -1126,14 +1130,6 @@
      "rows": [
       [
        [
-        "Laptop Asus Gaming V3607VJ-TK189W (Core 5 210H/ 16GB RAM D5/ 512B SSD/ 16 WUXGA 144hz/ RTX 3050 6GB/ W6/ BT/ Win11H/ Đen)",
-        "https://hacom.vn/laptop-asus-gaming-v3607vj-tk189w-ltau1102"
-       ],
-       "32.990.000",
-       -19.5
-      ],
-      [
-       [
         "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen)",
         "https://www.anphatpc.com.vn/laptop-asus-gaming-v16-v3607vj-tk189w.html"
        ],
@@ -1163,6 +1159,14 @@
        ],
        "82.990.000",
        -7.8
+      ],
+      [
+       [
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
+       ],
+       "550.000.000",
+       -6.8
       ]
      ]
     },
@@ -1218,27 +1222,27 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home)",
+        "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w"
        ],
-       "64.699.000",
-       7.8
+       "28.900.000",
+       5.1
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Laptop Asus Gaming V3607VJ-TK189W (Core 5 210H/ 16GB RAM D5/ 512B SSD/ 16 WUXGA 144hz/ RTX 3050 6GB/ W6/ BT/ Win11H/ Đen): 32.990.000 (-19.5%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 26.999.000 (-18.2%)",
     "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
    ]
   },
   {
