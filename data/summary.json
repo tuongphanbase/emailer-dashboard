@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T00:58:49+00:00",
+ "generated_at": "2026-10-16T01:12:58+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38696994977"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38832893931"
        ],
        16,
-       1,
-       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 14:10 15/10"
+       2,
+       "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:02 16/10"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38828410057"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38833133783"
        ],
        39,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38827989346"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38833020828"
        ],
        41,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38827983891"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38833025574"
        ],
        41,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38828828457"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38833222293"
        ],
        35,
        0,
@@ -125,7 +125,7 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 14:10 15/10 (1/16 lỗi)",
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:02 16/10 (2/16 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/39 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
@@ -309,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-16 07:10",
+   "as_of": "2026-10-16 08:03",
    "blocks": [
     {
      "type": "tiles",
@@ -317,8 +317,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25890.2,
-       "change_pct": -0.03,
+       "value": 25856.49,
+       "change_pct": -0.13,
        "period": "24h",
        "points": [
         [
@@ -347,14 +347,14 @@
         ],
         [
          "2026-10-16",
-         25890.2
+         25856.49
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28946.2,
-       "change_pct": -0.14,
+       "value": 28998.47,
+       "change_pct": 0.18,
        "period": "24h",
        "points": [
         [
@@ -383,14 +383,14 @@
         ],
         [
          "2026-10-16",
-         28946.2
+         28998.47
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.55,
-       "change_pct": -0.03,
+       "value": 163.56,
+       "change_pct": 0.01,
        "period": "24h",
        "points": [
         [
@@ -419,14 +419,14 @@
         ],
         [
          "2026-10-16",
-         163.55
+         163.56
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3860.47,
-       "change_pct": -0.05,
+       "value": 3857.46,
+       "change_pct": -0.08,
        "period": "24h",
        "points": [
         [
@@ -455,14 +455,14 @@
         ],
         [
          "2026-10-16",
-         3860.47
+         3857.46
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.32,
-       "change_pct": 0.05,
+       "value": 19.26,
+       "change_pct": -0.35,
        "period": "24h",
        "points": [
         [
@@ -491,14 +491,14 @@
         ],
         [
          "2026-10-16",
-         19.32
+         19.26
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34238.83,
-       "change_pct": -0.22,
+       "value": 34290.01,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -527,14 +527,14 @@
         ],
         [
          "2026-10-16",
-         34238.83
+         34290.01
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20178.56,
-       "change_pct": -0.28,
+       "value": 20163.55,
+       "change_pct": -0.07,
        "period": "24h",
        "points": [
         [
@@ -563,14 +563,14 @@
         ],
         [
          "2026-10-16",
-         20178.56
+         20163.55
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18066.87,
-       "change_pct": -0.04,
+       "value": 17881.14,
+       "change_pct": -1.03,
        "period": "24h",
        "points": [
         [
@@ -599,7 +599,7 @@
         ],
         [
          "2026-10-16",
-         18066.87
+         17881.14
         ]
        ]
       }
@@ -607,14 +607,14 @@
     }
    ],
    "text": [
-    "USD: 25,890.2 (-0.03%)",
-    "EUR: 28,946.2 (-0.14%)",
-    "JPY: 163.55 (-0.03%)",
-    "CNY: 3,860.47 (-0.05%)",
-    "KRW: 19.32 (+0.05%)",
-    "GBP: 34,238.83 (-0.22%)",
-    "SGD: 20,178.56 (-0.28%)",
-    "AUD: 18,066.87 (-0.04%)"
+    "USD: 25,856.49 (-0.13%)",
+    "EUR: 28,998.47 (+0.18%)",
+    "JPY: 163.56 (+0.01%)",
+    "CNY: 3,857.46 (-0.08%)",
+    "KRW: 19.26 (-0.35%)",
+    "GBP: 34,290.01 (+0.15%)",
+    "SGD: 20,163.55 (-0.07%)",
+    "AUD: 17,881.14 (-1.03%)"
    ]
   },
   {
@@ -1190,11 +1190,11 @@
       ],
       [
        [
-        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home)",
-        "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "28.900.000",
-       5.1
+       "64.699.000",
+       7.8
       ]
      ]
     }
@@ -1210,7 +1210,7 @@
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
     "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 64.699.000 (+7.8%)"
    ]
   },
   {
