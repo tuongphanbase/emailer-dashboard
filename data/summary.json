@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T21:48:45+00:00",
+ "generated_at": "2026-10-16T00:58:49+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38809535039"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38828410057"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38810526910"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38830535917"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38809053798"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38827989346"
        ],
        41,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38806455833"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38830189131"
        ],
        28,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38809051015"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38827983891"
        ],
        41,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38810062012"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38828828457"
        ],
        35,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38784319035"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38827844013"
        ],
        8,
        0,
@@ -309,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-16 04:20",
+   "as_of": "2026-10-16 07:10",
    "blocks": [
     {
      "type": "tiles",
@@ -1114,6 +1114,14 @@
       ],
       [
        [
+        "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY",
+        "https://hoanghapc.vn/ram-ddr5-teamgroup-t-force-delta-rgb-64gb-5600mhz-tray"
+       ],
+       "27.000.000",
+       -10.0
+      ],
+      [
+       [
         "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
         "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
        ],
@@ -1127,14 +1135,6 @@
        ],
        "82.990.000",
        -7.8
-      ],
-      [
-       [
-        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
-        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
-       ],
-       "550.000.000",
-       -6.8
       ]
      ]
     },
@@ -1203,9 +1203,9 @@
    "text": [
     "Laptop Asus Gaming V3607VJ-TK189W (Core 5 210H/ 16GB RAM D5/ 512B SSD/ 16 WUXGA 144hz/ RTX 3050 6GB/ W6/ BT/ Win11H/ Đen): 32.990.000 (-19.5%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 26.999.000 (-18.2%)",
+    "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
-    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
@@ -1275,7 +1275,7 @@
        11290000,
        "CellphoneS",
        4,
-       0.0
+       5.51
       ],
       [
        [
@@ -1285,7 +1285,7 @@
        18990000,
        "Hoàng Hà Mobile",
        3,
-       null
+       0.53
       ],
       [
        [
@@ -1335,7 +1335,7 @@
        3590000,
        "CellphoneS",
        3,
-       0.0
+       2.87
       ],
       [
        [
@@ -1345,7 +1345,7 @@
        8490000,
        "CellphoneS",
        3,
-       -5.56
+       0.0
       ]
      ]
     }
