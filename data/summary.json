@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T07:04:36+00:00",
+ "generated_at": "2026-10-16T09:50:24+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -37,13 +37,13 @@
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38832893931"
        ],
        16,
-       2,
+       1,
        "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:02 16/10"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38861111730"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38877436291"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38862145454"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38881080051"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38860477700"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38877579701"
        ],
        41,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38862577593"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38878314996"
        ],
        28,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38860494723"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38877633024"
        ],
        41,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38858755513"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38877641442"
        ],
        34,
        0,
@@ -125,7 +125,7 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:02 16/10 (2/16 lỗi)",
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 08:02 16/10 (1/16 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/39 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
@@ -182,7 +182,7 @@
         ],
         [
          "2026-10-16",
-         143300000
+         143900000
         ]
        ]
       },
@@ -219,7 +219,7 @@
         ],
         [
          "2026-10-16",
-         143300000
+         143900000
         ]
        ]
       },
@@ -282,13 +282,13 @@
      "rows": [
       [
        "SJC",
-       143300000,
-       0.0
+       143900000,
+       0.42
       ],
       [
        "PNJ",
-       143300000,
-       0.0
+       143900000,
+       0.42
       ],
       [
        "DOJI",
@@ -299,8 +299,8 @@
     }
    ],
    "text": [
-    "SJC: 143,300,000 VND",
-    "PNJ: 143,300,000 VND",
+    "SJC: 143,900,000 VND",
+    "PNJ: 143,900,000 VND",
     "DOJI: 143,300,000 VND"
    ]
   },
@@ -309,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-16 13:19",
+   "as_of": "2026-10-16 16:01",
    "blocks": [
     {
      "type": "tiles",
@@ -622,7 +622,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-16 13:18",
+   "as_of": "2026-10-16 15:27",
    "blocks": [
     {
      "type": "tiles",
@@ -630,8 +630,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 217000.0,
-       "change_pct": -1.27,
+       "value": 215000.0,
+       "change_pct": -1.06,
        "period": "24h",
        "points": [
         [
@@ -664,14 +664,14 @@
         ],
         [
          "2026-10-16",
-         217000.0
+         215000.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 60300.0,
-       "change_pct": 0.17,
+       "value": 61000.0,
+       "change_pct": 3.04,
        "period": "24h",
        "points": [
         [
@@ -704,14 +704,14 @@
         ],
         [
          "2026-10-16",
-         60300.0
+         61000.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 57000.0,
-       "change_pct": 0.35,
+       "value": 56900.0,
+       "change_pct": 0.18,
        "period": "24h",
        "points": [
         [
@@ -744,14 +744,14 @@
         ],
         [
          "2026-10-16",
-         57000.0
+         56900.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33700.0,
-       "change_pct": 1.2,
+       "value": 33950.0,
+       "change_pct": 1.8,
        "period": "24h",
        "points": [
         [
@@ -784,14 +784,14 @@
         ],
         [
          "2026-10-16",
-         33700.0
+         33950.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 33000.0,
-       "change_pct": 0.61,
+       "value": 33200.0,
+       "change_pct": 1.53,
        "period": "24h",
        "points": [
         [
@@ -824,14 +824,14 @@
         ],
         [
          "2026-10-16",
-         33000.0
+         33200.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30200.0,
-       "change_pct": 0.83,
+       "value": 30600.0,
+       "change_pct": 2.86,
        "period": "24h",
        "points": [
         [
@@ -864,14 +864,14 @@
         ],
         [
          "2026-10-16",
-         30200.0
+         30600.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24400.0,
-       "change_pct": -0.41,
+       "value": 24500.0,
+       "change_pct": 0.82,
        "period": "24h",
        "points": [
         [
@@ -904,14 +904,14 @@
         ],
         [
          "2026-10-16",
-         24400.0
+         24500.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 76800.0,
-       "change_pct": 0.92,
+       "value": 76100.0,
+       "change_pct": -0.26,
        "period": "24h",
        "points": [
         [
@@ -944,7 +944,7 @@
         ],
         [
          "2026-10-16",
-         76800.0
+         76100.0
         ]
        ]
       }
@@ -985,26 +985,26 @@
       ],
       [
        "SJS",
-       57400.0,
-       6.89
+       57100.0,
+       6.33
       ],
       [
-       "F88",
-       54500.0,
-       -6.68
+       "VIF",
+       15200.0,
+       6.29
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 217,000.0 (-1.27%)",
-    "VHM: 60,300.0 (+0.17%)",
-    "VCB: 57,000.0 (+0.35%)",
-    "BID: 33,700.0 (+1.2%)",
-    "TCB: 33,000.0 (+0.61%)",
-    "CTG: 30,200.0 (+0.83%)",
-    "VPB: 24,400.0 (-0.41%)",
-    "GAS: 76,800.0 (+0.92%)"
+    "VIC: 215,000.0 (-1.06%)",
+    "VHM: 61,000.0 (+3.04%)",
+    "VCB: 56,900.0 (+0.18%)",
+    "BID: 33,950.0 (+1.8%)",
+    "TCB: 33,200.0 (+1.53%)",
+    "CTG: 30,600.0 (+2.86%)",
+    "VPB: 24,500.0 (+0.82%)",
+    "GAS: 76,100.0 (-0.26%)"
    ]
   },
   {
@@ -1138,14 +1138,6 @@
       ],
       [
        [
-        "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY",
-        "https://hoanghapc.vn/ram-ddr5-teamgroup-t-force-delta-rgb-64gb-5600mhz-tray"
-       ],
-       "27.000.000",
-       -10.0
-      ],
-      [
-       [
         "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
         "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
        ],
@@ -1162,11 +1154,19 @@
       ],
       [
        [
-        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
-        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
+        "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA",
+        "https://memoryzone.com.vn/hdd-toshiba-s300-surveillance-2tb-3-5-inch-sata-iii-128mb-cache-5400rpm-hdwt720uzsva"
        ],
-       "550.000.000",
-       -6.8
+       "3.350.000",
+       -6.7
+      ],
+      [
+       [
+        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
+        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
+       ],
+       "2.690.000",
+       -5.6
       ]
      ]
     },
@@ -1188,6 +1188,14 @@
       }
      ],
      "rows": [
+      [
+       [
+        "Ổ cứng Seagate Barracuda 4TB ST4000DM004",
+        "https://www.anphatpc.com.vn/seagate-barracuda-4tb-7200rpm-64mb-cache-sata-60gbs-st4000dm000.html"
+       ],
+       "6.999.000",
+       38.6
+      ],
       [
        [
         "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
@@ -1219,14 +1227,6 @@
        ],
        "19.990.000",
        11.1
-      ],
-      [
-       [
-        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home)",
-        "https://memoryzone.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w"
-       ],
-       "28.900.000",
-       5.1
       ]
      ]
     }
@@ -1234,15 +1234,15 @@
    "empty_text": null,
    "text": [
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 26.999.000 (-18.2%)",
-    "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
-    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
+    "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA: 3.350.000 (-6.7%)",
+    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.690.000 (-5.6%)",
+    "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)",
-    "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)",
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (Ryzen 7 155, RTX 3050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11 Home): 28.900.000 (+5.1%)"
+    "Laptop Acer Aspire Lite 15 AL15-410P-R1W8 (Ryzen 5-3500U/ 8GB/ 512GB/ 15.6\" FHD IPS/ Win 11): 19.990.000 (+11.1%)"
    ]
   },
   {
