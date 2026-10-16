@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T01:12:58+00:00",
+ "generated_at": "2026-10-16T03:51:23+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38833133783"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38845194807"
        ],
        39,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38830535917"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38845800397"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38742264238"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/38834157220"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38833020828"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38844891840"
        ],
        41,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38830189131"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38843311403"
        ],
        28,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38833025574"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38844870254"
        ],
        41,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38833222293"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38845754991"
        ],
        35,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/38665908713"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/38835332216"
        ],
        2,
        0,
@@ -309,7 +309,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-16 08:03",
+   "as_of": "2026-10-16 10:18",
    "blocks": [
     {
      "type": "tiles",
@@ -622,7 +622,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-15 15:28",
+   "as_of": "2026-10-16 10:19",
    "blocks": [
     {
      "type": "tiles",
@@ -630,8 +630,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 218000.0,
-       "change_pct": -0.18,
+       "value": 218300.0,
+       "change_pct": -0.32,
        "period": "24h",
        "points": [
         [
@@ -661,13 +661,17 @@
         [
          "2026-10-15",
          218000.0
+        ],
+        [
+         "2026-10-16",
+         218300.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 58900.0,
-       "change_pct": -3.44,
+       "value": 61200.0,
+       "change_pct": 3.03,
        "period": "24h",
        "points": [
         [
@@ -697,13 +701,17 @@
         [
          "2026-10-15",
          58900.0
+        ],
+        [
+         "2026-10-16",
+         61200.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56500.0,
-       "change_pct": 0.0,
+       "value": 56900.0,
+       "change_pct": 0.53,
        "period": "24h",
        "points": [
         [
@@ -733,13 +741,17 @@
         [
          "2026-10-15",
          56500.0
+        ],
+        [
+         "2026-10-16",
+         56900.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33200.0,
-       "change_pct": 0.3,
+       "value": 33650.0,
+       "change_pct": 1.66,
        "period": "24h",
        "points": [
         [
@@ -769,13 +781,17 @@
         [
          "2026-10-15",
          33200.0
+        ],
+        [
+         "2026-10-16",
+         33650.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 32900.0,
-       "change_pct": -0.3,
+       "value": 32850.0,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -805,13 +821,17 @@
         [
          "2026-10-15",
          32900.0
+        ],
+        [
+         "2026-10-16",
+         32850.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 29800.0,
-       "change_pct": 0.85,
+       "value": 30100.0,
+       "change_pct": 1.52,
        "period": "24h",
        "points": [
         [
@@ -841,6 +861,10 @@
         [
          "2026-10-15",
          29800.0
+        ],
+        [
+         "2026-10-16",
+         30100.0
         ]
        ]
       },
@@ -882,8 +906,8 @@
       },
       {
        "label": "GAS",
-       "value": 76200.0,
-       "change_pct": -3.05,
+       "value": 76800.0,
+       "change_pct": -1.16,
        "period": "24h",
        "points": [
         [
@@ -913,6 +937,10 @@
         [
          "2026-10-15",
          76200.0
+        ],
+        [
+         "2026-10-16",
+         76800.0
         ]
        ]
       }
@@ -937,42 +965,42 @@
      ],
      "rows": [
       [
+       "AVC",
+       35000.0,
+       -11.17
+      ],
+      [
        "VSF",
        29200.0,
-       11.03
+       10.61
+      ],
+      [
+       "PGS",
+       84000.0,
+       9.66
       ],
       [
        "THD",
-       102200.0,
-       -8.75
+       100800.0,
+       -9.19
       ],
       [
        "BSI",
-       25400.0,
-       8.55
-      ],
-      [
-       "CTS",
-       20450.0,
-       7.35
-      ],
-      [
-       "KOS",
-       7760.0,
-       -6.95
+       26150.0,
+       8.96
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 218,000.0 (-0.18%)",
-    "VHM: 58,900.0 (-3.44%)",
-    "VCB: 56,500.0 (+0.0%)",
-    "BID: 33,200.0 (+0.3%)",
-    "TCB: 32,900.0 (-0.3%)",
-    "CTG: 29,800.0 (+0.85%)",
+    "VIC: 218,300.0 (-0.32%)",
+    "VHM: 61,200.0 (+3.03%)",
+    "VCB: 56,900.0 (+0.53%)",
+    "BID: 33,650.0 (+1.66%)",
+    "TCB: 32,850.0 (+0.0%)",
+    "CTG: 30,100.0 (+1.52%)",
     "VPB: 24,450.0 (+0.41%)",
-    "GAS: 76,200.0 (-3.05%)"
+    "GAS: 76,800.0 (-1.16%)"
    ]
   },
   {
@@ -1218,7 +1246,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-15 13:28",
+   "as_of": "2026-10-16 01:20",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -1259,6 +1287,16 @@
       ],
       [
        [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28313"
+       ],
+       24990000,
+       "MediaMart",
+       4,
+       0.0
+      ],
+      [
+       [
         "Apple iPhone 18 Pro 256GB",
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
@@ -1272,30 +1310,10 @@
         "Samsung Galaxy Tab S10 FE 128GB",
         "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi.html"
        ],
-       11290000,
+       11090000,
        "CellphoneS",
        4,
-       5.51
-      ],
-      [
-       [
-        "Apple iPad Air M4 11 128GB",
-        "https://hoanghamobile.com/may-tinh-bang/ipad-air-m4"
-       ],
-       18990000,
-       "Hoàng Hà Mobile",
-       3,
-       0.53
-      ],
-      [
-       [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28313"
-       ],
-       24990000,
-       "MediaMart",
-       3,
-       0.0
+       3.64
       ],
       [
        [
@@ -1319,48 +1337,58 @@
       ],
       [
        [
-        "Samsung Galaxy A57 128GB",
-        "https://clickbuy.com.vn/samsung-galaxy-a57-5g.html"
-       ],
-       10190000,
-       "Clickbuy",
-       3,
-       -0.97
-      ],
-      [
-       [
         "Samsung Galaxy Tab A11 64GB",
         "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-a11-wifi.html"
        ],
-       3590000,
+       3690000,
        "CellphoneS",
        3,
-       2.87
+       5.73
       ],
       [
        [
         "Samsung Galaxy Tab S10 Lite 128GB",
         "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-lite-wifi.html"
        ],
-       8490000,
+       8790000,
        "CellphoneS",
        3,
-       0.0
+       3.53
+      ],
+      [
+       [
+        "Apple iPad Air 11 M4 2026 128GB",
+        "https://cellphones.com.vn/apple-ipad-air-m4-11-inch-128gb-wifi.html"
+       ],
+       18990000,
+       "CellphoneS",
+       2,
+       -1.04
+      ],
+      [
+       [
+        "Apple iPad Air 13 M4 2026 128GB",
+        "https://cellphones.com.vn/apple-ipad-air-m4-13-inch-128gb-wifi.html"
+       ],
+       24590000,
+       "CellphoneS",
+       2,
+       -2.38
       ]
      ]
     }
    ],
    "text": [
     "Apple iPad Pro M5 11 256GB: 33,490,000 (ShopDunk)",
-    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
-    "Samsung Galaxy Tab S10 FE 128GB: 11,290,000 (CellphoneS)",
-    "Apple iPad Air M4 11 128GB: 18,990,000 (Hoàng Hà Mobile)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
+    "Samsung Galaxy Tab S10 FE 128GB: 11,090,000 (CellphoneS)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Samsung Galaxy A57 128GB: 10,190,000 (Clickbuy)",
-    "Samsung Galaxy Tab A11 64GB: 3,590,000 (CellphoneS)",
-    "Samsung Galaxy Tab S10 Lite 128GB: 8,490,000 (CellphoneS)"
+    "Samsung Galaxy Tab A11 64GB: 3,690,000 (CellphoneS)",
+    "Samsung Galaxy Tab S10 Lite 128GB: 8,790,000 (CellphoneS)",
+    "Apple iPad Air 11 M4 2026 128GB: 18,990,000 (CellphoneS)",
+    "Apple iPad Air 13 M4 2026 128GB: 24,590,000 (CellphoneS)"
    ]
   }
  ]
