@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T15:44:09+00:00",
+ "generated_at": "2026-10-17T18:47:19+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -36,7 +36,7 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39044826321"
        ],
-       38,
+       40,
        1,
        "❌ Send Interest Rate Summary lỗi lúc 22:23 17/10"
       ],
@@ -52,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39044122116"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39057009617"
        ],
        45,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39034615014"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39046608470"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39044957553"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39058174234"
        ],
        16,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39044013429"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39056809441"
        ],
        45,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39044019477"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39056827350"
        ],
        46,
        0,
@@ -106,9 +106,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39044261450"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39057238661"
        ],
-       43,
+       44,
        0,
        "✅ bình thường"
       ],
@@ -125,7 +125,7 @@
     }
    ],
    "text": [
-    "interest-rate-emailer: ❌ Send Interest Rate Summary lỗi lúc 22:23 17/10 (1/38 lỗi)",
+    "interest-rate-emailer: ❌ Send Interest Rate Summary lỗi lúc 22:23 17/10 (1/40 lỗi)",
     "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 13:13 17/10 (1/8 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/45 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
@@ -133,7 +133,7 @@
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/45 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/46 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/43 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/44 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-17",
+   "as_of": "2026-10-18",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -187,6 +187,10 @@
         [
          "2026-10-17",
          143600000
+        ],
+        [
+         "2026-10-18",
+         143600000
         ]
        ]
       },
@@ -227,6 +231,10 @@
         ],
         [
          "2026-10-17",
+         143600000
+        ],
+        [
+         "2026-10-18",
          143600000
         ]
        ]
@@ -269,6 +277,10 @@
         [
          "2026-10-17",
          143600000
+        ],
+        [
+         "2026-10-18",
+         143600000
         ]
        ]
       }
@@ -295,17 +307,17 @@
       [
        "SJC",
        143600000,
-       -0.21
+       0.0
       ],
       [
        "PNJ",
        143600000,
-       -0.21
+       0.0
       ],
       [
        "DOJI",
        143600000,
-       -0.21
+       0.0
       ]
      ]
     }
@@ -321,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-17 22:12",
+   "as_of": "2026-10-18 01:09",
    "blocks": [
     {
      "type": "tiles",
@@ -364,6 +376,10 @@
         [
          "2026-10-17",
          25868.9
+        ],
+        [
+         "2026-10-18",
+         25868.9
         ]
        ]
       },
@@ -403,6 +419,10 @@
         ],
         [
          "2026-10-17",
+         29081.96
+        ],
+        [
+         "2026-10-18",
          29081.96
         ]
        ]
@@ -444,6 +464,10 @@
         [
          "2026-10-17",
          163.73
+        ],
+        [
+         "2026-10-18",
+         163.73
         ]
        ]
       },
@@ -483,6 +507,10 @@
         ],
         [
          "2026-10-17",
+         3861.92
+        ],
+        [
+         "2026-10-18",
          3861.92
         ]
        ]
@@ -524,6 +552,10 @@
         [
          "2026-10-17",
          19.38
+        ],
+        [
+         "2026-10-18",
+         19.38
         ]
        ]
       },
@@ -563,6 +595,10 @@
         ],
         [
          "2026-10-17",
+         34453.33
+        ],
+        [
+         "2026-10-18",
          34453.33
         ]
        ]
@@ -604,6 +640,10 @@
         [
          "2026-10-17",
          20211.37
+        ],
+        [
+         "2026-10-18",
+         20211.37
         ]
        ]
       },
@@ -643,6 +683,10 @@
         ],
         [
          "2026-10-17",
+         17969.29
+        ],
+        [
+         "2026-10-18",
          17969.29
         ]
        ]
@@ -1055,8 +1099,97 @@
    "id": "interest",
    "title": "Lãi suất",
    "icon": "🏦",
-   "ok": false,
-   "reason": "chưa có dữ liệu lãi suất"
+   "ok": true,
+   "blocks": [
+    {
+     "type": "table",
+     "caption": "Lãi suất tiết kiệm 12 tháng",
+     "columns": [
+      {
+       "label": "Ngân hàng",
+       "kind": "text"
+      },
+      {
+       "label": "12 tháng online (%)",
+       "kind": "num"
+      },
+      {
+       "label": "Tại quầy (%)",
+       "kind": "num"
+      }
+     ],
+     "rows": [
+      [
+       "Sacombank",
+       7.0,
+       5.9
+      ],
+      [
+       "Techcombank",
+       6.75,
+       6.75
+      ],
+      [
+       "MB Bank",
+       6.2,
+       6.2
+      ],
+      [
+       "Vietcombank",
+       5.9,
+       5.9
+      ],
+      [
+       "BIDV",
+       5.9,
+       5.9
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "caption": null,
+     "columns": [
+      {
+       "label": "Ngân hàng trung ương",
+       "kind": "text"
+      },
+      {
+       "label": "Lãi suất điều hành",
+       "kind": "text"
+      }
+     ],
+     "rows": [
+      [
+       "European Central Bank",
+       "2.65%"
+      ],
+      [
+       "Bank of England",
+       "3.75%"
+      ],
+      [
+       "Bank of Japan",
+       "1.25%"
+      ],
+      [
+       "People's Bank of China",
+       "3%"
+      ],
+      [
+       "State Bank of Vietnam",
+       "4.50%"
+      ]
+     ]
+    }
+   ],
+   "text": [
+    "Sacombank: 7.0%",
+    "Techcombank: 6.75%",
+    "MB Bank: 6.2%",
+    "Vietcombank: 5.9%",
+    "BIDV: 5.9%"
+   ]
   },
   {
    "id": "tech",
