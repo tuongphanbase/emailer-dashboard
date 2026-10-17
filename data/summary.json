@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T03:49:27+00:00",
+ "generated_at": "2026-10-17T06:58:55+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,8 +33,17 @@
      "rows": [
       [
        [
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39009089565"
+       ],
+       8,
+       1,
+       "❌ Send Top Memes of the Day lỗi lúc 13:13 17/10"
+      ],
+      [
+       [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/38998283338"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39009367215"
        ],
        41,
        0,
@@ -43,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/38989217576"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39000529376"
        ],
        16,
        0,
@@ -52,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/38998819883"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39010270280"
        ],
        16,
        0,
@@ -70,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/38998149619"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39009171447"
        ],
        42,
        0,
@@ -79,16 +88,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/38999026945"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39010435002"
        ],
-       31,
+       32,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/38998153190"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39009181121"
        ],
        43,
        0,
@@ -97,18 +106,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/38998509548"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39009546511"
        ],
-       37,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/38985105308"
-       ],
-       8,
+       39,
        0,
        "✅ bình thường"
       ],
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
+    "9gag-meme-emailer: ❌ Send Top Memes of the Day lỗi lúc 13:13 17/10 (1/8 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/41 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/42 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/31 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/32 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/43 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/37 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/39 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -321,7 +321,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-17 10:16",
+   "as_of": "2026-10-17 13:14",
    "blocks": [
     {
      "type": "tiles",
@@ -1258,19 +1258,19 @@
       ],
       [
        [
+        "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001)",
+        "https://www.anphatpc.com.vn/o-cung-hdd-nas-seagate-ironwolf-pro-8tb-3.5-quot-sata-st8000nt001.html"
+       ],
+       "15.999.000",
+       23.1
+      ],
+      [
+       [
         "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition",
         "https://gearvn.com/products/card-man-hinh-asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-rog-astral-rtx5080-o16g-gaming"
        ],
        "69.990.000",
        16.7
-      ],
-      [
-       [
-        "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50va"
-       ],
-       "33.990.000",
-       13.3
       ]
      ]
     }
@@ -1285,8 +1285,8 @@
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
-    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)"
+    "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
+    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)"
    ]
   },
   {
