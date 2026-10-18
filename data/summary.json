@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T01:00:37+00:00",
+ "generated_at": "2026-10-18T01:14:03+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -52,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39082058781"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39085275715"
        ],
        46,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39072348846"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39085102830"
        ],
        16,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39081788254"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39085192061"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39081802126"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39085196827"
        ],
        46,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39082355338"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39085336355"
        ],
        45,
        0,
@@ -333,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 07:10",
+   "as_of": "2026-10-18 08:05",
    "blocks": [
     {
      "type": "tiles",
@@ -341,8 +341,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25868.9,
-       "change_pct": 0.05,
+       "value": 25860.56,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -379,14 +379,14 @@
         ],
         [
          "2026-10-18",
-         25868.9
+         25860.56
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 29081.96,
-       "change_pct": 0.29,
+       "value": 29069.41,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -423,14 +423,14 @@
         ],
         [
          "2026-10-18",
-         29081.96
+         29069.41
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.73,
-       "change_pct": 0.11,
+       "value": 163.67,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -467,14 +467,14 @@
         ],
         [
          "2026-10-18",
-         163.73
+         163.67
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3861.92,
-       "change_pct": 0.12,
+       "value": 3858.11,
+       "change_pct": -0.1,
        "period": "24h",
        "points": [
         [
@@ -511,14 +511,14 @@
         ],
         [
          "2026-10-18",
-         3861.92
+         3858.11
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.38,
-       "change_pct": 0.64,
+       "value": 19.37,
+       "change_pct": -0.02,
        "period": "24h",
        "points": [
         [
@@ -555,14 +555,14 @@
         ],
         [
          "2026-10-18",
-         19.38
+         19.37
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34453.33,
-       "change_pct": 0.48,
+       "value": 34441.94,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -599,14 +599,14 @@
         ],
         [
          "2026-10-18",
-         34453.33
+         34441.94
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20211.37,
-       "change_pct": 0.24,
+       "value": 20205.01,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -643,14 +643,14 @@
         ],
         [
          "2026-10-18",
-         20211.37
+         20205.01
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17969.29,
-       "change_pct": 0.49,
+       "value": 17961.14,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -687,7 +687,7 @@
         ],
         [
          "2026-10-18",
-         17969.29
+         17961.14
         ]
        ]
       }
@@ -695,14 +695,14 @@
     }
    ],
    "text": [
-    "USD: 25,868.9 (+0.05%)",
-    "EUR: 29,081.96 (+0.29%)",
-    "JPY: 163.73 (+0.11%)",
-    "CNY: 3,861.92 (+0.12%)",
-    "KRW: 19.38 (+0.64%)",
-    "GBP: 34,453.33 (+0.48%)",
-    "SGD: 20,211.37 (+0.24%)",
-    "AUD: 17,969.29 (+0.49%)"
+    "USD: 25,860.56 (-0.03%)",
+    "EUR: 29,069.41 (-0.04%)",
+    "JPY: 163.67 (-0.04%)",
+    "CNY: 3,858.11 (-0.1%)",
+    "KRW: 19.37 (-0.02%)",
+    "GBP: 34,441.94 (-0.03%)",
+    "SGD: 20,205.01 (-0.03%)",
+    "AUD: 17,961.14 (-0.05%)"
    ]
   },
   {
@@ -1286,6 +1286,14 @@
       ],
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "25.490.000",
+       34.2
+      ],
+      [
+       [
         "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001)",
         "https://www.anphatpc.com.vn/o-cung-hdd-nas-seagate-ironwolf-pro-8tb-3.5-quot-sata-st8000nt001.html"
        ],
@@ -1307,14 +1315,6 @@
        ],
        "69.990.000",
        16.7
-      ],
-      [
-       [
-        "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50va"
-       ],
-       "33.990.000",
-       13.3
       ]
      ]
     }
@@ -1327,10 +1327,10 @@
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
     "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
-    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)"
+    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)"
    ]
   },
   {
