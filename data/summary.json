@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T21:44:25+00:00",
+ "generated_at": "2026-10-18T01:00:37+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -52,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39070065841"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39082058781"
        ],
        46,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39059919190"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39072348846"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39070808272"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39083480445"
        ],
        16,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39069922326"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39081788254"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39069924161"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39081802126"
        ],
        46,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39070207121"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39082355338"
        ],
        45,
        0,
@@ -333,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 04:12",
+   "as_of": "2026-10-18 07:10",
    "blocks": [
     {
      "type": "tiles",
@@ -1286,14 +1286,6 @@
       ],
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       34.2
-      ],
-      [
-       [
         "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001)",
         "https://www.anphatpc.com.vn/o-cung-hdd-nas-seagate-ironwolf-pro-8tb-3.5-quot-sata-st8000nt001.html"
        ],
@@ -1315,6 +1307,14 @@
        ],
        "69.990.000",
        16.7
+      ],
+      [
+       [
+        "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
+        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50va"
+       ],
+       "33.990.000",
+       13.3
       ]
      ]
     }
@@ -1327,10 +1327,10 @@
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
     "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
-    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)"
+    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
+    "Laptop gaming Acer Nitro ProPanel ANV15-52-50VA (Core 5-210H/ RTX 3050/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 33.990.000 (+13.3%)"
    ]
   },
   {
