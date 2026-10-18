@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T12:53:57+00:00",
+ "generated_at": "2026-10-18T15:44:25+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,17 +33,8 @@
      "rows": [
       [
        [
-        "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39044826321"
-       ],
-       42,
-       1,
-       "❌ Send Interest Rate Summary lỗi lúc 22:23 17/10"
-      ],
-      [
-       [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39126450724"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39139553458"
        ],
        46,
        0,
@@ -52,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39116894419"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39129451243"
        ],
        16,
        0,
@@ -61,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39127570117"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39140373865"
        ],
        16,
        0,
@@ -70,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39085883261"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39130676561"
        ],
        4,
        0,
@@ -79,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39126280116"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39139407935"
        ],
        46,
        0,
@@ -87,8 +78,17 @@
       ],
       [
        [
+        "interest-rate-emailer",
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39140213953"
+       ],
+       42,
+       0,
+       "✅ bình thường"
+      ],
+      [
+       [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39126273071"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39139410186"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39126679327"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39139702763"
        ],
        45,
        0,
@@ -125,12 +125,12 @@
     }
    ],
    "text": [
-    "interest-rate-emailer: ❌ Send Interest Rate Summary lỗi lúc 22:23 17/10 (1/42 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/46 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/46 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/42 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/46 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/45 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
@@ -333,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 19:11",
+   "as_of": "2026-10-18 22:12",
    "blocks": [
     {
      "type": "tiles",
@@ -1338,7 +1338,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-18 01:21",
+   "as_of": "2026-10-18 13:19",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -1386,6 +1386,26 @@
        "ShopDunk",
        4,
        -0.89
+      ],
+      [
+       [
+        "Apple iPhone 16 128GB",
+        "https://didongviet.vn/dien-thoai/iphone-16-128gb.html?sku=CMH679iP949-1"
+       ],
+       22790000,
+       "Di Động Việt",
+       4,
+       -0.87
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro 256GB",
+        "https://hoanghamobile.com/dien-thoai/iphone-17-pro"
+       ],
+       31112000,
+       "Hoàng Hà Mobile",
+       4,
+       -2.13
       ],
       [
        [
@@ -1439,30 +1459,10 @@
       ],
       [
        [
-        "Apple iPhone 16 128GB",
-        "https://shopdunk.com/iphone-16"
-       ],
-       22990000,
-       "ShopDunk",
-       3,
-       0.0
-      ],
-      [
-       [
         "Apple iPhone 17 Pro 1TB",
         "https://24hstore.vn/iphone-17-pro/iphone-17-pro-1tb-p11590"
        ],
        41490000,
-       "24hStore",
-       3,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 1TB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
-       ],
-       44490000,
        "24hStore",
        3,
        0.0
@@ -1473,14 +1473,14 @@
    "text": [
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPad Pro M5 11 256GB: 33,490,000 (ShopDunk)",
+    "Apple iPhone 16 128GB: 22,790,000 (Di Động Việt)",
+    "Apple iPhone 17 Pro 256GB: 31,112,000 (Hoàng Hà Mobile)",
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
     "Samsung Galaxy Tab S10 FE 128GB: 11,090,000 (CellphoneS)",
     "Apple iPad Air M4 11 128GB: 18,790,000 (Di Động Việt)",
     "Apple iPhone 15 128GB: 19,490,000 (Di Động Việt)",
-    "Apple iPhone 16 128GB: 22,990,000 (ShopDunk)",
-    "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)"
+    "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)"
    ]
   }
  ]
