@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T09:46:39+00:00",
+ "generated_at": "2026-10-18T12:53:57+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39114666282"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39126450724"
        ],
        46,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39106212050"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39116894419"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39115308502"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39127570117"
        ],
        16,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39114502991"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39126280116"
        ],
        46,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39114507996"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39126273071"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39114794816"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39126679327"
        ],
        45,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39103235351"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39126193308"
        ],
        8,
        0,
@@ -333,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 16:13",
+   "as_of": "2026-10-18 19:11",
    "blocks": [
     {
      "type": "tiles",
