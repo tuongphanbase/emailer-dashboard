@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T15:44:25+00:00",
+ "generated_at": "2026-10-18T18:48:56+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39139553458"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39153095258"
        ],
        46,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39129451243"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39142088075"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39140373865"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39154281333"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39139407935"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39152880671"
        ],
        46,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39140213953"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39154060188"
        ],
        42,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39139410186"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39152883195"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39139702763"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39153327598"
        ],
        45,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39126193308"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39152798400"
        ],
        8,
        0,
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-18",
+   "as_of": "2026-10-19",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -191,6 +191,10 @@
         [
          "2026-10-18",
          143600000
+        ],
+        [
+         "2026-10-19",
+         143600000
         ]
        ]
       },
@@ -236,6 +240,10 @@
         [
          "2026-10-18",
          143600000
+        ],
+        [
+         "2026-10-19",
+         143600000
         ]
        ]
       },
@@ -280,6 +288,10 @@
         ],
         [
          "2026-10-18",
+         143600000
+        ],
+        [
+         "2026-10-19",
          143600000
         ]
        ]
@@ -333,7 +345,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 22:12",
+   "as_of": "2026-10-19 01:09",
    "blocks": [
     {
      "type": "tiles",
@@ -380,6 +392,10 @@
         [
          "2026-10-18",
          25860.56
+        ],
+        [
+         "2026-10-19",
+         25860.56
         ]
        ]
       },
@@ -423,6 +439,10 @@
         ],
         [
          "2026-10-18",
+         29069.41
+        ],
+        [
+         "2026-10-19",
          29069.41
         ]
        ]
@@ -468,6 +488,10 @@
         [
          "2026-10-18",
          163.67
+        ],
+        [
+         "2026-10-19",
+         163.67
         ]
        ]
       },
@@ -511,6 +535,10 @@
         ],
         [
          "2026-10-18",
+         3858.11
+        ],
+        [
+         "2026-10-19",
          3858.11
         ]
        ]
@@ -556,6 +584,10 @@
         [
          "2026-10-18",
          19.37
+        ],
+        [
+         "2026-10-19",
+         19.37
         ]
        ]
       },
@@ -599,6 +631,10 @@
         ],
         [
          "2026-10-18",
+         34441.94
+        ],
+        [
+         "2026-10-19",
          34441.94
         ]
        ]
@@ -644,6 +680,10 @@
         [
          "2026-10-18",
          20205.01
+        ],
+        [
+         "2026-10-19",
+         20205.01
         ]
        ]
       },
@@ -687,6 +727,10 @@
         ],
         [
          "2026-10-18",
+         17961.14
+        ],
+        [
+         "2026-10-19",
          17961.14
         ]
        ]
@@ -1278,19 +1322,19 @@
      "rows": [
       [
        [
+        "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7",
+        "https://gearvn.com/products/card-man-hinh-leadtek-nvidia-rtx-pro-5000-blackwell-48gb-gddr7"
+       ],
+       "349.900.000",
+       59.8
+      ],
+      [
+       [
         "Ổ cứng Seagate Barracuda 4TB ST4000DM004",
         "https://www.anphatpc.com.vn/seagate-barracuda-4tb-7200rpm-64mb-cache-sata-60gbs-st4000dm000.html"
        ],
        "6.999.000",
        38.6
-      ],
-      [
-       [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       34.2
       ],
       [
        [
@@ -1326,8 +1370,8 @@
     "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12G GDDR6 GV-N3060WF2OC-12GD: 10.500.000 (-8.7%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
+    "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
     "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)"
