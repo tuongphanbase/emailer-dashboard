@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T06:57:43+00:00",
+ "generated_at": "2026-10-18T09:46:39+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -36,14 +36,14 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39044826321"
        ],
-       41,
+       42,
        1,
        "❌ Send Interest Rate Summary lỗi lúc 22:23 17/10"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39103462866"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39114666282"
        ],
        46,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39095237309"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39106212050"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39104364946"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39115308502"
        ],
        16,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39103305765"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39114502991"
        ],
        46,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39103323582"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39114507996"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39103675597"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39114794816"
        ],
        45,
        0,
@@ -125,7 +125,7 @@
     }
    ],
    "text": [
-    "interest-rate-emailer: ❌ Send Interest Rate Summary lỗi lúc 22:23 17/10 (1/41 lỗi)",
+    "interest-rate-emailer: ❌ Send Interest Rate Summary lỗi lúc 22:23 17/10 (1/42 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/46 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
@@ -333,7 +333,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-18 13:14",
+   "as_of": "2026-10-18 16:13",
    "blocks": [
     {
      "type": "tiles",
@@ -1234,6 +1234,14 @@
       ],
       [
        [
+        "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12G GDDR6 GV-N3060WF2OC-12GD",
+        "https://memoryzone.com.vn/vga-gigabyte-geforce-rtx-3060-windforce-oc-12g-gddr6"
+       ],
+       "10.500.000",
+       -8.7
+      ],
+      [
+       [
         "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
         "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
        ],
@@ -1247,14 +1255,6 @@
        ],
        "82.990.000",
        -7.8
-      ],
-      [
-       [
-        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
-        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
-       ],
-       "550.000.000",
-       -6.8
       ]
      ]
     },
@@ -1323,9 +1323,9 @@
    "text": [
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 26.999.000 (-18.2%)",
     "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
+    "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12G GDDR6 GV-N3060WF2OC-12GD: 10.500.000 (-8.7%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
-    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+34.2%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
