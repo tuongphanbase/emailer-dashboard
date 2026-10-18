@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T18:48:56+00:00",
+ "generated_at": "2026-10-18T21:44:45+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39153095258"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39166866433"
        ],
        46,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39142088075"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39156144100"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39154281333"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39167704996"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39152880671"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39166674437"
        ],
        46,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39154060188"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39167596841"
        ],
        42,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39152883195"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39166673889"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39153327598"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39167032906"
        ],
        45,
        0,
@@ -345,7 +345,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-19 01:09",
+   "as_of": "2026-10-19 04:10",
    "blocks": [
     {
      "type": "tiles",
@@ -1262,14 +1262,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen)",
-        "https://www.anphatpc.com.vn/laptop-asus-gaming-v16-v3607vj-tk189w.html"
-       ],
-       "26.999.000",
-       -18.2
-      ],
-      [
-       [
         "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY",
         "https://hoanghapc.vn/ram-ddr5-teamgroup-t-force-delta-rgb-64gb-5600mhz-tray"
        ],
@@ -1286,19 +1278,27 @@
       ],
       [
        [
-        "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell-max-q"
        ],
-       "26.990.000",
-       -7.9
+       "550.000.000",
+       -6.8
       ],
       [
        [
-        "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html"
+        "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA",
+        "https://memoryzone.com.vn/hdd-toshiba-s300-surveillance-2tb-3-5-inch-sata-iii-128mb-cache-5400rpm-hdwt720uzsva"
        ],
-       "82.990.000",
-       -7.8
+       "3.350.000",
+       -6.7
+      ],
+      [
+       [
+        "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort)",
+        "https://hoanghapc.vn/vga-leadtek-nvidia-rtx-pro-6000-blackwell"
+       ],
+       "555.000.000",
+       -5.9
       ]
      ]
     },
@@ -1365,11 +1365,11 @@
    ],
    "empty_text": null,
    "text": [
-    "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 26.999.000 (-18.2%)",
     "RAM DDR5 TEAMGROUP T-FORCE DELTA RGB 64GB 5600Mhz (2x32GB) BLACK - TRAY: 27.000.000 (-10.0%)",
     "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12G GDDR6 GV-N3060WF2OC-12GD: 10.500.000 (-8.7%)",
-    "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 26.990.000 (-7.9%)",
-    "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 82.990.000 (-7.8%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 550.000.000 (-6.8%)",
+    "HDD Toshiba S300 Surveillance 2TB 3.5 inch SATA III 128MB Cache 5400RPM HDWT720UZSVA: 3.350.000 (-6.7%)",
+    "VGA LEADTEK NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB (GDDR7, 512-bit, 4x DisplayPort): 555.000.000 (-5.9%)",
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
