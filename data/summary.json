@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T19:00:37+00:00",
+ "generated_at": "2026-10-19T21:48:19+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -36,14 +36,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39257945519"
        ],
-       14,
+       15,
        1,
        "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39301717758"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39327380502"
        ],
        35,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39303546035"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39327897500"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39301318776"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39326553723"
        ],
        37,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39304020409"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39324361565"
        ],
-       30,
+       28,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39301335483"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39326616216"
        ],
        36,
        0,
@@ -97,9 +97,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39302246004"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39327509259"
        ],
-       34,
+       33,
        0,
        "✅ bình thường"
       ],
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10 (1/14 lỗi)",
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10 (1/15 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/35 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/37 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/30 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/36 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/33 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -357,7 +357,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-20 01:18",
+   "as_of": "2026-10-20 04:20",
    "blocks": [
     {
      "type": "tiles",
@@ -1422,19 +1422,19 @@
       ],
       [
        [
-        "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition",
-        "https://gearvn.com/products/card-man-hinh-asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-rog-astral-rtx5080-o16g-gaming"
-       ],
-       "69.990.000",
-       16.7
-      ],
-      [
-       [
         "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7",
         "https://gearvn.com/products/card-man-hinh-asus-rog-astral-edition-20-geforce-rtx-5090-32gb-gddr7"
        ],
        "280.000.000",
        12.0
+      ],
+      [
+       [
+        "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition",
+        "https://memoryzone.com.vn/vga-asus-t1-geforce-rtx-5070-12gb-gddr7-oc-edition"
+       ],
+       "28.900.000",
+       11.6
       ]
      ]
     }
@@ -1449,8 +1449,8 @@
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
-    "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING) White Edition: 69.990.000 (+16.7%)",
-    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
+    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)",
+    "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition: 28.900.000 (+11.6%)"
    ]
   },
   {
