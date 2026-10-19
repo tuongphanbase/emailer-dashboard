@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T01:16:15+00:00",
+ "generated_at": "2026-10-19T03:54:06+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39183997643"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39194597574"
        ],
        46,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39181740422"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39195060396"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39130676561"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39184825818"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39183883265"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39194253589"
        ],
        46,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39181411994"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39192878357"
        ],
-       42,
+       41,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39183884121"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39194259879"
        ],
        46,
        0,
@@ -97,9 +97,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39184097941"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39192795353"
        ],
-       45,
+       44,
        0,
        "✅ bình thường"
       ],
@@ -115,7 +115,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39086647477"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39185851188"
        ],
        2,
        0,
@@ -130,9 +130,9 @@
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/46 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/42 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/41 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/46 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/45 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/44 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -194,7 +194,7 @@
         ],
         [
          "2026-10-19",
-         143600000
+         143100000
         ]
        ]
       },
@@ -318,8 +318,8 @@
      "rows": [
       [
        "SJC",
-       143600000,
-       0.0
+       143100000,
+       -0.35
       ],
       [
        "PNJ",
@@ -335,7 +335,7 @@
     }
    ],
    "text": [
-    "SJC: 143,600,000 VND",
+    "SJC: 143,100,000 VND",
     "PNJ: 143,600,000 VND",
     "DOJI: 143,600,000 VND"
    ]
@@ -345,7 +345,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-19 08:07",
+   "as_of": "2026-10-19 10:21",
    "blocks": [
     {
      "type": "tiles",
@@ -754,7 +754,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-16 15:27",
+   "as_of": "2026-10-19 10:20",
    "blocks": [
     {
      "type": "tiles",
@@ -762,8 +762,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 215000.0,
-       "change_pct": -1.06,
+       "value": 216400.0,
+       "change_pct": 0.65,
        "period": "24h",
        "points": [
         [
@@ -797,13 +797,17 @@
         [
          "2026-10-16",
          215000.0
+        ],
+        [
+         "2026-10-19",
+         216400.0
         ]
        ]
       },
       {
        "label": "VHM",
        "value": 61000.0,
-       "change_pct": 3.04,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -837,13 +841,17 @@
         [
          "2026-10-16",
          61000.0
+        ],
+        [
+         "2026-10-19",
+         61000.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56900.0,
-       "change_pct": 0.18,
+       "value": 56700.0,
+       "change_pct": -0.35,
        "period": "24h",
        "points": [
         [
@@ -877,13 +885,17 @@
         [
          "2026-10-16",
          56900.0
+        ],
+        [
+         "2026-10-19",
+         56700.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33950.0,
-       "change_pct": 1.8,
+       "value": 34000.0,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -917,13 +929,17 @@
         [
          "2026-10-16",
          33950.0
+        ],
+        [
+         "2026-10-19",
+         34000.0
         ]
        ]
       },
       {
        "label": "TCB",
        "value": 33200.0,
-       "change_pct": 1.53,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -957,13 +973,17 @@
         [
          "2026-10-16",
          33200.0
+        ],
+        [
+         "2026-10-19",
+         33200.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30600.0,
-       "change_pct": 2.86,
+       "value": 30400.0,
+       "change_pct": -0.65,
        "period": "24h",
        "points": [
         [
@@ -997,13 +1017,17 @@
         [
          "2026-10-16",
          30600.0
+        ],
+        [
+         "2026-10-19",
+         30400.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24500.0,
-       "change_pct": 0.82,
+       "value": 24150.0,
+       "change_pct": -1.43,
        "period": "24h",
        "points": [
         [
@@ -1037,13 +1061,17 @@
         [
          "2026-10-16",
          24500.0
+        ],
+        [
+         "2026-10-19",
+         24150.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 76100.0,
-       "change_pct": -0.26,
+       "value": 76400.0,
+       "change_pct": 0.39,
        "period": "24h",
        "points": [
         [
@@ -1077,6 +1105,10 @@
         [
          "2026-10-16",
          76100.0
+        ],
+        [
+         "2026-10-19",
+         76400.0
         ]
        ]
       }
@@ -1101,6 +1133,11 @@
      ],
      "rows": [
       [
+       "PRT",
+       10100.0,
+       12.22
+      ],
+      [
        "PGS",
        84000.0,
        9.66
@@ -1111,32 +1148,27 @@
        -6.96
       ],
       [
-       "DCL",
-       50000.0,
-       6.95
+       "CRV",
+       21000.0,
+       -6.67
       ],
       [
        "SJS",
        57100.0,
        6.33
-      ],
-      [
-       "VIF",
-       15200.0,
-       6.29
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 215,000.0 (-1.06%)",
-    "VHM: 61,000.0 (+3.04%)",
-    "VCB: 56,900.0 (+0.18%)",
-    "BID: 33,950.0 (+1.8%)",
-    "TCB: 33,200.0 (+1.53%)",
-    "CTG: 30,600.0 (+2.86%)",
-    "VPB: 24,500.0 (+0.82%)",
-    "GAS: 76,100.0 (-0.26%)"
+    "VIC: 216,400.0 (+0.65%)",
+    "VHM: 61,000.0 (+0.0%)",
+    "VCB: 56,700.0 (-0.35%)",
+    "BID: 34,000.0 (+0.15%)",
+    "TCB: 33,200.0 (+0.0%)",
+    "CTG: 30,400.0 (-0.65%)",
+    "VPB: 24,150.0 (-1.43%)",
+    "GAS: 76,400.0 (+0.39%)"
    ]
   },
   {
@@ -1382,7 +1414,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-18 13:19",
+   "as_of": "2026-10-19 01:24",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
