@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T21:44:45+00:00",
+ "generated_at": "2026-10-19T01:02:15+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39166866433"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39180020155"
        ],
        46,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39156144100"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39169397955"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39167704996"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39181740422"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39166674437"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39179673583"
        ],
        46,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39167596841"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39181411994"
        ],
        42,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39166673889"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39179679330"
        ],
        46,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39167032906"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39180375741"
        ],
        45,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39152798400"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39179546727"
        ],
        8,
        0,
@@ -345,7 +345,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-19 04:10",
+   "as_of": "2026-10-19 07:11",
    "blocks": [
     {
      "type": "tiles",
@@ -1469,7 +1469,7 @@
        35990000,
        "24hStore",
        4,
-       -2.07
+       0.0
       ],
       [
        [
@@ -1479,7 +1479,7 @@
        11090000,
        "CellphoneS",
        4,
-       3.64
+       -1.77
       ],
       [
        [
@@ -1499,7 +1499,7 @@
        19490000,
        "Di Động Việt",
        3,
-       -1.52
+       -2.5
       ],
       [
        [
