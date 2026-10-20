@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T01:17:14+00:00",
+ "generated_at": "2026-10-20T03:51:45+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39351961362"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39364215986"
        ],
        35,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39349016728"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39364648996"
        ],
        16,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39260038217"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39352688540"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39351844309"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39363867749"
        ],
        37,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39349200442"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39362349379"
        ],
        27,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39351844528"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39363870723"
        ],
        36,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39352064285"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39362295655"
        ],
        33,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39185851188"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39354005991"
        ],
        2,
        0,
@@ -198,7 +198,7 @@
         ],
         [
          "2026-10-20",
-         143100000
+         142600000
         ]
        ]
       },
@@ -251,7 +251,7 @@
         ],
         [
          "2026-10-20",
-         143100000
+         142600000
         ]
        ]
       },
@@ -304,7 +304,7 @@
         ],
         [
          "2026-10-20",
-         143100000
+         142600000
         ]
        ]
       }
@@ -330,26 +330,26 @@
      "rows": [
       [
        "SJC",
-       143100000,
-       0.0
+       142600000,
+       -0.35
       ],
       [
        "PNJ",
-       143100000,
-       0.0
+       142600000,
+       -0.35
       ],
       [
        "DOJI",
-       143100000,
-       0.0
+       142600000,
+       -0.35
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 143,100,000 VND",
-    "PNJ: 143,100,000 VND",
-    "DOJI: 143,100,000 VND"
+    "SJC: 142,600,000 VND",
+    "PNJ: 142,600,000 VND",
+    "DOJI: 142,600,000 VND"
    ]
   },
   {
@@ -357,7 +357,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-20 08:09",
+   "as_of": "2026-10-20 10:21",
    "blocks": [
     {
      "type": "tiles",
@@ -798,7 +798,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-19 15:09",
+   "as_of": "2026-10-20 10:21",
    "blocks": [
     {
      "type": "tiles",
@@ -806,8 +806,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 207000.0,
-       "change_pct": -3.72,
+       "value": 208900.0,
+       "change_pct": -3.47,
        "period": "24h",
        "points": [
         [
@@ -845,13 +845,17 @@
         [
          "2026-10-19",
          207000.0
+        ],
+        [
+         "2026-10-20",
+         208900.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 60300.0,
-       "change_pct": -1.15,
+       "value": 59400.0,
+       "change_pct": -3.26,
        "period": "24h",
        "points": [
         [
@@ -889,12 +893,16 @@
         [
          "2026-10-19",
          60300.0
+        ],
+        [
+         "2026-10-20",
+         59400.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56200.0,
+       "value": 56000.0,
        "change_pct": -1.23,
        "period": "24h",
        "points": [
@@ -933,13 +941,17 @@
         [
          "2026-10-19",
          56200.0
+        ],
+        [
+         "2026-10-20",
+         56000.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33650.0,
-       "change_pct": -0.88,
+       "value": 33500.0,
+       "change_pct": -1.76,
        "period": "24h",
        "points": [
         [
@@ -977,13 +989,17 @@
         [
          "2026-10-19",
          33650.0
+        ],
+        [
+         "2026-10-20",
+         33500.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 33250.0,
-       "change_pct": 0.15,
+       "value": 33200.0,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1021,13 +1037,17 @@
         [
          "2026-10-19",
          33250.0
+        ],
+        [
+         "2026-10-20",
+         33200.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30500.0,
-       "change_pct": -0.33,
+       "value": 30200.0,
+       "change_pct": -0.66,
        "period": "24h",
        "points": [
         [
@@ -1065,13 +1085,17 @@
         [
          "2026-10-19",
          30500.0
+        ],
+        [
+         "2026-10-20",
+         30200.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 24000.0,
-       "change_pct": -2.04,
+       "value": 23550.0,
+       "change_pct": -2.48,
        "period": "24h",
        "points": [
         [
@@ -1109,13 +1133,17 @@
         [
          "2026-10-19",
          24000.0
+        ],
+        [
+         "2026-10-20",
+         23550.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 76700.0,
-       "change_pct": 0.79,
+       "value": 76600.0,
+       "change_pct": 0.26,
        "period": "24h",
        "points": [
         [
@@ -1153,6 +1181,10 @@
         [
          "2026-10-19",
          76700.0
+        ],
+        [
+         "2026-10-20",
+         76600.0
         ]
        ]
       }
@@ -1183,8 +1215,13 @@
       ],
       [
        "PHS",
-       9100.0,
-       -9.9
+       9000.0,
+       -10.89
+      ],
+      [
+       "ACG",
+       29300.0,
+       -9.29
       ],
       [
        "KOS",
@@ -1192,27 +1229,22 @@
        -6.96
       ],
       [
-       "VVS",
-       84900.0,
-       6.93
-      ],
-      [
-       "HT1",
-       13200.0,
-       6.88
+       "SBT",
+       21050.0,
+       -6.65
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 207,000.0 (-3.72%)",
-    "VHM: 60,300.0 (-1.15%)",
-    "VCB: 56,200.0 (-1.23%)",
-    "BID: 33,650.0 (-0.88%)",
-    "TCB: 33,250.0 (+0.15%)",
-    "CTG: 30,500.0 (-0.33%)",
-    "VPB: 24,000.0 (-2.04%)",
-    "GAS: 76,700.0 (+0.79%)"
+    "VIC: 208,900.0 (-3.47%)",
+    "VHM: 59,400.0 (-3.26%)",
+    "VCB: 56,000.0 (-1.23%)",
+    "BID: 33,500.0 (-1.76%)",
+    "TCB: 33,200.0 (+0.0%)",
+    "CTG: 30,200.0 (-0.66%)",
+    "VPB: 23,550.0 (-2.48%)",
+    "GAS: 76,600.0 (+0.26%)"
    ]
   },
   {
@@ -1255,14 +1287,14 @@
        6.2
       ],
       [
-       "Vietcombank",
+       "BIDV",
        5.9,
        5.9
       ],
       [
-       "BIDV",
-       5.9,
-       5.9
+       "Vietcombank",
+       5.4,
+       5.4
       ]
      ]
     },
@@ -1282,7 +1314,7 @@
      "rows": [
       [
        "European Central Bank",
-       null
+       "2.65%"
       ],
       [
        "Bank of England",
@@ -1307,8 +1339,8 @@
     "Techcombank: 6.75%",
     "Sacombank: 6.5%",
     "MB Bank: 6.2%",
-    "Vietcombank: 5.9%",
-    "BIDV: 5.9%"
+    "BIDV: 5.9%",
+    "Vietcombank: 5.4%"
    ]
   },
   {
@@ -1458,7 +1490,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-19 13:30",
+   "as_of": "2026-10-20 01:23",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
