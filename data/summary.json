@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T18:58:41+00:00",
+ "generated_at": "2026-10-20T21:49:53+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39474449612"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39499975821"
        ],
        38,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39453045600"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39480270093"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39475833912"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39500950515"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39474841966"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39499527785"
        ],
        40,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39471057758"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39496890109"
        ],
        26,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39473710684"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39499532787"
        ],
        39,
        0,
@@ -97,9 +97,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39475126732"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39500588008"
        ],
-       33,
+       34,
        0,
        "✅ bình thường"
       ],
@@ -132,7 +132,7 @@
     "vn-stock-price-emailer: ✅ bình thường (0/40 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/26 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/33 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -369,7 +369,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-21 01:19",
+   "as_of": "2026-10-21 04:20",
    "blocks": [
     {
      "type": "tiles",
@@ -1438,19 +1438,19 @@
       ],
       [
        [
+        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
+       ],
+       "1.449.000",
+       -38.3
+      ],
+      [
+       [
         "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1)",
         "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-650-650w-80-plus-bronze-atx3.1"
        ],
        "1.199.000",
        -36.9
-      ],
-      [
-       [
-        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
-       ],
-       "1.309.000",
-       -34.5
       ]
      ]
     },
@@ -1498,19 +1498,19 @@
       ],
       [
        [
+        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+       ],
+       "30.990.000",
+       14.8
+      ],
+      [
+       [
         "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7",
         "https://gearvn.com/products/card-man-hinh-asus-rog-astral-edition-20-geforce-rtx-5090-32gb-gddr7"
        ],
        "280.000.000",
        12.0
-      ],
-      [
-       [
-        "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition",
-        "https://memoryzone.com.vn/vga-asus-t1-geforce-rtx-5070-12gb-gddr7-oc-edition"
-       ],
-       "28.900.000",
-       11.6
       ]
      ]
     }
@@ -1520,13 +1520,13 @@
     "Nguồn máy tính MSI MAG A500N-H 500W: 629.000 (-47.5%)",
     "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 1.850.000 (-43.9%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 3.699.000 (-38.3%)",
+    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 1.449.000 (-38.3%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.199.000 (-36.9%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.309.000 (-34.5%)",
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
     "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
-    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)",
-    "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition: 28.900.000 (+11.6%)"
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
+    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
    ]
   },
   {
