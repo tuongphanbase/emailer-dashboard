@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T15:50:43+00:00",
+ "generated_at": "2026-10-20T18:58:41+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39444714175"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39474449612"
        ],
        38,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39428055438"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39453045600"
        ],
        16,
        0,
@@ -52,9 +52,9 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39449423970"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39475833912"
        ],
-       17,
+       16,
        0,
        "✅ bình thường"
       ],
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39444404372"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39474841966"
        ],
        40,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39445484655"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39471057758"
        ],
-       27,
+       26,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39444414959"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39473710684"
        ],
        39,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39445126953"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39475126732"
        ],
-       34,
+       33,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39421228866"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39473561519"
        ],
        8,
        0,
@@ -127,12 +127,12 @@
    "text": [
     "gold-price-emailer: ✅ bình thường (0/38 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/17 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/40 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/27 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/26 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/33 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-20",
+   "as_of": "2026-10-21",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -199,6 +199,10 @@
         [
          "2026-10-20",
          142600000
+        ],
+        [
+         "2026-10-21",
+         142600000
         ]
        ]
       },
@@ -251,6 +255,10 @@
         ],
         [
          "2026-10-20",
+         142600000
+        ],
+        [
+         "2026-10-21",
          142600000
         ]
        ]
@@ -305,6 +313,10 @@
         [
          "2026-10-20",
          142600000
+        ],
+        [
+         "2026-10-21",
+         142600000
         ]
        ]
       }
@@ -331,17 +343,17 @@
       [
        "SJC",
        142600000,
-       -0.35
+       0.0
       ],
       [
        "PNJ",
        142600000,
-       -0.35
+       0.0
       ],
       [
        "DOJI",
        142600000,
-       -0.35
+       0.0
       ]
      ]
     }
@@ -357,7 +369,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-20 22:00",
+   "as_of": "2026-10-21 01:19",
    "blocks": [
     {
      "type": "tiles",
@@ -412,6 +424,10 @@
         [
          "2026-10-20",
          25857.68
+        ],
+        [
+         "2026-10-21",
+         25857.68
         ]
        ]
       },
@@ -463,6 +479,10 @@
         ],
         [
          "2026-10-20",
+         29005.44
+        ],
+        [
+         "2026-10-21",
          29005.44
         ]
        ]
@@ -516,6 +536,10 @@
         [
          "2026-10-20",
          163.2
+        ],
+        [
+         "2026-10-21",
+         163.2
         ]
        ]
       },
@@ -567,6 +591,10 @@
         ],
         [
          "2026-10-20",
+         3863.01
+        ],
+        [
+         "2026-10-21",
          3863.01
         ]
        ]
@@ -620,6 +648,10 @@
         [
          "2026-10-20",
          19.43
+        ],
+        [
+         "2026-10-21",
+         19.43
         ]
        ]
       },
@@ -671,6 +703,10 @@
         ],
         [
          "2026-10-20",
+         34426.78
+        ],
+        [
+         "2026-10-21",
          34426.78
         ]
        ]
@@ -724,6 +760,10 @@
         [
          "2026-10-20",
          20204.64
+        ],
+        [
+         "2026-10-21",
+         20204.64
         ]
        ]
       },
@@ -775,6 +815,10 @@
         ],
         [
          "2026-10-20",
+         18050.14
+        ],
+        [
+         "2026-10-21",
          18050.14
         ]
        ]
@@ -1282,14 +1326,14 @@
        5.4
       ],
       [
-       "MB Bank",
-       6.2,
-       6.2
-      ],
-      [
        "BIDV",
        5.9,
        5.9
+      ],
+      [
+       "MB Bank",
+       5.7,
+       5.7
       ],
       [
        "Vietcombank",
@@ -1338,8 +1382,8 @@
    "text": [
     "Techcombank: 6.65%",
     "Sacombank: 6.5%",
-    "MB Bank: 6.2%",
     "BIDV: 5.9%",
+    "MB Bank: 5.7%",
     "Vietcombank: 5.4%"
    ]
   },
