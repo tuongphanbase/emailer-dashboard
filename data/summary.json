@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T21:48:19+00:00",
+ "generated_at": "2026-10-20T01:03:19+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -36,14 +36,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39257945519"
        ],
-       15,
+       16,
        1,
        "❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39327380502"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39347021034"
        ],
        35,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39327897500"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39349016728"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39326553723"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39346625605"
        ],
        37,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39324361565"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39349200442"
        ],
-       28,
+       27,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39326616216"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39346642380"
        ],
        36,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39327509259"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39347490529"
        ],
        33,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39301134662"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39346464499"
        ],
        8,
        0,
@@ -125,12 +125,12 @@
     }
    ],
    "text": [
-    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10 (1/15 lỗi)",
+    "tech-price-mailer: ❌ Send RAM/SSD/Laptop Price Email lỗi lúc 20:10 19/10 (1/16 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/35 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/37 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/27 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/36 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/33 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
@@ -357,7 +357,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-20 04:20",
+   "as_of": "2026-10-20 07:16",
    "blocks": [
     {
      "type": "tiles",
@@ -1282,7 +1282,7 @@
      "rows": [
       [
        "European Central Bank",
-       "2.65%"
+       null
       ],
       [
        "Bank of England",
@@ -1545,7 +1545,7 @@
        33490000,
        "ShopDunk",
        3,
-       -0.89
+       0.0
       ],
       [
        [
