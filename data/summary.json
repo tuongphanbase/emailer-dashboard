@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T03:52:29+00:00",
+ "generated_at": "2026-10-21T07:06:15+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39536343141"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39556228852"
        ],
        37,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39525473353"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39541424610"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39538977996"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39556615721"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39538274871"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39555466065"
        ],
        40,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39536683634"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39552873811"
        ],
        26,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39538289622"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39555475116"
        ],
        39,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39538973218"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39555463366"
        ],
        34,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39519896684"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39554706391"
        ],
        8,
        0,
@@ -369,7 +369,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-21 10:23",
+   "as_of": "2026-10-21 13:27",
    "blocks": [
     {
      "type": "tiles",
@@ -842,7 +842,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-21 10:23",
+   "as_of": "2026-10-21 13:27",
    "blocks": [
     {
      "type": "tiles",
@@ -850,8 +850,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 210300.0,
-       "change_pct": 0.67,
+       "value": 223600.0,
+       "change_pct": 7.81,
        "period": "24h",
        "points": [
         [
@@ -896,14 +896,14 @@
         ],
         [
          "2026-10-21",
-         210300.0
+         223600.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 58500.0,
-       "change_pct": -1.52,
+       "value": 61400.0,
+       "change_pct": 5.68,
        "period": "24h",
        "points": [
         [
@@ -948,14 +948,14 @@
         ],
         [
          "2026-10-21",
-         58500.0
+         61400.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56100.0,
-       "change_pct": 0.18,
+       "value": 56200.0,
+       "change_pct": 0.72,
        "period": "24h",
        "points": [
         [
@@ -1000,14 +1000,14 @@
         ],
         [
          "2026-10-21",
-         56100.0
+         56200.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33900.0,
-       "change_pct": 1.19,
+       "value": 34150.0,
+       "change_pct": 2.55,
        "period": "24h",
        "points": [
         [
@@ -1052,14 +1052,14 @@
         ],
         [
          "2026-10-21",
-         33900.0
+         34150.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 34200.0,
-       "change_pct": 3.17,
+       "value": 34250.0,
+       "change_pct": 2.24,
        "period": "24h",
        "points": [
         [
@@ -1104,14 +1104,14 @@
         ],
         [
          "2026-10-21",
-         34200.0
+         34250.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30550.0,
-       "change_pct": 1.33,
+       "value": 30450.0,
+       "change_pct": 1.16,
        "period": "24h",
        "points": [
         [
@@ -1156,14 +1156,14 @@
         ],
         [
          "2026-10-21",
-         30550.0
+         30450.0
         ]
        ]
       },
       {
        "label": "VPB",
        "value": 23850.0,
-       "change_pct": 0.85,
+       "change_pct": 1.71,
        "period": "24h",
        "points": [
         [
@@ -1214,8 +1214,8 @@
       },
       {
        "label": "GAS",
-       "value": 76600.0,
-       "change_pct": 0.0,
+       "value": 76500.0,
+       "change_pct": -0.13,
        "period": "24h",
        "points": [
         [
@@ -1260,7 +1260,7 @@
         ],
         [
          "2026-10-21",
-         76600.0
+         76500.0
         ]
        ]
       }
@@ -1285,19 +1285,19 @@
      ],
      "rows": [
       [
+       "HBC",
+       3300.0,
+       13.79
+      ],
+      [
        "AVC",
        36000.0,
        -11.11
       ],
       [
-       "PRT",
-       9000.0,
-       -10.89
-      ],
-      [
-       "PHS",
-       9000.0,
-       -10.89
+       "SZC",
+       19250.0,
+       10.32
       ],
       [
        "VIT",
@@ -1305,22 +1305,22 @@
        10.17
       ],
       [
-       "HBC",
-       3300.0,
-       10.0
+       "VSC",
+       14300.0,
+       9.16
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 210,300.0 (+0.67%)",
-    "VHM: 58,500.0 (-1.52%)",
-    "VCB: 56,100.0 (+0.18%)",
-    "BID: 33,900.0 (+1.19%)",
-    "TCB: 34,200.0 (+3.17%)",
-    "CTG: 30,550.0 (+1.33%)",
-    "VPB: 23,850.0 (+0.85%)",
-    "GAS: 76,600.0 (+0.0%)"
+    "VIC: 223,600.0 (+7.81%)",
+    "VHM: 61,400.0 (+5.68%)",
+    "VCB: 56,200.0 (+0.72%)",
+    "BID: 34,150.0 (+2.55%)",
+    "TCB: 34,250.0 (+2.24%)",
+    "CTG: 30,450.0 (+1.16%)",
+    "VPB: 23,850.0 (+1.71%)",
+    "GAS: 76,500.0 (-0.13%)"
    ]
   },
   {
@@ -1470,19 +1470,19 @@
       ],
       [
        [
-        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
-       ],
-       "1.449.000",
-       -38.3
-      ],
-      [
-       [
         "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1)",
         "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-650-650w-80-plus-bronze-atx3.1"
        ],
        "1.199.000",
        -36.9
+      ],
+      [
+       [
+        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
+       ],
+       "1.309.000",
+       -34.5
       ]
      ]
     },
@@ -1514,14 +1514,6 @@
       ],
       [
        [
-        "Ổ cứng Seagate Barracuda 4TB ST4000DM004",
-        "https://www.anphatpc.com.vn/seagate-barracuda-4tb-7200rpm-64mb-cache-sata-60gbs-st4000dm000.html"
-       ],
-       "6.999.000",
-       38.6
-      ],
-      [
-       [
         "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001)",
         "https://www.anphatpc.com.vn/o-cung-hdd-nas-seagate-ironwolf-pro-8tb-3.5-quot-sata-st8000nt001.html"
        ],
@@ -1543,6 +1535,14 @@
        ],
        "280.000.000",
        12.0
+      ],
+      [
+       [
+        "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition",
+        "https://memoryzone.com.vn/vga-asus-t1-geforce-rtx-5070-12gb-gddr7-oc-edition"
+       ],
+       "28.900.000",
+       11.6
       ]
      ]
     }
@@ -1552,13 +1552,13 @@
     "Nguồn máy tính MSI MAG A500N-H 500W: 629.000 (-47.5%)",
     "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 1.850.000 (-43.9%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 3.699.000 (-38.3%)",
-    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 1.449.000 (-38.3%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.199.000 (-36.9%)",
+    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.309.000 (-34.5%)",
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
-    "Ổ cứng Seagate Barracuda 4TB ST4000DM004: 6.999.000 (+38.6%)",
     "Ổ cứng HDD NAS Seagate Ironwolf Pro 8TB 3.5\" Sata (ST8000NT001): 15.999.000 (+23.1%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
-    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
+    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)",
+    "VGA ASUS T1 GeForce RTX 5070 12GB GDDR7 OC Edition: 28.900.000 (+11.6%)"
    ]
   },
   {
