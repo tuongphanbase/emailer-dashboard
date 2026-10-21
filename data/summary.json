@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T01:03:29+00:00",
+ "generated_at": "2026-10-21T01:18:17+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39520471671"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39525726422"
        ],
        38,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39504060775"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39525473353"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39520060881"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39525612579"
        ],
        40,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39520081959"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39525618802"
        ],
        39,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39520927852"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39525870302"
        ],
        34,
        0,
@@ -369,7 +369,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-21 07:14",
+   "as_of": "2026-10-21 08:09",
    "blocks": [
     {
      "type": "tiles",
@@ -377,8 +377,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25857.68,
-       "change_pct": -0.05,
+       "value": 25846.2,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -427,14 +427,14 @@
         ],
         [
          "2026-10-21",
-         25857.68
+         25846.2
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 29005.44,
-       "change_pct": -0.11,
+       "value": 29016.22,
+       "change_pct": 0.04,
        "period": "24h",
        "points": [
         [
@@ -483,14 +483,14 @@
         ],
         [
          "2026-10-21",
-         29005.44
+         29016.22
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.2,
-       "change_pct": -0.38,
+       "value": 163.35,
+       "change_pct": 0.09,
        "period": "24h",
        "points": [
         [
@@ -539,14 +539,14 @@
         ],
         [
          "2026-10-21",
-         163.2
+         163.35
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3863.01,
-       "change_pct": -0.06,
+       "value": 3862.65,
+       "change_pct": -0.01,
        "period": "24h",
        "points": [
         [
@@ -595,14 +595,14 @@
         ],
         [
          "2026-10-21",
-         3863.01
+         3862.65
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.43,
-       "change_pct": 0.17,
+       "value": 19.47,
+       "change_pct": 0.23,
        "period": "24h",
        "points": [
         [
@@ -651,14 +651,14 @@
         ],
         [
          "2026-10-21",
-         19.43
+         19.47
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34426.78,
-       "change_pct": -0.15,
+       "value": 34538.27,
+       "change_pct": 0.32,
        "period": "24h",
        "points": [
         [
@@ -707,14 +707,14 @@
         ],
         [
          "2026-10-21",
-         34426.78
+         34538.27
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20204.64,
-       "change_pct": -0.07,
+       "value": 20221.22,
+       "change_pct": 0.08,
        "period": "24h",
        "points": [
         [
@@ -763,14 +763,14 @@
         ],
         [
          "2026-10-21",
-         20204.64
+         20221.22
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18050.14,
-       "change_pct": 0.18,
+       "value": 18091.57,
+       "change_pct": 0.23,
        "period": "24h",
        "points": [
         [
@@ -819,7 +819,7 @@
         ],
         [
          "2026-10-21",
-         18050.14
+         18091.57
         ]
        ]
       }
@@ -827,14 +827,14 @@
     }
    ],
    "text": [
-    "USD: 25,857.68 (-0.05%)",
-    "EUR: 29,005.44 (-0.11%)",
-    "JPY: 163.2 (-0.38%)",
-    "CNY: 3,863.01 (-0.06%)",
-    "KRW: 19.43 (+0.17%)",
-    "GBP: 34,426.78 (-0.15%)",
-    "SGD: 20,204.64 (-0.07%)",
-    "AUD: 18,050.14 (+0.18%)"
+    "USD: 25,846.2 (-0.04%)",
+    "EUR: 29,016.22 (+0.04%)",
+    "JPY: 163.35 (+0.09%)",
+    "CNY: 3,862.65 (-0.01%)",
+    "KRW: 19.47 (+0.23%)",
+    "GBP: 34,538.27 (+0.32%)",
+    "SGD: 20,221.22 (+0.08%)",
+    "AUD: 18,091.57 (+0.23%)"
    ]
   },
   {
