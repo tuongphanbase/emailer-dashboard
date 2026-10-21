@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T07:06:15+00:00",
+ "generated_at": "2026-10-21T09:52:12+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39556228852"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39574063449"
        ],
        37,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39541424610"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39560411581"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39556615721"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39577703926"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39555466065"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39573873703"
        ],
        40,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39552873811"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39574643555"
        ],
        26,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39555475116"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39573870033"
        ],
        39,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39555463366"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39574263552"
        ],
        34,
        0,
@@ -369,7 +369,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-21 13:27",
+   "as_of": "2026-10-21 16:02",
    "blocks": [
     {
      "type": "tiles",
@@ -842,7 +842,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-21 13:27",
+   "as_of": "2026-10-21 15:04",
    "blocks": [
     {
      "type": "tiles",
@@ -902,8 +902,8 @@
       },
       {
        "label": "VHM",
-       "value": 61400.0,
-       "change_pct": 5.68,
+       "value": 61800.0,
+       "change_pct": 6.92,
        "period": "24h",
        "points": [
         [
@@ -948,14 +948,14 @@
         ],
         [
          "2026-10-21",
-         61400.0
+         61800.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56200.0,
-       "change_pct": 0.72,
+       "value": 56400.0,
+       "change_pct": 1.08,
        "period": "24h",
        "points": [
         [
@@ -1000,14 +1000,14 @@
         ],
         [
          "2026-10-21",
-         56200.0
+         56400.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 34150.0,
-       "change_pct": 2.55,
+       "value": 34100.0,
+       "change_pct": 1.64,
        "period": "24h",
        "points": [
         [
@@ -1052,14 +1052,14 @@
         ],
         [
          "2026-10-21",
-         34150.0
+         34100.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 34250.0,
-       "change_pct": 2.24,
+       "value": 34400.0,
+       "change_pct": 2.08,
        "period": "24h",
        "points": [
         [
@@ -1104,14 +1104,14 @@
         ],
         [
          "2026-10-21",
-         34250.0
+         34400.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30450.0,
-       "change_pct": 1.16,
+       "value": 30500.0,
+       "change_pct": 1.33,
        "period": "24h",
        "points": [
         [
@@ -1156,14 +1156,14 @@
         ],
         [
          "2026-10-21",
-         30450.0
+         30500.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 23850.0,
-       "change_pct": 1.71,
+       "value": 24000.0,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1208,14 +1208,14 @@
         ],
         [
          "2026-10-21",
-         23850.0
+         24000.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 76500.0,
-       "change_pct": -0.13,
+       "value": 77000.0,
+       "change_pct": 0.79,
        "period": "24h",
        "points": [
         [
@@ -1260,7 +1260,7 @@
         ],
         [
          "2026-10-21",
-         76500.0
+         77000.0
         ]
        ]
       }
@@ -1285,19 +1285,9 @@
      ],
      "rows": [
       [
-       "HBC",
-       3300.0,
-       13.79
-      ],
-      [
-       "AVC",
-       36000.0,
-       -11.11
-      ],
-      [
-       "SZC",
-       19250.0,
-       10.32
+       "SJG",
+       22900.0,
+       14.5
       ],
       [
        "VIT",
@@ -1305,22 +1295,32 @@
        10.17
       ],
       [
+       "PRT",
+       9100.0,
+       -9.9
+      ],
+      [
        "VSC",
        14300.0,
        9.16
+      ],
+      [
+       "HDC",
+       11150.0,
+       8.25
       ]
      ]
     }
    ],
    "text": [
     "VIC: 223,600.0 (+7.81%)",
-    "VHM: 61,400.0 (+5.68%)",
-    "VCB: 56,200.0 (+0.72%)",
-    "BID: 34,150.0 (+2.55%)",
-    "TCB: 34,250.0 (+2.24%)",
-    "CTG: 30,450.0 (+1.16%)",
-    "VPB: 23,850.0 (+1.71%)",
-    "GAS: 76,500.0 (-0.13%)"
+    "VHM: 61,800.0 (+6.92%)",
+    "VCB: 56,400.0 (+1.08%)",
+    "BID: 34,100.0 (+1.64%)",
+    "TCB: 34,400.0 (+2.08%)",
+    "CTG: 30,500.0 (+1.33%)",
+    "VPB: 24,000.0 (+0.0%)",
+    "GAS: 77,000.0 (+0.79%)"
    ]
   },
   {
