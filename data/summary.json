@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T09:54:15+00:00",
+ "generated_at": "2026-10-22T13:05:08+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39753029993"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39775195140"
        ],
-       35,
+       34,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39739175390"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39759566270"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39756402394"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39780098019"
        ],
        16,
        0,
@@ -70,16 +70,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39752530375"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39778518566"
        ],
-       39,
+       38,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39753293325"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39775299689"
        ],
        25,
        0,
@@ -88,16 +88,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39752534070"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39778626390"
        ],
-       39,
+       38,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39753449552"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39779999796"
        ],
        32,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39733338508"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39777594229"
        ],
        8,
        0,
@@ -125,13 +125,13 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/35 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/34 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/39 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/38 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/25 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/38 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/32 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
@@ -381,7 +381,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-22 16:04",
+   "as_of": "2026-10-22 19:28",
    "blocks": [
     {
      "type": "tiles",
@@ -1530,18 +1530,18 @@
       ],
       [
        [
-        "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms)",
-        "https://hacom.vn/man-hinh-asus-vy249hgr"
-       ],
-       "1.850.000",
-       -43.9
-      ],
-      [
-       [
         "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
         "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
        ],
        "3.699.000",
+       -38.3
+      ],
+      [
+       [
+        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
+       ],
+       "1.449.000",
        -38.3
       ],
       [
@@ -1626,8 +1626,8 @@
    "empty_text": null,
    "text": [
     "Nguồn máy tính MSI MAG A500N-H 500W: 629.000 (-47.5%)",
-    "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 1.850.000 (-43.9%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 3.699.000 (-38.3%)",
+    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 1.449.000 (-38.3%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.199.000 (-36.9%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.309.000 (-34.5%)",
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
