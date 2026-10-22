@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:51:47+00:00",
+ "generated_at": "2026-10-22T18:59:52+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -34,25 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39830400449"
        ],
+       34,
        0,
-       0,
-       "⏸️ không chạy lần nào"
-      ],
-      [
-       [
-        "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
-       ],
-       0,
-       0,
-       "⏸️ không chạy lần nào"
+       "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39784710422"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39809536914"
        ],
        16,
        0,
@@ -61,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39806215677"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39832328225"
        ],
        16,
        0,
@@ -79,25 +70,25 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39800558270"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39830024392"
        ],
-       37,
+       38,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39801787586"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39833013297"
        ],
-       25,
+       26,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39805523109"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39830044266"
        ],
        38,
        0,
@@ -106,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39801699179"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39831145572"
        ],
        32,
        0,
@@ -115,9 +106,18 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39777594229"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/39829864370"
        ],
        8,
+       0,
+       "✅ bình thường"
+      ],
+      [
+       [
+        "reddit-top-post-emailer",
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39706259349"
+       ],
+       2,
        0,
        "✅ bình thường"
       ]
@@ -125,16 +125,16 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
-    "reddit-top-post-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/34 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/37 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/25 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/38 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/26 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/38 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/32 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)"
+    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
+    "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-22",
+   "as_of": "2026-10-23",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -207,6 +207,10 @@
         [
          "2026-10-22",
          142300000
+        ],
+        [
+         "2026-10-23",
+         142300000
         ]
        ]
       },
@@ -267,6 +271,10 @@
         ],
         [
          "2026-10-22",
+         142300000
+        ],
+        [
+         "2026-10-23",
          142300000
         ]
        ]
@@ -329,6 +337,10 @@
         [
          "2026-10-22",
          142300000
+        ],
+        [
+         "2026-10-23",
+         142300000
         ]
        ]
       }
@@ -381,7 +393,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-22 22:30",
+   "as_of": "2026-10-23 01:17",
    "blocks": [
     {
      "type": "tiles",
@@ -444,6 +456,10 @@
         [
          "2026-10-22",
          25846.7
+        ],
+        [
+         "2026-10-23",
+         25846.7
         ]
        ]
       },
@@ -503,6 +519,10 @@
         ],
         [
          "2026-10-22",
+         29031.72
+        ],
+        [
+         "2026-10-23",
          29031.72
         ]
        ]
@@ -564,6 +584,10 @@
         [
          "2026-10-22",
          163.48
+        ],
+        [
+         "2026-10-23",
+         163.48
         ]
        ]
       },
@@ -623,6 +647,10 @@
         ],
         [
          "2026-10-22",
+         3863.87
+        ],
+        [
+         "2026-10-23",
          3863.87
         ]
        ]
@@ -684,6 +712,10 @@
         [
          "2026-10-22",
          19.49
+        ],
+        [
+         "2026-10-23",
+         19.49
         ]
        ]
       },
@@ -743,6 +775,10 @@
         ],
         [
          "2026-10-22",
+         34616.06
+        ],
+        [
+         "2026-10-23",
          34616.06
         ]
        ]
@@ -804,6 +840,10 @@
         [
          "2026-10-22",
          20233.54
+        ],
+        [
+         "2026-10-23",
+         20233.54
         ]
        ]
       },
@@ -863,6 +903,10 @@
         ],
         [
          "2026-10-22",
+         18160.97
+        ],
+        [
+         "2026-10-23",
          18160.97
         ]
        ]
