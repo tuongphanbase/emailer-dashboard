@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T13:05:08+00:00",
+ "generated_at": "2026-10-22T15:51:47+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -34,16 +34,25 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39775195140"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions"
        ],
-       34,
        0,
-       "✅ bình thường"
+       0,
+       "⏸️ không chạy lần nào"
+      ],
+      [
+       [
+        "reddit-top-post-emailer",
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
+       ],
+       0,
+       0,
+       "⏸️ không chạy lần nào"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39759566270"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39784710422"
        ],
        16,
        0,
@@ -52,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39780098019"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/39806215677"
        ],
        16,
        0,
@@ -61,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39704882060"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39786975105"
        ],
        4,
        0,
@@ -70,16 +79,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39778518566"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39800558270"
        ],
-       38,
+       37,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39775299689"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/39801787586"
        ],
        25,
        0,
@@ -88,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39778626390"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39805523109"
        ],
        38,
        0,
@@ -97,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39779999796"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39801699179"
        ],
        32,
        0,
@@ -111,30 +120,21 @@
        8,
        0,
        "✅ bình thường"
-      ],
-      [
-       [
-        "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/39706259349"
-       ],
-       2,
-       0,
-       "✅ bình thường"
       ]
      ]
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/34 lỗi)",
+    "gold-price-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
+    "reddit-top-post-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/38 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/37 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/25 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/38 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/32 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
-    "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
+    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)"
    ]
   },
   {
@@ -381,7 +381,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-22 19:28",
+   "as_of": "2026-10-22 22:30",
    "blocks": [
     {
      "type": "tiles",
@@ -1642,7 +1642,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-22 01:24",
+   "as_of": "2026-10-22 13:32",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
