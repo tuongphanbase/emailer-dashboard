@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T01:06:15+00:00",
+ "generated_at": "2026-10-23T01:20:28+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39877460742"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/39882733378"
        ],
        34,
        0,
@@ -43,9 +43,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39860983916"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39882499385"
        ],
-       15,
+       16,
        0,
        "✅ bình thường"
       ],
@@ -63,14 +63,14 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/39786975105"
        ],
-       4,
+       3,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39877036955"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/39882611914"
        ],
        38,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39877050051"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/39882632483"
        ],
        38,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39877918584"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/39882876630"
        ],
        32,
        0,
@@ -126,9 +126,9 @@
    ],
    "text": [
     "gold-price-emailer: ✅ bình thường (0/34 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/15 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/38 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/26 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/38 lỗi)",
@@ -393,7 +393,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-23 07:16",
+   "as_of": "2026-10-23 08:12",
    "blocks": [
     {
      "type": "tiles",
@@ -401,8 +401,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25846.7,
-       "change_pct": 0.0,
+       "value": 25831.15,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -459,14 +459,14 @@
         ],
         [
          "2026-10-23",
-         25846.7
+         25831.15
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 29031.72,
-       "change_pct": 0.05,
+       "value": 28973.99,
+       "change_pct": -0.2,
        "period": "24h",
        "points": [
         [
@@ -523,14 +523,14 @@
         ],
         [
          "2026-10-23",
-         29031.72
+         28973.99
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.48,
-       "change_pct": 0.08,
+       "value": 164.61,
+       "change_pct": 0.69,
        "period": "24h",
        "points": [
         [
@@ -587,14 +587,14 @@
         ],
         [
          "2026-10-23",
-         163.48
+         164.61
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3863.87,
-       "change_pct": 0.03,
+       "value": 3862.18,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -651,14 +651,14 @@
         ],
         [
          "2026-10-23",
-         3863.87
+         3862.18
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.49,
-       "change_pct": 0.08,
+       "value": 19.5,
+       "change_pct": 0.03,
        "period": "24h",
        "points": [
         [
@@ -715,14 +715,14 @@
         ],
         [
          "2026-10-23",
-         19.49
+         19.5
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34616.06,
-       "change_pct": 0.23,
+       "value": 34595.56,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -779,14 +779,14 @@
         ],
         [
          "2026-10-23",
-         34616.06
+         34595.56
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20233.54,
-       "change_pct": 0.06,
+       "value": 20223.15,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -843,14 +843,14 @@
         ],
         [
          "2026-10-23",
-         20233.54
+         20223.15
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18160.97,
-       "change_pct": 0.38,
+       "value": 18123.22,
+       "change_pct": -0.21,
        "period": "24h",
        "points": [
         [
@@ -907,7 +907,7 @@
         ],
         [
          "2026-10-23",
-         18160.97
+         18123.22
         ]
        ]
       }
@@ -915,14 +915,14 @@
     }
    ],
    "text": [
-    "USD: 25,846.7 (+0.0%)",
-    "EUR: 29,031.72 (+0.05%)",
-    "JPY: 163.48 (+0.08%)",
-    "CNY: 3,863.87 (+0.03%)",
-    "KRW: 19.49 (+0.08%)",
-    "GBP: 34,616.06 (+0.23%)",
-    "SGD: 20,233.54 (+0.06%)",
-    "AUD: 18,160.97 (+0.38%)"
+    "USD: 25,831.15 (-0.06%)",
+    "EUR: 28,973.99 (-0.2%)",
+    "JPY: 164.61 (+0.69%)",
+    "CNY: 3,862.18 (-0.04%)",
+    "KRW: 19.5 (+0.03%)",
+    "GBP: 34,595.56 (-0.06%)",
+    "SGD: 20,223.15 (-0.05%)",
+    "AUD: 18,123.22 (-0.21%)"
    ]
   },
   {
@@ -1574,6 +1574,14 @@
       ],
       [
        [
+        "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms)",
+        "https://hacom.vn/man-hinh-asus-vy249hgr"
+       ],
+       "1.850.000",
+       -43.9
+      ],
+      [
+       [
         "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
         "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
        ],
@@ -1595,14 +1603,6 @@
        ],
        "1.199.000",
        -36.9
-      ],
-      [
-       [
-        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
-       ],
-       "1.309.000",
-       -34.5
       ]
      ]
     },
@@ -1670,10 +1670,10 @@
    "empty_text": null,
    "text": [
     "Nguồn máy tính MSI MAG A500N-H 500W: 629.000 (-47.5%)",
+    "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 1.850.000 (-43.9%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 3.699.000 (-38.3%)",
     "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 1.449.000 (-38.3%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.199.000 (-36.9%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.309.000 (-34.5%)",
     "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 32.990.000 (+22.2%)",
