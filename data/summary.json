@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T18:58:42+00:00",
+ "generated_at": "2026-10-23T21:49:18+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40002343557"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40026242924"
        ],
        35,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/39982984810"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40008349581"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40004245928"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40027152708"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40002030169"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40025868198"
        ],
        39,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40004838965"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40023810134"
        ],
        26,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40002041487"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40025888995"
        ],
        39,
        0,
@@ -97,9 +97,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40002985155"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40026745017"
        ],
-       31,
+       32,
        0,
        "✅ bình thường"
       ],
@@ -132,7 +132,7 @@
     "vn-stock-price-emailer: ✅ bình thường (0/39 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/26 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/31 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/32 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -405,7 +405,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-24 01:17",
+   "as_of": "2026-10-24 04:19",
    "blocks": [
     {
      "type": "tiles",
@@ -1734,11 +1734,11 @@
       ],
       [
        [
-        "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM)",
-        "https://hoanghapc.vn/o-cu-ng-hdd-seagate-ironwolf-pro-24tb"
+        "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7",
+        "https://gearvn.com/products/card-man-hinh-asus-rog-astral-edition-20-geforce-rtx-5090-32gb-gddr7"
        ],
-       "40.000.000",
-       14.3
+       "280.000.000",
+       12.0
       ]
      ]
     }
@@ -1754,7 +1754,7 @@
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 32.990.000 (+22.2%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
-    "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM): 40.000.000 (+14.3%)"
+    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
    ]
   },
   {
