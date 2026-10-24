@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T03:51:27+00:00",
+ "generated_at": "2026-10-24T07:01:13+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40058054769"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40069783357"
        ],
-       35,
+       36,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40048792136"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40060342841"
        ],
        16,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40058489689"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40070639913"
        ],
        16,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40057805414"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40069558393"
        ],
        39,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40056690750"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40070434265"
        ],
-       27,
+       28,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40057835197"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40069568322"
        ],
        39,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40058341982"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40070073719"
        ],
-       33,
+       34,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40043900237"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40069488924"
        ],
        8,
        0,
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/35 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/36 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
     "house-price-emailer: ✅ bình thường (0/16 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/39 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/27 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/33 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -405,7 +405,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-24 10:19",
+   "as_of": "2026-10-24 13:16",
    "blocks": [
     {
      "type": "tiles",
