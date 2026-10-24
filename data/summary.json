@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T07:01:13+00:00",
+ "generated_at": "2026-10-24T13:23:03+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,27 +34,27 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40069783357"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40083836134"
        ],
-       36,
+       33,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40060342841"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40072862025"
        ],
-       16,
+       12,
        0,
        "✅ bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40070639913"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40097276202"
        ],
-       16,
+       14,
        0,
        "✅ bình thường"
       ],
@@ -63,43 +63,43 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40049680850"
        ],
-       4,
+       3,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40069558393"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40093622501"
        ],
-       39,
+       32,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40070434265"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40092799025"
        ],
-       28,
+       23,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40069568322"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40093624168"
        ],
-       39,
+       32,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40070073719"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40094291547"
        ],
-       34,
+       29,
        0,
        "✅ bình thường"
       ],
@@ -108,7 +108,7 @@
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40069488924"
        ],
-       8,
+       6,
        0,
        "✅ bình thường"
       ],
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/36 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/16 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/16 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/39 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/28 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/39 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/34 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/33 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/12 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/14 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/3 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/32 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/23 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/32 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/29 lỗi)",
+    "9gag-meme-emailer: ✅ bình thường (0/6 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -405,7 +405,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-24 13:16",
+   "as_of": "2026-10-24 19:22",
    "blocks": [
     {
      "type": "tiles",
