@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T18:13:03+00:00",
+ "generated_at": "2026-10-24T20:57:30+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40114788900"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40126148729"
        ],
-       30,
+       26,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40098035988"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40119853562"
        ],
        12,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40118851193"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40130638912"
        ],
        14,
        0,
@@ -70,43 +70,43 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40110148296"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40122816398"
        ],
-       27,
+       23,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40110330631"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40122939548"
        ],
-       19,
+       17,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40110159660"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40122833353"
        ],
-       27,
+       23,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40111514551"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40122883282"
        ],
-       25,
+       22,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40105060627"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40127594451"
        ],
        8,
        0,
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/30 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/26 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/12 lỗi)",
     "house-price-emailer: ✅ bình thường (0/14 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/27 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/19 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/27 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/25 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/23 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/17 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/23 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/22 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -417,7 +417,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-24 23:08",
+   "as_of": "2026-10-25 01:54",
    "blocks": [
     {
      "type": "tiles",
@@ -488,6 +488,10 @@
         [
          "2026-10-24",
          25822.18
+        ],
+        [
+         "2026-10-25",
+         25822.18
         ]
        ]
       },
@@ -555,6 +559,10 @@
         ],
         [
          "2026-10-24",
+         28923.21
+        ],
+        [
+         "2026-10-25",
          28923.21
         ]
        ]
@@ -624,6 +632,10 @@
         [
          "2026-10-24",
          164.64
+        ],
+        [
+         "2026-10-25",
+         164.64
         ]
        ]
       },
@@ -691,6 +703,10 @@
         ],
         [
          "2026-10-24",
+         3862.78
+        ],
+        [
+         "2026-10-25",
          3862.78
         ]
        ]
@@ -760,6 +776,10 @@
         [
          "2026-10-24",
          19.49
+        ],
+        [
+         "2026-10-25",
+         19.49
         ]
        ]
       },
@@ -827,6 +847,10 @@
         ],
         [
          "2026-10-24",
+         34537.56
+        ],
+        [
+         "2026-10-25",
          34537.56
         ]
        ]
@@ -896,6 +920,10 @@
         [
          "2026-10-24",
          20202.57
+        ],
+        [
+         "2026-10-25",
+         20202.57
         ]
        ]
       },
@@ -963,6 +991,10 @@
         ],
         [
          "2026-10-24",
+         18147.72
+        ],
+        [
+         "2026-10-25",
          18147.72
         ]
        ]
@@ -1654,43 +1686,43 @@
      "rows": [
       [
        [
-        "Nguồn máy tính MSI MAG A500N-H 500W",
-        "https://hacom.vn/nguon-may-tinh-msi-mag-a500n-h-500w"
+        "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
+        "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
        ],
-       "629.000",
-       -47.5
+       "24.990.000",
+       -10.7
       ],
       [
        [
-        "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
+        "Laptop gaming Gigabyte Eagle GL6J EAGLE-9MJR2VNF93SH (Ryzen 5 7533HS/ RTX 4050 6GB/ 16GB/ 512GB/ 16\" FHD+/ Win 11)",
+        "https://gearvn.com/products/laptop-gaming-gigabyte-eagle-gl6j-eagle-9mjr2vnf93sh-ryzen-5-7533hs-rtx-4050-6gb-16gb-512gb-16-fhd-win-11"
        ],
-       "3.699.000",
-       -38.3
+       "31.990.000",
+       -8.6
       ],
       [
        [
-        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "1.449.000",
-       -38.3
+       "59.999.000",
+       -7.3
       ],
       [
        [
-        "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-650-650w-80-plus-bronze-atx3.1"
+        "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW",
+        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-smoke-lcd-14-5-inch-uwhd-60hz-cc-9011357-ww"
        ],
-       "1.199.000",
-       -36.9
+       "5.990.000",
+       -4.2
       ],
       [
        [
-        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
+        "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW",
+        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-crystal-lcd-14-5-inch-uwhd-60hz-cc-9011356-ww"
        ],
-       "1.309.000",
-       -34.5
+       "5.990.000",
+       -4.2
       ]
      ]
     },
@@ -1712,14 +1744,6 @@
       }
      ],
      "rows": [
-      [
-       [
-        "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7",
-        "https://gearvn.com/products/card-man-hinh-leadtek-nvidia-rtx-pro-5000-blackwell-48gb-gddr7"
-       ],
-       "349.900.000",
-       59.8
-      ],
       [
        [
         "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
@@ -1751,22 +1775,30 @@
        ],
        "40.000.000",
        14.3
+      ],
+      [
+       [
+        "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7",
+        "https://gearvn.com/products/card-man-hinh-asus-rog-astral-edition-20-geforce-rtx-5090-32gb-gddr7"
+       ],
+       "280.000.000",
+       12.0
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Nguồn máy tính MSI MAG A500N-H 500W: 629.000 (-47.5%)",
-    "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 3.699.000 (-38.3%)",
-    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 1.449.000 (-38.3%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.199.000 (-36.9%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.309.000 (-34.5%)",
-    "Card màn hình Leadtek NVIDIA RTX PRO 5000 Blackwell 48GB GDDR7: 349.900.000 (+59.8%)",
+    "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 24.990.000 (-10.7%)",
+    "Laptop gaming Gigabyte Eagle GL6J EAGLE-9MJR2VNF93SH (Ryzen 5 7533HS/ RTX 4050 6GB/ 16GB/ 512GB/ 16\" FHD+/ Win 11): 31.990.000 (-8.6%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-7.3%)",
+    "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW: 5.990.000 (-4.2%)",
+    "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW: 5.990.000 (-4.2%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 32.990.000 (+22.2%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
-    "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM): 40.000.000 (+14.3%)"
+    "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM): 40.000.000 (+14.3%)",
+    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
    ]
   },
   {
