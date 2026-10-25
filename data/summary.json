@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T20:56:30+00:00",
+ "generated_at": "2026-10-25T23:19:34+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40229956594"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40241475754"
        ],
        7,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40212547048"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40233337847"
        ],
        10,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40232130618"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40243449160"
        ],
        10,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40221532715"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40234882396"
        ],
        7,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40231876270"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40243325272"
        ],
        7,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40221538140"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40234899813"
        ],
        7,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40227967475"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40239454344"
        ],
        7,
        0,
@@ -429,7 +429,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-26 01:30",
+   "as_of": "2026-10-26 04:19",
    "blocks": [
     {
      "type": "tiles",
@@ -1730,35 +1730,27 @@
      "rows": [
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
        ],
-       "59.999.000",
-       -7.3
+       "19.290.000",
+       -24.3
       ],
       [
        [
-        "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW",
-        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-smoke-lcd-14-5-inch-uwhd-60hz-cc-9011357-ww"
+        "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html"
        ],
-       "5.990.000",
-       -4.2
+       "81.999.000",
+       -10.9
       ],
       [
        [
-        "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW",
-        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-crystal-lcd-14-5-inch-uwhd-60hz-cc-9011356-ww"
+        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
        ],
-       "5.990.000",
-       -4.2
-      ],
-      [
-       [
-        "Màn hình cảm ứng Corsair XENEON EDGE White LCD 14.5 inch UWHD 60Hz CC-9011311-WW",
-        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-lcd-14-5-inch-uwhd-60hz-white"
-       ],
-       "5.990.000",
-       -4.2
+       "27.990.000",
+       -9.7
       ],
       [
        [
@@ -1767,6 +1759,14 @@
        ],
        "2.690.000",
        -3.6
+      ],
+      [
+       [
+        "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4)",
+        "https://gearvn.com/products/o-cung-ssd-sstc-oceanic-whitetip-e130-512gb-m-2-2280-pcie-nvme-gen-3x4"
+       ],
+       "2.890.000",
+       -3.3
       ]
      ]
     },
@@ -1790,59 +1790,59 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+        "Nguồn máy tính MSI MAG A500N-H 500W",
+        "https://hacom.vn/nguon-may-tinh-msi-mag-a500n-h-500w"
        ],
-       "25.490.000",
-       32.8
+       "1.199.000",
+       90.6
       ],
       [
        [
-        "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen)",
-        "https://www.anphatpc.com.vn/laptop-asus-gaming-v16-v3607vj-tk189w.html"
+        "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
+        "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
        ],
-       "32.990.000",
-       22.2
+       "5.999.000",
+       62.2
       ],
       [
        [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
        ],
-       "30.990.000",
-       14.8
+       "2.349.000",
+       62.1
       ],
       [
        [
-        "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM)",
-        "https://hoanghapc.vn/o-cu-ng-hdd-seagate-ironwolf-pro-24tb"
+        "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-650-650w-80-plus-bronze-atx3.1"
        ],
-       "40.000.000",
-       14.3
+       "1.899.000",
+       58.4
       ],
       [
        [
-        "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7",
-        "https://gearvn.com/products/card-man-hinh-asus-rog-astral-edition-20-geforce-rtx-5090-32gb-gddr7"
+        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
        ],
-       "280.000.000",
-       12.0
+       "1.999.000",
+       52.7
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-7.3%)",
-    "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW: 5.990.000 (-4.2%)",
-    "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW: 5.990.000 (-4.2%)",
-    "Màn hình cảm ứng Corsair XENEON EDGE White LCD 14.5 inch UWHD 60Hz CC-9011311-WW: 5.990.000 (-4.2%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-24.3%)",
+    "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 81.999.000 (-10.9%)",
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 27.990.000 (-9.7%)",
     "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX: 2.690.000 (-3.6%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
-    "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 32.990.000 (+22.2%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
-    "Ổ cứng HDD Seagate IronWolf Pro 24TB (3.5 inch, SATA3, 512MB Cache, 7200RPM): 40.000.000 (+14.3%)",
-    "Card màn hình ASUS ROG Astral EDITION 20 GeForce RTX 5090 32GB GDDR7: 280.000.000 (+12.0%)"
+    "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4): 2.890.000 (-3.3%)",
+    "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
+    "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
+    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 2.349.000 (+62.1%)",
+    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
+    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.999.000 (+52.7%)"
    ]
   },
   {
