@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T04:51:53+00:00",
+ "generated_at": "2026-10-25T11:41:42+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40146668436"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40182850882"
        ],
-       15,
+       7,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40142716821"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40163805968"
        ],
        10,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40161944228"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40187893325"
        ],
        12,
        0,
@@ -61,52 +61,52 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40097523299"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40165211641"
        ],
-       2,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40150579462"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40169108740"
        ],
-       12,
+       7,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40161179286"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40180136917"
        ],
-       10,
+       7,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40150591145"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40169141589"
        ],
-       12,
+       7,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40157147707"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40177365944"
        ],
-       12,
+       7,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40153411306"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40184352742"
        ],
        8,
        0,
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/15 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/7 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/10 lỗi)",
     "house-price-emailer: ✅ bình thường (0/12 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/2 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/12 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/10 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/12 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/12 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/7 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/7 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/7 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/7 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -417,7 +417,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-25 08:25",
+   "as_of": "2026-10-25 13:27",
    "blocks": [
     {
      "type": "tiles",
@@ -1702,14 +1702,6 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "59.999.000",
-       -7.3
-      ],
-      [
-       [
         "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW",
         "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-smoke-lcd-14-5-inch-uwhd-60hz-cc-9011357-ww"
        ],
@@ -1720,6 +1712,14 @@
        [
         "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW",
         "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-crystal-lcd-14-5-inch-uwhd-60hz-cc-9011356-ww"
+       ],
+       "5.990.000",
+       -4.2
+      ],
+      [
+       [
+        "Màn hình cảm ứng Corsair XENEON EDGE White LCD 14.5 inch UWHD 60Hz CC-9011311-WW",
+        "https://memoryzone.com.vn/man-hinh-cam-ung-corsair-xeneon-edge-lcd-14-5-inch-uwhd-60hz-white"
        ],
        "5.990.000",
        -4.2
@@ -1791,9 +1791,9 @@
    "text": [
     "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 24.990.000 (-10.7%)",
     "Laptop gaming Gigabyte Eagle GL6J EAGLE-9MJR2VNF93SH (Ryzen 5 7533HS/ RTX 4050 6GB/ 16GB/ 512GB/ 16\" FHD+/ Win 11): 31.990.000 (-8.6%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-7.3%)",
     "Màn hình cảm ứng Corsair XENEON EDGE Smoke LCD 14.5 inch UWHD 60Hz CC-9011357-WW: 5.990.000 (-4.2%)",
     "Màn hình cảm ứng Corsair XENEON EDGE Crystal LCD 14.5 inch UWHD 60Hz CC-9011356-WW: 5.990.000 (-4.2%)",
+    "Màn hình cảm ứng Corsair XENEON EDGE White LCD 14.5 inch UWHD 60Hz CC-9011311-WW: 5.990.000 (-4.2%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop ASUS Gaming V16 V3607VJ-TK189W (Intel Core 5 210H | RTX 3050 6GB | 16-inch WUXGA | 16GB | 512GB | Windows 11 | Đen): 32.990.000 (+22.2%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
@@ -1806,7 +1806,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-24 13:23",
+   "as_of": "2026-10-25 05:26",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
