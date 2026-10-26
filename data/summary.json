@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:13:50+00:00",
+ "generated_at": "2026-10-26T20:34:17+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40319743382"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40380679216"
        ],
-       7,
+       5,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40272092101"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40329788655"
        ],
        8,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40325064079"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40395373455"
        ],
        10,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40273746236"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40381533070"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40280828750"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40388672744"
        ],
        6,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40287119751"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40345562607"
        ],
-       6,
+       5,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40280850519"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40388680959"
        ],
        6,
        0,
@@ -97,18 +97,18 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40321005891"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40380888469"
        ],
-       7,
+       5,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40317808950"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40372294826"
        ],
-       8,
+       6,
        0,
        "✅ bình thường"
       ],
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/7 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/5 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/8 lỗi)",
     "house-price-emailer: ✅ bình thường (0/10 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/6 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/6 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/5 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/6 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/7 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/5 lỗi)",
+    "9gag-meme-emailer: ✅ bình thường (0/6 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
   },
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-26",
+   "as_of": "2026-10-27",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -223,6 +223,10 @@
         [
          "2026-10-26",
          141700000
+        ],
+        [
+         "2026-10-27",
+         141700000
         ]
        ]
       },
@@ -299,6 +303,10 @@
         ],
         [
          "2026-10-26",
+         141700000
+        ],
+        [
+         "2026-10-27",
          141700000
         ]
        ]
@@ -377,6 +385,10 @@
         [
          "2026-10-26",
          141700000
+        ],
+        [
+         "2026-10-27",
+         141700000
         ]
        ]
       }
@@ -413,7 +425,7 @@
       [
        "DOJI",
        141700000,
-       -0.21
+       0.0
       ]
      ]
     }
@@ -429,7 +441,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-26 13:36",
+   "as_of": "2026-10-27 02:39",
    "blocks": [
     {
      "type": "tiles",
@@ -508,6 +520,10 @@
         [
          "2026-10-26",
          25829.65
+        ],
+        [
+         "2026-10-27",
+         25829.65
         ]
        ]
       },
@@ -583,6 +599,10 @@
         ],
         [
          "2026-10-26",
+         28952.79
+        ],
+        [
+         "2026-10-27",
          28952.79
         ]
        ]
@@ -660,6 +680,10 @@
         [
          "2026-10-26",
          164.65
+        ],
+        [
+         "2026-10-27",
+         164.65
         ]
        ]
       },
@@ -735,6 +759,10 @@
         ],
         [
          "2026-10-26",
+         3868.19
+        ],
+        [
+         "2026-10-27",
          3868.19
         ]
        ]
@@ -812,6 +840,10 @@
         [
          "2026-10-26",
          19.51
+        ],
+        [
+         "2026-10-27",
+         19.51
         ]
        ]
       },
@@ -887,6 +919,10 @@
         ],
         [
          "2026-10-26",
+         34541.64
+        ],
+        [
+         "2026-10-27",
          34541.64
         ]
        ]
@@ -964,6 +1000,10 @@
         [
          "2026-10-26",
          20202.0
+        ],
+        [
+         "2026-10-27",
+         20202.0
         ]
        ]
       },
@@ -1040,6 +1080,10 @@
         [
          "2026-10-26",
          18152.9
+        ],
+        [
+         "2026-10-27",
+         18152.9
         ]
        ]
       }
@@ -1062,7 +1106,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-26 13:36",
+   "as_of": "2026-10-26 20:44",
    "blocks": [
     {
      "type": "tiles",
@@ -1070,8 +1114,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 237700.0,
-       "change_pct": 0.51,
+       "value": 237000.0,
+       "change_pct": 0.21,
        "period": "24h",
        "points": [
         [
@@ -1128,14 +1172,14 @@
         ],
         [
          "2026-10-26",
-         237700.0
+         237000.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 64100.0,
-       "change_pct": -0.31,
+       "value": 63900.0,
+       "change_pct": -0.62,
        "period": "24h",
        "points": [
         [
@@ -1192,14 +1236,14 @@
         ],
         [
          "2026-10-26",
-         64100.0
+         63900.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 56300.0,
-       "change_pct": -0.88,
+       "value": 56100.0,
+       "change_pct": -1.23,
        "period": "24h",
        "points": [
         [
@@ -1256,14 +1300,14 @@
         ],
         [
          "2026-10-26",
-         56300.0
+         56100.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 34050.0,
-       "change_pct": -0.58,
+       "value": 33750.0,
+       "change_pct": -1.46,
        "period": "24h",
        "points": [
         [
@@ -1320,14 +1364,14 @@
         ],
         [
          "2026-10-26",
-         34050.0
+         33750.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 34000.0,
-       "change_pct": -0.58,
+       "value": 33800.0,
+       "change_pct": -1.17,
        "period": "24h",
        "points": [
         [
@@ -1384,14 +1428,14 @@
         ],
         [
          "2026-10-26",
-         34000.0
+         33800.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30750.0,
-       "change_pct": -0.65,
+       "value": 30600.0,
+       "change_pct": -1.13,
        "period": "24h",
        "points": [
         [
@@ -1448,14 +1492,14 @@
         ],
         [
          "2026-10-26",
-         30750.0
+         30600.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 23900.0,
-       "change_pct": -0.83,
+       "value": 23600.0,
+       "change_pct": -2.07,
        "period": "24h",
        "points": [
         [
@@ -1512,14 +1556,14 @@
         ],
         [
          "2026-10-26",
-         23900.0
+         23600.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 80100.0,
-       "change_pct": 2.3,
+       "value": 80500.0,
+       "change_pct": 2.81,
        "period": "24h",
        "points": [
         [
@@ -1576,7 +1620,7 @@
         ],
         [
          "2026-10-26",
-         80100.0
+         80500.0
         ]
        ]
       }
@@ -1606,6 +1650,11 @@
        -14.55
       ],
       [
+       "PRT",
+       8700.0,
+       -13.0
+      ],
+      [
        "VGV",
        57100.0,
        11.09
@@ -1616,27 +1665,22 @@
        10.25
       ],
       [
-       "VIF",
-       14400.0,
-       -10.0
-      ],
-      [
-       "VGR",
-       139800.0,
-       9.91
+       "KOS",
+       7220.0,
+       -6.96
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 237,700.0 (+0.51%)",
-    "VHM: 64,100.0 (-0.31%)",
-    "VCB: 56,300.0 (-0.88%)",
-    "BID: 34,050.0 (-0.58%)",
-    "TCB: 34,000.0 (-0.58%)",
-    "CTG: 30,750.0 (-0.65%)",
-    "VPB: 23,900.0 (-0.83%)",
-    "GAS: 80,100.0 (+2.3%)"
+    "VIC: 237,000.0 (+0.21%)",
+    "VHM: 63,900.0 (-0.62%)",
+    "VCB: 56,100.0 (-1.23%)",
+    "BID: 33,750.0 (-1.46%)",
+    "TCB: 33,800.0 (-1.17%)",
+    "CTG: 30,600.0 (-1.13%)",
+    "VPB: 23,600.0 (-2.07%)",
+    "GAS: 80,500.0 (+2.81%)"
    ]
   },
   {
@@ -1680,6 +1724,11 @@
       ],
       [
        "Vietcombank",
+       5.4,
+       5.4
+      ],
+      [
+       "BIDV",
        5.4,
        5.4
       ]
@@ -1726,7 +1775,8 @@
     "Sacombank: 6.5%",
     "Techcombank: 6.25%",
     "MB Bank: 5.7%",
-    "Vietcombank: 5.4%"
+    "Vietcombank: 5.4%",
+    "BIDV: 5.4%"
    ]
   },
   {
@@ -1756,6 +1806,30 @@
      "rows": [
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "19.290.000",
+       -24.3
+      ],
+      [
+       [
+        "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html"
+       ],
+       "81.999.000",
+       -10.9
+      ],
+      [
+       [
+        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+       ],
+       "27.990.000",
+       -9.7
+      ],
+      [
+       [
         "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX",
         "https://memoryzone.com.vn/ssd-biwin-black-opal-nv7400-512gb-pcie-gen4-x4-nvme-bnv7400512g-rgx"
        ],
@@ -1769,30 +1843,6 @@
        ],
        "2.890.000",
        -3.3
-      ],
-      [
-       [
-        "Màn hình 4K MSI PRO MP273UP E6 IPS 27 inch UHD 60Hz HDR",
-        "https://memoryzone.com.vn/man-hinh-msi-pro-mp273up-e6-ips-27-inch-uhd-60hz-hdr"
-       ],
-       "4.450.000",
-       -0.9
-      ],
-      [
-       [
-        "Màn hình 2K Dell Pro Plus P2725D IPS 27 inch QHD 100Hz",
-        "https://memoryzone.com.vn/man-hinh-2k-dell-pro-plus-p2725d-ips-27-inch-qhd-100hz"
-       ],
-       "6.850.000",
-       -0.6
-      ],
-      [
-       [
-        "Nguồn máy tính Corsair RM850e ATX 3.1 850W Cybenetics Gold CP-9020296-NA",
-        "https://memoryzone.com.vn/nguon-may-tinh-corsair-rm850e-atx-3-1-850w-cybenetics-gold-cp-9020296-na"
-       ],
-       "2.650.000",
-       -0.4
       ]
      ]
     },
@@ -1840,35 +1890,35 @@
       ],
       [
        [
-        "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-gold-750-v3-nm-fr-750w-80-plus-gold-atx3.1"
-       ],
-       "2.349.000",
-       62.1
-      ],
-      [
-       [
         "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1)",
         "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-650-650w-80-plus-bronze-atx3.1"
        ],
        "1.899.000",
        58.4
+      ],
+      [
+       [
+        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
+        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
+       ],
+       "1.999.000",
+       52.7
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-24.3%)",
+    "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 81.999.000 (-10.9%)",
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 27.990.000 (-9.7%)",
     "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX: 2.690.000 (-3.6%)",
     "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4): 2.890.000 (-3.3%)",
-    "Màn hình 4K MSI PRO MP273UP E6 IPS 27 inch UHD 60Hz HDR: 4.450.000 (-0.9%)",
-    "Màn hình 2K Dell Pro Plus P2725D IPS 27 inch QHD 100Hz: 6.850.000 (-0.6%)",
-    "Nguồn máy tính Corsair RM850e ATX 3.1 850W Cybenetics Gold CP-9020296-NA: 2.650.000 (-0.4%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
     "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 3.299.000 (+78.3%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
-    "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 2.349.000 (+62.1%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)"
+    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
+    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.999.000 (+52.7%)"
    ]
   },
   {
@@ -1876,7 +1926,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-26 05:26",
+   "as_of": "2026-10-26 18:57",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
