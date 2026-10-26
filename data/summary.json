@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T04:55:59+00:00",
+ "generated_at": "2026-10-26T05:16:45+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -45,14 +45,14 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40251719896"
        ],
-       7,
+       6,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40244432413"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40272092101"
        ],
        10,
        0,
@@ -126,7 +126,7 @@
    ],
    "text": [
     "reddit-top-post-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
-    "gold-price-emailer: ✅ bình thường (0/7 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/6 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/10 lỗi)",
     "house-price-emailer: ✅ bình thường (0/10 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
@@ -1724,30 +1724,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "19.290.000",
-       -24.3
-      ],
-      [
-       [
-        "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html"
-       ],
-       "81.999.000",
-       -10.9
-      ],
-      [
-       [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
-       ],
-       "27.990.000",
-       -9.7
-      ],
-      [
-       [
         "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX",
         "https://memoryzone.com.vn/ssd-biwin-black-opal-nv7400-512gb-pcie-gen4-x4-nvme-bnv7400512g-rgx"
        ],
@@ -1761,6 +1737,30 @@
        ],
        "2.890.000",
        -3.3
+      ],
+      [
+       [
+        "Màn hình 4K MSI PRO MP273UP E6 IPS 27 inch UHD 60Hz HDR",
+        "https://memoryzone.com.vn/man-hinh-msi-pro-mp273up-e6-ips-27-inch-uhd-60hz-hdr"
+       ],
+       "4.450.000",
+       -0.9
+      ],
+      [
+       [
+        "Màn hình 2K Dell Pro Plus P2725D IPS 27 inch QHD 100Hz",
+        "https://memoryzone.com.vn/man-hinh-2k-dell-pro-plus-p2725d-ips-27-inch-qhd-100hz"
+       ],
+       "6.850.000",
+       -0.6
+      ],
+      [
+       [
+        "Nguồn máy tính Corsair RM850e ATX 3.1 850W Cybenetics Gold CP-9020296-NA",
+        "https://memoryzone.com.vn/nguon-may-tinh-corsair-rm850e-atx-3-1-850w-cybenetics-gold-cp-9020296-na"
+       ],
+       "2.650.000",
+       -0.4
       ]
      ]
     },
@@ -1792,6 +1792,14 @@
       ],
       [
        [
+        "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms)",
+        "https://hacom.vn/man-hinh-asus-vy249hgr"
+       ],
+       "3.299.000",
+       78.3
+      ],
+      [
+       [
         "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
         "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
        ],
@@ -1813,30 +1821,22 @@
        ],
        "1.899.000",
        58.4
-      ],
-      [
-       [
-        "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1)",
-        "https://hacom.vn/nguon-may-tinh-cooler-master-mwe-v3-230v-750-750w-80-plus-bronze-atx3.1"
-       ],
-       "1.999.000",
-       52.7
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-24.3%)",
-    "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 81.999.000 (-10.9%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 27.990.000 (-9.7%)",
     "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX: 2.690.000 (-3.6%)",
     "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4): 2.890.000 (-3.3%)",
+    "Màn hình 4K MSI PRO MP273UP E6 IPS 27 inch UHD 60Hz HDR: 4.450.000 (-0.9%)",
+    "Màn hình 2K Dell Pro Plus P2725D IPS 27 inch QHD 100Hz: 6.850.000 (-0.6%)",
+    "Nguồn máy tính Corsair RM850e ATX 3.1 850W Cybenetics Gold CP-9020296-NA: 2.650.000 (-0.4%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
+    "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 3.299.000 (+78.3%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
     "Nguồn máy tính Cooler Master MWE Gold 750 V3 NM FR - 750W (80 Plus Gold/ATX3.1): 2.349.000 (+62.1%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.999.000 (+52.7%)"
+    "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)"
    ]
   },
   {
