@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T09:07:12+00:00",
+ "generated_at": "2026-10-27T15:24:48+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40465518427"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40512192195"
        ],
        5,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40427516432"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40478872745"
        ],
        6,
        0,
@@ -54,7 +54,7 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40476492487"
        ],
-       8,
+       6,
        0,
        "✅ bình thường"
       ],
@@ -70,7 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40471246992"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40524174008"
        ],
        5,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40455434188"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40491820659"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40471246718"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40524181135"
        ],
        5,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40471834164"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40524537379"
        ],
        5,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40440466268"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40494515297"
        ],
        8,
        0,
@@ -127,7 +127,7 @@
    "text": [
     "gold-price-emailer: ✅ bình thường (0/5 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/6 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/8 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/6 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/5 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/4 lỗi)",
@@ -441,7 +441,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-27 15:06",
+   "as_of": "2026-10-27 21:45",
    "blocks": [
     {
      "type": "tiles",
@@ -1902,14 +1902,6 @@
       ],
       [
        [
-        "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms)",
-        "https://hacom.vn/man-hinh-asus-vy249hgr"
-       ],
-       "3.299.000",
-       78.3
-      ],
-      [
-       [
         "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5",
         "https://hacom.vn/mainboard-asus-tuf-gaming-b650m-e-wifi-ddr5"
        ],
@@ -1931,6 +1923,14 @@
        ],
        "1.999.000",
        52.7
+      ],
+      [
+       [
+        "Mainboard Asus PRIME H610M-K D4",
+        "https://hacom.vn/mainboard-asus-prime-h610m-k-d4"
+       ],
+       "2.399.000",
+       50.0
       ]
      ]
     }
@@ -1943,10 +1943,10 @@
     "SSD Biwin Black Opal NV7400 512GB PCIe Gen4 x4 NVMe BNV7400512G-RGX: 2.690.000 (-3.6%)",
     "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4): 2.890.000 (-3.3%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
-    "Màn hình ASUS VY249HGR (23.8 inch/FHD/IPS/120Hz/1ms): 3.299.000 (+78.3%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
-    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.999.000 (+52.7%)"
+    "Nguồn máy tính Cooler Master MWE V3 230V 750 - 750W (80 Plus Bronze/ATX3.1): 1.999.000 (+52.7%)",
+    "Mainboard Asus PRIME H610M-K D4: 2.399.000 (+50.0%)"
    ]
   },
   {
