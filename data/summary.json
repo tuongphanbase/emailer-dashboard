@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:51:42+00:00",
+ "generated_at": "2026-10-28T06:16:30+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "Tất cả bot chạy bình thường · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,15 @@
      "rows": [
       [
        [
+        "reddit-top-post-emailer",
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
+       ],
+       0,
+       0,
+       "⏸️ không chạy lần nào"
+      ],
+      [
+       [
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40618131428"
        ],
@@ -43,9 +52,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40594804434"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40640956500"
        ],
-       6,
+       8,
        0,
        "✅ bình thường"
       ],
@@ -111,30 +120,21 @@
        8,
        0,
        "✅ bình thường"
-      ],
-      [
-       [
-        "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/40459118497"
-       ],
-       2,
-       0,
-       "✅ bình thường"
       ]
      ]
     }
    ],
    "text": [
+    "reddit-top-post-emailer: ⏸️ không chạy lần nào (0/0 lỗi)",
     "gold-price-emailer: ✅ bình thường (0/5 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/6 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/8 lỗi)",
     "house-price-emailer: ✅ bình thường (0/8 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/2 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/5 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/4 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/5 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/5 lỗi)",
-    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
-    "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
+    "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)"
    ]
   },
   {
