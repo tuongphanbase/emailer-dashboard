@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T01:01:35+00:00",
+ "generated_at": "2026-10-29T06:27:06+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40792236228"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40827405736"
        ],
        5,
        0,
@@ -43,7 +43,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40762924811"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40798155316"
        ],
        6,
        0,
@@ -54,7 +54,7 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40796206607"
        ],
-       8,
+       6,
        0,
        "✅ bình thường"
       ],
@@ -63,7 +63,7 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40745696964"
        ],
-       4,
+       2,
        0,
        "✅ bình thường"
       ],
@@ -72,14 +72,14 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40794608184"
        ],
-       5,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40787406917"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40808140892"
        ],
        4,
        0,
@@ -90,14 +90,14 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40794618914"
        ],
-       5,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40770139569"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40798511993"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40776284376"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40811605355"
        ],
        8,
        0,
@@ -127,11 +127,11 @@
    "text": [
     "gold-price-emailer: ✅ bình thường (0/5 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/6 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/8 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/5 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/6 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/2 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/4 lỗi)",
     "interest-rate-emailer: ✅ bình thường (0/4 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/5 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/4 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
