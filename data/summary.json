@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:20:31+00:00",
+ "generated_at": "2026-10-29T01:01:35+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40714233134"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40792236228"
        ],
-       4,
+       5,
        0,
        "✅ bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40694876353"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40762924811"
        ],
        6,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40761035467"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40796206607"
        ],
        8,
        0,
@@ -70,16 +70,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40717792794"
-       ],
-       4,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
-        "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40750613891"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40794608184"
        ],
        5,
        0,
@@ -87,8 +78,8 @@
       ],
       [
        [
-        "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40717840376"
+        "interest-rate-emailer",
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40787406917"
        ],
        4,
        0,
@@ -96,8 +87,17 @@
       ],
       [
        [
+        "currency-rate-emailer",
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40794618914"
+       ],
+       5,
+       0,
+       "✅ bình thường"
+      ],
+      [
+       [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40723556265"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40770139569"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40737098029"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40776284376"
        ],
        8,
        0,
@@ -125,13 +125,13 @@
     }
    ],
    "text": [
-    "gold-price-emailer: ✅ bình thường (0/4 lỗi)",
+    "gold-price-emailer: ✅ bình thường (0/5 lỗi)",
     "tech-price-mailer: ✅ bình thường (0/6 lỗi)",
     "house-price-emailer: ✅ bình thường (0/8 lỗi)",
     "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/5 lỗi)",
-    "currency-rate-emailer: ✅ bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: ✅ bình thường (0/5 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/4 lỗi)",
+    "currency-rate-emailer: ✅ bình thường (0/5 lỗi)",
     "apps-gone-free-emailer: ✅ bình thường (0/4 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-28",
+   "as_of": "2026-10-29",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -231,6 +231,10 @@
         [
          "2026-10-28",
          142700000
+        ],
+        [
+         "2026-10-29",
+         142700000
         ]
        ]
       },
@@ -315,6 +319,10 @@
         ],
         [
          "2026-10-28",
+         142700000
+        ],
+        [
+         "2026-10-29",
          142700000
         ]
        ]
@@ -401,6 +409,10 @@
         [
          "2026-10-28",
          142700000
+        ],
+        [
+         "2026-10-29",
+         142700000
         ]
        ]
       }
@@ -427,17 +439,17 @@
       [
        "SJC",
        142700000,
-       0.49
+       0.0
       ],
       [
        "PNJ",
        142700000,
-       0.49
+       0.0
       ],
       [
        "DOJI",
        142700000,
-       0.49
+       0.0
       ]
      ]
     }
@@ -453,7 +465,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-28 22:37",
+   "as_of": "2026-10-29 07:31",
    "blocks": [
     {
      "type": "tiles",
@@ -540,6 +552,10 @@
         [
          "2026-10-28",
          25805.82
+        ],
+        [
+         "2026-10-29",
+         25805.82
         ]
        ]
       },
@@ -623,6 +639,10 @@
         ],
         [
          "2026-10-28",
+         28754.51
+        ],
+        [
+         "2026-10-29",
          28754.51
         ]
        ]
@@ -708,6 +728,10 @@
         [
          "2026-10-28",
          163.44
+        ],
+        [
+         "2026-10-29",
+         163.44
         ]
        ]
       },
@@ -791,6 +815,10 @@
         ],
         [
          "2026-10-28",
+         3862.54
+        ],
+        [
+         "2026-10-29",
          3862.54
         ]
        ]
@@ -876,6 +904,10 @@
         [
          "2026-10-28",
          19.45
+        ],
+        [
+         "2026-10-29",
+         19.45
         ]
        ]
       },
@@ -959,6 +991,10 @@
         ],
         [
          "2026-10-28",
+         34359.38
+        ],
+        [
+         "2026-10-29",
          34359.38
         ]
        ]
@@ -1044,6 +1080,10 @@
         [
          "2026-10-28",
          20141.74
+        ],
+        [
+         "2026-10-29",
+         20141.74
         ]
        ]
       },
@@ -1128,6 +1168,10 @@
         [
          "2026-10-28",
          18139.67
+        ],
+        [
+         "2026-10-29",
+         18139.67
         ]
        ]
       }
@@ -1150,7 +1194,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-28 15:52",
+   "as_of": "2026-10-29 07:31",
    "blocks": [
     {
      "type": "tiles",
@@ -1434,8 +1478,8 @@
       },
       {
        "label": "TCB",
-       "value": 33500.0,
-       "change_pct": -0.15,
+       "value": 22333.0,
+       "change_pct": null,
        "period": "24h",
        "points": [
         [
@@ -1501,8 +1545,13 @@
         [
          "2026-10-28",
          33500.0
+        ],
+        [
+         "2026-10-29",
+         22333.0
         ]
-       ]
+       ],
+       "note": "điều chỉnh giá"
       },
       {
        "label": "CTG",
@@ -1773,11 +1822,12 @@
     "VHM: 63,500.0 (-0.94%)",
     "VCB: 57,500.0 (+2.5%)",
     "BID: 33,650.0 (-1.17%)",
-    "TCB: 33,500.0 (-0.15%)",
+    "TCB: 22,333.0 (điều chỉnh giá)",
     "CTG: 30,700.0 (+1.15%)",
     "VPB: 23,500.0 (+1.29%)",
     "GAS: 77,700.0 (-1.52%)"
-   ]
+   ],
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: TCB"
   },
   {
    "id": "interest",
@@ -1912,14 +1962,6 @@
       ],
       [
        [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
-       ],
-       "27.990.000",
-       -9.7
-      ],
-      [
-       [
         "Laptop Acer Swift Air 14 AI SFA14-I31-55NR (Core 5-320/ 12GB/ 512GB/ 14\" FHD+ IPS 120Hz/ Pink/ Win 11)",
         "https://gearvn.com/products/laptop-acer-swift-air-14-ai-sfa14-i31-55nr-core-5-320-12gb-512gb-14-fhd-ips-120hz-pink-win-11"
        ],
@@ -1928,11 +1970,19 @@
       ],
       [
        [
-        "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4)",
-        "https://gearvn.com/products/o-cung-ssd-sstc-oceanic-whitetip-e130-512gb-m-2-2280-pcie-nvme-gen-3x4"
+        "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
        ],
-       "2.890.000",
-       -3.3
+       "27.990.000",
+       -2.4
+      ],
+      [
+       [
+        "SSD Western Digital Blue SN5100 500GB PCIe Gen4 x4 NVMe M.2 WDS500G5B0E",
+        "https://memoryzone.com.vn/ssd-western-digital-blue-sn5100-500gb-pcie-gen4-x4-nvme-m-2-wds500g5b0e"
+       ],
+       "2.790.000",
+       -2.1
       ]
      ]
     },
@@ -2001,9 +2051,9 @@
    "text": [
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-24.3%)",
     "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 81.999.000 (-10.9%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 27.990.000 (-9.7%)",
     "Laptop Acer Swift Air 14 AI SFA14-I31-55NR (Core 5-320/ 12GB/ 512GB/ 14\" FHD+ IPS 120Hz/ Pink/ Win 11): 23.990.000 (-4.0%)",
-    "Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4): 2.890.000 (-3.3%)",
+    "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 27.990.000 (-2.4%)",
+    "SSD Western Digital Blue SN5100 500GB PCIe Gen4 x4 NVMe M.2 WDS500G5B0E: 2.790.000 (-2.1%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
