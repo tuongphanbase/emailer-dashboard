@@ -46,21 +46,21 @@ def health(opt):
             runs = [r for r in fetch_runs(name, since, owner=owner) if r.get("status") == "completed"]
         except Exception as e:  # one repo the API refuses must not hide the rest
             errors.append(name)
-            rows.append((2, [[name, f"https://github.com/{owner}/{name}/actions"], None, None, f"⚠️ không đọc được ({e})"]))
+            rows.append((2, [[name, f"https://github.com/{owner}/{name}/actions"], None, None, f"không đọc được ({e})"]))
             continue
         failed = [r for r in runs if r.get("conclusion") in ("failure", "timed_out", "startup_failure")]
         main_runs = [r for r in runs if r.get("path", "").endswith("/" + repo.get("workflow", ""))]
         if failed:
             latest = failed[0]
-            status = f"❌ {latest.get('name', '')} lỗi lúc {_local_time(latest.get('created_at'))}"
+            status = f"{latest.get('name', '')} lỗi lúc {_local_time(latest.get('created_at'))}"
             link = latest.get("html_url") or f"https://github.com/{owner}/{name}/actions"
             rank = 0
             bad += 1
         elif not main_runs:
-            status, link, rank = "⏸️ không chạy lần nào", f"https://github.com/{owner}/{name}/actions", 1
+            status, link, rank = "không chạy lần nào", f"https://github.com/{owner}/{name}/actions", 1
             bad += 1
         else:
-            status, link, rank = "✅ bình thường", main_runs[0].get("html_url") or "", 3
+            status, link, rank = "bình thường", main_runs[0].get("html_url") or "", 3
         rows.append((rank, [[name, link], len(runs), len(failed), status]))
     rows = [r for _, r in sorted(rows, key=lambda x: x[0])]
     note = (f"{bad} bot cần xem lại" if bad else "Tất cả bot chạy bình thường") + f" · {hours} giờ qua"
