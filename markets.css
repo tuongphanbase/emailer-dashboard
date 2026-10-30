@@ -1,10 +1,10 @@
 /* ---------- Markets (charts from data/summary.json) ---------- */
 :root{
-  --series-1:#1F5ED6; --series-2:#D9622B; --series-3:#12936B; --series-4:#7A52C7; --series-5:#B98A0C;
+  --series-1:#3B5BDB; --series-2:#D9622B; --series-3:#12936B; --series-4:#7A52C7; --series-5:#B98A0C;
   --spark:#9AA0AA; --grid:#ECEEF1; --axis:#C9CDD3;
 }
 html[data-theme="dark"]{
-  --series-1:#6B9BF0; --series-2:#E4824F; --series-3:#3DBF8F; --series-4:#A58BEA; --series-5:#D9B13F;
+  --series-1:#8497F0; --series-2:#E4824F; --series-3:#3DBF8F; --series-4:#A58BEA; --series-5:#D9B13F;
   --spark:#6E747E; --grid:#262A30; --axis:#3D424A;
 }
 .markets{margin-top:36px;}

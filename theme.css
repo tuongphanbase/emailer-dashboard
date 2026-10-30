@@ -9,11 +9,11 @@
 
   --text:          #1D2129;
   --text-secondary:#596170;
-  --text-tertiary: #7E8592;
+  --text-tertiary: #6E7581;
 
-  --brand:         #1F5ED6;
-  --brand-dark:    #174BB0;
-  --brand-tint:    #EBF1FC;
+  --brand:         #3B5BDB;  /* Rework's accent, as noted from their product screenshots */
+  --brand-dark:    #2F4AC0;
+  --brand-tint:    #EDF0FC;
   --success:       #1A7F4B;
   --success-tint:  #E5F3EB;
   --danger:        #C6362B;
@@ -21,17 +21,17 @@
   --warning:       #9A5B06;
   --warning-tint:  #FCF2DF;
 
-  --cat-price:    #1F5ED6;
+  --cat-price:    #3B5BDB;
   --cat-finance:  #0F7B6C;
   --cat-social:   #B4540A;
 
   --radius-sm: 4px;
   --radius-md: 6px;
   --radius-lg: 8px;
-  --radius-pill: 4px;
+  --radius-pill: 999px;
 
   --shadow-card: none;
-  --focus-ring: rgba(31,94,214,.18);
+  --focus-ring: rgba(59,91,219,.18);
 
   --font-display: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-body:    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -48,9 +48,9 @@ html[data-theme="dark"]{
   --text-secondary:#A3A9B3;
   --text-tertiary: #858B96;
 
-  --brand:         #6B9BF0;
-  --brand-dark:    #8EB3F4;
-  --brand-tint:    #1E2A40;
+  --brand:         #8497F0;
+  --brand-dark:    #A3B2F4;
+  --brand-tint:    #20263F;
   --success:       #4CC38A;
   --success-tint:  #17301F;
   --danger:        #EC6A5E;
@@ -58,11 +58,11 @@ html[data-theme="dark"]{
   --warning:       #E0A43B;
   --warning-tint:  #33270F;
 
-  --cat-price:    #6B9BF0;
+  --cat-price:    #8497F0;
   --cat-finance:  #3DBFA9;
   --cat-social:   #E39A55;
 
-  --focus-ring: rgba(107,155,240,.25);
+  --focus-ring: rgba(132,151,240,.25);
 }
 
 /* ---------- Base ---------- */
@@ -146,10 +146,10 @@ a{color:var(--brand);}
 .range-tabs button:hover{color:var(--text);background:var(--surface-alt);}
 .range-tabs button[aria-pressed="true"]{color:var(--brand);background:var(--brand-tint);font-weight:600;}
 
-/* Status tag: tinted rectangle */
+/* Status tag: small pastel pill */
 .tag{
   display:inline-block;font-size:12px;font-weight:500;line-height:20px;
-  padding:0 8px;border-radius:var(--radius-sm);white-space:nowrap;
+  padding:0 9px;border-radius:var(--radius-pill);white-space:nowrap;
   background:var(--surface-alt);color:var(--text-secondary);
 }
 .tag.success{background:var(--success-tint);color:var(--success);}

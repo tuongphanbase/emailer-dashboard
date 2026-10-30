@@ -105,18 +105,21 @@ def fmt_num(v, decimals=0):
 
 def fmt_change(pct, note=None):
     if pct is None:
-        return f'<span style="color:#888;">{escape(note or "—")}</span>'
+        return f'<span style="color:#6E7581;">{escape(note or "—")}</span>'
     if pct > 0:
-        return f'<span style="color:#1E8A4C;">&#9650; {pct:+.2f}%</span>'
+        return f'<span style="color:#1A7F4B;">&#9650; {pct:+.2f}%</span>'
     if pct < 0:
-        return f'<span style="color:#C13C30;">&#9660; {pct:+.2f}%</span>'
-    return '<span style="color:#888;">0,00%</span>'
+        return f'<span style="color:#C6362B;">&#9660; {pct:+.2f}%</span>'
+    return '<span style="color:#6E7581;">0,00%</span>'
 
 
-TH = 'style="text-align:left; padding:6px 8px; font-size:12px; color:#6E7178; font-weight:600; border-bottom:1px solid #E1E1E4;"'
+# Email look shared by all the bots: system fonts, neutral greys, one blue accent
+# (the same colours as theme.css).
+FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif"
+TH = 'style="text-align:left; padding:7px 10px; font-size:12px; color:#596170; font-weight:600; background:#F7F8FA; border-bottom:1px solid #E2E4E8;"'
 THR = TH.replace('text-align:left;', 'text-align:right;')
-TD = 'style="padding:6px 8px; font-size:14px; color:#17181A; border-bottom:1px solid #F0F0F2;"'
-TDR = 'style="padding:6px 8px; font-size:14px; color:#17181A; border-bottom:1px solid #F0F0F2; text-align:right; white-space:nowrap;"'
+TD = 'style="padding:7px 10px; font-size:13px; color:#1D2129; border-bottom:1px solid #E2E4E8;"'
+TDR = 'style="padding:7px 10px; font-size:13px; color:#1D2129; border-bottom:1px solid #E2E4E8; text-align:right; white-space:nowrap;"'
 
 
 def email_table(headers, rows, right_cols=()):
@@ -125,17 +128,17 @@ def email_table(headers, rows, right_cols=()):
         "<tr>" + "".join(f"<td {TDR if i in right_cols else TD}>{c}</td>" for i, c in enumerate(r)) + "</tr>"
         for r in rows)
     return (f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
-            f'style="border-collapse:collapse; margin:6px 0 4px;"><tr>{head}</tr>{body}</table>')
+            f'style="border-collapse:collapse; margin:6px 0 4px; border:1px solid #E2E4E8;"><tr>{head}</tr>{body}</table>')
 
 
 def email_section(title, inner, note=None):
-    note_html = f'<div style="font-size:12px; color:#888; margin-top:4px;">{escape(note)}</div>' if note else ""
-    return (f'<div style="background:#fff; border:1px solid #E1E1E4; border-radius:12px; padding:16px; margin:12px 0;">'
-            f'<h2 style="margin:0 0 6px; font-size:16px; color:#17181A;">{title}</h2>{inner}{note_html}</div>')
+    note_html = f'<div style="font-size:12px; color:#6E7581; margin-top:6px;">{escape(note)}</div>' if note else ""
+    return (f'<div style="background:#FFFFFF; border:1px solid #E2E4E8; border-radius:8px; padding:14px 16px; margin:12px 0;">'
+            f'<h2 style="margin:0 0 6px; font-size:15px; font-weight:600; color:#1D2129;">{title}</h2>{inner}{note_html}</div>')
 
 
 def unavailable(s):
-    return f'<p style="color:#888; font-size:13px; margin:4px 0;">Chưa có dữ liệu ({escape(s.get("reason", "?"))}).</p>'
+    return f'<p style="color:#6E7581; font-size:13px; margin:4px 0;">Chưa có dữ liệu ({escape(s.get("reason", "?"))}).</p>'
 
 
 def fmt_cell(value, kind):
@@ -144,7 +147,7 @@ def fmt_cell(value, kind):
         return fmt_change(value)
     if kind == "link":
         text, url = (value + ["", ""])[:2] if isinstance(value, list) else (value, "")
-        return f'<a href="{escape(url)}" style="color:#17181A;">{escape(str(text))}</a>' if url else escape(str(text))
+        return f'<a href="{escape(url)}" style="color:#1D2129;">{escape(str(text))}</a>' if url else escape(str(text))
     if kind == "num" and isinstance(value, (int, float)):
         return fmt_num(value, 2 if abs(value) < 100 and value != int(value) else 0)
     return escape(str(value)) if value not in (None, "") else "—"
@@ -157,7 +160,7 @@ def block_html(block):
     if kind == "table":
         cols = block["columns"]
         right = tuple(i for i, c in enumerate(cols) if c["kind"] in ("num", "change"))
-        cap = f'<div style="font-size:13px; color:#6E7178; margin-top:8px;">{escape(block["caption"])}:</div>' if block.get("caption") else ""
+        cap = f'<div style="font-size:13px; font-weight:600; color:#596170; margin-top:8px;">{escape(block["caption"])}</div>' if block.get("caption") else ""
         return cap + email_table([c["label"] for c in cols],
                                  [[fmt_cell(v, c["kind"]) for v, c in zip(r, cols)] for r in block["rows"]], right)
     if kind == "tiles":
@@ -170,13 +173,13 @@ def block_html(block):
 def build_email(summary):
     parts, text = [], []
     for s in summary.get("sections", []):
-        title = f'{escape(s.get("icon") or "")} {escape(s["title"])}'.strip()
+        title = escape(s["title"])  # section icons are not drawn: headings stay plain text
         if not s.get("ok"):
             parts.append(email_section(title, unavailable(s)))
             continue
         inner = "".join(block_html(b) for b in s.get("blocks", []))
         if not inner:
-            inner = f'<p style="color:#888; font-size:13px; margin:4px 0;">{escape(s.get("empty_text") or "Không có gì mới.")}</p>'
+            inner = f'<p style="color:#6E7581; font-size:13px; margin:4px 0;">{escape(s.get("empty_text") or "Không có gì mới.")}</p>'
         note = " · ".join(x for x in (s.get("note"), f"Cập nhật {s['as_of']}" if s.get("as_of") else None) if x)
         parts.append(email_section(title, inner, note or None))
         text += [s["title"].upper()] + [f"  {line}" for line in s.get("text", [])] + [""]
@@ -184,13 +187,13 @@ def build_email(summary):
     now = datetime.now(TZ)
     dashboard = os.environ.get("DASHBOARD_URL") or f"https://{OWNER}.github.io/emailer-dashboard/"
     html = f"""\
-<html><head><meta charset="utf-8"></head><body style="margin:0; padding:20px; background:#F6F6F7; font-family:Arial,Helvetica,sans-serif;">
+<html><head><meta charset="utf-8"></head><body style="margin:0; padding:24px 12px; background:#F4F5F7; font-family:{FONT}; color:#1D2129;">
 <div style="max-width:640px; margin:0 auto;">
-<h1 style="font-size:20px; color:#17181A; margin:0 0 4px;">Tổng hợp buổi sáng</h1>
-<div style="font-size:13px; color:#6E7178;">{now.strftime('%d/%m/%Y')}</div>
+<div style="font-size:20px; font-weight:600; line-height:1.3; color:#1D2129;">Tổng hợp buổi sáng</div>
+<div style="font-size:13px; color:#596170; margin-top:2px;">{now.strftime('%d/%m/%Y')}</div>
 {''.join(parts)}
-<p style="font-size:12px; color:#888;">Xem biểu đồ: <a href="{escape(dashboard)}">{escape(dashboard)}</a> ·
-<a href="{escape(dashboard)}prices.html">Giá hôm nay</a></p>
+<p style="font-size:12px; color:#6E7581;">Xem biểu đồ: <a href="{escape(dashboard)}" style="color:#3B5BDB;">{escape(dashboard)}</a> ·
+<a href="{escape(dashboard)}prices.html" style="color:#3B5BDB;">Giá hôm nay</a></p>
 </div></body></html>"""
     subject = f"Tổng hợp buổi sáng - {now.strftime('%d/%m/%Y')}"
     return subject, html, "\n".join([subject, ""] + text + [f"Biểu đồ: {dashboard}"])
