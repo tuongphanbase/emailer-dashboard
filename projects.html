@@ -11,66 +11,77 @@
     document.documentElement.setAttribute('data-theme', t || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
   })();
 </script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="theme.css">
 <style>
-  *{box-sizing:border-box;}
-  body{margin:0;background:var(--canvas);color:var(--text);font-family:var(--font-body);}
-  main{max-width:1100px;margin:0 auto;padding:36px 16px 56px;}
-  h1{font-family:var(--font-display);font-size:34px;letter-spacing:-.03em;margin:0 0 6px;}
-  .lead{color:var(--text-secondary);margin:0 0 28px;font-size:15px;}
-  h2{font-family:var(--font-display);font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--text-tertiary);margin:30px 0 12px;}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:12px;}
-  .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);padding:16px 18px;display:flex;flex-direction:column;gap:8px;box-shadow:var(--shadow-card);}
-  .card-top{display:flex;gap:12px;align-items:center;}
-  .icon{width:40px;height:40px;flex:none;border-radius:10px;display:grid;place-items:center;font-size:20px;background:var(--surface-alt);}
-  .card h3{margin:0;font-size:16px;}
-  .card p{margin:0;font-size:13.5px;line-height:1.5;color:var(--text-secondary);flex:1;}
-  .links{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px;}
-  .links a{font-size:13px;text-decoration:none;border-radius:var(--radius-pill);padding:5px 12px;border:1px solid var(--border);color:var(--text);}
-  .links a.primary{background:var(--text);color:var(--bg);border-color:var(--text);}
-  .links a:hover{border-color:var(--text-tertiary);}
-  nav.top{display:flex;gap:8px;margin-bottom:22px;}
-  nav.top a{font-size:13px;color:var(--text-secondary);text-decoration:none;border:1px solid var(--border);border-radius:var(--radius-pill);padding:5px 11px;background:var(--bg);}
-  .error{color:var(--danger);}
+  main{max-width:1100px;margin:0 auto;padding:20px 24px 56px;}
+  h2{font-size:15px;font-weight:600;margin:28px 0 8px;}
+  h2 .n{font-weight:400;color:var(--text-tertiary);margin-left:6px;}
+  .list{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;}
+  .item{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 24px;align-items:center;padding:12px 16px;border-bottom:1px solid var(--border);}
+  .item:last-child{border-bottom:none;}
+  .item:hover{background:var(--surface-alt);}
+  .item h3{margin:0;font-size:14px;font-weight:600;}
+  .item p{margin:2px 0 0;font-size:13px;line-height:1.5;color:var(--text-secondary);}
+  .links{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;}
+  .links a.main{color:var(--brand);font-weight:600;}
+  .error{color:var(--danger);padding:12px 16px;margin:0;}
+  @media (max-width:640px){
+    main{padding:16px 16px 40px;}
+    .item{grid-template-columns:1fr;}
+    .links{justify-content:flex-start;}
+  }
 </style>
 </head>
 <body>
-<main>
-  <nav class="top" aria-label="Trang khác">
-    <a href="./">Bảng điều khiển</a>
+<header class="appbar">
+  <a class="appbar-name" href="./">tuongphanbase</a>
+  <nav class="appbar-tabs" aria-label="Trang">
+    <a href="./">Bot</a>
     <a href="prices.html">Giá hôm nay</a>
+    <a href="projects.html" aria-current="page">Dự án</a>
   </nav>
-  <h1>Dự án</h1>
-  <p class="lead">Các trang web và bot tự động gửi email. Danh sách lấy từ <code>config.json</code> → <code>projects</code>.</p>
-  <h2>Trang web</h2>
-  <div class="grid" id="sites"></div>
-  <h2>Bot gửi email</h2>
-  <div class="grid" id="bots"></div>
+</header>
+<main>
+  <div class="page-head">
+    <div>
+      <h1>Dự án</h1>
+      <div class="page-sub">Các trang web và bot tự động gửi email.</div>
+    </div>
+  </div>
+  <h2>Trang web<span class="n" id="sitesCount"></span></h2>
+  <div class="list" id="sites"></div>
+  <h2>Bot gửi email<span class="n" id="botsCount"></span></h2>
+  <div class="list" id="bots"></div>
 </main>
 <script>
   const el = (tag, cls, text) => { const n = document.createElement(tag); if(cls) n.className = cls; if(text != null) n.textContent = text; return n; };
-  function link(text, href, primary){ const a = el('a', primary ? 'primary' : null, text); a.href = href; return a; }
+  function link(text, href, primary){ const a = el('a', primary ? 'btn btn-sm main' : 'btn btn-sm', text); a.href = href; return a; }
 
-  function card(p, owner){
+  function item(p, owner){
     const pages = `https://${owner}.github.io/${p.repo}/`;
     const repo = `https://github.com/${owner}/${p.repo}`;
-    const c = el('article', 'card');
-    const top = el('div', 'card-top');
-    top.append(el('div', 'icon', p.icon || '•'), el('h3', null, p.title || p.repo));
+    const row = el('article', 'item');
+    const text = el('div');
+    text.append(el('h3', null, p.title || p.repo), el('p', null, p.description || ''));
     const links = el('div', 'links');
     if(p.kind === 'site') links.append(link('Mở', p.repo === 'emailer-dashboard' ? './' : pages, true));
     else if(p.pages) links.append(link('Bảng giá', pages, true));
-    (p.links || []).forEach(([text, href]) => links.append(link(text, href)));
+    (p.links || []).forEach(([label, href]) => links.append(link(label, href)));
     links.append(link('Mã nguồn', repo));
-    c.append(top, el('p', null, p.description || ''), links);
-    return c;
+    row.append(text, links);
+    return row;
   }
 
   fetch('config.json?_=' + Date.now()).then(r => r.json()).then(cfg => {
     const owner = cfg.owner;
-    (cfg.projects || []).forEach(p => document.getElementById(p.kind === 'site' ? 'sites' : 'bots').appendChild(card(p, owner)));
+    const counts = {sites: 0, bots: 0};
+    (cfg.projects || []).forEach(p => {
+      const where = p.kind === 'site' ? 'sites' : 'bots';
+      counts[where]++;
+      document.getElementById(where).appendChild(item(p, owner));
+    });
+    document.getElementById('sitesCount').textContent = counts.sites;
+    document.getElementById('botsCount').textContent = counts.bots;
   }).catch(e => {
     document.getElementById('sites').appendChild(el('p', 'error', `Không đọc được config.json (${e.message}).`));
   });

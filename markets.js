@@ -261,9 +261,9 @@
       dialog.addEventListener('close', () => dialog.replaceChildren());
     }
     const head = el('div', 'm-dialog-head');
-    head.append(el('h2', null, `${section.icon || ''} ${section.title}`.trim()),
+    head.append(el('h2', null, section.title),
       toolButton('CSV', 'Tải dữ liệu CSV', () => downloadCsv(block, section.id)),
-      toolButton('✕', 'Đóng', () => dialog.close()));
+      toolButton('Đóng', 'Đóng', () => dialog.close()));
     const body = el('div', 'm-dialog-body');
     dialog.replaceChildren(head, body);
     dialog.showModal();
@@ -325,7 +325,7 @@
     if(!large){
       const tools = el('div', 'm-tools');
       tools.append(toolButton('CSV', 'Tải dữ liệu CSV', () => downloadCsv(block, section.id)));
-      if(block.type !== 'table' || block.rows.length > 0) tools.append(toolButton('⤢', 'Phóng to', () => openLarge(section, block)));
+      if(block.type !== 'table' || block.rows.length > 0) tools.append(toolButton('Mở rộng', 'Xem lớn', () => openLarge(section, block)));
       wrap.appendChild(tools);
     }
     fn(wrap, section, block, large);
@@ -336,9 +336,13 @@
   function renderSection(container, s){
     const card = el('div', 'm-card');
     card.id = `m-${s.id}`;
-    card.appendChild(el('h2', null, `${s.icon || ''} ${s.title}`.trim()));
+    const head = el('div', 'm-card-head');
+    const titles = el('div');
+    titles.appendChild(el('h2', null, s.title));
     const note = [s.note, s.as_of ? `cập nhật ${s.as_of}` : null].filter(Boolean).join(' · ');
-    if(note) card.appendChild(el('p', 'm-note', note));
+    if(note) titles.appendChild(el('p', 'm-note', note));
+    head.appendChild(titles);
+    card.appendChild(head);
     const body = el('div', 'm-body');
     card.appendChild(body);
     container.appendChild(card);

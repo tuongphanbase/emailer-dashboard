@@ -1,405 +1,239 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fleet — tuongphanbase</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<title>Bot gửi email</title>
 <link rel="stylesheet" href="theme.css">
 <link rel="stylesheet" href="markets.css">
 <style>
-
-html[data-theme="dark"] .avatar.price{background:rgba(91,141,239,.16);}
-html[data-theme="dark"] .avatar.finance{background:rgba(167,139,250,.16);}
-html[data-theme="dark"] .avatar.social{background:rgba(244,114,182,.16);}
-html[data-theme="dark"] .status-pill.success{background:rgba(52,199,123,.15);}
-html[data-theme="dark"] .status-pill.failure{background:rgba(224,87,74,.15);}
-
-/* ---------- Reset & accessibility base ---------- */
-*{box-sizing:border-box;}
-:focus-visible{outline:2px solid var(--text);outline-offset:2px;}
-@media (prefers-reduced-motion: reduce){
-  *{animation-duration:.001ms !important;transition-duration:.001ms !important;}
-}
-body{
-  margin:0;
-  background:var(--canvas);
-  color:var(--text);
-  font-family:var(--font-body);
-  -webkit-font-smoothing:antialiased;
-}
-@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.3;}}
-
-/* ---------- Topbar ---------- */
-.topbar{
-  display:flex;
-  align-items:center;
-  gap:14px;
-  padding:12px 24px;
-  background:var(--bg);
-  border-bottom:1px solid var(--border);
-  position:sticky;
-  top:0;
-  z-index:10;
-  flex-wrap:wrap;
-}
-.brand{display:flex;align-items:center;gap:9px;flex-shrink:0;}
-.brand-icon{color:var(--brand);flex-shrink:0;}
-.brand-name{font-family:var(--font-display);font-weight:700;font-size:16.5px;letter-spacing:-0.01em;}
-.topbar-search{
-  display:flex;align-items:center;gap:8px;
-  background:var(--canvas);
-  border:1px solid var(--border);
-  border-radius:var(--radius-md);
-  padding:8px 12px;
-  flex:1;max-width:320px;min-width:140px;
-}
-.topbar-search svg{color:var(--text-tertiary);flex-shrink:0;}
-.topbar-search input{
-  border:none;background:transparent;outline:none;
-  font-family:var(--font-body);font-size:13px;color:var(--text);width:100%;
-}
-.topbar-search input::placeholder{color:var(--text-tertiary);}
-.kbd-hint{
-  font-family:var(--font-body);font-size:10px;color:var(--text-tertiary);
-  background:var(--surface-alt);border:1px solid var(--border);
-  border-radius:4px;padding:1px 5px;flex-shrink:0;
-}
-.topbar-search:focus-within .kbd-hint{display:none;}
-.topbar-right{margin-left:auto;display:flex;align-items:center;gap:16px;}
-.theme-toggle{
-  background:none;border:none;cursor:pointer;color:var(--text-secondary);
-  display:flex;align-items:center;padding:4px;border-radius:6px;transition:.15s;
-}
-.theme-toggle:hover{color:var(--text);background:var(--canvas);}
-.topbar-link{font-family:var(--font-body);font-size:12px;color:var(--text-secondary);text-decoration:none;}
-.topbar-link:hover{color:var(--text);}
-
 /* ---------- Shell: sidebar + main ---------- */
-.app-shell{display:flex;}
-.sidebar{width:220px;flex-shrink:0;padding:32px 16px;position:sticky;top:57px;border-right:1px solid var(--border);background:var(--canvas);}
-.sidebar-label{
-  font-family:var(--font-body);font-size:10.5px;color:var(--text-tertiary);
-  text-transform:uppercase;letter-spacing:.08em;padding:0 12px;margin-bottom:8px;
+.app-shell{display:flex;align-items:flex-start;}
+.sidebar{
+  width:232px;flex-shrink:0;align-self:stretch;
+  padding:16px 12px;background:var(--bg);border-right:1px solid var(--border);
+  min-height:calc(100vh - 52px);
 }
-.sidebar-section + .sidebar-section{border-top:1px solid var(--border);margin-top:20px;padding-top:20px;}
-summary.sidebar-label{
-  cursor:pointer;list-style:none;
-  display:flex;align-items:center;justify-content:space-between;
-}
-summary.sidebar-label::-webkit-details-marker{display:none;}
-summary.sidebar-label::marker{content:'';}
-.chevron{color:var(--text-tertiary);transition:transform .15s;flex-shrink:0;}
-details[open] > summary .chevron{transform:rotate(90deg);}
+.sidebar-section + .sidebar-section{margin-top:20px;}
+.sidebar-label{font-size:12px;font-weight:600;color:var(--text-tertiary);padding:0 8px;margin:0 0 6px;}
 .nav-item{
-  display:flex;align-items:center;gap:10px;
-  padding:9px 12px;border-radius:10px;
-  font-size:13.5px;font-weight:500;color:var(--text-secondary);
-  cursor:pointer;transition:.15s;text-decoration:none;
+  display:flex;align-items:center;gap:8px;
+  height:32px;padding:0 8px;border-radius:var(--radius-md);
+  font-size:13.5px;color:var(--text-secondary);cursor:pointer;text-decoration:none;user-select:none;
 }
-.nav-item:hover{background:var(--bg);color:var(--text);}
-.nav-item .dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;background:var(--text-tertiary);}
+.nav-item:hover{background:var(--surface-alt);color:var(--text);}
+.nav-item .dot{width:8px;height:8px;border-radius:2px;flex-shrink:0;background:var(--text-tertiary);}
 .nav-item.price .dot{background:var(--cat-price);}
 .nav-item.finance .dot{background:var(--cat-finance);}
 .nav-item.social .dot{background:var(--cat-social);}
-.nav-item.active{background:var(--brand);color:#fff;}
-.nav-item.active .dot{background:#fff;}
-.nav-item .count{margin-left:auto;font-family:var(--font-body);font-size:11px;color:var(--text-tertiary);}
-.nav-item.active .count{color:rgba(255,255,255,.7);}
+.nav-item.active{background:var(--brand-tint);color:var(--brand);font-weight:600;}
+.nav-item .count{margin-left:auto;font-size:12px;color:var(--text-tertiary);font-variant-numeric:tabular-nums;}
+.nav-item.active .count{color:var(--brand);}
 
-.sidebar-token{padding:0 12px;}
+.sidebar-token{padding:0 8px;}
+.sidebar-token label{display:block;font-size:12px;color:var(--text-secondary);margin-bottom:4px;}
+.side-actions{display:flex;gap:6px;margin-top:8px;}
+.side-actions .btn{flex:1;}
+.side-help{font-size:12px;color:var(--text-tertiary);margin:8px 0 0;line-height:1.45;}
 
-.main-content{flex:1;min-width:0;background:var(--bg);}
-.wrap{padding:40px 24px 60px;}
+.main-content{flex:1;min-width:0;}
+.wrap{padding:20px 24px 56px;max-width:1240px;}
 
-/* ---------- Page header ---------- */
-header{margin-bottom:28px;}
-h1{
-  font-family:var(--font-display);font-weight:700;font-size:20px;line-height:1.3;
-  margin:0;letter-spacing:-0.01em;color:var(--text);
-}
-.header-count{font-weight:400;font-size:14px;color:var(--text-tertiary);margin-left:4px;}
+.search{width:240px;}
 
-.token-box{
-  display:flex;align-items:center;gap:8px;
-  background:var(--canvas);border:1px solid var(--border);border-radius:var(--radius-md);
-  padding:10px 14px;width:100%;transition:border-color .15s, box-shadow .15s;
-}
-.token-box:focus-within{border-color:var(--text);box-shadow:0 0 0 3px var(--focus-ring);}
-.token-box input{border:none;background:transparent;outline:none;color:var(--text);font-family:var(--font-body);font-size:12.5px;width:100%;}
-.token-box input::placeholder{color:var(--text-tertiary);}
-.token-box label{font-family:var(--font-body);font-size:11px;color:var(--text-secondary);white-space:nowrap;}
-.side-actions{display:flex;gap:8px;margin-top:10px;}
-.side-actions button.ghost{flex:1;}
-.rate{font-family:var(--font-body);font-size:11px;color:var(--text-tertiary);margin:12px 4px 0;}
-
-button.ghost{
-  background:var(--bg);border:1px solid var(--border);color:var(--text-secondary);
-  font-family:var(--font-body);font-size:12px;padding:10px 16px;
-  border-radius:var(--radius-pill);cursor:pointer;transition:.15s;
-}
-button.ghost:hover{border-color:var(--text);color:var(--text);}
-button.ghost:active{background:var(--surface-alt);}
-
-/* ---------- Filter tabs (mobile fallback for the sidebar) ---------- */
-.filter-tabs{display:none;gap:6px;margin-bottom:20px;flex-wrap:wrap;}
-.tab{
-  font-family:var(--font-body);font-size:13px;font-weight:600;
-  background:transparent;border:1px solid transparent;color:var(--text-secondary);
-  padding:8px 14px;border-radius:var(--radius-sm);cursor:pointer;transition:.15s;
-}
-.tab:hover{color:var(--text);}
-.tab.active{background:var(--brand);color:#fff;}
-
-/* ---------- Bot list (genuine table, not cards) ---------- */
-
-.empty-state{
-  display:none;text-align:center;padding:52px 24px;
-  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);
+/* ---------- Filter tabs (mobile replacement for the sidebar) ---------- */
+.filter-tabs{display:none;gap:6px;margin-bottom:12px;overflow-x:auto;}
+.filter-tabs .tab{
   font-family:var(--font-body);font-size:13px;color:var(--text-secondary);
+  background:var(--bg);border:1px solid var(--border-strong);border-radius:var(--radius-md);
+  height:30px;padding:0 12px;cursor:pointer;white-space:nowrap;
 }
-.empty-state .detail{color:var(--text);font-weight:600;}
-.empty-state .clear-btn{
-  display:inline-block;margin-top:14px;padding:4px;
-  font-family:var(--font-body);font-size:12px;color:var(--text);
-  text-decoration:underline;cursor:pointer;background:none;border:none;
-}
+.filter-tabs .tab.active{color:var(--brand);background:var(--brand-tint);border-color:var(--brand);font-weight:600;}
 
-.table-card{
-  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);
-  box-shadow:var(--shadow-card);overflow:hidden;
-}
+/* ---------- Bot table ---------- */
+.table-card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;}
+.table-scroll{overflow-x:auto;}
+.board-wrap{min-width:760px;}
+.table-head, .row{display:grid;grid-template-columns:minmax(220px,2.4fr) 110px 110px 120px 110px 76px;gap:16px;align-items:center;padding:0 16px;}
 .table-head{
-  display:grid;grid-template-columns:2.2fr 1fr 1fr 1.3fr 90px 100px;gap:16px;
-  padding:13px 20px;border-bottom:1px solid var(--border);
-  font-family:var(--font-body);font-size:10.5px;color:var(--text-tertiary);
-  text-transform:uppercase;letter-spacing:.08em;
+  height:38px;background:var(--surface-alt);border-bottom:1px solid var(--border);
+  font-size:12px;font-weight:600;color:var(--text-secondary);
 }
-.th-sort{cursor:pointer;user-select:none;display:flex;align-items:center;gap:4px;transition:color .15s;}
+.th-sort{cursor:pointer;user-select:none;display:flex;align-items:center;gap:4px;}
 .th-sort:hover{color:var(--text);}
 .th-sort-right{justify-content:flex-end;}
-.sort-arrow{font-size:9px;opacity:0;transition:opacity .15s;}
+.sort-arrow{font-size:9px;}
 .th-sort.sort-active{color:var(--text);}
-.th-sort.sort-active .sort-arrow{opacity:1;}
-.board{min-width:640px;} /* lets the table scroll horizontally on narrow screens instead of breaking */
-.table-scroll{overflow-x:auto;}
 
-.row{
-  display:grid;grid-template-columns:2.2fr 1fr 1fr 1.3fr 90px 100px;gap:16px;align-items:center;
-  padding:14px 20px;border-bottom:1px solid var(--border);transition:background .15s;
-}
+.row{padding-top:10px;padding-bottom:10px;border-bottom:1px solid var(--border);}
 .row:last-child{border-bottom:none;}
-.row:hover{background:var(--canvas);}
+.row:hover{background:var(--surface-alt);}
 
-.cell-bot{display:flex;align-items:center;gap:12px;min-width:0;}
-.avatar{
-  position:relative;width:34px;height:34px;border-radius:50%;flex-shrink:0;
-  display:flex;align-items:center;justify-content:center;
-  font-family:var(--font-display);font-weight:700;font-size:12.5px;
-}
-.avatar.price{background:rgba(29,78,216,.15);color:var(--cat-price);}
-.avatar.finance{background:rgba(124,58,237,.15);color:var(--cat-finance);}
-.avatar.social{background:rgba(219,39,119,.15);color:var(--cat-social);}
-.avatar.none{background:var(--surface-alt);color:var(--text-secondary);}
-.avatar .light{
-  position:absolute;bottom:-2px;right:-2px;width:11px;height:11px;border-radius:50%;
-  background:var(--text-tertiary);border:2.5px solid var(--bg);
-}
-.light.success{background:var(--success);}
-.light.failure{background:var(--danger);}
-.light.pending{background:var(--text-tertiary);animation:pulse 1.4s ease-in-out infinite;}
-
-.name{font-family:var(--font-display);font-weight:600;font-size:14.5px;letter-spacing:-0.01em;}
+.cell-bot{min-width:0;}
+.name{font-size:14px;font-weight:500;}
 .name a{color:var(--text);text-decoration:none;}
-.name a:hover{text-decoration:underline;}
-.meta{font-family:var(--font-body);font-size:11px;color:var(--text-tertiary);margin-top:3px;}
-.skeleton{
-  display:inline-block;height:11px;border-radius:3px;
-  background:linear-gradient(90deg, var(--surface-alt) 25%, var(--border) 50%, var(--surface-alt) 75%);
-  background-size:200% 100%;animation:shimmer 1.4s ease-in-out infinite;
-}
-@keyframes shimmer{0%{background-position:200% 0;}100%{background-position:-200% 0;}}
+.name a:hover{color:var(--brand);text-decoration:underline;}
+.meta{font-size:12px;color:var(--text-tertiary);margin-top:2px;}
+.skeleton{display:inline-block;height:10px;border-radius:2px;background:var(--surface-alt);vertical-align:middle;}
 
 .mail-line{
-  font-family:var(--font-body);font-size:11px;color:var(--text-secondary);margin-top:3px;
+  font-size:12px;color:var(--text-secondary);margin-top:3px;
   cursor:pointer;display:flex;align-items:center;gap:5px;max-width:100%;
 }
-.mail-line:hover{color:var(--text);}
+.mail-line:hover{color:var(--brand);}
 .mail-line .ico{color:var(--text-tertiary);flex-shrink:0;display:inline-flex;}
 .mail-line .subj{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
-.mail-line.empty{color:var(--text-tertiary);cursor:default;}
-.mail-line.empty:hover{color:var(--text-tertiary);}
+.mail-line.empty{display:none;}
 
-/* Category: colored dot + plain label — matches the TYPE column exactly */
-.dot-label{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--text);white-space:nowrap;}
-.dot-label .dot{width:7px;height:7px;border-radius:50%;flex-shrink:0;background:var(--text-tertiary);}
-.dot-label.price .dot{background:var(--cat-price);}
-.dot-label.finance .dot{background:var(--cat-finance);}
-.dot-label.social .dot{background:var(--cat-social);}
+.cat{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--text);white-space:nowrap;}
+.cat .dot{width:8px;height:8px;border-radius:2px;flex-shrink:0;background:var(--text-tertiary);}
+.cat.price .dot{background:var(--cat-price);}
+.cat.finance .dot{background:var(--cat-finance);}
+.cat.social .dot{background:var(--cat-social);}
 
-/* Status: soft-tint pill — matches the STATUS column exactly (a different pattern from category, confirmed by direct evidence) */
-.status-pill{
-  display:inline-block;font-size:12px;font-weight:600;
-  padding:4px 11px;border-radius:var(--radius-pill);white-space:nowrap;
-}
-.status-pill.success{background:rgba(30,138,76,.12);color:var(--success);}
-.status-pill.failure{background:rgba(193,60,48,.12);color:var(--danger);}
-.status-pill.pending{background:var(--surface-alt);color:var(--text-secondary);}
-.status-pill.unknown{background:var(--canvas);color:var(--text-tertiary);}
+.history{display:flex;gap:2px;align-items:flex-end;height:16px;}
+.history i{display:block;width:8px;height:16px;border-radius:1px;background:var(--border);}
+.history i.success{background:var(--success);}
+.history i.failure{background:var(--danger);}
 
-.pulse-track{display:flex;gap:3px;align-items:flex-end;height:18px;}
-.pulse-bar{width:5px;border-radius:1px;background:var(--border);}
-.pulse-bar.success{background:var(--success);}
-.pulse-bar.failure{background:var(--danger);}
-
-.cell-time{font-family:var(--font-body);font-size:12px;color:var(--text-secondary);text-align:right;}
+.cell-time{font-size:13px;color:var(--text-secondary);text-align:right;white-space:nowrap;}
+.run-btn{justify-self:end;}
 
 .mail-panel{
-  grid-column:1 / -1;
-  max-height:0;opacity:0;overflow:hidden;margin:0;padding:0 14px;
-  background:var(--canvas);border:1px solid transparent;border-left:3px solid var(--text);
-  border-radius:0 var(--radius-md) var(--radius-md) 0;
-  font-family:var(--font-body);font-size:12px;line-height:1.7;
-  transition:max-height .25s ease, opacity .2s ease, margin-top .25s ease, padding .25s ease;
+  grid-column:1 / -1;display:none;
+  margin:10px 0 2px;padding:12px 14px;
+  background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--radius-md);
+  font-size:13px;line-height:1.6;
 }
-.mail-panel.open{max-height:400px;opacity:1;margin-top:14px;padding:14px;border-color:var(--border);}
-.mail-panel .subject{color:var(--text);font-weight:600;margin-bottom:6px;}
+.mail-panel.open{display:block;}
+.mail-panel .subject{color:var(--text);font-weight:600;margin-bottom:4px;}
 .mail-panel .body-text{color:var(--text-secondary);white-space:pre-wrap;}
-.mail-panel .sent{color:var(--text-tertiary);font-size:11px;margin-top:10px;}
+.mail-panel .sent{color:var(--text-tertiary);font-size:12px;margin-top:8px;}
 
-.run-btn{
-  font-family:var(--font-body);font-size:12px;font-weight:600;
-  background:var(--brand);border:1px solid var(--brand);color:#fff;
-  padding:8px 14px;border-radius:var(--radius-sm);cursor:pointer;text-align:center;
-  transition:.15s;justify-self:end;
+.empty-state{
+  display:none;text-align:center;padding:40px 24px;
+  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-lg);
+  font-size:13px;color:var(--text-secondary);
 }
-.run-btn:hover{background:var(--brand-dark);border-color:var(--brand-dark);}
-.run-btn:active:not(:disabled){transform:scale(.96);}
-.run-btn:disabled{opacity:.3;cursor:not-allowed;background:var(--surface-alt);border-color:var(--border);color:var(--text-secondary);}
-.run-btn.busy{background:var(--bg);color:var(--brand);border-color:var(--brand);}
+.empty-state .btn{margin-top:12px;}
+.load-error{padding:16px;color:var(--danger);font-size:13px;}
 
 /* ---------- Responsive ---------- */
-@media (max-width:640px){
-  .app-shell{display:block;}
-  .sidebar{width:100%;position:static;padding:20px 16px 0;border-right:none;border-bottom:1px solid var(--border);}
-  .views-section{display:none;} /* filter-tabs replaces this on mobile */
-  .sidebar-section + .sidebar-section{margin-top:0;border-top:none;padding-top:0;} /* cancel the divider — its sibling is hidden, not gone from the DOM */
-  .topbar-search{display:none;}
+@media (max-width:760px){
+  .app-shell{display:flex;flex-direction:column;}
+  .main-content{order:1;}
+  .sidebar{order:2;width:auto;min-height:0;border-right:none;border-top:1px solid var(--border);padding:16px;}
+  .board-wrap{min-width:0;}
+  .table-head, .row{grid-template-columns:minmax(0,1fr) auto auto;gap:12px;padding-left:12px;padding-right:12px;}
+  .col-cat, .col-hist, .col-run{display:none !important;}
+  .views-section{display:none;}
   .filter-tabs{display:flex;}
-  h1{font-size:22px;}
+  .wrap{padding:16px 16px 48px;}
+  .search{width:100%;}
+  .page-head > div{width:100%;}
 }
-
 </style>
 </head>
 <body>
 
-<div class="topbar">
-  <div class="brand">
-    <svg class="brand-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>
-    <span class="brand-name">Fleet</span>
-  </div>
-  <div class="topbar-search">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-    <input id="topSearch" type="text" placeholder="Search bots...">
-    <kbd class="kbd-hint">Ctrl+K</kbd>
-  </div>
-  <div class="topbar-right">
-    <button class="theme-toggle" id="themeToggle" title="Toggle dark mode">
+<header class="appbar">
+  <a class="appbar-name" href="./">tuongphanbase</a>
+  <nav class="appbar-tabs" aria-label="Trang">
+    <a href="./" aria-current="page">Bot</a>
+    <a href="prices.html">Giá hôm nay</a>
+    <a href="projects.html">Dự án</a>
+  </nav>
+  <div class="appbar-right">
+    <a class="appbar-link" id="ghOrgLink" href="#" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-toggle" id="themeToggle" title="Đổi giao diện sáng / tối" aria-label="Đổi giao diện sáng / tối">
       <svg id="themeIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
-    <a class="topbar-link" id="ghOrgLink" href="#" target="_blank" rel="noopener">GitHub ↗</a>
   </div>
-</div>
+</header>
 
 <div class="app-shell">
   <aside class="sidebar">
-    <details class="sidebar-section views-section" open>
-      <summary class="sidebar-label">
-        views
-        <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-      </summary>
+    <section class="sidebar-section views-section">
+      <h2 class="sidebar-label">Nhóm</h2>
       <nav>
-        <a class="nav-item active" data-filter="all"><span class="dot"></span>All bots<span class="count" id="countAll">—</span></a>
-        <a class="nav-item price" data-filter="price"><span class="dot"></span>Price<span class="count" id="countPrice">—</span></a>
-        <a class="nav-item finance" data-filter="finance"><span class="dot"></span>Finance<span class="count" id="countFinance">—</span></a>
-        <a class="nav-item social" data-filter="social"><span class="dot"></span>Social<span class="count" id="countSocial">—</span></a>
+        <a class="nav-item active" data-filter="all"><span class="dot"></span>Tất cả<span class="count" id="countAll">—</span></a>
+        <a class="nav-item price" data-filter="price"><span class="dot"></span>Giá<span class="count" id="countPrice">—</span></a>
+        <a class="nav-item finance" data-filter="finance"><span class="dot"></span>Tài chính<span class="count" id="countFinance">—</span></a>
+        <a class="nav-item social" data-filter="social"><span class="dot"></span>Mạng xã hội<span class="count" id="countSocial">—</span></a>
       </nav>
-    </details>
+    </section>
 
-    <details class="sidebar-section" open>
-      <summary class="sidebar-label">
-        connect
-        <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-      </summary>
+    <section class="sidebar-section">
+      <h2 class="sidebar-label">Kết nối GitHub</h2>
       <div class="sidebar-token">
-      <div class="token-box">
-        <label for="tok">TOKEN</label>
-        <input id="tok" type="password" placeholder="paste a fine-grained PAT to enable Run now">
+        <label for="tok">Token (để dùng nút Chạy)</label>
+        <input class="input" id="tok" type="password" placeholder="Dán fine-grained token">
+        <div class="side-actions">
+          <button class="btn btn-sm" id="saveTok">Lưu</button>
+          <button class="btn btn-sm" id="refresh">Làm mới</button>
+        </div>
+        <p class="side-help" id="rateInfo"></p>
+        <p class="side-help" id="lastUpdated"></p>
       </div>
-      <div class="side-actions">
-        <button class="ghost" id="saveTok">save</button>
-        <button class="ghost" id="refresh" title="Refresh now">↻</button>
-      </div>
-      <div class="rate" id="rateInfo"></div>
-      <div class="rate" id="lastUpdated"></div>
-    </div>
-    </details>
+    </section>
   </aside>
 
   <main class="main-content">
-<div class="wrap">
+  <div class="wrap">
 
-  <header>
-    <h1>Bot fleet<span class="header-count" id="listCount"> — bots</span></h1>
-  </header>
-
-  <div class="filter-tabs">
-    <button class="tab active" data-filter="all">All</button>
-    <button class="tab" data-filter="price">Price</button>
-    <button class="tab" data-filter="finance">Finance</button>
-    <button class="tab" data-filter="social">Social</button>
-  </div>
-
-  <div class="table-card">
-    <div class="table-scroll">
-      <div class="table-head">
-        <div class="th-sort" data-sort="bot">bot<span class="sort-arrow"></span></div>
-        <div class="th-sort" data-sort="category">category<span class="sort-arrow"></span></div>
-        <div class="th-sort" data-sort="status">status<span class="sort-arrow"></span></div>
-        <div>history</div>
-        <div class="th-sort th-sort-right" data-sort="time" style="text-align:right">last run<span class="sort-arrow"></span></div>
-        <div></div>
+    <div class="page-head">
+      <div>
+        <h1>Bot gửi email</h1>
+        <div class="page-sub" id="listCount">Đang tải…</div>
       </div>
-      <div class="board" id="board">
-        <!-- rows injected here -->
+      <input class="input search" id="topSearch" type="search" placeholder="Tìm bot" aria-label="Tìm bot">
+    </div>
+
+    <div class="filter-tabs">
+      <button class="tab active" data-filter="all">Tất cả</button>
+      <button class="tab" data-filter="price">Giá</button>
+      <button class="tab" data-filter="finance">Tài chính</button>
+      <button class="tab" data-filter="social">Mạng xã hội</button>
+    </div>
+
+    <div class="table-card">
+      <div class="table-scroll">
+        <div class="board-wrap">
+          <div class="table-head">
+            <div class="th-sort" data-sort="bot">Bot<span class="sort-arrow"></span></div>
+            <div class="th-sort col-cat" data-sort="category">Nhóm<span class="sort-arrow"></span></div>
+            <div class="th-sort" data-sort="status">Trạng thái<span class="sort-arrow"></span></div>
+            <div class="col-hist">10 lần gần nhất</div>
+            <div class="th-sort th-sort-right" data-sort="time">Lần chạy cuối<span class="sort-arrow"></span></div>
+            <div class="col-run"></div>
+          </div>
+          <div id="board">
+            <!-- rows injected here -->
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="empty-state" id="emptyState">
-    <div>no bots match<span class="detail" id="emptyStateDetail"></span></div>
-    <button class="clear-btn" id="clearFiltersBtn">clear filters</button>
-  </div>
-
-  <section class="markets" id="markets" aria-labelledby="marketsTitle">
-    <div class="markets-head">
-      <div class="markets-title">
-        <h1 id="marketsTitle">Thị trường</h1>
-        <a class="m-tool" href="prices.html">Giá hôm nay →</a>
-        <a class="m-tool" href="projects.html">Dự án</a>
-      </div>
-      <div class="range-tabs" role="group" aria-label="Time range">
-        <button data-range="7" aria-pressed="false">7D</button>
-        <button data-range="30" aria-pressed="true">30D</button>
-        <button data-range="90" aria-pressed="false">90D</button>
-      </div>
+    <div class="empty-state" id="emptyState">
+      <div>Không có bot nào khớp<span id="emptyStateDetail"></span>.</div>
+      <button class="btn btn-sm" id="clearFiltersBtn">Xoá bộ lọc</button>
     </div>
-    <p class="markets-sub" id="marketsUpdated">loading…</p>
 
-    <div id="mSections"></div>
-  </section>
+    <section class="markets" id="markets" aria-labelledby="marketsTitle">
+      <div class="page-head">
+        <div>
+          <h2 class="markets-title" id="marketsTitle">Thị trường</h2>
+          <div class="page-sub" id="marketsUpdated">Đang tải…</div>
+        </div>
+        <div class="range-tabs" role="group" aria-label="Khoảng thời gian">
+          <button data-range="7" aria-pressed="false">7 ngày</button>
+          <button data-range="30" aria-pressed="true">30 ngày</button>
+          <button data-range="90" aria-pressed="false">90 ngày</button>
+        </div>
+      </div>
+      <div id="mSections"></div>
+    </section>
 
-</div>
+  </div>
   </main>
 </div>
 
@@ -429,6 +263,8 @@ let OWNER, REPOS;
 let currentFilter = localStorage.getItem('fleet_filter') || 'all';
 let searchQuery = localStorage.getItem('fleet_search') || '';
 
+const CATEGORY_LABELS = { price: 'Giá', finance: 'Tài chính', social: 'Mạng xã hội' };
+
 const board    = document.getElementById('board');
 const tokInput = document.getElementById('tok');
 const rateInfo = document.getElementById('rateInfo');
@@ -455,7 +291,7 @@ async function loadConfig(){
       updateLastRefreshed();
     }, 5 * 60 * 1000);
   }catch(e){
-    board.innerHTML = `<div style="padding:20px 4px;color:var(--danger);font-family:var(--font-body);font-size:12.5px;">couldn't load config.json (${e.message}) — make sure it sits in the same folder as index.html.</div>`;
+    board.innerHTML = `<div class="load-error">Không đọc được config.json (${escapeHtml(e.message)}). File này phải nằm cùng thư mục với index.html.</div>`;
   }
 }
 
@@ -518,18 +354,18 @@ function applyFilter(){
   });
 
   const total = REPOS ? REPOS.length : 0;
-  const healthy = document.querySelectorAll('.light.success').length;
-  const countText = visible === total ? `${total} bots` : `${visible} of ${total}`;
+  const healthy = document.querySelectorAll('.status-cell.success').length;
+  const countText = visible === total ? `${total} bot` : `${visible} / ${total} bot`;
   const listCount = document.getElementById('listCount');
-  if(listCount) listCount.textContent = ` — ${countText} · ${healthy} healthy`;
+  if(listCount) listCount.textContent = `${countText} · ${healthy} chạy tốt ở lần gần nhất`;
 
   const emptyState = document.getElementById('emptyState');
   const tableCard = document.querySelector('.table-card');
   if(visible === 0){
     const bits = [];
-    if(currentFilter !== 'all') bits.push(`category "${currentFilter}"`);
-    if(searchQuery) bits.push(`search "${searchQuery}"`);
-    document.getElementById('emptyStateDetail').textContent = bits.length ? ` for ${bits.join(' + ')}` : '';
+    if(currentFilter !== 'all') bits.push(`nhóm "${CATEGORY_LABELS[currentFilter] || currentFilter}"`);
+    if(searchQuery) bits.push(`từ khoá "${searchQuery}"`);
+    document.getElementById('emptyStateDetail').textContent = bits.length ? ` với ${bits.join(' và ')}` : '';
     emptyState.style.display = 'block';
     if(tableCard) tableCard.style.display = 'none';
   }else{
@@ -597,12 +433,12 @@ function updateSidebarCounts(){
 }
 
 function refreshStats(){
-  applyFilter(); // re-derives the header's "N bots · N healthy" text as each repo's status resolves
+  applyFilter(); // re-derives the "N bot · N chạy tốt" line as each repo's status resolves
 }
 
 function updateLastRefreshed(){
   const el = document.getElementById('lastUpdated');
-  if(el) el.textContent = `updated ${new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'})}`;
+  if(el) el.textContent = `Cập nhật lúc ${new Date().toLocaleTimeString('vi-VN', {hour:'2-digit', minute:'2-digit'})}, tự làm mới mỗi 5 phút.`;
 }
 
 /* ============================================================
@@ -611,10 +447,10 @@ function updateLastRefreshed(){
 function timeAgo(iso){
   if(!iso) return '—';
   const s = Math.floor((Date.now() - new Date(iso).getTime())/1000);
-  if(s < 60) return `${s}s ago`;
-  const m = Math.floor(s/60); if(m < 60) return `${m}m ago`;
-  const h = Math.floor(m/60); if(h < 24) return `${h}h ago`;
-  const d = Math.floor(h/24); return `${d}d ago`;
+  if(s < 60) return 'vừa xong';
+  const m = Math.floor(s/60); if(m < 60) return `${m} phút trước`;
+  const h = Math.floor(m/60); if(h < 24) return `${h} giờ trước`;
+  const d = Math.floor(h/24); return `${d} ngày trước`;
 }
 
 function escapeHtml(str){
@@ -623,22 +459,25 @@ function escapeHtml(str){
   return div.innerHTML;
 }
 
+const EVENT_LABELS = { schedule: 'theo lịch', workflow_dispatch: 'chạy tay', push: 'sau khi push', workflow_run: 'sau workflow khác' };
+const CONCLUSION_LABELS = { cancelled: 'Đã huỷ', skipped: 'Bỏ qua', timed_out: 'Quá giờ', neutral: 'Không rõ', action_required: 'Cần xử lý', stale: 'Quá cũ' };
+
 function conclusionInfo(run){
-  if(!run) return {cls:'unknown', label:'no runs yet'};
-  if(run.status !== 'completed') return {cls:'pending', label: run.status.replace('_',' ')};
-  if(run.conclusion === 'success') return {cls:'success', label:'success'};
-  if(run.conclusion === 'failure') return {cls:'failure', label:'failed'};
-  return {cls:'unknown', label: run.conclusion || 'unknown'};
+  if(!run) return {cls:'unknown', label:'Chưa chạy'};
+  if(run.status !== 'completed') return {cls:'pending', label: run.status === 'queued' ? 'Đang chờ' : 'Đang chạy'};
+  if(run.conclusion === 'success') return {cls:'success', label:'Thành công'};
+  if(run.conclusion === 'failure') return {cls:'failure', label:'Lỗi'};
+  return {cls:'unknown', label: CONCLUSION_LABELS[run.conclusion] || run.conclusion || 'Không rõ'};
 }
 
-function pulseBars(runs){
+function historyBars(runs){
   const last10 = runs.slice(0, 10).reverse();
   const bars = last10.map(r => {
-    const ok = r.status === 'completed' && r.conclusion === 'success';
-    const cls = r.status !== 'completed' ? '' : (ok ? 'success' : 'failure');
-    return `<div class="pulse-bar ${cls}" style="height:${ok ? 20 : 12}px"></div>`;
+    const cls = r.status !== 'completed' ? '' : (r.conclusion === 'success' ? 'success' : 'failure');
+    const when = new Date(r.run_started_at || r.created_at).toLocaleString('vi-VN');
+    return `<i class="${cls}" title="${escapeHtml(when)}: ${escapeHtml(conclusionInfo(r).label)}"></i>`;
   });
-  while(bars.length < 10) bars.unshift(`<div class="pulse-bar" style="height:6px"></div>`);
+  while(bars.length < 10) bars.unshift('<i></i>');
   return bars.join('');
 }
 
@@ -646,23 +485,19 @@ function pulseBars(runs){
    Row rendering
    ============================================================ */
 function rowSkeleton(repo){
-  const initial = repo.name.charAt(0).toUpperCase();
   const cat = repo.category || 'none';
   return `
   <div class="row" id="row-${repo.name}" data-category="${cat}">
     <div class="cell-bot">
-      <div class="avatar ${cat}">${initial}<div class="light"></div></div>
-      <div style="min-width:0">
-        <div class="name"><a href="https://github.com/${OWNER}/${repo.name}" target="_blank" rel="noopener">${repo.name}</a></div>
-        <div class="meta"><span class="skeleton" style="width:110px"></span></div>
-        <div class="mail-line empty" id="mail-line-${repo.name}" tabindex="0" role="button" aria-expanded="false"><span class="ico"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="3"/><path d="m22 7-10 5L2 7"/></svg></span><span class="subj">—</span></div>
-      </div>
+      <div class="name"><a href="https://github.com/${OWNER}/${repo.name}" target="_blank" rel="noopener">${repo.name}</a></div>
+      <div class="meta"><span class="skeleton" style="width:110px"></span></div>
+      <div class="mail-line empty" id="mail-line-${repo.name}" tabindex="0" role="button" aria-expanded="false"><span class="ico"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 5L2 7"/></svg></span><span class="subj"></span></div>
     </div>
-    <div class="dot-label ${cat}"><span class="dot"></span>${repo.category || '—'}</div>
-    <div class="status-cell"><span class="skeleton" style="width:60px"></span></div>
-    <div class="pulse-track"></div>
+    <div class="cat col-cat ${cat}"><span class="dot"></span>${CATEGORY_LABELS[repo.category] || repo.category || '—'}</div>
+    <div class="status-cell"><span class="skeleton" style="width:64px"></span></div>
+    <div class="history col-hist"></div>
     <div class="cell-time">—</div>
-    <button class="run-btn" disabled>Run now</button>
+    <button class="btn btn-sm run-btn col-run" disabled>Chạy</button>
     <div class="mail-panel" id="mail-panel-${repo.name}"></div>
   </div>`;
 }
@@ -679,10 +514,12 @@ function renderAll(){
    GitHub Actions: status + trigger
    ============================================================ */
 async function fetchRuns(repo){
-  const url = `https://api.github.com/repos/${OWNER}/${repo.name}/actions/runs?per_page=10`;
+  const url = repo.workflow
+    ? `https://api.github.com/repos/${OWNER}/${repo.name}/actions/workflows/${repo.workflow}/runs?per_page=10`
+    : `https://api.github.com/repos/${OWNER}/${repo.name}/actions/runs?per_page=10`;
   const res = await fetch(url, { headers: { 'Accept': 'application/vnd.github+json' }});
   const remaining = res.headers.get('x-ratelimit-remaining');
-  if(remaining) rateInfo.textContent = `github api rate limit remaining: ${remaining}`;
+  if(remaining) rateInfo.textContent = `GitHub API còn ${remaining} lượt gọi trong giờ này.`;
   if(!res.ok) throw new Error(`${res.status}`);
   const data = await res.json();
   return data.workflow_runs || [];
@@ -694,23 +531,22 @@ async function loadRepo(repo){
     const runs = await fetchRuns(repo);
     const latest = runs[0];
     const info = conclusionInfo(latest);
-    row.querySelector('.light').className = `light ${info.cls}`;
-    row.querySelector('.meta').textContent = latest ? `#${latest.run_number} · ${latest.event}` : 'no workflow runs found';
+    row.querySelector('.meta').textContent = latest ? `#${latest.run_number} · ${EVENT_LABELS[latest.event] || latest.event}` : 'chưa có lần chạy nào';
     const statusCell = row.querySelector('.status-cell');
-    statusCell.className = `status-pill status-cell ${info.cls}`;
+    statusCell.className = `tag status-cell ${info.cls}`;
     statusCell.textContent = info.label;
     row.querySelector('.cell-time').textContent = latest ? timeAgo(latest.run_started_at || latest.created_at) : '—';
-    row.querySelector('.pulse-track').innerHTML = pulseBars(runs);
+    row.querySelector('.history').innerHTML = historyBars(runs);
     row.dataset.statusSort = ({failure:0, pending:1, unknown:2, success:3})[info.cls] ?? 2;
     row.dataset.timeSort = latest ? new Date(latest.run_started_at || latest.created_at).getTime() : 0;
     const btn = row.querySelector('.run-btn');
     btn.disabled = false;
     btn.addEventListener('click', () => triggerRun(repo, btn));
   }catch(e){
-    row.querySelector('.meta').textContent = `unreachable (${e.message})`;
+    row.querySelector('.meta').textContent = `không tải được (${e.message})`;
     const statusCell = row.querySelector('.status-cell');
-    statusCell.className = 'status-pill status-cell unknown';
-    statusCell.textContent = 'no data';
+    statusCell.className = 'tag status-cell unknown';
+    statusCell.textContent = 'Không có dữ liệu';
     row.dataset.statusSort = 2;
     row.dataset.timeSort = 0;
   }
@@ -721,10 +557,10 @@ async function loadRepo(repo){
 async function triggerRun(repo, btn){
   const token = localStorage.getItem('gh_pat');
   if(!token){
-    alert('Paste a token in the sidebar and click "save" first — a fine-grained PAT with Actions read/write (or a classic PAT with repo scope) is needed to trigger runs.');
+    alert('Hãy dán token vào ô "Token" ở cột bên trái rồi bấm "Lưu" trước. Cần fine-grained token có quyền Actions: Read and write (hoặc classic token có quyền repo).');
     return;
   }
-  btn.disabled = true; btn.classList.add('busy'); btn.textContent = 'sending…';
+  btn.disabled = true; btn.textContent = 'Đang gửi…';
   try{
     const res = await fetch(`https://api.github.com/repos/${OWNER}/${repo.name}/actions/workflows/${repo.workflow}/dispatches`, {
       method: 'POST',
@@ -735,24 +571,24 @@ async function triggerRun(repo, btn){
       body: JSON.stringify({ ref: 'main' })
     });
     if(res.status === 204){
-      btn.textContent = 'triggered ✓';
+      btn.textContent = 'Đã gửi lệnh';
       setTimeout(() => loadRepo(repo), 3000);
     } else if(res.status === 401){
-      btn.textContent = 'bad token';
-      btn.title = '401: the token itself was rejected — check it was pasted in full, with no extra spaces, and hasn\'t expired';
+      btn.textContent = 'Sai token';
+      btn.title = '401: token bị từ chối. Kiểm tra token được dán đủ, không thừa dấu cách và chưa hết hạn.';
     } else if(res.status === 403){
-      btn.textContent = 'no permission';
-      btn.title = '403: the token is valid but lacks the Actions: Read and write permission on this repo';
+      btn.textContent = 'Không có quyền';
+      btn.title = '403: token hợp lệ nhưng thiếu quyền Actions: Read and write trên repo này.';
     } else if(res.status === 404){
-      btn.textContent = 'not found';
-      btn.title = '404: either this repo isn\'t in the token\'s selected-repositories list, or the workflow filename in config.json doesn\'t match what\'s actually in .github/workflows/';
+      btn.textContent = 'Không tìm thấy';
+      btn.title = '404: repo không nằm trong danh sách repo của token, hoặc tên workflow trong config.json không khớp với file trong .github/workflows/.';
     } else {
-      btn.textContent = `error ${res.status}`;
+      btn.textContent = `Lỗi ${res.status}`;
     }
   }catch(e){
-    btn.textContent = 'error';
+    btn.textContent = 'Lỗi';
   }
-  setTimeout(() => { btn.disabled = false; btn.classList.remove('busy'); btn.textContent = 'Run now'; }, 2500);
+  setTimeout(() => { btn.disabled = false; btn.textContent = 'Chạy'; }, 2500);
 }
 
 /* ============================================================
@@ -765,17 +601,17 @@ async function loadLatestEmail(repo){
     const res = await fetch(`https://raw.githubusercontent.com/${OWNER}/${repo.name}/main/latest.json?_=${Date.now()}`);
     if(!res.ok) throw new Error('not found');
     const data = await res.json();
-    const subject = data.subject || '(no subject)';
-    const body    = data.preview || data.body || '(no preview saved)';
+    const subject = data.subject || '(không có tiêu đề)';
+    const body    = data.preview || data.body || '(không lưu nội dung)';
     const sentAt  = data.sent_at || data.timestamp || null;
 
     lineEl.classList.remove('empty');
     lineEl.querySelector('.subj').textContent = subject;
-    lineEl.title = 'click to view what was sent';
+    lineEl.title = 'Bấm để xem email đã gửi';
     panelEl.innerHTML = `
       <div class="subject">${escapeHtml(subject)}</div>
       <div class="body-text">${escapeHtml(body)}</div>
-      <div class="sent">sent ${sentAt ? timeAgo(sentAt) : '—'}</div>
+      <div class="sent">Gửi ${sentAt ? timeAgo(sentAt) : '—'}</div>
     `;
     const toggle = () => {
       const isOpen = panelEl.classList.toggle('open');
@@ -786,8 +622,8 @@ async function loadLatestEmail(repo){
       if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); toggle(); }
     };
   }catch(e){
+    // No latest.json in this repo: leave the line hidden rather than repeat "nothing here" on every row.
     lineEl.classList.add('empty');
-    lineEl.querySelector('.subj').textContent = 'no latest.json yet';
   }
 }
 

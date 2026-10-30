@@ -26,7 +26,7 @@ that don't write one show "no latest.json yet".
 - `prices.html` — **Giá hôm nay**: today's prices on one page, made for phones
 - `projects.html` — every website and bot, from `config.json` → `projects`
 
-Every chart and table has a **CSV** button (download the data) and a **⤢**
+Every chart and table has a **CSV** button (download the data) and a **Mở rộng**
 button (a large view; long tables show all rows there).
 
 ## Markets charts and the morning summary email
