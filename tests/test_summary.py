@@ -135,6 +135,23 @@ class Sources(unittest.TestCase):
         self.assertTrue(all("bình thường" in r[3] for r in rows[3:]))
         self.assertTrue(s["note"].startswith("3 bot"))
 
+    def test_health_flags_a_bot_that_ran_but_did_not_send(self):
+        orig = summary_sources.fetch_runs, summary_sources.fetch_file
+        blocked = json.dumps({"status": "blocked by Reddit - API credentials needed"})
+        summary_sources.fetch_runs = fake_runs
+        summary_sources.fetch_file = lambda repo, path, ref="main", owner=None: (
+            blocked if (repo, path) == ("reddit-top-post-emailer", "docs/latest.json") else fake_fetch(repo, path, ref, owner))
+        try:
+            s = self.run_source("health")
+        finally:
+            summary_sources.fetch_runs, summary_sources.fetch_file = orig
+        rows = s["blocks"][0]["rows"]
+        names = [r[0][0] for r in rows]
+        reddit = rows[names.index("reddit-top-post-emailer")]
+        self.assertIn("bị Reddit chặn", reddit[3])
+        self.assertEqual(names.index("reddit-top-post-emailer"), 3)  # after failures and never-run bots, before healthy ones
+        self.assertTrue(s["note"].startswith("4 bot"))
+
     def test_health_survives_an_unreadable_repo(self):
         orig = summary_sources.fetch_runs
         summary_sources.fetch_runs = lambda repo, since, owner=None: fake_runs("broken-repo", since)

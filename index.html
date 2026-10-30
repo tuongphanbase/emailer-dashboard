@@ -525,19 +525,36 @@ async function fetchRuns(repo){
   return data.workflow_runs || [];
 }
 
+// Statuses a bot writes to docs/latest.json when its run did the job or had nothing new.
+// Anything else (e.g. reddit's "blocked by Reddit ...") means a green run sent no email.
+const QUIET_STATUSES = ['ok', 'no new posts', 'no new memes'];
+
+async function fetchBotWarning(repo){
+  try{
+    const res = await fetch(`https://raw.githubusercontent.com/${OWNER}/${repo.name}/main/docs/latest.json?_=${Date.now()}`);
+    if(!res.ok) return null;
+    const status = (await res.json()).status;
+    return status && !QUIET_STATUSES.includes(status) ? status : null;
+  }catch(e){
+    return null;
+  }
+}
+
 async function loadRepo(repo){
   const row = document.getElementById(`row-${repo.name}`);
   try{
-    const runs = await fetchRuns(repo);
+    const [runs, warning] = await Promise.all([fetchRuns(repo), fetchBotWarning(repo)]);
     const latest = runs[0];
-    const info = conclusionInfo(latest);
+    let info = conclusionInfo(latest);
+    if(warning && info.cls === 'success') info = {cls:'warning', label:'Không gửi email'};
     row.querySelector('.meta').textContent = latest ? `#${latest.run_number} · ${EVENT_LABELS[latest.event] || latest.event}` : 'chưa có lần chạy nào';
     const statusCell = row.querySelector('.status-cell');
     statusCell.className = `tag status-cell ${info.cls}`;
     statusCell.textContent = info.label;
+    statusCell.title = warning ? `Bot báo: ${warning}` : '';
     row.querySelector('.cell-time').textContent = latest ? timeAgo(latest.run_started_at || latest.created_at) : '—';
     row.querySelector('.history').innerHTML = historyBars(runs);
-    row.dataset.statusSort = ({failure:0, pending:1, unknown:2, success:3})[info.cls] ?? 2;
+    row.dataset.statusSort = ({failure:0, warning:1, pending:1, unknown:2, success:3})[info.cls] ?? 2;
     row.dataset.timeSort = latest ? new Date(latest.run_started_at || latest.created_at).getTime() : 0;
     const btn = row.querySelector('.run-btn');
     btn.disabled = false;
