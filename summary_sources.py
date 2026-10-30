@@ -28,6 +28,26 @@ def _local_time(iso):
         return "?"
 
 
+# Statuses a bot writes to docs/latest.json when its run did the job or simply had
+# nothing new to send. Anything else (e.g. reddit's "blocked by Reddit ...") means the
+# run finished green but no email went out, which the run list alone can't show.
+QUIET_STATUSES = {"ok", "no new posts", "no new memes"}
+STATUS_TEXT = {
+    "blocked by Reddit - API credentials needed":
+        "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)",
+}
+
+
+def _bot_warning(name, owner):
+    """The problem a bot reports about its own last run in docs/latest.json, or None."""
+    try:
+        text = fetch_file(name, "docs/latest.json", owner=owner)
+        status = (json.loads(text) or {}).get("status") if text else None
+    except Exception:  # an unreadable status file must not hide the run results
+        return None
+    return status if status and status not in QUIET_STATUSES else None
+
+
 @source("health", "Tình trạng các bot", icon="🩺")
 def health(opt):
     """Every workflow run of the bots in config.json -> "repos" over the last
@@ -58,6 +78,10 @@ def health(opt):
             bad += 1
         elif not main_runs:
             status, link, rank = "không chạy lần nào", f"https://github.com/{owner}/{name}/actions", 1
+            bad += 1
+        elif warning := _bot_warning(name, owner):
+            status = STATUS_TEXT.get(warning, f"chạy xong nhưng báo lỗi: {warning}")
+            link, rank = main_runs[0].get("html_url") or "", 2
             bad += 1
         else:
             status, link, rank = "bình thường", main_runs[0].get("html_url") or "", 3
