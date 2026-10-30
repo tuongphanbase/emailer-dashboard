@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:31:47+00:00",
+ "generated_at": "2026-10-30T01:07:10+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40882172057"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/40973381917"
        ],
        4,
        0,
@@ -43,7 +43,16 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40855905232"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/40932011840"
+       ],
+       4,
+       0,
+       "✅ bình thường"
+      ],
+      [
+       [
+        "house-price-emailer",
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40981825233"
        ],
        6,
        0,
@@ -51,26 +60,17 @@
       ],
       [
        [
-        "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/40930376258"
-       ],
-       8,
-       0,
-       "✅ bình thường"
-      ],
-      [
-       [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40829582191"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/40932870224"
        ],
-       3,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40885715491"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/40973196053"
        ],
        4,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40915275339"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/40960032257"
        ],
-       5,
+       4,
        0,
        "✅ bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40885755118"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/40973225959"
        ],
        4,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40893092052"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/40977388932"
        ],
-       4,
+       5,
        0,
        "✅ bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40925194900"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/40963851201"
        ],
        8,
        0,
@@ -126,13 +126,13 @@
    ],
    "text": [
     "gold-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "tech-price-mailer: ✅ bình thường (0/6 lỗi)",
-    "house-price-emailer: ✅ bình thường (0/8 lỗi)",
-    "phone-tablet-price-emailer: ✅ bình thường (0/3 lỗi)",
+    "tech-price-mailer: ✅ bình thường (0/4 lỗi)",
+    "house-price-emailer: ✅ bình thường (0/6 lỗi)",
+    "phone-tablet-price-emailer: ✅ bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: ✅ bình thường (0/4 lỗi)",
-    "interest-rate-emailer: ✅ bình thường (0/5 lỗi)",
+    "interest-rate-emailer: ✅ bình thường (0/4 lỗi)",
     "currency-rate-emailer: ✅ bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: ✅ bình thường (0/4 lỗi)",
+    "apps-gone-free-emailer: ✅ bình thường (0/5 lỗi)",
     "9gag-meme-emailer: ✅ bình thường (0/8 lỗi)",
     "reddit-top-post-emailer: ✅ bình thường (0/2 lỗi)"
    ]
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-10-29",
+   "as_of": "2026-10-30",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -235,6 +235,10 @@
         [
          "2026-10-29",
          142700000
+        ],
+        [
+         "2026-10-30",
+         142700000
         ]
        ]
       },
@@ -323,6 +327,10 @@
         ],
         [
          "2026-10-29",
+         142700000
+        ],
+        [
+         "2026-10-30",
          142700000
         ]
        ]
@@ -413,6 +421,10 @@
         [
          "2026-10-29",
          142700000
+        ],
+        [
+         "2026-10-30",
+         142700000
         ]
        ]
       }
@@ -465,7 +477,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-29 20:51",
+   "as_of": "2026-10-30 06:27",
    "blocks": [
     {
      "type": "tiles",
@@ -556,6 +568,10 @@
         [
          "2026-10-29",
          25834.04
+        ],
+        [
+         "2026-10-30",
+         25834.04
         ]
        ]
       },
@@ -643,6 +659,10 @@
         ],
         [
          "2026-10-29",
+         28793.59
+        ],
+        [
+         "2026-10-30",
          28793.59
         ]
        ]
@@ -732,6 +752,10 @@
         [
          "2026-10-29",
          163.6
+        ],
+        [
+         "2026-10-30",
+         163.6
         ]
        ]
       },
@@ -819,6 +843,10 @@
         ],
         [
          "2026-10-29",
+         3867.06
+        ],
+        [
+         "2026-10-30",
          3867.06
         ]
        ]
@@ -908,6 +936,10 @@
         [
          "2026-10-29",
          19.28
+        ],
+        [
+         "2026-10-30",
+         19.28
         ]
        ]
       },
@@ -995,6 +1027,10 @@
         ],
         [
          "2026-10-29",
+         34374.9
+        ],
+        [
+         "2026-10-30",
          34374.9
         ]
        ]
@@ -1084,6 +1120,10 @@
         [
          "2026-10-29",
          20154.82
+        ],
+        [
+         "2026-10-30",
+         20154.82
         ]
        ]
       },
@@ -1171,6 +1211,10 @@
         ],
         [
          "2026-10-29",
+         18195.06
+        ],
+        [
+         "2026-10-30",
          18195.06
         ]
        ]
@@ -1970,19 +2014,11 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "19.290.000",
-       -24.3
-      ],
-      [
-       [
-        "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-rog-zephyrus-g16-gu606am-tb032w.html"
-       ],
-       "81.999.000",
-       -10.9
+       "59.999.000",
+       -7.3
       ],
       [
        [
@@ -1991,6 +2027,14 @@
        ],
        "23.990.000",
        -4.0
+      ],
+      [
+       [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "19.290.000",
+       -3.5
       ],
       [
        [
@@ -2073,9 +2117,9 @@
    ],
    "empty_text": null,
    "text": [
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-24.3%)",
-    "Laptop Asus ROG Zephyrus G16 GU606AM-TB032W (Intel Core Ultra 9 386H | RTX 5060 | 16 inch 2.5K OLED 240Hz | 32GB | 1TB | Win 11 | Xám): 81.999.000 (-10.9%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-7.3%)",
     "Laptop Acer Swift Air 14 AI SFA14-I31-55NR (Core 5-320/ 12GB/ 512GB/ 14\" FHD+ IPS 120Hz/ Pink/ Win 11): 23.990.000 (-4.0%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.290.000 (-3.5%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 27.990.000 (-2.4%)",
     "SSD Western Digital Blue SN5100 500GB PCIe Gen4 x4 NVMe M.2 WDS500G5B0E: 2.790.000 (-2.1%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
@@ -2090,7 +2134,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-29 06:35",
+   "as_of": "2026-10-29 18:45",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2126,47 +2170,7 @@
        ],
        24990000,
        "MediaMart",
-       5,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33490000,
-       "MediaMart",
        4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 256GB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
-       ],
-       35990000,
-       "24hStore",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPad Pro M5 11 256GB",
-        "https://didongviet.vn/may-tinh-bang/ipad-pro-m5-11-inch-256gb-wifi.html?sku=DTH307iPaM4089-BLACK"
-       ],
-       33390000,
-       "Di Động Việt",
-       3,
-       -0.3
-      ],
-      [
-       [
-        "Apple iPhone 15 128GB",
-        "https://shopdunk.com/iphone-15-128gb"
-       ],
-       19990000,
-       "ShopDunk",
-       3,
        0.0
       ],
       [
@@ -2181,21 +2185,21 @@
       ],
       [
        [
-        "Apple iPhone 17 Pro 256GB",
-        "https://shopdunk.com/dien-thoai-iphone-17-pro-256gb"
-       ],
-       31490000,
-       "ShopDunk",
-       3,
-       0.0
-      ],
-      [
-       [
         "Apple iPhone 17 Pro Max 1TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
        44490000,
        "24hStore",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
+       ],
+       33490000,
+       "MediaMart",
        3,
        0.0
       ],
@@ -2218,21 +2222,61 @@
        "24hStore",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro 256GB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
+       ],
+       35990000,
+       "24hStore",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro Max 2TB",
+        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-2tb-p12569"
+       ],
+       78490000,
+       "24hStore",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone Air 256GB",
+        "https://mediamart.vn/smartphones#28343"
+       ],
+       22990000,
+       "MediaMart",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Oppo Reno16 F 256GB",
+        "https://didongviet.vn/dien-thoai/oppo-reno16-f-5g-256gb.html?sku=CMH271OP366"
+       ],
+       12990000,
+       "Di Động Việt",
+       3,
+       -7.15
       ]
      ]
     }
    ],
    "text": [
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
-    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
-    "Apple iPad Pro M5 11 256GB: 33,390,000 (Di Động Việt)",
-    "Apple iPhone 15 128GB: 19,990,000 (ShopDunk)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 31,490,000 (ShopDunk)",
     "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)",
+    "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)"
+    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
+    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
+    "Apple iPhone 18 Pro Max 2TB: 78,490,000 (24hStore)",
+    "Apple iPhone Air 256GB: 22,990,000 (MediaMart)",
+    "Oppo Reno16 F 256GB: 12,990,000 (Di Động Việt)"
    ]
   }
  ]
