@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:26:46+00:00",
+ "generated_at": "2026-10-31T05:53:18+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -36,14 +36,23 @@
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41016919951"
        ],
-       4,
+       2,
        0,
        "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41127223044"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41149988458"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41138671645"
        ],
        6,
        0,
@@ -51,19 +60,10 @@
       ],
       [
        [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41103978659"
-       ],
-       8,
-       0,
-       "bình thường"
-      ],
-      [
-       [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41136488029"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41172159737"
        ],
-       9,
+       4,
        0,
        "bình thường"
       ],
@@ -72,23 +72,23 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41105173836"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41127152700"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41149487088"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41120142586"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41172480683"
        ],
        5,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41127154116"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41149466423"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41109218037"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41157893017"
        ],
        5,
        0,
@@ -115,9 +115,9 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41133423543"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41162963540"
        ],
-       10,
+       8,
        0,
        "bình thường"
       ]
@@ -125,16 +125,16 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/4 lỗi)",
-    "gold-price-emailer: bình thường (0/6 lỗi)",
-    "tech-price-mailer: bình thường (0/8 lỗi)",
-    "house-price-emailer: bình thường (0/9 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/6 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/6 lỗi)",
+    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
+    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
-    "currency-rate-emailer: bình thường (0/6 lỗi)",
+    "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/5 lỗi)",
-    "9gag-meme-emailer: bình thường (0/10 lỗi)"
+    "9gag-meme-emailer: bình thường (0/8 lỗi)"
    ]
   },
   {
@@ -489,7 +489,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-31 03:56",
+   "as_of": "2026-10-31 07:18",
    "blocks": [
     {
      "type": "tiles",
@@ -2088,6 +2088,14 @@
      "rows": [
       [
        [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "59.999.000",
+       -10.4
+      ],
+      [
+       [
         "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám)",
         "https://www.anphatpc.com.vn/laptop-asus-vivobook-s14-s3407aa-sf945w.html"
        ],
@@ -2117,14 +2125,6 @@
        ],
        "21.999.000",
        -2.6
-      ],
-      [
-       [
-        "SSD Western Digital Blue SN5100 500GB PCIe Gen4 x4 NVMe M.2 WDS500G5B0E",
-        "https://memoryzone.com.vn/ssd-western-digital-blue-sn5100-500gb-pcie-gen4-x4-nvme-m-2-wds500g5b0e"
-       ],
-       "2.790.000",
-       -2.1
       ]
      ]
     },
@@ -2191,11 +2191,11 @@
    ],
    "empty_text": null,
    "text": [
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-10.4%)",
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 27.490.000 (-4.2%)",
     "Laptop Acer Swift Air 14 AI SFA14-I31-55NR (Core 5-320/ 12GB/ 512GB/ 14\" FHD+ IPS 120Hz/ Pink/ Win 11): 23.990.000 (-4.0%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 26.990.000 (-3.6%)",
     "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 21.999.000 (-2.6%)",
-    "SSD Western Digital Blue SN5100 500GB PCIe Gen4 x4 NVMe M.2 WDS500G5B0E: 2.790.000 (-2.1%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
@@ -2335,7 +2335,7 @@
        12990000,
        "Di Động Việt",
        3,
-       -7.15
+       1.56
       ]
      ]
     }
