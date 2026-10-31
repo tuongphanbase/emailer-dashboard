@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:53:18+00:00",
+ "generated_at": "2026-10-31T06:16:28+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,18 +43,18 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41149988458"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41175040859"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41138671645"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41174714154"
        ],
-       6,
+       8,
        0,
        "bình thường"
       ],
@@ -79,9 +79,9 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41149487088"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41174896011"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
@@ -97,9 +97,9 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41149466423"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41174898469"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
@@ -108,7 +108,7 @@
         "apps-gone-free-emailer",
         "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41157893017"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
@@ -126,14 +126,14 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
-    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "gold-price-emailer: bình thường (0/5 lỗi)",
+    "tech-price-mailer: bình thường (0/8 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/5 lỗi)",
+    "currency-rate-emailer: bình thường (0/5 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/8 lỗi)"
    ]
   },
@@ -242,7 +242,7 @@
         ],
         [
          "2026-10-31",
-         141400000
+         139000000
         ]
        ]
       },
@@ -339,7 +339,7 @@
         ],
         [
          "2026-10-31",
-         141400000
+         139000000
         ]
        ]
       },
@@ -436,7 +436,7 @@
         ],
         [
          "2026-10-31",
-         141400000
+         139000000
         ]
        ]
       }
@@ -462,26 +462,26 @@
      "rows": [
       [
        "SJC",
-       141400000,
-       0.0
+       139000000,
+       -1.7
       ],
       [
        "PNJ",
-       141400000,
-       0.0
+       139000000,
+       -1.7
       ],
       [
        "DOJI",
-       141400000,
-       0.0
+       139000000,
+       -1.7
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 141,400,000 VND",
-    "PNJ: 141,400,000 VND",
-    "DOJI: 141,400,000 VND"
+    "SJC: 139,000,000 VND",
+    "PNJ: 139,000,000 VND",
+    "DOJI: 139,000,000 VND"
    ]
   },
   {
@@ -489,7 +489,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-10-31 07:18",
+   "as_of": "2026-10-31 13:01",
    "blocks": [
     {
      "type": "tiles",
@@ -497,8 +497,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25792.39,
-       "change_pct": -0.16,
+       "value": 25802.15,
+       "change_pct": 0.04,
        "period": "24h",
        "points": [
         [
@@ -587,14 +587,14 @@
         ],
         [
          "2026-10-31",
-         25792.39
+         25802.15
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28788.27,
-       "change_pct": -0.02,
+       "value": 28810.29,
+       "change_pct": 0.08,
        "period": "24h",
        "points": [
         [
@@ -683,14 +683,14 @@
         ],
         [
          "2026-10-31",
-         28788.27
+         28810.29
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.37,
-       "change_pct": -0.15,
+       "value": 163.83,
+       "change_pct": 0.28,
        "period": "24h",
        "points": [
         [
@@ -779,14 +779,14 @@
         ],
         [
          "2026-10-31",
-         163.37
+         163.83
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3862.95,
-       "change_pct": -0.11,
+       "value": 3868.64,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -875,14 +875,14 @@
         ],
         [
          "2026-10-31",
-         3862.95
+         3868.64
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.28,
-       "change_pct": 0.0,
+       "value": 19.33,
+       "change_pct": 0.3,
        "period": "24h",
        "points": [
         [
@@ -971,14 +971,14 @@
         ],
         [
          "2026-10-31",
-         19.28
+         19.33
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34428.68,
-       "change_pct": 0.16,
+       "value": 34536.97,
+       "change_pct": 0.31,
        "period": "24h",
        "points": [
         [
@@ -1067,14 +1067,14 @@
         ],
         [
          "2026-10-31",
-         34428.68
+         34536.97
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20136.57,
-       "change_pct": -0.09,
+       "value": 20185.73,
+       "change_pct": 0.24,
        "period": "24h",
        "points": [
         [
@@ -1163,14 +1163,14 @@
         ],
         [
          "2026-10-31",
-         20136.57
+         20185.73
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18127.16,
-       "change_pct": -0.37,
+       "value": 18140.55,
+       "change_pct": 0.07,
        "period": "24h",
        "points": [
         [
@@ -1259,7 +1259,7 @@
         ],
         [
          "2026-10-31",
-         18127.16
+         18140.55
         ]
        ]
       }
@@ -1267,14 +1267,14 @@
     }
    ],
    "text": [
-    "USD: 25,792.39 (-0.16%)",
-    "EUR: 28,788.27 (-0.02%)",
-    "JPY: 163.37 (-0.15%)",
-    "CNY: 3,862.95 (-0.11%)",
-    "KRW: 19.28 (+0.0%)",
-    "GBP: 34,428.68 (+0.16%)",
-    "SGD: 20,136.57 (-0.09%)",
-    "AUD: 18,127.16 (-0.37%)"
+    "USD: 25,802.15 (+0.04%)",
+    "EUR: 28,810.29 (+0.08%)",
+    "JPY: 163.83 (+0.28%)",
+    "CNY: 3,868.64 (+0.15%)",
+    "KRW: 19.33 (+0.3%)",
+    "GBP: 34,536.97 (+0.31%)",
+    "SGD: 20,185.73 (+0.24%)",
+    "AUD: 18,140.55 (+0.07%)"
    ]
   },
   {
@@ -2120,11 +2120,11 @@
       ],
       [
        [
-        "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-14-m1407ga-ly270w.html"
+        "Laptop ASUS ROG Strix SCAR 18 G835LWG-TQ383W (Intel Core Ultra 9 Processor 290HX | RTX 5080 16GB | 18 inch 4K 240Hz | 32GB | 2TB | Win 11 | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-rog-strix-scar-18-g835lwg-tq383w.html"
        ],
-       "21.999.000",
-       -2.6
+       "125.990.000",
+       -3.1
       ]
      ]
     },
@@ -2195,7 +2195,7 @@
     "Laptop ASUS Vivobook S14 S3407AA-SF945W (Intel Core Ultra 5 325 | 16GB | 512GB | Intel Arc | 14 WUXGA OLED | Win 11 | Xám): 27.490.000 (-4.2%)",
     "Laptop Acer Swift Air 14 AI SFA14-I31-55NR (Core 5-320/ 12GB/ 512GB/ 14\" FHD+ IPS 120Hz/ Pink/ Win 11): 23.990.000 (-4.0%)",
     "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 26.990.000 (-3.6%)",
-    "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 21.999.000 (-2.6%)",
+    "Laptop ASUS ROG Strix SCAR 18 G835LWG-TQ383W (Intel Core Ultra 9 Processor 290HX | RTX 5080 16GB | 18 inch 4K 240Hz | 32GB | 2TB | Win 11 | Đen): 125.990.000 (-3.1%)",
     "Nguồn máy tính MSI MAG A500N-H 500W: 1.199.000 (+90.6%)",
     "Mainboard ASUS TUF GAMING B650M-E WIFI DDR5: 5.999.000 (+62.2%)",
     "Nguồn máy tính Cooler Master MWE V3 230V 650 - 650W (80 Plus Bronze/ATX3.1): 1.899.000 (+58.4%)",
