@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:16:28+00:00",
+ "generated_at": "2026-10-31T12:43:11+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41016919951"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41178147910"
        ],
        2,
        0,
@@ -45,7 +45,7 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41175040859"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
@@ -54,14 +54,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41174714154"
        ],
-       8,
+       6,
        0,
        "bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41172159737"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41199897216"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41105173836"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41176138563"
        ],
        4,
        0,
@@ -81,14 +81,14 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41174896011"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41172480683"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41195543336"
        ],
        5,
        0,
@@ -99,23 +99,23 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41174898469"
        ],
-       5,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41157893017"
-       ],
        4,
        0,
        "bình thường"
       ],
       [
        [
+        "apps-gone-free-emailer",
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41184105956"
+       ],
+       5,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41162963540"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41196637401"
        ],
        8,
        0,
@@ -126,14 +126,14 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/5 lỗi)",
-    "tech-price-mailer: bình thường (0/8 lỗi)",
+    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
-    "currency-rate-emailer: bình thường (0/5 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
+    "currency-rate-emailer: bình thường (0/4 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/5 lỗi)",
     "9gag-meme-emailer: bình thường (0/8 lỗi)"
    ]
   },
@@ -2208,7 +2208,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-30 18:19",
+   "as_of": "2026-10-31 06:25",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2244,8 +2244,38 @@
        ],
        24990000,
        "MediaMart",
+       4,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
+       ],
+       33290000,
+       "MediaMart",
+       4,
+       -0.6
+      ],
+      [
+       [
+        "Apple iPad Pro M5 11 256GB",
+        "https://didongviet.vn/may-tinh-bang/ipad-pro-m5-11-inch-256gb-wifi.html?sku=DTH307iPaM4089-BLACK"
+       ],
+       33390000,
+       "Di Động Việt",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 15 128GB",
+        "https://shopdunk.com/iphone-15-128gb"
+       ],
+       19990000,
+       "ShopDunk",
+       3,
+       2.57
       ],
       [
        [
@@ -2259,6 +2289,16 @@
       ],
       [
        [
+        "Apple iPhone 17 Pro 256GB",
+        "https://shopdunk.com/dien-thoai-iphone-17-pro-256gb"
+       ],
+       31490000,
+       "ShopDunk",
+       3,
+       0.0
+      ],
+      [
+       [
         "Apple iPhone 17 Pro Max 1TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
@@ -2266,16 +2306,6 @@
        "24hStore",
        3,
        0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33290000,
-       "MediaMart",
-       3,
-       -0.6
       ],
       [
        [
@@ -2299,58 +2329,28 @@
       ],
       [
        [
-        "Apple iPhone 18 Pro 256GB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
+        "Apple iPhone 17E 256GB",
+        "https://hoanghamobile.com/dien-thoai/iphone-17e"
        ],
-       35990000,
-       "24hStore",
+       20343000,
+       "Hoàng Hà Mobile",
        3,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro Max 2TB",
-        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-2tb-p12569"
-       ],
-       78490000,
-       "24hStore",
-       3,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone Air 256GB",
-        "https://mediamart.vn/smartphones#28343"
-       ],
-       22990000,
-       "MediaMart",
-       3,
-       0.0
-      ],
-      [
-       [
-        "Oppo Reno16 F 256GB",
-        "https://didongviet.vn/dien-thoai/oppo-reno16-f-5g-256gb.html?sku=CMH271OP366"
-       ],
-       12990000,
-       "Di Động Việt",
-       3,
-       1.56
+       -2.62
       ]
      ]
     }
    ],
    "text": [
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 256GB: 33,290,000 (MediaMart)",
+    "Apple iPad Pro M5 11 256GB: 33,390,000 (Di Động Việt)",
+    "Apple iPhone 15 128GB: 19,990,000 (ShopDunk)",
+    "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
+    "Apple iPhone 17 Pro 256GB: 31,490,000 (ShopDunk)",
+    "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
-    "Apple iPhone 18 Pro Max 2TB: 78,490,000 (24hStore)",
-    "Apple iPhone Air 256GB: 22,990,000 (MediaMart)",
-    "Oppo Reno16 F 256GB: 12,990,000 (Di Động Việt)"
+    "Apple iPhone 17E 256GB: 20,343,000 (Hoàng Hà Mobile)"
    ]
   }
  ]
