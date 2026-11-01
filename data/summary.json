@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:18:11+00:00",
+ "generated_at": "2026-11-01T06:49:51+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,11 +34,11 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41178147910"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
        ],
-       2,
+       1,
        0,
-       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
+       "không chạy lần nào"
       ],
       [
        [
@@ -52,9 +52,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41255777024"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41280967207"
        ],
-       6,
+       8,
        0,
        "bình thường"
       ],
@@ -72,7 +72,7 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41224173588"
        ],
-       4,
+       2,
        0,
        "bình thường"
       ],
@@ -81,7 +81,7 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41268623472"
        ],
-       5,
+       7,
        0,
        "bình thường"
       ],
@@ -125,12 +125,12 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
+    "reddit-top-post-emailer: không chạy lần nào (0/1 lỗi)",
     "gold-price-emailer: bình thường (0/5 lỗi)",
-    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "tech-price-mailer: bình thường (0/8 lỗi)",
     "house-price-emailer: bình thường (0/7 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/7 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
     "currency-rate-emailer: bình thường (0/5 lỗi)",
     "apps-gone-free-emailer: bình thường (0/5 lỗi)",
