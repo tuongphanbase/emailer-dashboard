@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:49:51+00:00",
+ "generated_at": "2026-11-01T16:05:56+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41284046186"
        ],
-       1,
+       4,
        0,
-       "không chạy lần nào"
+       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41270556676"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41299728330"
        ],
        5,
        0,
@@ -54,14 +54,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41280967207"
        ],
-       8,
+       6,
        0,
        "bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41278339750"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41309885775"
        ],
        7,
        0,
@@ -70,16 +70,16 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41224173588"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41282546212"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41268623472"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41298609017"
        ],
        7,
        0,
@@ -88,16 +88,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41277621916"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41309321081"
        ],
-       5,
+       9,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41268717468"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41298558188"
        ],
        5,
        0,
@@ -106,16 +106,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41262674946"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41322694649"
        ],
-       5,
+       7,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41267516239"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41305563442"
        ],
        10,
        0,
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: không chạy lần nào (0/1 lỗi)",
+    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/4 lỗi)",
     "gold-price-emailer: bình thường (0/5 lỗi)",
-    "tech-price-mailer: bình thường (0/8 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/7 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/7 lỗi)",
-    "interest-rate-emailer: bình thường (0/5 lỗi)",
+    "interest-rate-emailer: bình thường (0/9 lỗi)",
     "currency-rate-emailer: bình thường (0/5 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/5 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/7 lỗi)",
     "9gag-meme-emailer: bình thường (0/10 lỗi)"
    ]
   },
@@ -501,7 +501,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-01 10:19",
+   "as_of": "2026-11-01 17:41",
    "blocks": [
     {
      "type": "tiles",
@@ -510,7 +510,7 @@
       {
        "label": "USD",
        "value": 25795.63,
-       "change_pct": 0.01,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -610,7 +610,7 @@
       {
        "label": "EUR",
        "value": 28804.04,
-       "change_pct": 0.05,
+       "change_pct": -0.02,
        "period": "24h",
        "points": [
         [
@@ -710,7 +710,7 @@
       {
        "label": "JPY",
        "value": 163.79,
-       "change_pct": 0.26,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -810,7 +810,7 @@
       {
        "label": "CNY",
        "value": 3866.84,
-       "change_pct": 0.1,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -910,7 +910,7 @@
       {
        "label": "KRW",
        "value": 19.33,
-       "change_pct": 0.26,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -1010,7 +1010,7 @@
       {
        "label": "GBP",
        "value": 34534.7,
-       "change_pct": 0.31,
+       "change_pct": -0.01,
        "period": "24h",
        "points": [
         [
@@ -1110,7 +1110,7 @@
       {
        "label": "SGD",
        "value": 20179.68,
-       "change_pct": 0.21,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -1210,7 +1210,7 @@
       {
        "label": "AUD",
        "value": 18134.85,
-       "change_pct": 0.04,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -1311,14 +1311,14 @@
     }
    ],
    "text": [
-    "USD: 25,795.63 (+0.01%)",
-    "EUR: 28,804.04 (+0.05%)",
-    "JPY: 163.79 (+0.26%)",
-    "CNY: 3,866.84 (+0.1%)",
-    "KRW: 19.33 (+0.26%)",
-    "GBP: 34,534.7 (+0.31%)",
-    "SGD: 20,179.68 (+0.21%)",
-    "AUD: 18,134.85 (+0.04%)"
+    "USD: 25,795.63 (-0.03%)",
+    "EUR: 28,804.04 (-0.02%)",
+    "JPY: 163.79 (-0.03%)",
+    "CNY: 3,866.84 (-0.05%)",
+    "KRW: 19.33 (-0.05%)",
+    "GBP: 34,534.7 (-0.01%)",
+    "SGD: 20,179.68 (-0.03%)",
+    "AUD: 18,134.85 (-0.03%)"
    ]
   },
   {
@@ -2252,7 +2252,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-10-31 17:26",
+   "as_of": "2026-11-01 06:57",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2283,6 +2283,26 @@
      "rows": [
       [
        [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28313"
+       ],
+       24990000,
+       "MediaMart",
+       4,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
+       ],
+       33290000,
+       "MediaMart",
+       4,
+       -0.6
+      ],
+      [
+       [
         "Samsung Galaxy S26 Ultra 256GB",
         "https://didongviet.vn/dien-thoai/samsung-galaxy-s26-ultra.html?sku=CMH978S1310-PP-DDVNew"
        ],
@@ -2293,11 +2313,21 @@
       ],
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28313"
+        "Apple iPad Pro M5 11 256GB",
+        "https://didongviet.vn/may-tinh-bang/ipad-pro-m5-11-inch-256gb-wifi.html?sku=DTH307iPaM4089-BLACK"
        ],
-       24990000,
-       "MediaMart",
+       33390000,
+       "Di Động Việt",
+       3,
+       -0.3
+      ],
+      [
+       [
+        "Apple iPhone 15 128GB",
+        "https://shopdunk.com/iphone-15-128gb"
+       ],
+       19990000,
+       "ShopDunk",
        3,
        0.0
       ],
@@ -2313,21 +2343,21 @@
       ],
       [
        [
-        "Apple iPhone 17 Pro Max 1TB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
+        "Apple iPhone 17 Pro 256GB",
+        "https://shopdunk.com/dien-thoai-iphone-17-pro-256gb"
        ],
-       44490000,
-       "24hStore",
+       31490000,
+       "ShopDunk",
        3,
        0.0
       ],
       [
        [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
+        "Apple iPhone 17 Pro Max 1TB",
+        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
-       33490000,
-       "MediaMart",
+       44490000,
+       "24hStore",
        3,
        0.0
       ],
@@ -2350,51 +2380,21 @@
        "24hStore",
        3,
        0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 256GB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
-       ],
-       35990000,
-       "24hStore",
-       3,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 2TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
-       ],
-       74990000,
-       "24hStore",
-       3,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro Max 256GB",
-        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
-       ],
-       39490000,
-       "24hStore",
-       3,
-       0.0
       ]
      ]
     }
    ],
    "text": [
-    "Samsung Galaxy S26 Ultra 256GB: 28,690,000 (Di Động Việt)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 17 Pro Max 256GB: 33,290,000 (MediaMart)",
+    "Samsung Galaxy S26 Ultra 256GB: 28,690,000 (Di Động Việt)",
+    "Apple iPad Pro M5 11 256GB: 33,390,000 (Di Động Việt)",
+    "Apple iPhone 15 128GB: 19,990,000 (ShopDunk)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
+    "Apple iPhone 17 Pro 256GB: 31,490,000 (ShopDunk)",
     "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 256GB: 35,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 2TB: 74,990,000 (24hStore)",
-    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)"
+    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)"
    ]
   }
  ]
