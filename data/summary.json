@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T06:19:40+00:00",
+ "generated_at": "2026-11-02T06:48:25+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41356026599"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41400205648"
        ],
        9,
        0,
@@ -79,9 +79,9 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41365780393"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41400520835"
        ],
-       6,
+       5,
        0,
        "bình thường"
       ],
@@ -97,9 +97,9 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41365774364"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41400543531"
        ],
-       6,
+       7,
        0,
        "bình thường"
       ],
@@ -130,9 +130,9 @@
     "tech-price-mailer: bình thường (0/9 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/8 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/6 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
     "interest-rate-emailer: bình thường (0/8 lỗi)",
-    "currency-rate-emailer: bình thường (0/6 lỗi)",
+    "currency-rate-emailer: bình thường (0/7 lỗi)",
     "apps-gone-free-emailer: bình thường (0/7 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -513,7 +513,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-02 07:11",
+   "as_of": "2026-11-02 13:32",
    "blocks": [
     {
      "type": "tiles",
@@ -521,7 +521,7 @@
      "items": [
       {
        "label": "USD",
-       "value": 25795.63,
+       "value": 25786.75,
        "change_pct": -0.03,
        "period": "24h",
        "points": [
@@ -619,14 +619,14 @@
         ],
         [
          "2026-11-02",
-         25795.63
+         25786.75
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28804.04,
-       "change_pct": -0.02,
+       "value": 28777.51,
+       "change_pct": -0.09,
        "period": "24h",
        "points": [
         [
@@ -723,14 +723,14 @@
         ],
         [
          "2026-11-02",
-         28804.04
+         28777.51
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.79,
-       "change_pct": -0.03,
+       "value": 163.69,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -827,14 +827,14 @@
         ],
         [
          "2026-11-02",
-         163.79
+         163.69
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3866.84,
-       "change_pct": -0.05,
+       "value": 3871.39,
+       "change_pct": 0.12,
        "period": "24h",
        "points": [
         [
@@ -931,14 +931,14 @@
         ],
         [
          "2026-11-02",
-         3866.84
+         3871.39
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.33,
-       "change_pct": -0.05,
+       "value": 19.35,
+       "change_pct": 0.12,
        "period": "24h",
        "points": [
         [
@@ -1035,14 +1035,14 @@
         ],
         [
          "2026-11-02",
-         19.33
+         19.35
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34534.7,
-       "change_pct": -0.01,
+       "value": 34524.75,
+       "change_pct": -0.03,
        "period": "24h",
        "points": [
         [
@@ -1139,14 +1139,14 @@
         ],
         [
          "2026-11-02",
-         34534.7
+         34524.75
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20179.68,
-       "change_pct": -0.03,
+       "value": 20176.66,
+       "change_pct": -0.01,
        "period": "24h",
        "points": [
         [
@@ -1243,14 +1243,14 @@
         ],
         [
          "2026-11-02",
-         20179.68
+         20176.66
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18134.85,
-       "change_pct": -0.03,
+       "value": 18124.66,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -1347,7 +1347,7 @@
         ],
         [
          "2026-11-02",
-         18134.85
+         18124.66
         ]
        ]
       }
@@ -1355,14 +1355,14 @@
     }
    ],
    "text": [
-    "USD: 25,795.63 (-0.03%)",
-    "EUR: 28,804.04 (-0.02%)",
-    "JPY: 163.79 (-0.03%)",
-    "CNY: 3,866.84 (-0.05%)",
-    "KRW: 19.33 (-0.05%)",
-    "GBP: 34,534.7 (-0.01%)",
-    "SGD: 20,179.68 (-0.03%)",
-    "AUD: 18,134.85 (-0.03%)"
+    "USD: 25,786.75 (-0.03%)",
+    "EUR: 28,777.51 (-0.09%)",
+    "JPY: 163.69 (-0.06%)",
+    "CNY: 3,871.39 (+0.12%)",
+    "KRW: 19.35 (+0.12%)",
+    "GBP: 34,524.75 (-0.03%)",
+    "SGD: 20,176.66 (-0.01%)",
+    "AUD: 18,124.66 (-0.06%)"
    ]
   },
   {
@@ -1370,7 +1370,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-10-30 16:17",
+   "as_of": "2026-11-02 13:32",
    "blocks": [
     {
      "type": "tiles",
@@ -1378,8 +1378,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 241000.0,
-       "change_pct": 0.46,
+       "value": 243200.0,
+       "change_pct": 0.91,
        "period": "24h",
        "points": [
         [
@@ -1453,6 +1453,10 @@
         [
          "2026-10-30",
          241000.0
+        ],
+        [
+         "2026-11-02",
+         243200.0
         ]
        ]
       },
@@ -1534,8 +1538,8 @@
       },
       {
        "label": "VCB",
-       "value": 56300.0,
-       "change_pct": -1.75,
+       "value": 54400.0,
+       "change_pct": -3.37,
        "period": "24h",
        "points": [
         [
@@ -1605,13 +1609,17 @@
         [
          "2026-10-30",
          56300.0
+        ],
+        [
+         "2026-11-02",
+         54400.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 33400.0,
-       "change_pct": -1.76,
+       "value": 32300.0,
+       "change_pct": -3.29,
        "period": "24h",
        "points": [
         [
@@ -1681,13 +1689,17 @@
         [
          "2026-10-30",
          33400.0
+        ],
+        [
+         "2026-11-02",
+         32300.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 21600.0,
-       "change_pct": -3.14,
+       "value": 20750.0,
+       "change_pct": -3.94,
        "period": "24h",
        "points": [
         [
@@ -1761,13 +1773,17 @@
         [
          "2026-10-30",
          21600.0
+        ],
+        [
+         "2026-11-02",
+         20750.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30300.0,
-       "change_pct": -1.3,
+       "value": 29700.0,
+       "change_pct": -1.98,
        "period": "24h",
        "points": [
         [
@@ -1837,13 +1853,17 @@
         [
          "2026-10-30",
          30300.0
+        ],
+        [
+         "2026-11-02",
+         29700.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 22950.0,
-       "change_pct": -2.34,
+       "value": 21900.0,
+       "change_pct": -4.58,
        "period": "24h",
        "points": [
         [
@@ -1917,13 +1937,17 @@
         [
          "2026-10-30",
          22950.0
+        ],
+        [
+         "2026-11-02",
+         21900.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 78000.0,
-       "change_pct": 4.14,
+       "value": 75800.0,
+       "change_pct": -2.82,
        "period": "24h",
        "points": [
         [
@@ -1997,6 +2021,10 @@
         [
          "2026-10-30",
          78000.0
+        ],
+        [
+         "2026-11-02",
+         75800.0
         ]
        ]
       }
@@ -2021,14 +2049,14 @@
      ],
      "rows": [
       [
+       "RGG",
+       38000.0,
+       -13.24
+      ],
+      [
        "VGV",
        57100.0,
        11.09
-      ],
-      [
-       "VDS",
-       9250.0,
-       -10.63
       ],
       [
        "STG",
@@ -2036,27 +2064,27 @@
        10.6
       ],
       [
-       "MSR",
-       61200.0,
-       -8.25
+       "SJG",
+       20600.0,
+       -10.43
       ],
       [
-       "VIF",
-       14500.0,
-       -8.23
+       "PRT",
+       9100.0,
+       -9.9
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 241,000.0 (+0.46%)",
+    "VIC: 243,200.0 (+0.91%)",
     "VHM: 63,000.0 (+0.48%)",
-    "VCB: 56,300.0 (-1.75%)",
-    "BID: 33,400.0 (-1.76%)",
-    "TCB: 21,600.0 (-3.14%)",
-    "CTG: 30,300.0 (-1.3%)",
-    "VPB: 22,950.0 (-2.34%)",
-    "GAS: 78,000.0 (+4.14%)"
+    "VCB: 54,400.0 (-3.37%)",
+    "BID: 32,300.0 (-3.29%)",
+    "TCB: 20,750.0 (-3.94%)",
+    "CTG: 29,700.0 (-1.98%)",
+    "VPB: 21,900.0 (-4.58%)",
+    "GAS: 75,800.0 (-2.82%)"
    ]
   },
   {
@@ -2260,11 +2288,11 @@
       ],
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+        "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa)",
+        "https://hoanghapc.vn/man-hinh-aoc-u32u3cv-74"
        ],
-       "45.696.000",
-       20.3
+       "12.000.000",
+       20.1
       ]
      ]
     }
@@ -2279,7 +2307,7 @@
     "Ổ cứng Western Digital Enterprise Ultrastar HC555 16TB 7200RPM 512MB- WUH722016CLE6L4: 33.999.000 (+25.9%)",
     "Card màn hình Gigabyte RTX 5070 WINDFORCE OC SFF 12G GDDR7 (GV-N5070WF3OC-12GD): 33.999.000 (+21.4%)",
     "Card màn hình Asus DUAL RTX 5070 12G OC GDDR7: 33.999.000 (+21.4%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)"
+    "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 12.000.000 (+20.1%)"
    ]
   },
   {
