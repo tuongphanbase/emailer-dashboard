@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:14:18+00:00",
+ "generated_at": "2026-11-03T10:58:55+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41406700072"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41598361321"
        ],
        2,
        0,
@@ -63,16 +63,16 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41590191015"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41532869411"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41595183882"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41564222730"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41614999734"
        ],
        3,
        0,
@@ -128,8 +128,8 @@
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
+    "house-price-emailer: bình thường (0/2 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
@@ -2405,7 +2405,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-02 22:01",
+   "as_of": "2026-11-03 07:21",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2434,6 +2434,16 @@
       }
      ],
      "rows": [
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://hoanghamobile.com/dien-thoai/iphone-17-pro-max"
+       ],
+       3966000,
+       "Hoàng Hà Mobile",
+       4,
+       -88.16
+      ],
       [
        [
         "Apple iPhone 18 Pro 256GB",
@@ -2486,16 +2496,6 @@
       ],
       [
        [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33490000,
-       "MediaMart",
-       3,
-       0.0
-      ],
-      [
-       [
         "Apple iPhone 17 Pro Max 2TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-2tb-p11587"
        ],
@@ -2538,12 +2538,12 @@
     }
    ],
    "text": [
+    "Apple iPhone 17 Pro Max 256GB: 3,966,000 (Hoàng Hà Mobile)",
     "Apple iPhone 18 Pro 256GB: 4,491,000 (Hoàng Hà Mobile)",
     "Apple iPhone 18 Pro Max 256GB: 4,841,000 (Hoàng Hà Mobile)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 1TB: 44,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
     "Apple iPhone 18 Pro 2TB: 74,990,000 (24hStore)",
