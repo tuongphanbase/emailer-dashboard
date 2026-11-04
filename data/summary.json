@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:58:20+00:00",
+ "generated_at": "2026-11-04T11:05:01+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41598361321"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41791926269"
        ],
        2,
        0,
@@ -43,9 +43,9 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41749092177"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41790287291"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41706847624"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41789113374"
        ],
        4,
        0,
@@ -90,7 +90,7 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41765212718"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -126,12 +126,12 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
@@ -258,7 +258,7 @@
         ],
         [
          "2026-11-04",
-         140600000
+         142400000
         ]
        ]
       },
@@ -371,7 +371,7 @@
         ],
         [
          "2026-11-04",
-         140600000
+         142400000
         ]
        ]
       },
@@ -484,7 +484,7 @@
         ],
         [
          "2026-11-04",
-         140600000
+         142400000
         ]
        ]
       }
@@ -510,26 +510,26 @@
      "rows": [
       [
        "SJC",
-       140600000,
-       0.0
+       142400000,
+       1.28
       ],
       [
        "PNJ",
-       140600000,
-       0.0
+       142400000,
+       1.28
       ],
       [
        "DOJI",
-       140600000,
-       0.0
+       142400000,
+       1.28
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 140,600,000 VND",
-    "PNJ: 140,600,000 VND",
-    "DOJI: 140,600,000 VND"
+    "SJC: 142,400,000 VND",
+    "PNJ: 142,400,000 VND",
+    "DOJI: 142,400,000 VND"
    ]
   },
   {
@@ -2481,7 +2481,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-03 19:54",
+   "as_of": "2026-11-04 07:06",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2592,23 +2592,23 @@
       ],
       [
        [
-        "Apple iPhone 18 Pro 2TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
+        "Apple iPhone 18 Pro 1TB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
        ],
-       74990000,
+       55490000,
        "24hStore",
        3,
        0.0
       ],
       [
        [
-        "Apple iPhone Air 256GB",
-        "https://mediamart.vn/smartphones#28343"
+        "Apple iPhone 18 Pro 2TB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
        ],
-       22990000,
-       "MediaMart",
+       74490000,
+       "24hStore",
        3,
-       0.0
+       -0.67
       ]
      ]
     }
@@ -2622,8 +2622,8 @@
     "Apple iPhone 17 Pro Max 256GB: 33,490,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 2TB: 74,990,000 (24hStore)",
-    "Apple iPhone Air 256GB: 22,990,000 (MediaMart)"
+    "Apple iPhone 18 Pro 1TB: 55,490,000 (24hStore)",
+    "Apple iPhone 18 Pro 2TB: 74,490,000 (24hStore)"
    ]
   }
  ]
