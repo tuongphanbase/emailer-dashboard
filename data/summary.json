@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:26:58+00:00",
+ "generated_at": "2026-11-04T06:58:20+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -45,14 +45,14 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41749092177"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41705242982"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41754440795"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41737231704"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41782627841"
        ],
        3,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41745593020"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41787742274"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41736514034"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41765212718"
        ],
        4,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41745638036"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41787736695"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41743946796"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41788145463"
        ],
        4,
        0,
@@ -115,9 +115,9 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41732799457"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41769210146"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ]
@@ -126,7 +126,7 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
@@ -134,7 +134,7 @@
     "interest-rate-emailer: bình thường (0/4 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
-    "9gag-meme-emailer: bình thường (0/4 lỗi)"
+    "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
   {
@@ -537,7 +537,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-04 07:17",
+   "as_of": "2026-11-04 13:46",
    "blocks": [
     {
      "type": "tiles",
@@ -545,8 +545,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25743.91,
-       "change_pct": -0.17,
+       "value": 25769.07,
+       "change_pct": 0.1,
        "period": "24h",
        "points": [
         [
@@ -651,14 +651,14 @@
         ],
         [
          "2026-11-04",
-         25743.91
+         25769.07
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28819.89,
-       "change_pct": 0.15,
+       "value": 28842.98,
+       "change_pct": 0.08,
        "period": "24h",
        "points": [
         [
@@ -763,14 +763,14 @@
         ],
         [
          "2026-11-04",
-         28819.89
+         28842.98
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 163.04,
-       "change_pct": -0.4,
+       "value": 162.68,
+       "change_pct": -0.22,
        "period": "24h",
        "points": [
         [
@@ -875,14 +875,14 @@
         ],
         [
          "2026-11-04",
-         163.04
+         162.68
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3862.32,
-       "change_pct": -0.23,
+       "value": 3855.32,
+       "change_pct": -0.18,
        "period": "24h",
        "points": [
         [
@@ -987,14 +987,14 @@
         ],
         [
          "2026-11-04",
-         3862.32
+         3855.32
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.15,
-       "change_pct": -1.01,
+       "value": 19.17,
+       "change_pct": 0.11,
        "period": "24h",
        "points": [
         [
@@ -1099,14 +1099,14 @@
         ],
         [
          "2026-11-04",
-         19.15
+         19.17
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34521.44,
-       "change_pct": -0.01,
+       "value": 34569.95,
+       "change_pct": 0.14,
        "period": "24h",
        "points": [
         [
@@ -1211,14 +1211,14 @@
         ],
         [
          "2026-11-04",
-         34521.44
+         34569.95
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20126.28,
-       "change_pct": -0.25,
+       "value": 20114.43,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -1323,14 +1323,14 @@
         ],
         [
          "2026-11-04",
-         20126.28
+         20114.43
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 18029.26,
-       "change_pct": -0.53,
+       "value": 17967.49,
+       "change_pct": -0.34,
        "period": "24h",
        "points": [
         [
@@ -1435,7 +1435,7 @@
         ],
         [
          "2026-11-04",
-         18029.26
+         17967.49
         ]
        ]
       }
@@ -1443,14 +1443,14 @@
     }
    ],
    "text": [
-    "USD: 25,743.91 (-0.17%)",
-    "EUR: 28,819.89 (+0.15%)",
-    "JPY: 163.04 (-0.4%)",
-    "CNY: 3,862.32 (-0.23%)",
-    "KRW: 19.15 (-1.01%)",
-    "GBP: 34,521.44 (-0.01%)",
-    "SGD: 20,126.28 (-0.25%)",
-    "AUD: 18,029.26 (-0.53%)"
+    "USD: 25,769.07 (+0.1%)",
+    "EUR: 28,842.98 (+0.08%)",
+    "JPY: 162.68 (-0.22%)",
+    "CNY: 3,855.32 (-0.18%)",
+    "KRW: 19.17 (+0.11%)",
+    "GBP: 34,569.95 (+0.14%)",
+    "SGD: 20,114.43 (-0.06%)",
+    "AUD: 17,967.49 (-0.34%)"
    ]
   },
   {
@@ -1458,7 +1458,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-11-03 19:30",
+   "as_of": "2026-11-04 13:46",
    "blocks": [
     {
      "type": "tiles",
@@ -1466,8 +1466,8 @@
      "items": [
       {
        "label": "VIC",
-       "value": 234000.0,
-       "change_pct": -3.78,
+       "value": 238300.0,
+       "change_pct": 0.04,
        "period": "24h",
        "points": [
         [
@@ -1549,13 +1549,17 @@
         [
          "2026-11-03",
          234000.0
+        ],
+        [
+         "2026-11-04",
+         238300.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 61900.0,
-       "change_pct": -1.75,
+       "value": 63000.0,
+       "change_pct": -0.16,
        "period": "24h",
        "points": [
         [
@@ -1633,13 +1637,17 @@
         [
          "2026-11-03",
          61900.0
+        ],
+        [
+         "2026-11-04",
+         63000.0
         ]
        ]
       },
       {
        "label": "VCB",
-       "value": 53500.0,
-       "change_pct": -1.65,
+       "value": 54500.0,
+       "change_pct": 2.25,
        "period": "24h",
        "points": [
         [
@@ -1717,13 +1725,17 @@
         [
          "2026-11-03",
          53500.0
+        ],
+        [
+         "2026-11-04",
+         54500.0
         ]
        ]
       },
       {
        "label": "BID",
-       "value": 31700.0,
-       "change_pct": -1.86,
+       "value": 32450.0,
+       "change_pct": 1.88,
        "period": "24h",
        "points": [
         [
@@ -1801,13 +1813,17 @@
         [
          "2026-11-03",
          31700.0
+        ],
+        [
+         "2026-11-04",
+         32450.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 21400.0,
-       "change_pct": 3.13,
+       "value": 21700.0,
+       "change_pct": 0.7,
        "period": "24h",
        "points": [
         [
@@ -1889,13 +1905,17 @@
         [
          "2026-11-03",
          21400.0
+        ],
+        [
+         "2026-11-04",
+         21700.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 30050.0,
-       "change_pct": 1.18,
+       "value": 30700.0,
+       "change_pct": 2.5,
        "period": "24h",
        "points": [
         [
@@ -1973,13 +1993,17 @@
         [
          "2026-11-03",
          30050.0
+        ],
+        [
+         "2026-11-04",
+         30700.0
         ]
        ]
       },
       {
        "label": "VPB",
-       "value": 21200.0,
-       "change_pct": -3.2,
+       "value": 21750.0,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -2061,13 +2085,17 @@
         [
          "2026-11-03",
          21200.0
+        ],
+        [
+         "2026-11-04",
+         21750.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 75400.0,
-       "change_pct": -0.53,
+       "value": 75600.0,
+       "change_pct": -0.79,
        "period": "24h",
        "points": [
         [
@@ -2149,6 +2177,10 @@
         [
          "2026-11-03",
          75400.0
+        ],
+        [
+         "2026-11-04",
+         75600.0
         ]
        ]
       }
@@ -2173,14 +2205,14 @@
      ],
      "rows": [
       [
-       "TMS",
-       32600.0,
-       12.41
+       "PC1",
+       16150.0,
+       -11.75
       ],
       [
-       "SJG",
-       20400.0,
-       -11.3
+       "PGS",
+       72000.0,
+       -11.66
       ],
       [
        "VGV",
@@ -2193,22 +2225,22 @@
        -9.9
       ],
       [
-       "DPG",
-       30900.0,
-       8.99
+       "THD",
+       93500.0,
+       7.47
       ]
      ]
     }
    ],
    "text": [
-    "VIC: 234,000.0 (-3.78%)",
-    "VHM: 61,900.0 (-1.75%)",
-    "VCB: 53,500.0 (-1.65%)",
-    "BID: 31,700.0 (-1.86%)",
-    "TCB: 21,400.0 (+3.13%)",
-    "CTG: 30,050.0 (+1.18%)",
-    "VPB: 21,200.0 (-3.2%)",
-    "GAS: 75,400.0 (-0.53%)"
+    "VIC: 238,300.0 (+0.04%)",
+    "VHM: 63,000.0 (-0.16%)",
+    "VCB: 54,500.0 (+2.25%)",
+    "BID: 32,450.0 (+1.88%)",
+    "TCB: 21,700.0 (+0.7%)",
+    "CTG: 30,700.0 (+2.5%)",
+    "VPB: 21,750.0 (+0.0%)",
+    "GAS: 75,600.0 (-0.79%)"
    ],
    "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VCR"
   },
@@ -2329,6 +2361,22 @@
      "rows": [
       [
        [
+        "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen)",
+        "https://hacom.vn/nguon-may-tinh-gigabyte-p650ss-650w-80-plus-silver-mau-den"
+       ],
+       "1.849.000",
+       -7.5
+      ],
+      [
+       [
+        "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-ti-16gb-gddr7-oc-dual-rtx5060ti-o16g.html"
+       ],
+       "25.899.000",
+       -7.5
+      ],
+      [
+       [
         "Nguồn máy tính Gamdias AURA GP550 550W PSAURAGP550GA",
         "https://memoryzone.com.vn/nguon-may-tinh-gamdias-aura-gp550-550w-psauragp550ga"
        ],
@@ -2345,27 +2393,11 @@
       ],
       [
        [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+        "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen)",
+        "https://hacom.vn/nguon-gigabyte-gp-p750gm-750w-80-plus-gold-full-modular-mau-den"
        ],
-       "26.990.000",
-       -3.6
-      ],
-      [
-       [
-        "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS",
-        "https://memoryzone.com.vn/nguon-may-tinh-gigabyte-gp-p750bs-750w-80-plus-bronze-gp-p750bs"
-       ],
-       "1.250.000",
-       -3.1
-      ],
-      [
-       [
-        "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-14-m1407ga-ly270w.html"
-       ],
-       "21.990.000",
-       -2.7
+       "2.539.000",
+       -4.2
       ]
      ]
     },
@@ -2405,43 +2437,43 @@
       ],
       [
        [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "45.696.000",
+       20.3
+      ],
+      [
+       [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "68.969.000",
+       15.0
+      ],
+      [
+       [
         "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG",
         "https://memoryzone.com.vn/nguon-may-tinh-superflower-zillion-fg-gold-850w-atx-3-1-80-plus-gold"
        ],
        "2.890.000",
        9.1
-      ],
-      [
-       [
-        "Nguồn máy tính SuperFlower Leadex VII XG 1000W ATX 3.1 White 80 Plus Gold SF-1000F14XG-WH",
-        "https://memoryzone.com.vn/nguon-may-tinh-superflower-leadex-vii-xg-1000w-atx3-1-white-80-plus-gold-sf-1000f14xg"
-       ],
-       "4.890.000",
-       8.9
-      ],
-      [
-       [
-        "Card màn hình Leadtek NVIDIA RTX PRO 4000 Blackwell 24GB GDDR7",
-        "https://gearvn.com/products/card-man-hinh-leadtek-nvidia-rtx-pro-4000-blackwell-24gb-gddr7"
-       ],
-       "114.990.000",
-       8.4
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
+    "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
+    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 25.899.000 (-7.5%)",
     "Nguồn máy tính Gamdias AURA GP550 550W PSAURAGP550GA: 550.000 (-6.8%)",
     "Laptop ASUS ExpertBook P1403CVA-C5H08-50W (Intel Core 5 Processor 210H | Intel Graphics | 14 inch FHD | 8GB | 512GB | Win 11 | Xám): 16.990.000 (-5.6%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 26.990.000 (-3.6%)",
-    "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS: 1.250.000 (-3.1%)",
-    "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 21.990.000 (-2.7%)",
+    "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen): 2.539.000 (-4.2%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
     "Ổ cứng Western Digital Enterprise Ultrastar HC555 16TB 7200RPM 512MB- WUH722016CLE6L4: 33.999.000 (+25.9%)",
-    "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)",
-    "Nguồn máy tính SuperFlower Leadex VII XG 1000W ATX 3.1 White 80 Plus Gold SF-1000F14XG-WH: 4.890.000 (+8.9%)",
-    "Card màn hình Leadtek NVIDIA RTX PRO 4000 Blackwell 24GB GDDR7: 114.990.000 (+8.4%)"
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 68.969.000 (+15.0%)",
+    "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)"
    ]
   },
   {
