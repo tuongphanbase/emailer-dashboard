@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T11:06:03+00:00",
+ "generated_at": "2026-11-05T20:02:30+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,15 +33,6 @@
      "rows": [
       [
        [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/41819763666"
-       ],
-       5,
-       1,
-       "Send RAM/SSD/Laptop Price Email lỗi lúc 18:16 04/11"
-      ],
-      [
-       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/41989878338"
        ],
@@ -52,7 +43,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/41998465455"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42071731746"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42017385143"
        ],
        4,
        0,
@@ -61,9 +61,9 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/41980506598"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42073321768"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/41996783706"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42069746791"
        ],
        4,
        0,
@@ -88,16 +88,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/41985855252"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42057975758"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/41996820449"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42069723172"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/41998318453"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42071785901"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/41965559302"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42037819493"
        ],
        6,
        0,
@@ -125,13 +125,13 @@
     }
    ],
    "text": [
-    "tech-price-mailer: Send RAM/SSD/Laptop Price Email lỗi lúc 18:16 04/11 (1/5 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
+    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-05",
+   "as_of": "2026-11-06",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -263,6 +263,10 @@
         [
          "2026-11-05",
          142500000
+        ],
+        [
+         "2026-11-06",
+         142500000
         ]
        ]
       },
@@ -379,6 +383,10 @@
         ],
         [
          "2026-11-05",
+         142500000
+        ],
+        [
+         "2026-11-06",
          142500000
         ]
        ]
@@ -497,6 +505,10 @@
         [
          "2026-11-05",
          143000000
+        ],
+        [
+         "2026-11-06",
+         142500000
         ]
        ]
       }
@@ -523,17 +535,17 @@
       [
        "SJC",
        142500000,
-       0.07
+       0.0
       ],
       [
        "PNJ",
        142500000,
-       0.07
+       0.0
       ],
       [
        "DOJI",
-       143000000,
-       0.42
+       142500000,
+       -0.35
       ]
      ]
     }
@@ -541,7 +553,7 @@
    "text": [
     "SJC: 142,500,000 VND",
     "PNJ: 142,500,000 VND",
-    "DOJI: 143,000,000 VND"
+    "DOJI: 142,500,000 VND"
    ]
   },
   {
@@ -549,7 +561,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-05 15:44",
+   "as_of": "2026-11-05 23:57",
    "blocks": [
     {
      "type": "tiles",
@@ -2381,11 +2393,11 @@
      "rows": [
       [
        "European Central Bank",
-       "2.65%"
+       null
       ],
       [
        "Bank of England",
-       "3.75%"
+       "4.00%"
       ],
       [
        "Bank of Japan",
@@ -2436,26 +2448,10 @@
      "rows": [
       [
        [
-        "Laptop ASUS ExpertBook P1403CVA-C5H08-50W (Intel Core 5 Processor 210H | Intel Graphics | 14 inch FHD | 8GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-p1403cva-c5h08-50w.html"
-       ],
-       "16.990.000",
-       -13.3
-      ],
-      [
-       [
         "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen)",
         "https://hacom.vn/nguon-may-tinh-gigabyte-p650ss-650w-80-plus-silver-mau-den"
        ],
        "1.849.000",
-       -7.5
-      ],
-      [
-       [
-        "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-ti-16gb-gddr7-oc-dual-rtx5060ti-o16g.html"
-       ],
-       "25.899.000",
        -7.5
       ],
       [
@@ -2468,11 +2464,27 @@
       ],
       [
        [
+        "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY)",
+        "https://memoryzone.com.vn/ssd-huadisk-512gb-m-2-pcie-gen3-x4-nvme-hyv512x3-hxy"
+       ],
+       "1.900.000",
+       -4.5
+      ],
+      [
+       [
         "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen)",
         "https://hacom.vn/nguon-gigabyte-gp-p750gm-750w-80-plus-gold-full-modular-mau-den"
        ],
        "2.539.000",
        -4.2
+      ],
+      [
+       [
+        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+       ],
+       "26.990.000",
+       -3.6
       ]
      ]
     },
@@ -2504,51 +2516,51 @@
       ],
       [
        [
-        "Ổ cứng Western Digital Enterprise Ultrastar HC555 16TB 7200RPM 512MB- WUH722016CLE6L4",
-        "https://www.anphatpc.com.vn/o-cung-western-digital-enterprise-ultrastar-hc555-16tb-7200rpm-512mb-wuh722016cle6l4.html"
-       ],
-       "33.999.000",
-       25.9
-      ],
-      [
-       [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "45.696.000",
-       20.3
-      ],
-      [
-       [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "68.969.000",
-       15.0
-      ],
-      [
-       [
         "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50rb"
        ],
        "35.990.000",
        13.2
+      ],
+      [
+       [
+        "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG",
+        "https://memoryzone.com.vn/nguon-may-tinh-superflower-zillion-fg-gold-850w-atx-3-1-80-plus-gold"
+       ],
+       "2.890.000",
+       9.1
+      ],
+      [
+       [
+        "Nguồn máy tính SuperFlower Leadex VII XG 1000W ATX 3.1 White 80 Plus Gold SF-1000F14XG-WH",
+        "https://memoryzone.com.vn/nguon-may-tinh-superflower-leadex-vii-xg-1000w-atx3-1-white-80-plus-gold-sf-1000f14xg"
+       ],
+       "4.890.000",
+       8.9
+      ],
+      [
+       [
+        "Card màn hình Gigabyte RTX 5060 Ti WINDFORCE OC 16GD (GV-N506TWF2OC-16GD)",
+        "https://hacom.vn/card-man-hinh-gigabyte-rtx-5060-ti-windforce-oc-16gd-gv-n506twf2oc-16gd"
+       ],
+       "27.999.000",
+       7.7
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Laptop ASUS ExpertBook P1403CVA-C5H08-50W (Intel Core 5 Processor 210H | Intel Graphics | 14 inch FHD | 8GB | 512GB | Win 11 | Xám): 16.990.000 (-13.3%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
-    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 25.899.000 (-7.5%)",
     "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
+    "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.900.000 (-4.5%)",
     "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen): 2.539.000 (-4.2%)",
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 26.990.000 (-3.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
-    "Ổ cứng Western Digital Enterprise Ultrastar HC555 16TB 7200RPM 512MB- WUH722016CLE6L4: 33.999.000 (+25.9%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 68.969.000 (+15.0%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)"
+    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)",
+    "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)",
+    "Nguồn máy tính SuperFlower Leadex VII XG 1000W ATX 3.1 White 80 Plus Gold SF-1000F14XG-WH: 4.890.000 (+8.9%)",
+    "Card màn hình Gigabyte RTX 5060 Ti WINDFORCE OC 16GD (GV-N506TWF2OC-16GD): 27.999.000 (+7.7%)"
    ]
   },
   {
