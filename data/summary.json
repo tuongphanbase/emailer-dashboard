@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:02:30+00:00",
+ "generated_at": "2026-11-06T01:36:07+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42071731746"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42124055136"
        ],
        4,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42017385143"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42100547048"
        ],
        4,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42073321768"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42130064585"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/41987197841"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42102019023"
        ],
        4,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42069746791"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42121954393"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42057975758"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42116541839"
        ],
        3,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42069723172"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42121926039"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42071785901"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42124112124"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42037819493"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42126095163"
        ],
        6,
        0,
@@ -130,9 +130,9 @@
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -561,7 +561,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-05 23:57",
+   "as_of": "2026-11-06 05:29",
    "blocks": [
     {
      "type": "tiles",
@@ -680,6 +680,10 @@
         [
          "2026-11-05",
          25701.38
+        ],
+        [
+         "2026-11-06",
+         25701.38
         ]
        ]
       },
@@ -795,6 +799,10 @@
         ],
         [
          "2026-11-05",
+         28880.81
+        ],
+        [
+         "2026-11-06",
          28880.81
         ]
        ]
@@ -912,6 +920,10 @@
         [
          "2026-11-05",
          162.28
+        ],
+        [
+         "2026-11-06",
+         162.28
         ]
        ]
       },
@@ -1027,6 +1039,10 @@
         ],
         [
          "2026-11-05",
+         3844.39
+        ],
+        [
+         "2026-11-06",
          3844.39
         ]
        ]
@@ -1144,6 +1160,10 @@
         [
          "2026-11-05",
          19.18
+        ],
+        [
+         "2026-11-06",
+         19.18
         ]
        ]
       },
@@ -1259,6 +1279,10 @@
         ],
         [
          "2026-11-05",
+         34623.23
+        ],
+        [
+         "2026-11-06",
          34623.23
         ]
        ]
@@ -1376,6 +1400,10 @@
         [
          "2026-11-05",
          20097.73
+        ],
+        [
+         "2026-11-06",
+         20097.73
         ]
        ]
       },
@@ -1491,6 +1519,10 @@
         ],
         [
          "2026-11-05",
+         18002.61
+        ],
+        [
+         "2026-11-06",
          18002.61
         ]
        ]
@@ -2393,7 +2425,7 @@
      "rows": [
       [
        "European Central Bank",
-       null
+       "2.65%"
       ],
       [
        "Bank of England",
@@ -2448,6 +2480,22 @@
      "rows": [
       [
        [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "37.999.000",
+       -16.8
+      ],
+      [
+       [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "59.999.000",
+       -13.0
+      ],
+      [
+       [
         "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen)",
         "https://hacom.vn/nguon-may-tinh-gigabyte-p650ss-650w-80-plus-silver-mau-den"
        ],
@@ -2469,22 +2517,6 @@
        ],
        "1.900.000",
        -4.5
-      ],
-      [
-       [
-        "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen)",
-        "https://hacom.vn/nguon-gigabyte-gp-p750gm-750w-80-plus-gold-full-modular-mau-den"
-       ],
-       "2.539.000",
-       -4.2
-      ],
-      [
-       [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
-       ],
-       "26.990.000",
-       -3.6
       ]
      ]
     },
@@ -2540,27 +2572,27 @@
       ],
       [
        [
-        "Card màn hình Gigabyte RTX 5060 Ti WINDFORCE OC 16GD (GV-N506TWF2OC-16GD)",
-        "https://hacom.vn/card-man-hinh-gigabyte-rtx-5060-ti-windforce-oc-16gd-gv-n506twf2oc-16gd"
+        "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0)",
+        "https://www.anphatpc.com.vn/nguon-gigabyte-p550ss-550w-80-plus-silver-atx-3.0.html"
        ],
-       "27.999.000",
-       7.7
+       "1.150.000",
+       8.5
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
     "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
     "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.900.000 (-4.5%)",
-    "Nguồn Gigabyte GP- P750GM 750W (80 Plus Gold/Full Modular/Màu Đen): 2.539.000 (-4.2%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 26.990.000 (-3.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)",
     "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)",
     "Nguồn máy tính SuperFlower Leadex VII XG 1000W ATX 3.1 White 80 Plus Gold SF-1000F14XG-WH: 4.890.000 (+8.9%)",
-    "Card màn hình Gigabyte RTX 5060 Ti WINDFORCE OC 16GD (GV-N506TWF2OC-16GD): 27.999.000 (+7.7%)"
+    "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0): 1.150.000 (+8.5%)"
    ]
   },
   {
@@ -2568,7 +2600,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-05 07:31",
+   "as_of": "2026-11-05 20:22",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2665,7 +2697,7 @@
        33490000,
        "MediaMart",
        3,
-       0.0
+       0.6
       ],
       [
        [
