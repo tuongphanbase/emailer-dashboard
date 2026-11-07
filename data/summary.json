@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T00:57:58+00:00",
+ "generated_at": "2026-11-07T06:35:23+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42311414602"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42331815417"
        ],
        4,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42280848788"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42321492155"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42308645023"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42344124979"
        ],
        3,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42305421713"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42329339666"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42303544500"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42328396837"
        ],
        4,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42305450952"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42329361130"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42311503502"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42331883015"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42305094070"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42334904603"
        ],
        6,
        0,
@@ -573,7 +573,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-07 05:32",
+   "as_of": "2026-11-07 09:27",
    "blocks": [
     {
      "type": "tiles",
@@ -581,8 +581,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25692.44,
-       "change_pct": -0.03,
+       "value": 25585.35,
+       "change_pct": -0.45,
        "period": "24h",
        "points": [
         [
@@ -699,14 +699,14 @@
         ],
         [
          "2026-11-07",
-         25692.44
+         25585.35
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28852.35,
-       "change_pct": -0.1,
+       "value": 28551.32,
+       "change_pct": -1.14,
        "period": "24h",
        "points": [
         [
@@ -823,14 +823,14 @@
         ],
         [
          "2026-11-07",
-         28852.35
+         28551.32
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 162.78,
-       "change_pct": 0.31,
+       "value": 161.56,
+       "change_pct": -0.45,
        "period": "24h",
        "points": [
         [
@@ -947,14 +947,14 @@
         ],
         [
          "2026-11-07",
-         162.78
+         161.56
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3844.72,
-       "change_pct": 0.01,
+       "value": 3826.64,
+       "change_pct": -0.46,
        "period": "24h",
        "points": [
         [
@@ -1071,14 +1071,14 @@
         ],
         [
          "2026-11-07",
-         3844.72
+         3826.64
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.06,
-       "change_pct": -0.58,
+       "value": 18.86,
+       "change_pct": -1.65,
        "period": "24h",
        "points": [
         [
@@ -1195,14 +1195,14 @@
         ],
         [
          "2026-11-07",
-         19.06
+         18.86
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34583.29,
-       "change_pct": -0.12,
+       "value": 34217.87,
+       "change_pct": -1.17,
        "period": "24h",
        "points": [
         [
@@ -1319,14 +1319,14 @@
         ],
         [
          "2026-11-07",
-         34583.29
+         34217.87
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20110.2,
-       "change_pct": 0.06,
+       "value": 19960.21,
+       "change_pct": -0.68,
        "period": "24h",
        "points": [
         [
@@ -1443,14 +1443,14 @@
         ],
         [
          "2026-11-07",
-         20110.2
+         19960.21
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17871.79,
-       "change_pct": -0.73,
+       "value": 17584.96,
+       "change_pct": -2.32,
        "period": "24h",
        "points": [
         [
@@ -1567,7 +1567,7 @@
         ],
         [
          "2026-11-07",
-         17871.79
+         17584.96
         ]
        ]
       }
@@ -1575,14 +1575,14 @@
     }
    ],
    "text": [
-    "USD: 25,692.44 (-0.03%)",
-    "EUR: 28,852.35 (-0.1%)",
-    "JPY: 162.78 (+0.31%)",
-    "CNY: 3,844.72 (+0.01%)",
-    "KRW: 19.06 (-0.58%)",
-    "GBP: 34,583.29 (-0.12%)",
-    "SGD: 20,110.2 (+0.06%)",
-    "AUD: 17,871.79 (-0.73%)"
+    "USD: 25,585.35 (-0.45%)",
+    "EUR: 28,551.32 (-1.14%)",
+    "JPY: 161.56 (-0.45%)",
+    "CNY: 3,826.64 (-0.46%)",
+    "KRW: 18.86 (-1.65%)",
+    "GBP: 34,217.87 (-1.17%)",
+    "SGD: 19,960.21 (-0.68%)",
+    "AUD: 17,584.96 (-2.32%)"
    ]
   },
   {
