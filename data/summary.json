@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T10:22:48+00:00",
+ "generated_at": "2026-11-07T17:46:06+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42361200543"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42389155192"
        ],
        5,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42321492155"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42364140227"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42344124979"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42374315037"
        ],
        3,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42357971161"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42388175933"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42358408294"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42388408102"
        ],
        4,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42357965029"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42388157224"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42361692337"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42389515504"
        ],
        5,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42334904603"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42370697649"
        ],
        6,
        0,
@@ -573,7 +573,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-07 16:02",
+   "as_of": "2026-11-07 22:48",
    "blocks": [
     {
      "type": "tiles",
@@ -2416,27 +2416,11 @@
      "rows": [
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "37.999.000",
-       -16.8
-      ],
-      [
-       [
         "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa)",
         "https://hoanghapc.vn/man-hinh-aoc-u32u3cv-74"
        ],
        "9.990.000",
        -16.8
-      ],
-      [
-       [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "59.999.000",
-       -13.0
       ],
       [
        [
@@ -2453,6 +2437,22 @@
        ],
        "1.849.000",
        -7.5
+      ],
+      [
+       [
+        "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR",
+        "https://memoryzone.com.vn/man-hinh-2k-asus-proart-pa278qgv-ips-27-inch-qhd-120hz-hdr"
+       ],
+       "7.790.000",
+       -6.0
+      ],
+      [
+       [
+        "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX",
+        "https://memoryzone.com.vn/ssd-biwin-black-opal-nv3500-512gb-pcie-gen3-x4-nvme-m-2-bnv3500512g-rgx"
+       ],
+       "2.250.000",
+       -5.9
       ]
      ]
     },
@@ -2484,6 +2484,22 @@
       ],
       [
        [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "15.696.000",
+       30.8
+      ],
+      [
+       [
+        "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin)",
+        "https://hoanghapc.vn/vga-gigabyte-geforce-rtx-5070-ti-windforce-sff-16g"
+       ],
+       "50.000.000",
+       19.0
+      ],
+      [
+       [
         "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y)",
         "https://thinkpro.vn/man-hinh/dell-se2725hm-27inch-full-hd-5ms-100hz-ips"
        ],
@@ -2497,38 +2513,22 @@
        ],
        "35.990.000",
        13.2
-      ],
-      [
-       [
-        "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS)",
-        "https://thinkpro.vn/man-hinh/dell-alienware-aw2725dm-27inch-2k-1ms-180hz-fast-ips"
-       ],
-       "7.390.000",
-       12.3
-      ],
-      [
-       [
-        "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG",
-        "https://memoryzone.com.vn/nguon-may-tinh-superflower-zillion-fg-gold-850w-atx-3-1-80-plus-gold"
-       ],
-       "2.890.000",
-       9.1
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
     "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-16.8%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
     "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK: 70.000.000 (-12.5%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
+    "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
+    "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX: 2.250.000 (-5.9%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
+    "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
     "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)",
-    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)",
-    "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)"
+    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)"
    ]
   },
   {
