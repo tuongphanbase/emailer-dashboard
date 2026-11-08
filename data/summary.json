@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:13:07+00:00",
+ "generated_at": "2026-11-08T06:41:23+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -52,9 +52,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42418906275"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42454457952"
        ],
-       6,
+       8,
        0,
        "bình thường"
       ],
@@ -72,7 +72,7 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42398390553"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -127,9 +127,9 @@
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/5 lỗi)",
-    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "tech-price-mailer: bình thường (0/8 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: bình thường (0/5 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
     "currency-rate-emailer: bình thường (0/5 lỗi)",
@@ -2516,14 +2516,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       32.1
-      ],
-      [
-       [
         "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
         "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
        ],
@@ -2537,6 +2529,14 @@
        ],
        "50.000.000",
        19.0
+      ],
+      [
+       [
+        "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
+        "https://hacom.vn/laptop-asus-vivobook-e1404fa-eb935w-ltau1082"
+       ],
+       "23.499.000",
+       14.7
       ],
       [
        [
@@ -2564,9 +2564,9 @@
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
     "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
     "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX: 2.250.000 (-5.9%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
     "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
+    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
     "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
     "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)"
    ]
