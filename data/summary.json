@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T13:36:34+00:00",
+ "generated_at": "2026-11-08T19:44:19+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42473662789"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42502442711"
        ],
        5,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42454457952"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42486371285"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42470133162"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42507126568"
        ],
        3,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42455894713"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42508216780"
        ],
        4,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42468318532"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42499944311"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42483444944"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42510072079"
        ],
        5,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42468358015"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42499953265"
        ],
        5,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42475755505"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42503740763"
        ],
        5,
        0,
@@ -130,7 +130,7 @@
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/5 lỗi)",
     "currency-rate-emailer: bình thường (0/5 lỗi)",
     "apps-gone-free-emailer: bình thường (0/5 lỗi)",
@@ -585,7 +585,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-08 16:43",
+   "as_of": "2026-11-08 23:27",
    "blocks": [
     {
      "type": "tiles",
@@ -2468,6 +2468,14 @@
      "rows": [
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "25.490.000",
+       32.1
+      ],
+      [
+       [
         "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
         "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
        ],
@@ -2497,14 +2505,6 @@
        ],
        "3.990.000",
        14.3
-      ],
-      [
-       [
-        "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50rb"
-       ],
-       "35.990.000",
-       13.2
       ]
      ]
     }
@@ -2516,11 +2516,11 @@
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
     "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
     "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX: 2.250.000 (-5.9%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
     "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
     "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
-    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)"
+    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)"
    ]
   },
   {
@@ -2528,7 +2528,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-08 06:48",
+   "as_of": "2026-11-08 18:11",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2559,26 +2559,6 @@
      "rows": [
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28313"
-       ],
-       24990000,
-       "MediaMart",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33211000,
-       "MediaMart",
-       4,
-       -0.24
-      ],
-      [
-       [
         "Apple iPhone 18 Pro 256GB",
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
@@ -2599,11 +2579,11 @@
       ],
       [
        [
-        "Apple iPhone 15 128GB",
-        "https://shopdunk.com/iphone-15-128gb"
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28313"
        ],
-       19990000,
-       "ShopDunk",
+       24990000,
+       "MediaMart",
        3,
        0.0
       ],
@@ -2619,16 +2599,6 @@
       ],
       [
        [
-        "Apple iPhone 17 Pro 256GB",
-        "https://shopdunk.com/dien-thoai-iphone-17-pro-256gb"
-       ],
-       31490000,
-       "ShopDunk",
-       3,
-       0.0
-      ],
-      [
-       [
         "Apple iPhone 17 Pro Max 1TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
@@ -2636,6 +2606,16 @@
        "24hStore",
        3,
        -1.12
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
+       ],
+       33211000,
+       "MediaMart",
+       3,
+       -0.24
       ],
       [
        [
@@ -2656,21 +2636,41 @@
        "24hStore",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro 1TB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
+       ],
+       54490000,
+       "24hStore",
+       3,
+       -1.8
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro 2TB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
+       ],
+       73490000,
+       "24hStore",
+       3,
+       -2.0
       ]
      ]
     }
    ],
    "text": [
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro Max 256GB: 33,211,000 (MediaMart)",
     "Apple iPhone 18 Pro 256GB: 35,490,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 38,490,000 (24hStore)",
-    "Apple iPhone 15 128GB: 19,990,000 (ShopDunk)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 31,490,000 (ShopDunk)",
     "Apple iPhone 17 Pro Max 1TB: 43,990,000 (24hStore)",
+    "Apple iPhone 17 Pro Max 256GB: 33,211,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)"
+    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
+    "Apple iPhone 18 Pro 1TB: 54,490,000 (24hStore)",
+    "Apple iPhone 18 Pro 2TB: 73,490,000 (24hStore)"
    ]
   }
  ]
