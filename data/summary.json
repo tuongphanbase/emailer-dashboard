@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:44:19+00:00",
+ "generated_at": "2026-11-09T00:58:13+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42502442711"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42540958848"
        ],
        5,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42486371285"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42516819700"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42507126568"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42527670464"
        ],
        3,
        0,
@@ -79,16 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42499944311"
-       ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42510072079"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42539556496"
        ],
        5,
        0,
@@ -96,8 +87,17 @@
       ],
       [
        [
+        "interest-rate-emailer",
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42530077386"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42499953265"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42539572404"
        ],
        5,
        0,
@@ -106,16 +106,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42503740763"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42524458304"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42480036989"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42525262690"
        ],
        6,
        0,
@@ -130,10 +130,10 @@
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/5 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
+    "interest-rate-emailer: bình thường (0/4 lỗi)",
     "currency-rate-emailer: bình thường (0/5 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/5 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-08",
+   "as_of": "2026-11-09",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -275,6 +275,10 @@
         [
          "2026-11-08",
          141000000
+        ],
+        [
+         "2026-11-09",
+         141000000
         ]
        ]
       },
@@ -403,6 +407,10 @@
         ],
         [
          "2026-11-08",
+         141000000
+        ],
+        [
+         "2026-11-09",
          141000000
         ]
        ]
@@ -533,6 +541,10 @@
         [
          "2026-11-08",
          141000000
+        ],
+        [
+         "2026-11-09",
+         141000000
         ]
        ]
       }
@@ -585,7 +597,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-08 23:27",
+   "as_of": "2026-11-09 07:19",
    "blocks": [
     {
      "type": "tiles",
@@ -716,6 +728,10 @@
         [
          "2026-11-08",
          25602.59
+        ],
+        [
+         "2026-11-09",
+         25602.59
         ]
        ]
       },
@@ -843,6 +859,10 @@
         ],
         [
          "2026-11-08",
+         28580.93
+        ],
+        [
+         "2026-11-09",
          28580.93
         ]
        ]
@@ -972,6 +992,10 @@
         [
          "2026-11-08",
          161.72
+        ],
+        [
+         "2026-11-09",
+         161.72
         ]
        ]
       },
@@ -1099,6 +1123,10 @@
         ],
         [
          "2026-11-08",
+         3826.52
+        ],
+        [
+         "2026-11-09",
          3826.52
         ]
        ]
@@ -1228,6 +1256,10 @@
         [
          "2026-11-08",
          18.89
+        ],
+        [
+         "2026-11-09",
+         18.89
         ]
        ]
       },
@@ -1355,6 +1387,10 @@
         ],
         [
          "2026-11-08",
+         34252.2
+        ],
+        [
+         "2026-11-09",
          34252.2
         ]
        ]
@@ -1484,6 +1520,10 @@
         [
          "2026-11-08",
          19977.88
+        ],
+        [
+         "2026-11-09",
+         19977.88
         ]
        ]
       },
@@ -1611,6 +1651,10 @@
         ],
         [
          "2026-11-08",
+         17607.55
+        ],
+        [
+         "2026-11-09",
          17607.55
         ]
        ]
@@ -2408,6 +2452,22 @@
      "rows": [
       [
        [
+        "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn329w.html"
+       ],
+       "27.190.000",
+       -28.4
+      ],
+      [
+       [
+        "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn396w.html"
+       ],
+       "25.390.000",
+       -23.0
+      ],
+      [
+       [
         "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa)",
         "https://hoanghapc.vn/man-hinh-aoc-u32u3cv-74"
        ],
@@ -2429,22 +2489,6 @@
        ],
        "1.849.000",
        -7.5
-      ],
-      [
-       [
-        "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR",
-        "https://memoryzone.com.vn/man-hinh-2k-asus-proart-pa278qgv-ips-27-inch-qhd-120hz-hdr"
-       ],
-       "7.790.000",
-       -6.0
-      ],
-      [
-       [
-        "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX",
-        "https://memoryzone.com.vn/ssd-biwin-black-opal-nv3500-512gb-pcie-gen3-x4-nvme-m-2-bnv3500512g-rgx"
-       ],
-       "2.250.000",
-       -5.9
       ]
      ]
     },
@@ -2468,22 +2512,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       32.1
-      ],
-      [
-       [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "15.696.000",
-       30.8
-      ],
-      [
-       [
         "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin)",
         "https://hoanghapc.vn/vga-gigabyte-geforce-rtx-5070-ti-windforce-sff-16g"
        ],
@@ -2505,22 +2533,38 @@
        ],
        "3.990.000",
        14.3
+      ],
+      [
+       [
+        "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS)",
+        "https://thinkpro.vn/man-hinh/dell-alienware-aw2725dm-27inch-2k-1ms-180hz-fast-ips"
+       ],
+       "7.390.000",
+       12.3
+      ],
+      [
+       [
+        "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG",
+        "https://memoryzone.com.vn/nguon-may-tinh-superflower-zillion-fg-gold-850w-atx-3-1-80-plus-gold"
+       ],
+       "2.890.000",
+       9.1
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen): 27.190.000 (-28.4%)",
+    "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 25.390.000 (-23.0%)",
     "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-16.8%)",
     "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK: 70.000.000 (-12.5%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
-    "Màn hình 2K ASUS ProArt PA278QGV IPS 27 inch QHD 120Hz HDR: 7.790.000 (-6.0%)",
-    "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX: 2.250.000 (-5.9%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.1%)",
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
     "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
-    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)"
+    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
+    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)",
+    "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX 3.1 80 Plus Gold SF-850Z12FG: 2.890.000 (+9.1%)"
    ]
   },
   {
@@ -2565,7 +2609,7 @@
        35490000,
        "24hStore",
        4,
-       -1.39
+       690.25
       ],
       [
        [
@@ -2575,7 +2619,7 @@
        38490000,
        "24hStore",
        4,
-       -2.53
+       695.08
       ],
       [
        [
@@ -2615,7 +2659,7 @@
        33211000,
        "MediaMart",
        3,
-       -0.24
+       -0.83
       ],
       [
        [
