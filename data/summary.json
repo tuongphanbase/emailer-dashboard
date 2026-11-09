@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T07:10:22+00:00",
+ "generated_at": "2026-11-09T11:44:09+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,16 +34,16 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/42581606819"
        ],
+       2,
        0,
-       0,
-       "không chạy lần nào"
+       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42540958848"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42579884129"
        ],
        4,
        0,
@@ -63,16 +63,16 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42570368575"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42508216780"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42577979693"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
@@ -81,16 +81,16 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42576211692"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42547849128"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42594237113"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
@@ -99,14 +99,14 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42576224198"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42543763301"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42585649765"
        ],
        4,
        0,
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: không chạy lần nào (0/0 lỗi)",
+    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/5 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
+    "interest-rate-emailer: bình thường (0/5 lỗi)",
+    "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -278,7 +278,7 @@
         ],
         [
          "2026-11-09",
-         141000000
+         141200000
         ]
        ]
       },
@@ -411,7 +411,7 @@
         ],
         [
          "2026-11-09",
-         141000000
+         141200000
         ]
        ]
       },
@@ -544,7 +544,7 @@
         ],
         [
          "2026-11-09",
-         141000000
+         141700000
         ]
        ]
       }
@@ -570,26 +570,26 @@
      "rows": [
       [
        "SJC",
-       141000000,
-       0.0
+       141200000,
+       0.14
       ],
       [
        "PNJ",
-       141000000,
-       0.0
+       141200000,
+       0.14
       ],
       [
        "DOJI",
-       141000000,
-       0.0
+       141700000,
+       0.5
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 141,000,000 VND",
-    "PNJ: 141,000,000 VND",
-    "DOJI: 141,000,000 VND"
+    "SJC: 141,200,000 VND",
+    "PNJ: 141,200,000 VND",
+    "DOJI: 141,700,000 VND"
    ]
   },
   {
@@ -2620,7 +2620,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-08 18:11",
+   "as_of": "2026-11-09 07:19",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2671,6 +2671,16 @@
       ],
       [
        [
+        "Apple iPhone Duo 256GB",
+        "https://24hstore.vn/iphone-duo/iphone-duo-256gb-p12570"
+       ],
+       62490000,
+       "24hStore",
+       4,
+       724.19
+      ],
+      [
+       [
         "Apple iPhone 17 256GB",
         "https://mediamart.vn/smartphones#28313"
        ],
@@ -2688,6 +2698,16 @@
        "24hStore",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro 256GB",
+        "https://hoanghamobile.com/dien-thoai/iphone-17-pro"
+       ],
+       31112000,
+       "Hoàng Hà Mobile",
+       3,
+       -1.2
       ],
       [
        [
@@ -2728,26 +2748,6 @@
        "24hStore",
        3,
        0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 1TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
-       ],
-       54490000,
-       "24hStore",
-       3,
-       -1.8
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 2TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
-       ],
-       73490000,
-       "24hStore",
-       3,
-       -2.0
       ]
      ]
     }
@@ -2755,14 +2755,14 @@
    "text": [
     "Apple iPhone 18 Pro 256GB: 35,490,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 38,490,000 (24hStore)",
+    "Apple iPhone Duo 256GB: 62,490,000 (24hStore)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
+    "Apple iPhone 17 Pro 256GB: 31,112,000 (Hoàng Hà Mobile)",
     "Apple iPhone 17 Pro Max 1TB: 43,990,000 (24hStore)",
     "Apple iPhone 17 Pro Max 256GB: 33,211,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 1TB: 54,490,000 (24hStore)",
-    "Apple iPhone 18 Pro 2TB: 73,490,000 (24hStore)"
+    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)"
    ]
   }
  ]
