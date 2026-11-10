@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:26:48+00:00",
+ "generated_at": "2026-11-10T07:43:53+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -45,16 +45,16 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42737610771"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42712938712"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42775911789"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ],
@@ -126,8 +126,8 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
-    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/2 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/2 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
     "vn-stock-price-emailer: bình thường (0/2 lỗi)",
@@ -2632,6 +2632,22 @@
      "rows": [
       [
        [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "15.696.000",
+       30.8
+      ],
+      [
+       [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "45.696.000",
+       20.3
+      ],
+      [
+       [
         "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin)",
         "https://hoanghapc.vn/vga-gigabyte-geforce-rtx-5070-ti-windforce-sff-16g"
        ],
@@ -2640,35 +2656,19 @@
       ],
       [
        [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "68.969.000",
+       15.0
+      ],
+      [
+       [
         "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
         "https://hacom.vn/laptop-asus-vivobook-e1404fa-eb935w-ltau1082"
        ],
        "23.499.000",
        14.7
-      ],
-      [
-       [
-        "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y)",
-        "https://thinkpro.vn/man-hinh/dell-se2725hm-27inch-full-hd-5ms-100hz-ips"
-       ],
-       "3.990.000",
-       14.3
-      ],
-      [
-       [
-        "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS)",
-        "https://thinkpro.vn/man-hinh/dell-alienware-aw2725dm-27inch-2k-1ms-180hz-fast-ips"
-       ],
-       "7.390.000",
-       12.3
-      ],
-      [
-       [
-        "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0)",
-        "https://www.anphatpc.com.vn/nguon-gigabyte-p550ss-550w-80-plus-silver-atx-3.0.html"
-       ],
-       "1.150.000",
-       8.5
       ]
      ]
     }
@@ -2680,11 +2680,11 @@
     "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 25.390.000 (-23.0%)",
     "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK: 70.000.000 (-12.5%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
-    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
-    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
-    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)",
-    "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0): 1.150.000 (+8.5%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 68.969.000 (+15.0%)",
+    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)"
    ]
   },
   {
