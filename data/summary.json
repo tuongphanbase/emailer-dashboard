@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:28:07+00:00",
+ "generated_at": "2026-11-10T07:26:48+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42671214224"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42737610771"
        ],
        3,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42612481567"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42712938712"
        ],
        4,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42650064228"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42735704644"
        ],
        2,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42577979693"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42714399445"
        ],
        2,
        0,
@@ -79,16 +79,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42661361990"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42730870955"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42694506021"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42748950814"
        ],
        3,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42661474356"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42730872378"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42679064292"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42739459805"
        ],
        3,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42636500385"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42732198314"
        ],
        4,
        0,
@@ -130,9 +130,9 @@
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/2 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/2 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/2 lỗi)",
     "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/4 lỗi)"
    ]
@@ -282,7 +282,7 @@
         ],
         [
          "2026-11-10",
-         141200000
+         141500000
         ]
        ]
       },
@@ -419,7 +419,7 @@
         ],
         [
          "2026-11-10",
-         141200000
+         141500000
         ]
        ]
       },
@@ -582,13 +582,13 @@
      "rows": [
       [
        "SJC",
-       141200000,
-       0.0
+       141500000,
+       0.21
       ],
       [
        "PNJ",
-       141200000,
-       0.0
+       141500000,
+       0.21
       ],
       [
        "DOJI",
@@ -599,8 +599,8 @@
     }
    ],
    "text": [
-    "SJC: 141,200,000 VND",
-    "PNJ: 141,200,000 VND",
+    "SJC: 141,500,000 VND",
+    "PNJ: 141,500,000 VND",
     "DOJI: 141,200,000 VND"
    ]
   },
@@ -609,7 +609,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-10 00:07",
+   "as_of": "2026-11-10 07:46",
    "blocks": [
     {
      "type": "tiles",
@@ -2427,6 +2427,11 @@
        11.38
       ],
       [
+       "VPI",
+       54545.4546,
+       -10.58
+      ],
+      [
        "KOS",
        7220.0,
        -6.96
@@ -2435,11 +2440,6 @@
        "CRV",
        21450.0,
        -6.74
-      ],
-      [
-       "VCR",
-       43100.0,
-       -6.51
       ]
      ]
     }
@@ -2517,7 +2517,7 @@
      "rows": [
       [
        "European Central Bank",
-       null
+       "2.65%"
       ],
       [
        "Bank of England",
@@ -2580,19 +2580,19 @@
       ],
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "19.190.000",
+       -24.7
+      ],
+      [
+       [
         "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen)",
         "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn396w.html"
        ],
        "25.390.000",
        -23.0
-      ],
-      [
-       [
-        "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa)",
-        "https://hoanghapc.vn/man-hinh-aoc-u32u3cv-74"
-       ],
-       "9.990.000",
-       -16.8
       ],
       [
        [
@@ -2656,19 +2656,19 @@
       ],
       [
        [
-        "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-v-15-propanel-anv15-52-50rb"
-       ],
-       "35.990.000",
-       13.2
-      ],
-      [
-       [
         "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS)",
         "https://thinkpro.vn/man-hinh/dell-alienware-aw2725dm-27inch-2k-1ms-180hz-fast-ips"
        ],
        "7.390.000",
        12.3
+      ],
+      [
+       [
+        "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0)",
+        "https://www.anphatpc.com.vn/nguon-gigabyte-p550ss-550w-80-plus-silver-atx-3.0.html"
+       ],
+       "1.150.000",
+       8.5
       ]
      ]
     }
@@ -2676,15 +2676,15 @@
    "empty_text": null,
    "text": [
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen): 27.190.000 (-28.4%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.190.000 (-24.7%)",
     "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 25.390.000 (-23.0%)",
-    "Màn hình đồ họa AOC U32U3CV/74 (32 inch/ 4K/ IPS/ 60Hz/ USB-C 96W/ Loa): 9.990.000 (-16.8%)",
     "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK: 70.000.000 (-12.5%)",
     "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
     "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
     "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
-    "Laptop gaming Acer Nitro ProPanel ANV15-52-50RB (Core 5-210H/ RTX 4050 6GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+13.2%)",
-    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)"
+    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)",
+    "Nguồn GIGABYTE P550SS 550w (80 plus Silver, ATX 3.0): 1.150.000 (+8.5%)"
    ]
   },
   {
@@ -2692,7 +2692,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-09 07:19",
+   "as_of": "2026-11-09 22:49",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2726,30 +2726,20 @@
         "Apple iPhone 18 Pro 256GB",
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
-       35490000,
+       36990000,
        "24hStore",
        4,
-       690.25
+       723.65
       ],
       [
        [
         "Apple iPhone 18 Pro Max 256GB",
         "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
        ],
-       38490000,
+       39990000,
        "24hStore",
        4,
-       695.08
-      ],
-      [
-       [
-        "Apple iPhone Duo 256GB",
-        "https://24hstore.vn/iphone-duo/iphone-duo-256gb-p12570"
-       ],
-       62490000,
-       "24hStore",
-       4,
-       724.19
+       726.07
       ],
       [
        [
@@ -2764,12 +2754,12 @@
       [
        [
         "Apple iPhone 17 Pro 1TB",
-        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-1tb-p11590"
+        "https://shopdunk.com/dien-thoai-iphone-17-pro-1tb"
        ],
-       41490000,
-       "24hStore",
+       42490000,
+       "ShopDunk",
        3,
-       0.0
+       2.41
       ],
       [
        [
@@ -2783,13 +2773,23 @@
       ],
       [
        [
+        "Apple iPhone 17 Pro 512GB",
+        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-512gb-p11589"
+       ],
+       36990000,
+       "24hStore",
+       3,
+       -0.86
+      ],
+      [
+       [
         "Apple iPhone 17 Pro Max 1TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
-       43990000,
+       45490000,
        "24hStore",
        3,
-       -1.12
+       2.25
       ],
       [
        [
@@ -2799,42 +2799,42 @@
        33211000,
        "MediaMart",
        3,
-       -0.83
+       737.39
       ],
       [
        [
         "Apple iPhone 17 Pro Max 2TB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-2tb-p11587"
        ],
-       56490000,
+       57990000,
        "24hStore",
        3,
-       0.0
+       2.66
       ],
       [
        [
         "Apple iPhone 17 Pro Max 512GB",
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-512gb-p11585"
        ],
-       37990000,
+       39490000,
        "24hStore",
        3,
-       0.0
+       3.95
       ]
      ]
     }
    ],
    "text": [
-    "Apple iPhone 18 Pro 256GB: 35,490,000 (24hStore)",
-    "Apple iPhone 18 Pro Max 256GB: 38,490,000 (24hStore)",
-    "Apple iPhone Duo 256GB: 62,490,000 (24hStore)",
+    "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
+    "Apple iPhone 18 Pro Max 256GB: 39,990,000 (24hStore)",
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro 1TB: 41,490,000 (24hStore)",
+    "Apple iPhone 17 Pro 1TB: 42,490,000 (ShopDunk)",
     "Apple iPhone 17 Pro 256GB: 31,112,000 (Hoàng Hà Mobile)",
-    "Apple iPhone 17 Pro Max 1TB: 43,990,000 (24hStore)",
+    "Apple iPhone 17 Pro 512GB: 36,990,000 (24hStore)",
+    "Apple iPhone 17 Pro Max 1TB: 45,490,000 (24hStore)",
     "Apple iPhone 17 Pro Max 256GB: 33,211,000 (MediaMart)",
-    "Apple iPhone 17 Pro Max 2TB: 56,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 37,990,000 (24hStore)"
+    "Apple iPhone 17 Pro Max 2TB: 57,990,000 (24hStore)",
+    "Apple iPhone 17 Pro Max 512GB: 39,490,000 (24hStore)"
    ]
   }
  ]
