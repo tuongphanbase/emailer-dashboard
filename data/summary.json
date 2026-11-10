@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:06:38+00:00",
+ "generated_at": "2026-11-10T23:28:18+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,15 @@
      "rows": [
       [
        [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42892056946"
+       ],
+       4,
+       1,
+       "Deploy Pages lỗi lúc 03:07 11/11"
+      ],
+      [
+       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/42780297981"
        ],
@@ -43,16 +52,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42787580920"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42914605912"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42775911789"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42862116571"
        ],
        4,
        0,
@@ -61,16 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42803611727"
-       ],
-       3,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/42777552743"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42887068617"
        ],
        4,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42849590713"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42906667357"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42809053066"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42886521535"
        ],
        3,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42849635829"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42906762093"
        ],
        4,
        0,
@@ -106,18 +106,18 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42791513491"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42915043258"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42829032493"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42916357328"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ]
@@ -125,16 +125,16 @@
     }
    ],
    "text": [
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:07 11/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
-    "9gag-meme-emailer: bình thường (0/4 lỗi)"
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
+    "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-10",
+   "as_of": "2026-11-11",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -283,6 +283,10 @@
         [
          "2026-11-10",
          140900000
+        ],
+        [
+         "2026-11-11",
+         140900000
         ]
        ]
       },
@@ -419,6 +423,10 @@
         ],
         [
          "2026-11-10",
+         140900000
+        ],
+        [
+         "2026-11-11",
          140900000
         ]
        ]
@@ -557,6 +565,10 @@
         [
          "2026-11-10",
          140900000
+        ],
+        [
+         "2026-11-11",
+         140900000
         ]
        ]
       }
@@ -583,17 +595,17 @@
       [
        "SJC",
        140900000,
-       -0.21
+       0.0
       ],
       [
        "PNJ",
        140900000,
-       -0.21
+       0.0
       ],
       [
        "DOJI",
        140900000,
-       -0.56
+       0.0
       ]
      ]
     }
@@ -609,7 +621,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-10 22:56",
+   "as_of": "2026-11-11 04:37",
    "blocks": [
     {
      "type": "tiles",
@@ -748,6 +760,10 @@
         [
          "2026-11-10",
          25527.69
+        ],
+        [
+         "2026-11-11",
+         25527.69
         ]
        ]
       },
@@ -883,6 +899,10 @@
         ],
         [
          "2026-11-10",
+         28604.09
+        ],
+        [
+         "2026-11-11",
          28604.09
         ]
        ]
@@ -1020,6 +1040,10 @@
         [
          "2026-11-10",
          161.54
+        ],
+        [
+         "2026-11-11",
+         161.54
         ]
        ]
       },
@@ -1155,6 +1179,10 @@
         ],
         [
          "2026-11-10",
+         3817.75
+        ],
+        [
+         "2026-11-11",
          3817.75
         ]
        ]
@@ -1292,6 +1320,10 @@
         [
          "2026-11-10",
          18.98
+        ],
+        [
+         "2026-11-11",
+         18.98
         ]
        ]
       },
@@ -1427,6 +1459,10 @@
         ],
         [
          "2026-11-10",
+         34279.34
+        ],
+        [
+         "2026-11-11",
          34279.34
         ]
        ]
@@ -1564,6 +1600,10 @@
         [
          "2026-11-10",
          19951.21
+        ],
+        [
+         "2026-11-11",
+         19951.21
         ]
        ]
       },
@@ -1699,6 +1739,10 @@
         ],
         [
          "2026-11-10",
+         17629.44
+        ],
+        [
+         "2026-11-11",
          17629.44
         ]
        ]
@@ -2517,7 +2561,7 @@
      "rows": [
       [
        "European Central Bank",
-       null
+       "2.65%"
       ],
       [
        "Bank of England",
@@ -2596,19 +2640,19 @@
       ],
       [
        [
-        "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK",
-        "https://hoanghapc.vn/ram-ddr5-teamgroup-t-create-expert-128gb-6400mhz-black"
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
        ],
-       "70.000.000",
-       -12.5
+       "37.999.000",
+       -16.8
       ],
       [
        [
-        "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen)",
-        "https://hacom.vn/nguon-may-tinh-gigabyte-p650ss-650w-80-plus-silver-mau-den"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "1.849.000",
-       -7.5
+       "59.999.000",
+       -13.0
       ]
      ]
     },
@@ -2632,22 +2676,6 @@
      "rows": [
       [
        [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "15.696.000",
-       30.8
-      ],
-      [
-       [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "45.696.000",
-       20.3
-      ],
-      [
-       [
         "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin)",
         "https://hoanghapc.vn/vga-gigabyte-geforce-rtx-5070-ti-windforce-sff-16g"
        ],
@@ -2656,19 +2684,35 @@
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "68.969.000",
-       15.0
-      ],
-      [
-       [
         "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc)",
         "https://hacom.vn/laptop-asus-vivobook-e1404fa-eb935w-ltau1082"
        ],
        "23.499.000",
        14.7
+      ],
+      [
+       [
+        "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y)",
+        "https://thinkpro.vn/man-hinh/dell-se2725hm-27inch-full-hd-5ms-100hz-ips"
+       ],
+       "3.990.000",
+       14.3
+      ],
+      [
+       [
+        "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS)",
+        "https://thinkpro.vn/man-hinh/dell-alienware-aw2725dm-27inch-2k-1ms-180hz-fast-ips"
+       ],
+       "7.390.000",
+       12.3
+      ],
+      [
+       [
+        "Ổ Cứng HDD SEAGATE SkyHawk AI 8TB 3.5 inch, 7200R, SATA III, 256MB Cache (ST8000VE001)",
+        "https://hacom.vn/o-cung-hdd-seagate-skyhawk-ai-8tb-3.5-inch-7200r-sata-iii-256mb-cache"
+       ],
+       "13.990.000",
+       7.7
       ]
      ]
     }
@@ -2678,13 +2722,13 @@
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen): 27.190.000 (-28.4%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 19.190.000 (-24.7%)",
     "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 25.390.000 (-23.0%)",
-    "RAM DDR5 TEAMGROUP T-CREATE EXPERT 128GB 6400MHz (2x64GB) BLACK: 70.000.000 (-12.5%)",
-    "Nguồn máy tính GIGABYTE P650SS 650W (80 PLus Silver/Màu Đen): 1.849.000 (-7.5%)",
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 15.696.000 (+30.8%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 68.969.000 (+15.0%)",
-    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)"
+    "Laptop Asus VivoBook E1404FA-EB935W (R5 40/16GB RAM/512GB SSD/14 FHD/Win11/Bạc): 23.499.000 (+14.7%)",
+    "Dell SE2725HM (27Inch/ Full HD/ 5ms/ 100HZ/ 250cd/m2/ IPS/ Black/ 3Y): 3.990.000 (+14.3%)",
+    "Dell Alienware AW2725DM (27Inch/ 2K/ 1ms/ 180Hz/ Fast IPS): 7.390.000 (+12.3%)",
+    "Ổ Cứng HDD SEAGATE SkyHawk AI 8TB 3.5 inch, 7200R, SATA III, 256MB Cache (ST8000VE001): 13.990.000 (+7.7%)"
    ]
   },
   {
@@ -2692,7 +2736,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-10 07:51",
+   "as_of": "2026-11-10 20:06",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
