@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:06:26+00:00",
+ "generated_at": "2026-11-11T17:14:06+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "3 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -42,8 +42,17 @@
       ],
       [
        [
+        "interest-rate-emailer",
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43053851136"
+       ],
+       4,
+       1,
+       "Send Interest Rate Summary lỗi lúc 22:59 11/11"
+      ],
+      [
+       [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/42780297981"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/42980926483"
        ],
        2,
        0,
@@ -52,9 +61,9 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42943418194"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/42997257720"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -63,32 +72,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42975094433"
        ],
-       8,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/42937020513"
-       ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/42940130844"
-       ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/42931912108"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43005610858"
        ],
        3,
        0,
@@ -96,8 +87,17 @@
       ],
       [
        [
+        "vn-stock-price-emailer",
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43061544672"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/42940146039"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43061631753"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42944093231"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/42997415207"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/42954135851"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43026423288"
        ],
        6,
        0,
@@ -126,12 +126,12 @@
    ],
    "text": [
     "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:07 11/11 (1/4 lỗi)",
+    "interest-rate-emailer: Send Interest Rate Summary lỗi lúc 22:59 11/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
-    "tech-price-mailer: bình thường (0/8 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
@@ -286,7 +286,7 @@
         ],
         [
          "2026-11-11",
-         139500000
+         140000000
         ]
        ]
       },
@@ -427,7 +427,7 @@
         ],
         [
          "2026-11-11",
-         139500000
+         140000000
         ]
        ]
       },
@@ -568,7 +568,7 @@
         ],
         [
          "2026-11-11",
-         139500000
+         140000000
         ]
        ]
       }
@@ -594,26 +594,26 @@
      "rows": [
       [
        "SJC",
-       139500000,
-       -0.99
+       140000000,
+       -0.64
       ],
       [
        "PNJ",
-       139500000,
-       -0.99
+       140000000,
+       -0.64
       ],
       [
        "DOJI",
-       139500000,
-       -0.99
+       140000000,
+       -0.64
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 139,500,000 VND",
-    "PNJ: 139,500,000 VND",
-    "DOJI: 139,500,000 VND"
+    "SJC: 140,000,000 VND",
+    "PNJ: 140,000,000 VND",
+    "DOJI: 140,000,000 VND"
    ]
   },
   {
@@ -621,7 +621,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-11 08:36",
+   "as_of": "2026-11-11 23:46",
    "blocks": [
     {
      "type": "tiles",
@@ -630,7 +630,7 @@
       {
        "label": "USD",
        "value": 25608.24,
-       "change_pct": -0.01,
+       "change_pct": 0.32,
        "period": "24h",
        "points": [
         [
@@ -770,7 +770,7 @@
       {
        "label": "EUR",
        "value": 28646.91,
-       "change_pct": 0.32,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -910,7 +910,7 @@
       {
        "label": "JPY",
        "value": 161.51,
-       "change_pct": -0.16,
+       "change_pct": -0.02,
        "period": "24h",
        "points": [
         [
@@ -1050,7 +1050,7 @@
       {
        "label": "CNY",
        "value": 3829.12,
-       "change_pct": -0.13,
+       "change_pct": 0.3,
        "period": "24h",
        "points": [
         [
@@ -1190,7 +1190,7 @@
       {
        "label": "KRW",
        "value": 19.09,
-       "change_pct": 1.46,
+       "change_pct": 0.55,
        "period": "24h",
        "points": [
         [
@@ -1330,7 +1330,7 @@
       {
        "label": "GBP",
        "value": 34228.12,
-       "change_pct": 0.01,
+       "change_pct": -0.15,
        "period": "24h",
        "points": [
         [
@@ -1470,7 +1470,7 @@
       {
        "label": "SGD",
        "value": 19995.9,
-       "change_pct": 0.16,
+       "change_pct": 0.22,
        "period": "24h",
        "points": [
         [
@@ -1610,7 +1610,7 @@
       {
        "label": "AUD",
        "value": 17601.45,
-       "change_pct": 0.05,
+       "change_pct": -0.16,
        "period": "24h",
        "points": [
         [
@@ -1751,14 +1751,14 @@
     }
    ],
    "text": [
-    "USD: 25,608.24 (-0.01%)",
-    "EUR: 28,646.91 (+0.32%)",
-    "JPY: 161.51 (-0.16%)",
-    "CNY: 3,829.12 (-0.13%)",
-    "KRW: 19.09 (+1.46%)",
-    "GBP: 34,228.12 (+0.01%)",
-    "SGD: 19,995.9 (+0.16%)",
-    "AUD: 17,601.45 (+0.05%)"
+    "USD: 25,608.24 (+0.32%)",
+    "EUR: 28,646.91 (+0.15%)",
+    "JPY: 161.51 (-0.02%)",
+    "CNY: 3,829.12 (+0.3%)",
+    "KRW: 19.09 (+0.55%)",
+    "GBP: 34,228.12 (-0.15%)",
+    "SGD: 19,995.9 (+0.22%)",
+    "AUD: 17,601.45 (-0.16%)"
    ]
   },
   {
@@ -1766,7 +1766,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-11-10 22:56",
+   "as_of": "2026-11-11 15:38",
    "blocks": [
     {
      "type": "tiles",
@@ -1786,14 +1786,10 @@
       },
       {
        "label": "VIC",
-       "value": 242000.0,
-       "change_pct": 5.13,
+       "value": 245200.0,
+       "change_pct": 2.21,
        "period": "24h",
        "points": [
-        [
-         "2026-10-12",
-         219000.0
-        ],
         [
          "2026-10-13",
          222000.0
@@ -1877,19 +1873,19 @@
         [
          "2026-11-10",
          242000.0
+        ],
+        [
+         "2026-11-11",
+         245200.0
         ]
        ]
       },
       {
        "label": "VHM",
-       "value": 62000.0,
-       "change_pct": 1.81,
+       "value": 62500.0,
+       "change_pct": 0.64,
        "period": "24h",
        "points": [
-        [
-         "2026-10-12",
-         63900.0
-        ],
         [
          "2026-10-13",
          64400.0
@@ -1969,111 +1965,203 @@
         [
          "2026-11-10",
          62000.0
+        ],
+        [
+         "2026-11-11",
+         62500.0
         ]
        ]
       },
       {
-       "label": "VPB",
-       "value": 22550.0,
-       "change_pct": 2.27,
+       "label": "VCB",
+       "value": 54200.0,
+       "change_pct": 0.37,
        "period": "24h",
        "points": [
         [
-         "2026-10-12",
-         24400.0
-        ],
-        [
          "2026-10-13",
-         24400.0
+         56300.0
         ],
         [
          "2026-10-14",
-         24350.0
+         56300.0
         ],
         [
          "2026-10-15",
-         24450.0
+         56500.0
         ],
         [
          "2026-10-16",
-         24500.0
+         56900.0
         ],
         [
          "2026-10-19",
-         24000.0
+         56200.0
         ],
         [
          "2026-10-20",
-         24000.0
+         55800.0
         ],
         [
          "2026-10-21",
-         24000.0
+         56400.0
         ],
         [
          "2026-10-22",
-         23950.0
+         56300.0
         ],
         [
          "2026-10-23",
-         24100.0
+         56800.0
         ],
         [
          "2026-10-26",
-         23600.0
-        ],
-        [
-         "2026-10-27",
-         23200.0
+         56100.0
         ],
         [
          "2026-10-28",
-         23500.0
+         57500.0
         ],
         [
          "2026-10-29",
-         23200.0
+         57200.0
         ],
         [
          "2026-10-30",
-         22950.0
+         56300.0
         ],
         [
          "2026-11-02",
-         21550.0
+         53600.0
         ],
         [
          "2026-11-03",
-         21200.0
+         53500.0
         ],
         [
          "2026-11-04",
-         22150.0
+         54800.0
         ],
         [
          "2026-11-05",
-         21900.0
+         54200.0
         ],
         [
          "2026-11-06",
-         22050.0
+         53600.0
+        ],
+        [
+         "2026-11-09",
+         53500.0
         ],
         [
          "2026-11-10",
-         22550.0
+         53800.0
+        ],
+        [
+         "2026-11-11",
+         54200.0
+        ]
+       ]
+      },
+      {
+       "label": "BID",
+       "value": 32450.0,
+       "change_pct": 0.93,
+       "period": "24h",
+       "points": [
+        [
+         "2026-10-13",
+         33350.0
+        ],
+        [
+         "2026-10-14",
+         33100.0
+        ],
+        [
+         "2026-10-15",
+         33200.0
+        ],
+        [
+         "2026-10-16",
+         33950.0
+        ],
+        [
+         "2026-10-19",
+         33650.0
+        ],
+        [
+         "2026-10-20",
+         33650.0
+        ],
+        [
+         "2026-10-21",
+         34100.0
+        ],
+        [
+         "2026-10-22",
+         33800.0
+        ],
+        [
+         "2026-10-23",
+         34250.0
+        ],
+        [
+         "2026-10-26",
+         33750.0
+        ],
+        [
+         "2026-10-27",
+         33650.0
+        ],
+        [
+         "2026-10-29",
+         33850.0
+        ],
+        [
+         "2026-10-30",
+         33400.0
+        ],
+        [
+         "2026-11-02",
+         32000.0
+        ],
+        [
+         "2026-11-03",
+         31700.0
+        ],
+        [
+         "2026-11-04",
+         32450.0
+        ],
+        [
+         "2026-11-05",
+         32250.0
+        ],
+        [
+         "2026-11-06",
+         31950.0
+        ],
+        [
+         "2026-11-09",
+         32150.0
+        ],
+        [
+         "2026-11-10",
+         32200.0
+        ],
+        [
+         "2026-11-11",
+         32450.0
         ]
        ]
       },
       {
        "label": "TCB",
-       "value": 22000.0,
-       "change_pct": 2.8,
+       "value": 21850.0,
+       "change_pct": -0.46,
        "period": "24h",
        "points": [
-        [
-         "2026-10-12",
-         32600.0
-        ],
         [
          "2026-10-13",
          32950.0
@@ -2157,19 +2245,19 @@
         [
          "2026-11-10",
          22000.0
+        ],
+        [
+         "2026-11-11",
+         21850.0
         ]
        ]
       },
       {
        "label": "CTG",
-       "value": 31900.0,
-       "change_pct": 1.43,
+       "value": 31800.0,
+       "change_pct": 0.16,
        "period": "24h",
        "points": [
-        [
-         "2026-10-12",
-         29600.0
-        ],
         [
          "2026-10-13",
          29400.0
@@ -2249,19 +2337,19 @@
         [
          "2026-11-10",
          31900.0
+        ],
+        [
+         "2026-11-11",
+         31800.0
         ]
        ]
       },
       {
        "label": "GAS",
-       "value": 73100.0,
-       "change_pct": -0.68,
+       "value": 74400.0,
+       "change_pct": 1.09,
        "period": "24h",
        "points": [
-        [
-         "2026-10-12",
-         79000.0
-        ],
         [
          "2026-10-13",
          78500.0
@@ -2345,98 +2433,10 @@
         [
          "2026-11-10",
          73100.0
-        ]
-       ]
-      },
-      {
-       "label": "MCH",
-       "value": 127700.0,
-       "change_pct": 1.75,
-       "period": "24h",
-       "points": [
-        [
-         "2026-10-12",
-         142500.0
         ],
         [
-         "2026-10-13",
-         141200.0
-        ],
-        [
-         "2026-10-14",
-         140900.0
-        ],
-        [
-         "2026-10-15",
-         139800.0
-        ],
-        [
-         "2026-10-16",
-         140000.0
-        ],
-        [
-         "2026-10-19",
-         139800.0
-        ],
-        [
-         "2026-10-20",
-         139900.0
-        ],
-        [
-         "2026-10-21",
-         140900.0
-        ],
-        [
-         "2026-10-22",
-         141000.0
-        ],
-        [
-         "2026-10-23",
-         141900.0
-        ],
-        [
-         "2026-10-26",
-         139900.0
-        ],
-        [
-         "2026-10-28",
-         139800.0
-        ],
-        [
-         "2026-10-29",
-         137300.0
-        ],
-        [
-         "2026-10-30",
-         135000.0
-        ],
-        [
-         "2026-11-02",
-         133500.0
-        ],
-        [
-         "2026-11-03",
-         133500.0
-        ],
-        [
-         "2026-11-04",
-         133700.0
-        ],
-        [
-         "2026-11-05",
-         133000.0
-        ],
-        [
-         "2026-11-06",
-         129800.0
-        ],
-        [
-         "2026-11-09",
-         125500.0
-        ],
-        [
-         "2026-11-10",
-         127700.0
+         "2026-11-11",
+         74400.0
         ]
        ]
       }
@@ -2471,123 +2471,41 @@
        -11.82
       ],
       [
-       "VGV",
-       63600.0,
-       11.38
+       "VIF",
+       15000.0,
+       -7.98
       ],
       [
        "BMI",
-       12409.0909215,
-       -9.09
+       12600.0,
+       -7.69
       ],
       [
-       "AAS",
-       10700.0,
-       8.08
+       "VIT",
+       25200.0,
+       7.23
       ]
      ]
     }
    ],
    "text": [
     "IDP: 260,000.0 (—)",
-    "VIC: 242,000.0 (+5.13%)",
-    "VHM: 62,000.0 (+1.81%)",
-    "VPB: 22,550.0 (+2.27%)",
-    "TCB: 22,000.0 (+2.8%)",
-    "CTG: 31,900.0 (+1.43%)",
-    "GAS: 73,100.0 (-0.68%)",
-    "MCH: 127,700.0 (+1.75%)"
-   ]
+    "VIC: 245,200.0 (+2.21%)",
+    "VHM: 62,500.0 (+0.64%)",
+    "VCB: 54,200.0 (+0.37%)",
+    "BID: 32,450.0 (+0.93%)",
+    "TCB: 21,850.0 (-0.46%)",
+    "CTG: 31,800.0 (+0.16%)",
+    "GAS: 74,400.0 (+1.09%)"
+   ],
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VGV"
   },
   {
    "id": "interest",
    "title": "Lãi suất",
    "icon": "🏦",
-   "ok": true,
-   "blocks": [
-    {
-     "type": "table",
-     "caption": "Lãi suất tiết kiệm 12 tháng",
-     "columns": [
-      {
-       "label": "Ngân hàng",
-       "kind": "text"
-      },
-      {
-       "label": "12 tháng online (%)",
-       "kind": "num"
-      },
-      {
-       "label": "Tại quầy (%)",
-       "kind": "num"
-      }
-     ],
-     "rows": [
-      [
-       "Sacombank",
-       6.5,
-       5.4
-      ],
-      [
-       "Techcombank",
-       6.25,
-       6.25
-      ],
-      [
-       "Vietcombank",
-       5.4,
-       5.4
-      ],
-      [
-       "BIDV",
-       5.4,
-       5.4
-      ]
-     ]
-    },
-    {
-     "type": "table",
-     "caption": null,
-     "columns": [
-      {
-       "label": "Ngân hàng trung ương",
-       "kind": "text"
-      },
-      {
-       "label": "Lãi suất điều hành",
-       "kind": "text"
-      }
-     ],
-     "rows": [
-      [
-       "European Central Bank",
-       "2.65%"
-      ],
-      [
-       "Bank of England",
-       "4.00%"
-      ],
-      [
-       "Bank of Japan",
-       "1.25%"
-      ],
-      [
-       "People's Bank of China",
-       "3%"
-      ],
-      [
-       "State Bank of Vietnam",
-       "4.50%"
-      ]
-     ]
-    }
-   ],
-   "text": [
-    "Sacombank: 6.5%",
-    "Techcombank: 6.25%",
-    "Vietcombank: 5.4%",
-    "BIDV: 5.4%"
-   ]
+   "ok": false,
+   "reason": "chưa có dữ liệu lãi suất"
   },
   {
    "id": "tech",
@@ -2736,7 +2654,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-10 20:06",
+   "as_of": "2026-11-11 07:16",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
