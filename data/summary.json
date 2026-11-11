@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:38:12+00:00",
+ "generated_at": "2026-11-11T07:06:26+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -61,9 +61,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42924559370"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/42975094433"
        ],
-       6,
+       8,
        0,
        "bình thường"
       ],
@@ -128,7 +128,7 @@
     "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:07 11/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
-    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "tech-price-mailer: bình thường (0/8 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
