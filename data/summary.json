@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:42:58+00:00",
+ "generated_at": "2026-11-12T11:26:07+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,18 +43,18 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/43180230617"
        ],
+       2,
        0,
-       0,
-       "không chạy lần nào"
+       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
       ],
       [
        [
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43162851832"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -70,7 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43139748055"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43204228651"
        ],
        3,
        0,
@@ -79,9 +79,9 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43091237492"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43177521939"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
@@ -90,7 +90,7 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43151600307"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -99,7 +99,7 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43151610796"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -108,7 +108,7 @@
         "apps-gone-free-emailer",
         "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43175722964"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -126,14 +126,14 @@
    ],
    "text": [
     "interest-rate-emailer: Send Interest Rate Summary lỗi lúc 22:59 11/11 (1/3 lỗi)",
-    "reddit-top-post-emailer: không chạy lần nào (0/0 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
@@ -2809,7 +2809,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-11 19:57",
+   "as_of": "2026-11-12 07:50",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2840,6 +2840,26 @@
      "rows": [
       [
        [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28313"
+       ],
+       24990000,
+       "MediaMart",
+       4,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-256gb-p11584"
+       ],
+       31990000,
+       "24hStore",
+       4,
+       -4.48
+      ],
+      [
+       [
         "Apple iPhone 18 Pro 256GB",
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
@@ -2860,98 +2880,78 @@
       ],
       [
        [
-        "Apple iPhone Duo 256GB",
-        "https://24hstore.vn/iphone-duo/iphone-duo-256gb-p12570"
+        "Apple iPad Air M4 2026 11 128GB",
+        "https://24hstore.vn/ipad-air-m4/ipad-air-m4-2026-11-inch-wifi-128gb-p12099"
        ],
-       63990000,
+       17490000,
        "24hStore",
-       4,
-       743.97
+       3,
+       -12.51
       ],
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28313"
+        "Apple iPad Air M4 2026 11 256GB",
+        "https://24hstore.vn/ipad-air-m4/ipad-air-m4-2026-11-inch-wifi-256gb-p12103"
        ],
-       24990000,
-       "MediaMart",
+       20490000,
+       "24hStore",
+       3,
+       -10.87
+      ],
+      [
+       [
+        "Apple iPad Mini 7 2024 128GB",
+        "https://24hstore.vn/ipad-mini-7/ipad-mini-7-wifi-2024-128gb-p11204"
+       ],
+       13890000,
+       "24hStore",
+       3,
+       -12.03
+      ],
+      [
+       [
+        "Apple iPhone 15 128GB",
+        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
+       ],
+       19990000,
+       "24hStore",
        3,
        0.0
       ],
       [
        [
-        "Apple iPhone 17 Pro 1TB",
-        "https://shopdunk.com/dien-thoai-iphone-17-pro-1tb"
+        "Apple iPhone 16 128GB",
+        "https://24hstore.vn/iphone-16/iphone-16-128gb-p10934"
        ],
-       42490000,
+       22090000,
+       "24hStore",
+       3,
+       -3.91
+      ],
+      [
+       [
+        "Apple iPhone 16 Plus 128GB",
+        "https://shopdunk.com/iphone-16-plus"
+       ],
+       22990000,
        "ShopDunk",
        3,
-       2.41
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro 512GB",
-        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-512gb-p11589"
-       ],
-       36990000,
-       "24hStore",
-       3,
-       -0.86
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 1TB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
-       ],
-       45490000,
-       "24hStore",
-       3,
-       3.41
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://mediamart.vn/smartphones#28216"
-       ],
-       33211000,
-       "MediaMart",
-       3,
-       -0.83
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 2TB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-2tb-p11587"
-       ],
-       57990000,
-       "24hStore",
-       3,
-       2.66
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 512GB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-512gb-p11585"
-       ],
-       39490000,
-       "24hStore",
-       3,
-       3.95
+       -6.12
       ]
      ]
     }
    ],
    "text": [
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 39,990,000 (24hStore)",
-    "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro 1TB: 42,490,000 (ShopDunk)",
-    "Apple iPhone 17 Pro 512GB: 36,990,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 1TB: 45,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 256GB: 33,211,000 (MediaMart)",
-    "Apple iPhone 17 Pro Max 2TB: 57,990,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 512GB: 39,490,000 (24hStore)"
+    "Apple iPad Air M4 2026 11 128GB: 17,490,000 (24hStore)",
+    "Apple iPad Air M4 2026 11 256GB: 20,490,000 (24hStore)",
+    "Apple iPad Mini 7 2024 128GB: 13,890,000 (24hStore)",
+    "Apple iPhone 15 128GB: 19,990,000 (24hStore)",
+    "Apple iPhone 16 128GB: 22,090,000 (24hStore)",
+    "Apple iPhone 16 Plus 128GB: 22,990,000 (ShopDunk)"
    ]
   }
  ]
