@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:53:58+00:00",
+ "generated_at": "2026-11-13T07:17:19+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43311187878"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43351341033"
        ],
        3,
        0,
@@ -52,9 +52,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43297578432"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43348774981"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ],
@@ -63,7 +63,7 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43347206117"
        ],
-       5,
+       4,
        0,
        "bình thường"
       ],
@@ -81,7 +81,7 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43343655061"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -90,7 +90,7 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43344619076"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -99,23 +99,23 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43343660673"
        ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43321036070"
-       ],
        3,
        0,
        "bình thường"
       ],
       [
        [
+        "apps-gone-free-emailer",
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43356820060"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43324543263"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43362381303"
        ],
        6,
        0,
@@ -127,13 +127,13 @@
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
-    "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/5 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
@@ -294,7 +294,7 @@
         ],
         [
          "2026-11-13",
-         139000000
+         138000000
         ]
        ]
       },
@@ -443,7 +443,7 @@
         ],
         [
          "2026-11-13",
-         139000000
+         138000000
         ]
        ]
       },
@@ -592,7 +592,7 @@
         ],
         [
          "2026-11-13",
-         139000000
+         138000000
         ]
        ]
       }
@@ -618,26 +618,26 @@
      "rows": [
       [
        "SJC",
-       139000000,
-       0.0
+       138000000,
+       -0.72
       ],
       [
        "PNJ",
-       139000000,
-       0.0
+       138000000,
+       -0.72
       ],
       [
        "DOJI",
-       139000000,
-       0.0
+       138000000,
+       -0.72
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 139,000,000 VND",
-    "PNJ: 139,000,000 VND",
-    "DOJI: 139,000,000 VND"
+    "SJC: 138,000,000 VND",
+    "PNJ: 138,000,000 VND",
+    "DOJI: 138,000,000 VND"
    ]
   },
   {
@@ -2757,6 +2757,22 @@
       ],
       [
        [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "14.999.000",
+       25.0
+      ],
+      [
+       [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "45.696.000",
+       20.3
+      ],
+      [
+       [
         "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin)",
         "https://hoanghapc.vn/vga-gigabyte-geforce-rtx-5070-ti-windforce-sff-16g"
        ],
@@ -2765,27 +2781,11 @@
       ],
       [
        [
-        "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12GB (N3060WF2OC -12GD)",
-        "https://www.anphatpc.com.vn/vga-gigabyte-geforce-rtx-3060-windforce-oc-12gb-n3060wf2oc-12gd.html"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "18.900.000",
-       5.0
-      ],
-      [
-       [
-        "VGA ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7",
-        "https://memoryzone.com.vn/vga-asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7"
-       ],
-       "23.300.000",
-       1.7
-      ],
-      [
-       [
-        "VGA MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7",
-        "https://memoryzone.com.vn/vga-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7"
-       ],
-       "23.300.000",
-       1.7
+       "68.969.000",
+       15.0
       ]
      ]
     }
@@ -2798,10 +2798,10 @@
     "HDD WD Ultrastar DC HA340 8TB 3.5 inch SATA III 256MB Cache 7200RPM WUS721208BLE6L4: 11.990.000 (-4.1%)",
     "VGA Asus PRIME GeForce RTX 5060 Ti OC Edition 16GB GDDR7: 25.850.000 (-3.9%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+30.1%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
     "VGA GIGABYTE GEFORCE RTX 5070 Ti WINDFORCE SFF 16G (GDDR7, 256-bit, HDMI+DP, 1x16-pin): 50.000.000 (+19.0%)",
-    "VGA Gigabyte GeForce RTX 3060 WINDFORCE OC 12GB (N3060WF2OC -12GD): 18.900.000 (+5.0%)",
-    "VGA ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7: 23.300.000 (+1.7%)",
-    "VGA MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7: 23.300.000 (+1.7%)"
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 68.969.000 (+15.0%)"
    ]
   },
   {
