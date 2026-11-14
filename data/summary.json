@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:49:51+00:00",
+ "generated_at": "2026-11-14T01:28:39+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43472956401"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43521923663"
        ],
        4,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43415725271"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43496465516"
        ],
        6,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43493048297"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43540289112"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43385092190"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43498024126"
        ],
        4,
        0,
@@ -79,34 +79,34 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43464524671"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43518072318"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43469119090"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43522095659"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43464532119"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43518096437"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43484644943"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43532149754"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43434956630"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43523611812"
        ],
        6,
        0,
@@ -130,9 +130,9 @@
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -657,7 +657,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-13 23:37",
+   "as_of": "2026-11-14 05:17",
    "blocks": [
     {
      "type": "tiles",
@@ -808,6 +808,10 @@
         [
          "2026-11-13",
          25690.62
+        ],
+        [
+         "2026-11-14",
+         25690.62
         ]
        ]
       },
@@ -955,6 +959,10 @@
         ],
         [
          "2026-11-13",
+         28434.84
+        ],
+        [
+         "2026-11-14",
          28434.84
         ]
        ]
@@ -1104,6 +1112,10 @@
         [
          "2026-11-13",
          160.77
+        ],
+        [
+         "2026-11-14",
+         160.77
         ]
        ]
       },
@@ -1251,6 +1263,10 @@
         ],
         [
          "2026-11-13",
+         3842.98
+        ],
+        [
+         "2026-11-14",
          3842.98
         ]
        ]
@@ -1400,6 +1416,10 @@
         [
          "2026-11-13",
          19.26
+        ],
+        [
+         "2026-11-14",
+         19.26
         ]
        ]
       },
@@ -1547,6 +1567,10 @@
         ],
         [
          "2026-11-13",
+         34020.6
+        ],
+        [
+         "2026-11-14",
          34020.6
         ]
        ]
@@ -1696,6 +1720,10 @@
         [
          "2026-11-13",
          19972.76
+        ],
+        [
+         "2026-11-14",
+         19972.76
         ]
        ]
       },
@@ -1843,6 +1871,10 @@
         ],
         [
          "2026-11-13",
+         17496.74
+        ],
+        [
+         "2026-11-14",
          17496.74
         ]
        ]
@@ -2712,19 +2744,11 @@
      "rows": [
       [
        [
-        "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen)",
-        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn329w.html"
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
        ],
-       "27.590.000",
-       -27.4
-      ],
-      [
-       [
-        "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen)",
-        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn396w.html"
-       ],
-       "25.390.000",
-       -23.0
+       "11.999.000",
+       -23.6
       ],
       [
        [
@@ -2736,19 +2760,27 @@
       ],
       [
        [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "37.999.000",
+       -16.8
+      ],
+      [
+       [
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+       ],
+       "59.999.000",
+       -13.0
+      ],
+      [
+       [
         "HDD WD Ultrastar DC HA340 8TB 3.5 inch SATA III 256MB Cache 7200RPM WUS721208BLE6L4",
         "https://memoryzone.com.vn/hdd-wd-ultrastar-dc-ha340-8tb-3-5-inch-sata-iii-256mb-cache-7200rpm-wus721208ble6l4"
        ],
        "11.990.000",
        -4.1
-      ],
-      [
-       [
-        "VGA Asus PRIME GeForce RTX 5060 Ti OC Edition 16GB GDDR7",
-        "https://memoryzone.com.vn/vga-asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-gddr7"
-       ],
-       "25.850.000",
-       -3.9
       ]
      ]
     },
@@ -2788,43 +2820,43 @@
       ],
       [
        [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "14.999.000",
-       25.0
-      ],
-      [
-       [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "45.696.000",
-       20.3
-      ],
-      [
-       [
         "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-nitro-propanel-anv16-i12-53vh-core-5-205h-rtx-3050-4gb-16gb-512gb-16-fhd-165hz-win-11"
        ],
        "36.990.000",
        19.4
+      ],
+      [
+       [
+        "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-ti-16gb-gddr7-oc-dual-rtx5060ti-o16g.html"
+       ],
+       "29.999.000",
+       15.8
+      ],
+      [
+       [
+        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
+       ],
+       "30.990.000",
+       14.8
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Laptop ASUS TUF Gaming A15 FA506NCG-HN329W (AMD Ryzen™ 7 8845HS | RTX 3050 4GB | 15.6 inch FHD 144Hz | 16GB | 512GB | Win 11 | Đen): 27.590.000 (-27.4%)",
-    "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 25.390.000 (-23.0%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 11.999.000 (-23.6%)",
     "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5): 15.999.000 (-20.0%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
     "HDD WD Ultrastar DC HA340 8TB 3.5 inch SATA III 256MB Cache 7200RPM WUS721208BLE6L4: 11.990.000 (-4.1%)",
-    "VGA Asus PRIME GeForce RTX 5060 Ti OC Edition 16GB GDDR7: 25.850.000 (-3.9%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+30.1%)",
     "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)",
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 45.696.000 (+20.3%)",
-    "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)"
+    "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)",
+    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 29.999.000 (+15.8%)",
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)"
    ]
   },
   {
@@ -2832,7 +2864,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-13 07:26",
+   "as_of": "2026-11-13 20:09",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2879,7 +2911,7 @@
        31990000,
        "24hStore",
        5,
-       -3.91
+       -3.68
       ],
       [
        [
@@ -2889,7 +2921,7 @@
        39990000,
        "24hStore",
        5,
-       728.12
+       3.9
       ],
       [
        [
@@ -2919,7 +2951,7 @@
        36990000,
        "24hStore",
        4,
-       723.65
+       4.23
       ],
       [
        [
@@ -2929,7 +2961,7 @@
        63990000,
        "24hStore",
        4,
-       743.97
+       2.4
       ],
       [
        [
