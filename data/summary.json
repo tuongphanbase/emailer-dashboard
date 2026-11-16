@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:55:22+00:00",
+ "generated_at": "2026-11-16T06:42:46+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43756039434"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43778524400"
        ],
        4,
        0,
@@ -52,16 +52,16 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43735641347"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43772348630"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43770820529"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43814705858"
        ],
        3,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43755706920"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43778253922"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43760892883"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43783217748"
        ],
        4,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43755731211"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43778263180"
        ],
        4,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43763787130"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43785548763"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43768216188"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43799528539"
        ],
        6,
        0,
@@ -127,7 +127,7 @@
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
-    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
@@ -681,7 +681,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-16 03:02",
+   "as_of": "2026-11-16 07:05",
    "blocks": [
     {
      "type": "tiles",
@@ -2632,14 +2632,6 @@
      "rows": [
       [
        [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "11.999.000",
-       -23.6
-      ],
-      [
-       [
         "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5)",
         "https://www.anphatpc.com.vn/ram-laptop-crucial-32gb-ddr5-bus-4800mhz-cl40-ct32g48c40s5.html"
        ],
@@ -2648,27 +2640,35 @@
       ],
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "37.999.000",
-       -16.8
-      ],
-      [
-       [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
-       ],
-       "59.999.000",
-       -13.0
-      ],
-      [
-       [
         "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV)",
         "https://hacom.vn/man-hinh-asus-rog-strix-oled-xg34wcdmtg-moas0393"
        ],
        "37.990.000",
        -5.0
+      ],
+      [
+       [
+        "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX",
+        "https://memoryzone.com.vn/ssd-biwin-m100-1tb-2-5-inch-sata-iii-bm100nn01tb-rgx"
+       ],
+       "2.650.000",
+       -3.6
+      ],
+      [
+       [
+        "HDD WD Red Plus 4TB 3.5 inch SATA III 128MB Cache 5400RPM WD40EFZZ",
+        "https://memoryzone.com.vn/hdd-wd-red-plus-4tb-3-5-inch-sata-iii-128mb-cache-5400rpm-wd40efzz"
+       ],
+       "5.350.000",
+       -2.7
+      ],
+      [
+       [
+        "SSD Western Digital Blue SN5100 1TB PCIe Gen4 x4 NVMe M.2 WDS100T5B0E",
+        "https://memoryzone.com.vn/ssd-western-digital-blue-sn5100-1tb-pcie-gen4-x4-nvme-m-2-wds100t5b0e"
+       ],
+       "4.190.000",
+       -2.3
       ]
      ]
     },
@@ -2690,14 +2690,6 @@
       }
      ],
      "rows": [
-      [
-       [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       30.1
-      ],
       [
        [
         "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
@@ -2729,22 +2721,30 @@
        ],
        "30.990.000",
        14.8
+      ],
+      [
+       [
+        "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-14-m1407ga-ly270w.html"
+       ],
+       "23.890.000",
+       8.6
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 11.999.000 (-23.6%)",
     "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5): 15.999.000 (-20.0%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
     "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV): 37.990.000 (-5.0%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+30.1%)",
+    "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
+    "HDD WD Red Plus 4TB 3.5 inch SATA III 128MB Cache 5400RPM WD40EFZZ: 5.350.000 (-2.7%)",
+    "SSD Western Digital Blue SN5100 1TB PCIe Gen4 x4 NVMe M.2 WDS100T5B0E: 4.190.000 (-2.3%)",
     "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)",
     "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)",
     "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 29.999.000 (+15.8%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)"
+    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
+    "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 23.890.000 (+8.6%)"
    ]
   },
   {
@@ -2879,7 +2879,7 @@
        29990000,
        "24hStore",
        3,
-       -4.76
+       -3.61
       ]
      ]
     }
