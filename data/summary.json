@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:42:46+00:00",
+ "generated_at": "2026-11-16T07:15:38+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,16 +43,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43778524400"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43820528298"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43772348630"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43819713353"
        ],
        6,
        0,
@@ -72,16 +72,16 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43750627374"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43778253922"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43820256951"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
@@ -97,9 +97,9 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43778263180"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43820243500"
        ],
-       4,
+       5,
        0,
        "bình thường"
       ],
@@ -126,13 +126,13 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/5 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/3 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/5 lỗi)",
     "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
+    "currency-rate-emailer: bình thường (0/5 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -681,7 +681,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-16 07:05",
+   "as_of": "2026-11-16 13:56",
    "blocks": [
     {
      "type": "tiles",
@@ -689,8 +689,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25729.33,
-       "change_pct": -0.02,
+       "value": 25715.74,
+       "change_pct": -0.08,
        "period": "24h",
        "points": [
         [
@@ -843,14 +843,14 @@
         ],
         [
          "2026-11-16",
-         25729.33
+         25715.74
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28399.32,
-       "change_pct": -0.03,
+       "value": 28364.32,
+       "change_pct": -0.15,
        "period": "24h",
        "points": [
         [
@@ -1003,14 +1003,14 @@
         ],
         [
          "2026-11-16",
-         28399.32
+         28364.32
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 161.03,
-       "change_pct": -0.01,
+       "value": 160.94,
+       "change_pct": -0.07,
        "period": "24h",
        "points": [
         [
@@ -1163,14 +1163,14 @@
         ],
         [
          "2026-11-16",
-         161.03
+         160.94
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3846.12,
-       "change_pct": -0.09,
+       "value": 3850.59,
+       "change_pct": 0.02,
        "period": "24h",
        "points": [
         [
@@ -1323,14 +1323,14 @@
         ],
         [
          "2026-11-16",
-         3846.12
+         3850.59
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.26,
-       "change_pct": -0.01,
+       "value": 19.25,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -1483,14 +1483,14 @@
         ],
         [
          "2026-11-16",
-         19.26
+         19.25
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 34015.91,
-       "change_pct": -0.02,
+       "value": 33990.18,
+       "change_pct": -0.09,
        "period": "24h",
        "points": [
         [
@@ -1643,14 +1643,14 @@
         ],
         [
          "2026-11-16",
-         34015.91
+         33990.18
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 19983.79,
-       "change_pct": -0.0,
+       "value": 19971.36,
+       "change_pct": -0.06,
        "period": "24h",
        "points": [
         [
@@ -1803,14 +1803,14 @@
         ],
         [
          "2026-11-16",
-         19983.79
+         19971.36
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17447.11,
-       "change_pct": 0.0,
+       "value": 17426.81,
+       "change_pct": -0.11,
        "period": "24h",
        "points": [
         [
@@ -1963,7 +1963,7 @@
         ],
         [
          "2026-11-16",
-         17447.11
+         17426.81
         ]
        ]
       }
@@ -1971,14 +1971,14 @@
     }
    ],
    "text": [
-    "USD: 25,729.33 (-0.02%)",
-    "EUR: 28,399.32 (-0.03%)",
-    "JPY: 161.03 (-0.01%)",
-    "CNY: 3,846.12 (-0.09%)",
-    "KRW: 19.26 (-0.01%)",
-    "GBP: 34,015.91 (-0.02%)",
-    "SGD: 19,983.79 (-0.0%)",
-    "AUD: 17,447.11 (+0.0%)"
+    "USD: 25,715.74 (-0.08%)",
+    "EUR: 28,364.32 (-0.15%)",
+    "JPY: 160.94 (-0.07%)",
+    "CNY: 3,850.59 (+0.02%)",
+    "KRW: 19.25 (-0.06%)",
+    "GBP: 33,990.18 (-0.09%)",
+    "SGD: 19,971.36 (-0.06%)",
+    "AUD: 17,426.81 (-0.11%)"
    ]
   },
   {
@@ -1986,7 +1986,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-11-13 15:18",
+   "as_of": "2026-11-16 13:56",
    "blocks": [
     {
      "type": "tiles",
@@ -2038,8 +2038,8 @@
       },
       {
        "label": "ACV",
-       "value": 38900.0,
-       "change_pct": -1.52,
+       "value": 39000.0,
+       "change_pct": 0.26,
        "period": "24h",
        "points": [
         [
@@ -2117,13 +2117,17 @@
         [
          "2026-11-13",
          38900.0
+        ],
+        [
+         "2026-11-16",
+         39000.0
         ]
        ]
       },
       {
        "label": "MSR",
-       "value": 58800.0,
-       "change_pct": 1.73,
+       "value": 57900.0,
+       "change_pct": -1.53,
        "period": "24h",
        "points": [
         [
@@ -2205,13 +2209,17 @@
         [
          "2026-11-13",
          58800.0
+        ],
+        [
+         "2026-11-16",
+         57900.0
         ]
        ]
       },
       {
        "label": "VEA",
-       "value": 31100.0,
-       "change_pct": -3.42,
+       "value": 30700.0,
+       "change_pct": -1.29,
        "period": "24h",
        "points": [
         [
@@ -2289,13 +2297,17 @@
         [
          "2026-11-13",
          31100.0
+        ],
+        [
+         "2026-11-16",
+         30700.0
         ]
        ]
       },
       {
        "label": "NVB",
-       "value": 15800.0,
-       "change_pct": 3.27,
+       "value": 15600.0,
+       "change_pct": -1.27,
        "period": "24h",
        "points": [
         [
@@ -2365,13 +2377,17 @@
         [
          "2026-11-13",
          15800.0
+        ],
+        [
+         "2026-11-16",
+         15600.0
         ]
        ]
       },
       {
        "label": "KSV",
-       "value": 101700.0,
-       "change_pct": 0.3,
+       "value": 100200.0,
+       "change_pct": -1.47,
        "period": "24h",
        "points": [
         [
@@ -2453,6 +2469,10 @@
         [
          "2026-11-13",
          101700.0
+        ],
+        [
+         "2026-11-16",
+         100200.0
         ]
        ]
       }
@@ -2477,14 +2497,14 @@
      ],
      "rows": [
       [
-       "SZG",
-       33000.0,
-       13.4
+       "PTI",
+       17100.0,
+       -9.04
       ],
       [
-       "TMP",
-       50000.0,
-       7.76
+       "STG",
+       32100.0,
+       -6.82
       ],
       [
        "RGG",
@@ -2492,14 +2512,14 @@
        -6.39
       ],
       [
-       "TAL",
-       25100.0,
-       6.36
+       "AGX",
+       189000.0,
+       5.59
       ],
       [
-       "VSF",
-       33500.0,
-       6.35
+       "OCH",
+       7800.0,
+       5.41
       ]
      ]
     }
@@ -2508,11 +2528,11 @@
     "IDP: 260,000.0 (—)",
     "KOS: 7,220.0 (—)",
     "NBB: 17,200.0 (-0.58%)",
-    "ACV: 38,900.0 (-1.52%)",
-    "MSR: 58,800.0 (+1.73%)",
-    "VEA: 31,100.0 (-3.42%)",
-    "NVB: 15,800.0 (+3.27%)",
-    "KSV: 101,700.0 (+0.3%)"
+    "ACV: 39,000.0 (+0.26%)",
+    "MSR: 57,900.0 (-1.53%)",
+    "VEA: 30,700.0 (-1.29%)",
+    "NVB: 15,600.0 (-1.27%)",
+    "KSV: 100,200.0 (-1.47%)"
    ]
   },
   {
@@ -2692,6 +2712,14 @@
      "rows": [
       [
        [
+        "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms)",
+        "https://www.anphatpc.com.vn/man-hinh-viewsonic-va24g1-h.html"
+       ],
+       "3.999.000",
+       33.3
+      ],
+      [
+       [
         "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
        ],
@@ -2708,27 +2736,19 @@
       ],
       [
        [
+        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
+        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
+       ],
+       "6.999.000",
+       16.7
+      ],
+      [
+       [
         "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G)",
         "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-ti-16gb-gddr7-oc-dual-rtx5060ti-o16g.html"
        ],
        "29.999.000",
        15.8
-      ],
-      [
-       [
-        "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-expertbook-b3-b3405cca-ly0080w.html"
-       ],
-       "30.990.000",
-       14.8
-      ],
-      [
-       [
-        "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-14-m1407ga-ly270w.html"
-       ],
-       "23.890.000",
-       8.6
       ]
      ]
     }
@@ -2740,11 +2760,11 @@
     "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
     "HDD WD Red Plus 4TB 3.5 inch SATA III 128MB Cache 5400RPM WD40EFZZ: 5.350.000 (-2.7%)",
     "SSD Western Digital Blue SN5100 1TB PCIe Gen4 x4 NVMe M.2 WDS100T5B0E: 4.190.000 (-2.3%)",
+    "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms): 3.999.000 (+33.3%)",
     "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)",
     "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)",
-    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 29.999.000 (+15.8%)",
-    "Laptop ASUS ExpertBook B3 B3405CCA-LY0080W (Intel Core Ultra 7 255H | Intel Graphics | 14 inch WUXGA | 16GB | 512GB | Win 11 | Xám): 30.990.000 (+14.8%)",
-    "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 23.890.000 (+8.6%)"
+    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
+    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 29.999.000 (+15.8%)"
    ]
   },
   {
