@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:40:18+00:00",
+ "generated_at": "2026-11-17T03:57:48+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,16 +43,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43912210539"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43988998809"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43819713353"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43942296048"
        ],
        4,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/43939905737"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44011812525"
        ],
        4,
        0,
@@ -70,54 +70,54 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43822980755"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43970941893"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43910241253"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43988678896"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43926993716"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43999631074"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43910222402"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43988685893"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/43932282999"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44001831380"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43883473636"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/43994193746"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ]
@@ -126,15 +126,15 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/4 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
-    "9gag-meme-emailer: bình thường (0/6 lỗi)"
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
+    "9gag-meme-emailer: bình thường (0/4 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-16",
+   "as_of": "2026-11-17",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -307,6 +307,10 @@
         [
          "2026-11-16",
          137500000
+        ],
+        [
+         "2026-11-17",
+         137500000
         ]
        ]
       },
@@ -467,6 +471,10 @@
         ],
         [
          "2026-11-16",
+         137500000
+        ],
+        [
+         "2026-11-17",
          137500000
         ]
        ]
@@ -629,6 +637,10 @@
         [
          "2026-11-16",
          137500000
+        ],
+        [
+         "2026-11-17",
+         137500000
         ]
        ]
       }
@@ -681,7 +693,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-16 23:41",
+   "as_of": "2026-11-17 07:34",
    "blocks": [
     {
      "type": "tiles",
@@ -844,6 +856,10 @@
         [
          "2026-11-16",
          25715.74
+        ],
+        [
+         "2026-11-17",
+         25715.74
         ]
        ]
       },
@@ -1003,6 +1019,10 @@
         ],
         [
          "2026-11-16",
+         28364.32
+        ],
+        [
+         "2026-11-17",
          28364.32
         ]
        ]
@@ -1164,6 +1184,10 @@
         [
          "2026-11-16",
          160.94
+        ],
+        [
+         "2026-11-17",
+         160.94
         ]
        ]
       },
@@ -1323,6 +1347,10 @@
         ],
         [
          "2026-11-16",
+         3850.59
+        ],
+        [
+         "2026-11-17",
          3850.59
         ]
        ]
@@ -1484,6 +1512,10 @@
         [
          "2026-11-16",
          19.25
+        ],
+        [
+         "2026-11-17",
+         19.25
         ]
        ]
       },
@@ -1643,6 +1675,10 @@
         ],
         [
          "2026-11-16",
+         33990.18
+        ],
+        [
+         "2026-11-17",
          33990.18
         ]
        ]
@@ -1804,6 +1840,10 @@
         [
          "2026-11-16",
          19971.36
+        ],
+        [
+         "2026-11-17",
+         19971.36
         ]
        ]
       },
@@ -1963,6 +2003,10 @@
         ],
         [
          "2026-11-16",
+         17426.81
+        ],
+        [
+         "2026-11-17",
          17426.81
         ]
        ]
@@ -2652,6 +2696,14 @@
      "rows": [
       [
        [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "11.999.000",
+       -23.6
+      ],
+      [
+       [
         "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5)",
         "https://www.anphatpc.com.vn/ram-laptop-crucial-32gb-ddr5-bus-4800mhz-cl40-ct32g48c40s5.html"
        ],
@@ -2660,35 +2712,27 @@
       ],
       [
        [
-        "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV)",
-        "https://hacom.vn/man-hinh-asus-rog-strix-oled-xg34wcdmtg-moas0393"
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
        ],
-       "37.990.000",
-       -5.0
+       "37.999.000",
+       -16.8
       ],
       [
        [
-        "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX",
-        "https://memoryzone.com.vn/ssd-biwin-m100-1tb-2-5-inch-sata-iii-bm100nn01tb-rgx"
+        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
        ],
-       "2.650.000",
-       -3.6
+       "59.999.000",
+       -13.0
       ],
       [
        [
-        "HDD WD Red Plus 4TB 3.5 inch SATA III 128MB Cache 5400RPM WD40EFZZ",
-        "https://memoryzone.com.vn/hdd-wd-red-plus-4tb-3-5-inch-sata-iii-128mb-cache-5400rpm-wd40efzz"
+        "VGA Asus ROG Astral RTX 5090 32GB GDDR7 OC (ROG-ASTRAL-RTX5090-O32G-GAMING)",
+        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5090-32gb-gddr7-oc.html"
        ],
-       "5.350.000",
-       -2.7
-      ],
-      [
-       [
-        "SSD Western Digital Blue SN5100 1TB PCIe Gen4 x4 NVMe M.2 WDS100T5B0E",
-        "https://memoryzone.com.vn/ssd-western-digital-blue-sn5100-1tb-pcie-gen4-x4-nvme-m-2-wds100t5b0e"
-       ],
-       "4.190.000",
-       -2.3
+       "200.000.000",
+       -7.2
       ]
      ]
     },
@@ -2720,6 +2764,14 @@
       ],
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "25.490.000",
+       32.8
+      ],
+      [
+       [
         "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
        ],
@@ -2741,30 +2793,22 @@
        ],
        "6.999.000",
        16.7
-      ],
-      [
-       [
-        "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-ti-16gb-gddr7-oc-dual-rtx5060ti-o16g.html"
-       ],
-       "29.999.000",
-       15.8
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 11.999.000 (-23.6%)",
     "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5): 15.999.000 (-20.0%)",
-    "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV): 37.990.000 (-5.0%)",
-    "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
-    "HDD WD Red Plus 4TB 3.5 inch SATA III 128MB Cache 5400RPM WD40EFZZ: 5.350.000 (-2.7%)",
-    "SSD Western Digital Blue SN5100 1TB PCIe Gen4 x4 NVMe M.2 WDS100T5B0E: 4.190.000 (-2.3%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
+    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
+    "VGA Asus ROG Astral RTX 5090 32GB GDDR7 OC (ROG-ASTRAL-RTX5090-O32G-GAMING): 200.000.000 (-7.2%)",
     "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms): 3.999.000 (+33.3%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)",
     "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
-    "VGA ASUS Dual RTX 5060 Ti 16GB GDDR7 OC (DUAL-RTX5060TI-O16G): 29.999.000 (+15.8%)"
+    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)"
    ]
   },
   {
@@ -2772,7 +2816,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-16 07:25",
+   "as_of": "2026-11-16 22:37",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2808,7 +2852,7 @@
        ],
        24990000,
        "MediaMart",
-       4,
+       5,
        0.0
       ],
       [
@@ -2829,7 +2873,7 @@
        36990000,
        "24hStore",
        4,
-       4.23
+       0.0
       ],
       [
        [
@@ -2839,7 +2883,37 @@
        39490000,
        "24hStore",
        4,
-       2.6
+       -1.25
+      ],
+      [
+       [
+        "Samsung Galaxy A27 128GB",
+        "https://24hstore.vn/galaxy-a-2026/samsung-galaxy-a27-5g-6gb-128gb-p12561"
+       ],
+       6490000,
+       "24hStore",
+       4,
+       -12.18
+      ],
+      [
+       [
+        "Samsung Galaxy Tab A11 64GB",
+        "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-a11-wifi.html"
+       ],
+       3590000,
+       "CellphoneS",
+       4,
+       2.87
+      ],
+      [
+       [
+        "Samsung Galaxy Tab S10 FE 128GB",
+        "https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi.html"
+       ],
+       10690000,
+       "CellphoneS",
+       4,
+       0.0
       ],
       [
        [
@@ -2870,36 +2944,6 @@
        "24hStore",
        3,
        -6.09
-      ],
-      [
-       [
-        "Apple iPhone 15 128GB",
-        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
-       ],
-       19490000,
-       "24hStore",
-       3,
-       -2.5
-      ],
-      [
-       [
-        "Apple iPhone 16 128GB",
-        "https://24hstore.vn/iphone-16/iphone-16-128gb-p10934"
-       ],
-       21490000,
-       "24hStore",
-       3,
-       -6.52
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro 256GB",
-        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-256gb-p11588"
-       ],
-       29990000,
-       "24hStore",
-       3,
-       -3.61
       ]
      ]
     }
@@ -2909,12 +2953,12 @@
     "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
+    "Samsung Galaxy A27 128GB: 6,490,000 (24hStore)",
+    "Samsung Galaxy Tab A11 64GB: 3,590,000 (CellphoneS)",
+    "Samsung Galaxy Tab S10 FE 128GB: 10,690,000 (CellphoneS)",
     "Apple iPad Air M4 2026 11 128GB: 17,490,000 (24hStore)",
     "Apple iPad Air M4 2026 11 256GB: 20,490,000 (24hStore)",
-    "Apple iPad Mini 7 2024 128GB: 13,890,000 (24hStore)",
-    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
-    "Apple iPhone 16 128GB: 21,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)"
+    "Apple iPad Mini 7 2024 128GB: 13,890,000 (24hStore)"
    ]
   }
  ]
