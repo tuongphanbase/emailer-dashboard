@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:57:48+00:00",
+ "generated_at": "2026-11-17T08:28:26+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,25 +34,25 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/43826303883"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
        ],
-       2,
        0,
-       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
+       0,
+       "không chạy lần nào"
       ],
       [
        [
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/43988998809"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/43942296048"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44014221375"
        ],
        4,
        0,
@@ -63,7 +63,7 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44011812525"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -72,7 +72,7 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/43970941893"
        ],
-       4,
+       2,
        0,
        "bình thường"
       ],
@@ -81,7 +81,7 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/43988678896"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
@@ -90,7 +90,7 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/43999631074"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
@@ -99,7 +99,7 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/43988685893"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
@@ -108,7 +108,7 @@
         "apps-gone-free-emailer",
         "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44001831380"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "reddit-top-post-emailer: không chạy lần nào (0/0 lỗi)",
+    "gold-price-emailer: bình thường (0/2 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
-    "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/3 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/2 lỗi)",
+    "interest-rate-emailer: bình thường (0/2 lỗi)",
+    "currency-rate-emailer: bình thường (0/2 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/2 lỗi)",
     "9gag-meme-emailer: bình thường (0/4 lỗi)"
    ]
   },
@@ -2696,14 +2696,6 @@
      "rows": [
       [
        [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "11.999.000",
-       -23.6
-      ],
-      [
-       [
         "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5)",
         "https://www.anphatpc.com.vn/ram-laptop-crucial-32gb-ddr5-bus-4800mhz-cl40-ct32g48c40s5.html"
        ],
@@ -2712,27 +2704,35 @@
       ],
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+        "Màn hình Samsung Odyssey G5 G50SF LS27FG502SEXXV (27 inch/OLED/QHD/180Hz/0.03ms)",
+        "https://hacom.vn/man-hinh-samsung-odyssey-g5-g50sf-ls27fg502sexxv-mosa0350"
        ],
-       "37.999.000",
-       -16.8
+       "12.990.000",
+       -13.3
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5080-16gb-gddr7-oc.html"
+        "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV)",
+        "https://hacom.vn/man-hinh-asus-rog-strix-oled-xg34wcdmtg-moas0393"
        ],
-       "59.999.000",
-       -13.0
+       "37.990.000",
+       -5.0
       ],
       [
        [
-        "VGA Asus ROG Astral RTX 5090 32GB GDDR7 OC (ROG-ASTRAL-RTX5090-O32G-GAMING)",
-        "https://www.anphatpc.com.vn/vga-asus-rog-astral-rtx-5090-32gb-gddr7-oc.html"
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
        ],
-       "200.000.000",
-       -7.2
+       "14.999.000",
+       -4.4
+      ],
+      [
+       [
+        "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX",
+        "https://memoryzone.com.vn/ssd-biwin-m100-1tb-2-5-inch-sata-iii-bm100nn01tb-rgx"
+       ],
+       "2.650.000",
+       -3.6
       ]
      ]
     },
@@ -2756,6 +2756,14 @@
      "rows": [
       [
        [
+        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w.html"
+       ],
+       "37.490.000",
+       37.9
+      ],
+      [
+       [
         "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms)",
         "https://www.anphatpc.com.vn/man-hinh-viewsonic-va24g1-h.html"
        ],
@@ -2772,43 +2780,35 @@
       ],
       [
        [
+        "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn396w.html"
+       ],
+       "32.990.000",
+       29.9
+      ],
+      [
+       [
         "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
         "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
        ],
        "35.990.000",
        28.6
-      ],
-      [
-       [
-        "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-nitro-propanel-anv16-i12-53vh-core-5-205h-rtx-3050-4gb-16gb-512gb-16-fhd-165hz-win-11"
-       ],
-       "36.990.000",
-       19.4
-      ],
-      [
-       [
-        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
-       ],
-       "6.999.000",
-       16.7
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 11.999.000 (-23.6%)",
     "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5): 15.999.000 (-20.0%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-16.8%)",
-    "VGA Asus ROG Astral RTX 5080 16GB GDDR7 OC (ROG-ASTRAL-RTX5080-O16G-GAMING): 59.999.000 (-13.0%)",
-    "VGA Asus ROG Astral RTX 5090 32GB GDDR7 OC (ROG-ASTRAL-RTX5090-O32G-GAMING): 200.000.000 (-7.2%)",
+    "Màn hình Samsung Odyssey G5 G50SF LS27FG502SEXXV (27 inch/OLED/QHD/180Hz/0.03ms): 12.990.000 (-13.3%)",
+    "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV): 37.990.000 (-5.0%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (-4.4%)",
+    "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 37.490.000 (+37.9%)",
     "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms): 3.999.000 (+33.3%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
-    "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)",
-    "Laptop gaming Acer Nitro ProPanel ANV16-I12-53VH (Core 5-205H/ RTX 3050 4GB/ 16GB/ 512GB/ 16\" FHD 165Hz/ Win 11): 36.990.000 (+19.4%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)"
+    "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 32.990.000 (+29.9%)",
+    "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)"
    ]
   },
   {
