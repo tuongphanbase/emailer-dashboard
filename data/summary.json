@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:59:49+00:00",
+ "generated_at": "2026-11-18T07:55:54+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,16 +43,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44143459057"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44213135187"
        ],
-       2,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44123965120"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44212814536"
        ],
        4,
        0,
@@ -63,7 +63,7 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44211435996"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44161556155"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44222134103"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44160954161"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44220718651"
        ],
        3,
        0,
@@ -117,7 +117,7 @@
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44205528457"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ]
@@ -126,15 +126,15 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/2 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
+    "house-price-emailer: bình thường (0/2 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/3 lỗi)",
-    "9gag-meme-emailer: bình thường (0/6 lỗi)"
+    "9gag-meme-emailer: bình thường (0/4 lỗi)"
    ]
   },
   {
@@ -2755,11 +2755,6 @@
        "BIDV",
        5.4,
        5.4
-      ],
-      [
-       "VietinBank",
-       5.4,
-       5.4
       ]
      ]
     },
@@ -2804,8 +2799,7 @@
     "Sacombank: 6.5%",
     "Techcombank: 6.25%",
     "Vietcombank: 5.4%",
-    "BIDV: 5.4%",
-    "VietinBank: 5.4%"
+    "BIDV: 5.4%"
    ]
   },
   {
@@ -2927,11 +2921,11 @@
       ],
       [
        [
-        "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
-        "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
+        "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI",
+        "https://hacom.vn/mainboard-asus-rog-strix-x870e-e-gaming-wifi"
        ],
-       "35.990.000",
-       28.6
+       "21.159.000",
+       29.8
       ]
      ]
     }
@@ -2947,7 +2941,7 @@
     "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms): 3.999.000 (+33.3%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 32.990.000 (+29.9%)",
-    "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)"
+    "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI: 21.159.000 (+29.8%)"
    ]
   },
   {
