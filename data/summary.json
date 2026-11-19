@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:39:10+00:00",
+ "generated_at": "2026-11-19T02:37:39+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44361909539"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44423680275"
        ],
        3,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44299417352"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44394145139"
        ],
        4,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44390349608"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44444585581"
        ],
        3,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44262956505"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44395879273"
        ],
        4,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44358324288"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44420923388"
        ],
        3,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44379253466"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44436667603"
        ],
        3,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44358322133"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44420958573"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44375591365"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44433862198"
        ],
        3,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44327687022"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44422749741"
        ],
        4,
        0,
@@ -717,7 +717,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-19 00:24",
+   "as_of": "2026-11-19 06:28",
    "blocks": [
     {
      "type": "tiles",
@@ -2898,30 +2898,6 @@
      "rows": [
       [
        [
-        "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5)",
-        "https://www.anphatpc.com.vn/ram-laptop-crucial-32gb-ddr5-bus-4800mhz-cl40-ct32g48c40s5.html"
-       ],
-       "15.999.000",
-       -20.0
-      ],
-      [
-       [
-        "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV)",
-        "https://hacom.vn/man-hinh-asus-rog-strix-oled-xg34wcdmtg-moas0393"
-       ],
-       "37.990.000",
-       -5.0
-      ],
-      [
-       [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "14.999.000",
-       -4.4
-      ],
-      [
-       [
         "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS",
         "https://memoryzone.com.vn/nguon-may-tinh-gigabyte-gp-p750bs-750w-80-plus-bronze-gp-p750bs"
        ],
@@ -2935,6 +2911,30 @@
        ],
        "2.650.000",
        -3.6
+      ],
+      [
+       [
+        "ASUS ExpertBook P3 PM3406CHA-LY0089W",
+        "https://thinkpro.vn/laptop/asus-expertbook-p3-pm3406cha-ly0089w"
+       ],
+       "24.990.000",
+       -2.7
+      ],
+      [
+       [
+        "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN",
+        "https://memoryzone.com.vn/ram-laptop-adata-premier-8gb-ddr4-3200mhz-1x8gb-ad4s32008g22-sgn"
+       ],
+       "1.750.000",
+       -2.2
+      ],
+      [
+       [
+        "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn396w.html"
+       ],
+       "24.890.000",
+       -2.0
       ]
      ]
     },
@@ -2966,14 +2966,6 @@
       ],
       [
        [
-        "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms)",
-        "https://www.anphatpc.com.vn/man-hinh-viewsonic-va24g1-h.html"
-       ],
-       "3.999.000",
-       33.3
-      ],
-      [
-       [
         "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
         "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
        ],
@@ -2995,22 +2987,30 @@
        ],
        "21.159.000",
        29.8
+      ],
+      [
+       [
+        "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11)",
+        "https://gearvn.com/products/laptop-gaming-acer-aspire-7-a715-59g-59rd"
+       ],
+       "35.990.000",
+       28.6
       ]
      ]
     }
    ],
    "empty_text": null,
    "text": [
-    "Ram laptop Crucial 32GB DDR5 bus 4800Mhz CL40 (CT32G48C40S5): 15.999.000 (-20.0%)",
-    "Màn hình Asus ROG Strix OLED XG34WCDMTG (34 inch/WQHD/QD-OLED/240Hz/0.03ms/Smart Google TV): 37.990.000 (-5.0%)",
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (-4.4%)",
     "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS: 1.200.000 (-4.0%)",
     "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
+    "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
+    "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN: 1.750.000 (-2.2%)",
+    "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 24.890.000 (-2.0%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 37.490.000 (+37.9%)",
-    "Màn Hình ViewSonic VA24G1-H (23.8 inch - IPS - FHD - 144Hz - 1ms): 3.999.000 (+33.3%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Laptop Asus TUF Gaming A15 FA506NCG - HN396W (AMD Ryzen 7 155 | RTX 3050 4GB | 15.6 inch FHD 144Hz | 8GB | 512GB | Win 11 | Đen): 32.990.000 (+29.9%)",
-    "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI: 21.159.000 (+29.8%)"
+    "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI: 21.159.000 (+29.8%)",
+    "Laptop gaming Acer Aspire 7 A715-59G-59RD (Core 5-210H/ RTX 3050 4GB/ 16GB/ 512GB/ 15.6\" FHD/ Win 11): 35.990.000 (+28.6%)"
    ]
   },
   {
@@ -3018,7 +3018,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-18 08:02",
+   "as_of": "2026-11-18 20:59",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -3065,7 +3065,7 @@
        31990000,
        "24hStore",
        4,
-       -3.68
+       0.0
       ],
       [
        [
@@ -3089,13 +3089,23 @@
       ],
       [
        [
+        "Apple iPhone Duo 256GB",
+        "https://24hstore.vn/iphone-duo/iphone-duo-256gb-p12570"
+       ],
+       63990000,
+       "24hStore",
+       4,
+       0.0
+      ],
+      [
+       [
         "Samsung Galaxy A27 128GB",
         "https://24hstore.vn/galaxy-a-2026/samsung-galaxy-a27-5g-6gb-128gb-p12561"
        ],
        6490000,
        "24hStore",
        4,
-       -12.18
+       0.0
       ],
       [
        [
@@ -3105,7 +3115,7 @@
        3590000,
        "Điện Máy Xanh",
        4,
-       2.87
+       0.0
       ],
       [
        [
@@ -3115,7 +3125,7 @@
        10690000,
        "Điện Máy Xanh",
        4,
-       0.0
+       -5.31
       ],
       [
        [
@@ -3125,7 +3135,7 @@
        8690000,
        "Điện Máy Xanh",
        4,
-       0.0
+       -2.25
       ],
       [
        [
@@ -3135,17 +3145,7 @@
        17490000,
        "24hStore",
        3,
-       -5.41
-      ],
-      [
-       [
-        "Apple iPad Air M4 2026 11 256GB",
-        "https://24hstore.vn/ipad-air-m4/ipad-air-m4-2026-11-inch-wifi-256gb-p12103"
-       ],
-       20490000,
-       "24hStore",
-       3,
-       -5.97
+       0.0
       ]
      ]
     }
@@ -3155,12 +3155,12 @@
     "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
+    "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
     "Samsung Galaxy A27 128GB: 6,490,000 (24hStore)",
     "Samsung Galaxy Tab A11 64GB: 3,590,000 (Điện Máy Xanh)",
     "Samsung Galaxy Tab S10 FE 128GB: 10,690,000 (Điện Máy Xanh)",
     "Samsung Galaxy Tab S10 Lite 128GB: 8,690,000 (Điện Máy Xanh)",
-    "Apple iPad Air M4 2026 11 128GB: 17,490,000 (24hStore)",
-    "Apple iPad Air M4 2026 11 256GB: 20,490,000 (24hStore)"
+    "Apple iPad Air M4 2026 11 128GB: 17,490,000 (24hStore)"
    ]
   }
  ]
