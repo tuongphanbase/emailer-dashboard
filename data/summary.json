@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T07:55:14+00:00",
+ "generated_at": "2026-11-19T11:50:02+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,7 +34,7 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/44266367414"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/44488645427"
        ],
        2,
        0,
@@ -45,7 +45,7 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44465529204"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44444585581"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44514816821"
        ],
        3,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44395879273"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44483609771"
        ],
        4,
        0,
@@ -81,14 +81,14 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44457767387"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44436667603"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44495500911"
        ],
        3,
        0,
@@ -99,14 +99,14 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44457821753"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44433862198"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44493413412"
        ],
        3,
        0,
@@ -126,13 +126,13 @@
    ],
    "text": [
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
@@ -3013,7 +3013,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-18 20:59",
+   "as_of": "2026-11-19 08:04",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
