@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:50:31+00:00",
+ "generated_at": "2026-11-20T20:28:54+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,15 @@
      "rows": [
       [
        [
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44803207308"
+       ],
+       6,
+       1,
+       "Deploy Pages lỗi lúc 02:33 21/11"
+      ],
+      [
+       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/44701197466"
        ],
@@ -43,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44670301725"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44735540634"
        ],
        3,
        0,
@@ -52,7 +61,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44660728173"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44731642389"
        ],
        6,
        0,
@@ -61,7 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44726480231"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44806948579"
        ],
        4,
        0,
@@ -79,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44721716526"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44797198732"
        ],
        4,
        0,
@@ -88,7 +97,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44707446449"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44788116670"
        ],
        3,
        0,
@@ -97,7 +106,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44721780922"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44797239807"
        ],
        4,
        0,
@@ -106,18 +115,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44699517676"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44779957815"
        ],
        3,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44684907982"
-       ],
-       6,
        0,
        "bình thường"
       ]
@@ -125,6 +125,7 @@
     }
    ],
    "text": [
+    "9gag-meme-emailer: Deploy Pages lỗi lúc 02:33 21/11 (1/6 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
@@ -133,8 +134,7 @@
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
-    "9gag-meme-emailer: bình thường (0/6 lỗi)"
+    "apps-gone-free-emailer: bình thường (0/3 lỗi)"
    ]
   },
   {
@@ -729,7 +729,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-20 17:44",
+   "as_of": "2026-11-21 01:55",
    "blocks": [
     {
      "type": "tiles",
@@ -908,6 +908,10 @@
         [
          "2026-11-20",
          25729.72
+        ],
+        [
+         "2026-11-21",
+         25729.72
         ]
        ]
       },
@@ -1083,6 +1087,10 @@
         ],
         [
          "2026-11-20",
+         28251.17
+        ],
+        [
+         "2026-11-21",
          28251.17
         ]
        ]
@@ -1260,6 +1268,10 @@
         [
          "2026-11-20",
          161.06
+        ],
+        [
+         "2026-11-21",
+         161.06
         ]
        ]
       },
@@ -1435,6 +1447,10 @@
         ],
         [
          "2026-11-20",
+         3844.86
+        ],
+        [
+         "2026-11-21",
          3844.86
         ]
        ]
@@ -1612,6 +1628,10 @@
         [
          "2026-11-20",
          19.33
+        ],
+        [
+         "2026-11-21",
+         19.33
         ]
        ]
       },
@@ -1787,6 +1807,10 @@
         ],
         [
          "2026-11-20",
+         33749.56
+        ],
+        [
+         "2026-11-21",
          33749.56
         ]
        ]
@@ -1964,6 +1988,10 @@
         [
          "2026-11-20",
          19932.46
+        ],
+        [
+         "2026-11-21",
+         19932.46
         ]
        ]
       },
@@ -2139,6 +2167,10 @@
         ],
         [
          "2026-11-20",
+         17167.87
+        ],
+        [
+         "2026-11-21",
          17167.87
         ]
        ]
@@ -2813,22 +2845,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       32.8
-      ],
-      [
-       [
-        "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI",
-        "https://hacom.vn/mainboard-asus-rog-strix-x870e-e-gaming-wifi"
-       ],
-       "21.159.000",
-       29.8
-      ],
-      [
-       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2850,6 +2866,22 @@
        ],
        "6.999.000",
        16.7
+      ],
+      [
+       [
+        "Card màn hình ARKTEK GeForce GTX 1660 SUPER 6GB GDDR6",
+        "https://www.anphatpc.com.vn/card-man-hinh-arktek-geforce-gtx-1660-super-6gb.html"
+       ],
+       "5.669.000",
+       14.1
+      ],
+      [
+       [
+        "Mainboard ASUS TUF GAMING X870-PLUS WIFI",
+        "https://hacom.vn/mainboard-asus-tuf-gaming-x870-plus-wifi"
+       ],
+       "9.774.000",
+       13.7
       ]
      ]
     }
@@ -2861,11 +2893,11 @@
     "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
     "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
     "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN: 1.750.000 (-2.2%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
-    "Mainboard ASUS ROG STRIX X870E-E GAMING WIFI: 21.159.000 (+29.8%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
     "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)"
+    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
+    "Card màn hình ARKTEK GeForce GTX 1660 SUPER 6GB GDDR6: 5.669.000 (+14.1%)",
+    "Mainboard ASUS TUF GAMING X870-PLUS WIFI: 9.774.000 (+13.7%)"
    ]
   },
   {
