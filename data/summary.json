@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:25:24+00:00",
+ "generated_at": "2026-11-21T07:41:08+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -63,14 +63,14 @@
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44852968512"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44812582463"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44856682867"
        ],
        6,
        0,
@@ -90,16 +90,16 @@
         "vn-stock-price-emailer",
         "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44844244091"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44840311342"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44877660987"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
@@ -108,16 +108,16 @@
         "currency-rate-emailer",
         "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44844246176"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44835367362"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44864569904"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ]
@@ -128,13 +128,13 @@
     "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:49 21/11 (1/4 lỗi)",
     "9gag-meme-emailer: Deploy Pages lỗi lúc 02:33 21/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)"
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/4 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)"
    ]
   },
   {
@@ -2829,11 +2829,11 @@
       ],
       [
        [
-        "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN",
-        "https://memoryzone.com.vn/ram-laptop-adata-premier-8gb-ddr4-3200mhz-1x8gb-ad4s32008g22-sgn"
+        "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY)",
+        "https://memoryzone.com.vn/ssd-huadisk-512gb-m-2-pcie-gen3-x4-nvme-hyv512x3-hxy"
        ],
-       "1.750.000",
-       -2.2
+       "1.850.000",
+       -2.6
       ]
      ]
     },
@@ -2865,6 +2865,22 @@
       ],
       [
        [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "48.399.000",
+       27.4
+      ],
+      [
+       [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "14.999.000",
+       25.0
+      ],
+      [
+       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2878,22 +2894,6 @@
        ],
        "2.398.000",
        20.0
-      ],
-      [
-       [
-        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
-       ],
-       "6.999.000",
-       16.7
-      ],
-      [
-       [
-        "Mainboard ASUS TUF GAMING X870-PLUS WIFI",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-x870-plus-wifi"
-       ],
-       "9.774.000",
-       13.7
       ]
      ]
     }
@@ -2904,12 +2904,12 @@
     "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS: 1.200.000 (-4.0%)",
     "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
     "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
-    "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN: 1.750.000 (-2.2%)",
+    "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.850.000 (-2.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 48.399.000 (+27.4%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
-    "Mainboard ASUS TUF GAMING X870-PLUS WIFI: 9.774.000 (+13.7%)"
+    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)"
    ]
   },
   {
