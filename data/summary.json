@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:28:54+00:00",
+ "generated_at": "2026-11-21T02:25:24+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "3 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,10 +33,19 @@
      "rows": [
       [
        [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44814846896"
+       ],
+       4,
+       1,
+       "Deploy Pages lỗi lúc 03:49 21/11"
+      ],
+      [
+       [
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44803207308"
        ],
-       6,
+       4,
        1,
        "Deploy Pages lỗi lúc 02:33 21/11"
       ],
@@ -52,16 +61,16 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44735540634"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44852968512"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44731642389"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44812582463"
        ],
        6,
        0,
@@ -70,25 +79,16 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44806948579"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44853900968"
        ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44697452380"
-       ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44797198732"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44844244091"
        ],
        4,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44788116670"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44840311342"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44797239807"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44844246176"
        ],
        4,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44779957815"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44835367362"
        ],
        3,
        0,
@@ -125,12 +125,12 @@
     }
    ],
    "text": [
-    "9gag-meme-emailer: Deploy Pages lỗi lúc 02:33 21/11 (1/6 lỗi)",
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:49 21/11 (1/4 lỗi)",
+    "9gag-meme-emailer: Deploy Pages lỗi lúc 02:33 21/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-20",
+   "as_of": "2026-11-21",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -323,6 +323,10 @@
         [
          "2026-11-20",
          134200000
+        ],
+        [
+         "2026-11-21",
+         133500000
         ]
        ]
       },
@@ -500,6 +504,10 @@
         [
          "2026-11-20",
          134200000
+        ],
+        [
+         "2026-11-21",
+         133500000
         ]
        ]
       },
@@ -677,6 +685,10 @@
         [
          "2026-11-20",
          134200000
+        ],
+        [
+         "2026-11-21",
+         134200000
         ]
        ]
       }
@@ -702,25 +714,25 @@
      "rows": [
       [
        "SJC",
-       134200000,
-       -1.47
+       133500000,
+       -0.52
       ],
       [
        "PNJ",
-       134200000,
-       -1.47
+       133500000,
+       -0.52
       ],
       [
        "DOJI",
        134200000,
-       -1.47
+       0.0
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 134,200,000 VND",
-    "PNJ: 134,200,000 VND",
+    "SJC: 133,500,000 VND",
+    "PNJ: 133,500,000 VND",
     "DOJI: 134,200,000 VND"
    ]
   },
@@ -729,7 +741,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-21 01:55",
+   "as_of": "2026-11-21 07:30",
    "blocks": [
     {
      "type": "tiles",
@@ -2845,6 +2857,14 @@
      "rows": [
       [
        [
+        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
+       ],
+       "25.490.000",
+       32.8
+      ],
+      [
+       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2869,14 +2889,6 @@
       ],
       [
        [
-        "Card màn hình ARKTEK GeForce GTX 1660 SUPER 6GB GDDR6",
-        "https://www.anphatpc.com.vn/card-man-hinh-arktek-geforce-gtx-1660-super-6gb.html"
-       ],
-       "5.669.000",
-       14.1
-      ],
-      [
-       [
         "Mainboard ASUS TUF GAMING X870-PLUS WIFI",
         "https://hacom.vn/mainboard-asus-tuf-gaming-x870-plus-wifi"
        ],
@@ -2893,10 +2905,10 @@
     "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
     "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
     "RAM Laptop ADATA Premier 8GB DDR4 3200MHz 1.2v AD4S32008G22-SGN: 1.750.000 (-2.2%)",
+    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
     "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
     "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
-    "Card màn hình ARKTEK GeForce GTX 1660 SUPER 6GB GDDR6: 5.669.000 (+14.1%)",
     "Mainboard ASUS TUF GAMING X870-PLUS WIFI: 9.774.000 (+13.7%)"
    ]
   },
@@ -2905,7 +2917,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-20 07:51",
+   "as_of": "2026-11-20 20:49",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2996,6 +3008,16 @@
       ],
       [
        [
+        "Xiaomi Redmi Note 17 128GB",
+        "https://24hstore.vn/redmi-note-series/xiaomi-redmi-note-17-4gb-128gb-p12582"
+       ],
+       4490000,
+       "24hStore",
+       4,
+       -1.32
+      ],
+      [
+       [
         "Apple iPhone 15 128GB",
         "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
        ],
@@ -3023,16 +3045,6 @@
        "24hStore",
        3,
        0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 1TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
-       ],
-       55990000,
-       "24hStore",
-       3,
-       0.0
       ]
      ]
     }
@@ -3044,10 +3056,10 @@
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
     "Samsung Galaxy A27 128GB: 6,490,000 (24hStore)",
+    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)",
     "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
     "Apple iPhone 16 128GB: 21,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 1TB: 55,990,000 (24hStore)"
+    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)"
    ]
   }
  ]
