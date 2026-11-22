@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:36:11+00:00",
+ "generated_at": "2026-11-22T19:47:52+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,15 +33,6 @@
      "rows": [
       [
        [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44911485052"
-       ],
-       6,
-       1,
-       "Deploy Pages lỗi lúc 20:58 21/11"
-      ],
-      [
-       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45000263774"
        ],
@@ -52,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45007452288"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45048450623"
        ],
        4,
        0,
@@ -61,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44971520793"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45018653486"
        ],
        4,
        0,
@@ -70,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45015285410"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45060767489"
        ],
        3,
        0,
@@ -88,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45003073966"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45044491140"
        ],
        4,
        0,
@@ -97,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45008340533"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45050970422"
        ],
        4,
        0,
@@ -106,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45003184265"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45045712526"
        ],
        4,
        0,
@@ -115,9 +106,18 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44997357768"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45038797739"
        ],
        4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45029080916"
+       ],
+       6,
        0,
        "bình thường"
       ]
@@ -125,7 +125,6 @@
     }
    ],
    "text": [
-    "9gag-meme-emailer: Deploy Pages lỗi lúc 20:58 21/11 (1/6 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
@@ -134,7 +133,8 @@
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/4 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/4 lỗi)"
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
+    "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-22",
+   "as_of": "2026-11-23",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -331,6 +331,10 @@
         [
          "2026-11-22",
          133500000
+        ],
+        [
+         "2026-11-23",
+         133500000
         ]
        ]
       },
@@ -515,6 +519,10 @@
         ],
         [
          "2026-11-22",
+         133500000
+        ],
+        [
+         "2026-11-23",
          133500000
         ]
        ]
@@ -701,6 +709,10 @@
         [
          "2026-11-22",
          133500000
+        ],
+        [
+         "2026-11-23",
+         133500000
         ]
        ]
       }
@@ -753,7 +765,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-22 15:31",
+   "as_of": "2026-11-22 23:46",
    "blocks": [
     {
      "type": "tiles",
@@ -2341,94 +2353,82 @@
        ]
       },
       {
-       "label": "MSR",
-       "value": 49300.0,
-       "change_pct": -4.09,
+       "label": "VIC",
+       "value": 241900.0,
+       "change_pct": 0.54,
        "period": "24h",
        "points": [
         [
-         "2026-10-23",
-         63600.0
-        ],
-        [
          "2026-10-26",
-         63700.0
+         237000.0
         ],
         [
          "2026-10-27",
-         67400.0
+         240200.0
         ],
         [
          "2026-10-28",
-         68400.0
+         241000.0
         ],
         [
          "2026-10-29",
-         66000.0
+         241000.0
         ],
         [
          "2026-10-30",
-         61200.0
+         241000.0
         ],
         [
          "2026-11-02",
-         57800.0
+         242000.0
         ],
         [
          "2026-11-03",
-         60000.0
+         234000.0
         ],
         [
          "2026-11-04",
-         59400.0
+         234000.0
         ],
         [
          "2026-11-05",
-         62800.0
+         238000.0
         ],
         [
          "2026-11-06",
-         61400.0
+         234500.0
         ],
         [
          "2026-11-09",
-         61300.0
+         230200.0
         ],
         [
          "2026-11-10",
-         60200.0
+         242000.0
         ],
         [
          "2026-11-11",
-         58700.0
+         245200.0
         ],
         [
          "2026-11-12",
-         58400.0
-        ],
-        [
-         "2026-11-13",
-         58800.0
+         243000.0
         ],
         [
          "2026-11-16",
-         57900.0
-        ],
-        [
-         "2026-11-17",
-         53900.0
+         248000.0
         ],
         [
          "2026-11-18",
-         50900.0
+         245000.0
         ],
         [
          "2026-11-19",
-         51600.0
+         240000.0
         ],
         [
          "2026-11-20",
-         49300.0
+         241900.0
         ]
        ]
       }
@@ -2488,9 +2488,9 @@
     "VFG: 41,800.0 (—)",
     "PLC: 21,400.0 (—)",
     "APH: 7,110.0 (—)",
-    "MSR: 49,300.0 (-4.09%)"
+    "VIC: 241,900.0 (+0.54%)"
    ],
-   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VGV, THD, DNW"
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: THD, VGV, DNW"
   },
   {
    "id": "interest",
@@ -2677,22 +2677,6 @@
       ],
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
-       ],
-       "48.399.000",
-       27.4
-      ],
-      [
-       [
-        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
-        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
-       ],
-       "14.999.000",
-       25.0
-      ],
-      [
-       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2706,6 +2690,22 @@
        ],
        "2.398.000",
        20.0
+      ],
+      [
+       [
+        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
+        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
+       ],
+       "6.999.000",
+       16.7
+      ],
+      [
+       [
+        "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB",
+        "https://gearvn.com/products/card-man-hinh-msi-geforce-rtx-5060-ventus-2x-oc-v1-8gb"
+       ],
+       "16.990.000",
+       13.3
       ]
      ]
     }
@@ -2718,10 +2718,10 @@
     "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
     "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.850.000 (-2.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 48.399.000 (+27.4%)",
-    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)"
+    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
+    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
+    "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB: 16.990.000 (+13.3%)"
    ]
   },
   {
