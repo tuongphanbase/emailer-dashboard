@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:24:01+00:00",
+ "generated_at": "2026-11-22T01:23:55+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -37,7 +37,7 @@
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44881945472"
        ],
        4,
-       2,
+       1,
        "Deploy Pages lỗi lúc 14:48 21/11"
       ],
       [
@@ -45,8 +45,8 @@
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44911485052"
        ],
-       5,
-       2,
+       6,
+       1,
        "Deploy Pages lỗi lúc 20:58 21/11"
       ],
       [
@@ -61,7 +61,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44926980290"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44954263965"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44899253056"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44941509508"
        ],
        6,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44938852804"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44969977351"
        ],
        4,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44921042896"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44950993133"
        ],
        3,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44918085608"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44949330852"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44921015438"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44951041450"
        ],
        3,
        0,
@@ -115,9 +115,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44906104956"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44964845479"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ]
@@ -125,8 +125,8 @@
     }
    ],
    "text": [
-    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 14:48 21/11 (2/4 lỗi)",
-    "9gag-meme-emailer: Deploy Pages lỗi lúc 20:58 21/11 (2/5 lỗi)",
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 14:48 21/11 (1/4 lỗi)",
+    "9gag-meme-emailer: Deploy Pages lỗi lúc 20:58 21/11 (1/6 lỗi)",
     "reddit-top-post-emailer: Deploy Pages lỗi lúc 15:08 21/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
@@ -134,7 +134,7 @@
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/3 lỗi)"
+    "apps-gone-free-emailer: bình thường (0/4 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-21",
+   "as_of": "2026-11-22",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -327,6 +327,10 @@
         [
          "2026-11-21",
          133500000
+        ],
+        [
+         "2026-11-22",
+         133500000
         ]
        ]
       },
@@ -507,6 +511,10 @@
         ],
         [
          "2026-11-21",
+         133500000
+        ],
+        [
+         "2026-11-22",
          133500000
         ]
        ]
@@ -689,6 +697,10 @@
         [
          "2026-11-21",
          133500000
+        ],
+        [
+         "2026-11-22",
+         133500000
         ]
        ]
       }
@@ -715,17 +727,17 @@
       [
        "SJC",
        133500000,
-       -0.52
+       0.0
       ],
       [
        "PNJ",
        133500000,
-       -0.52
+       0.0
       ],
       [
        "DOJI",
        133500000,
-       -0.52
+       0.0
       ]
      ]
     }
@@ -741,7 +753,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-21 22:47",
+   "as_of": "2026-11-22 04:20",
    "blocks": [
     {
      "type": "tiles",
@@ -924,6 +936,10 @@
         [
          "2026-11-21",
          25729.72
+        ],
+        [
+         "2026-11-22",
+         25729.72
         ]
        ]
       },
@@ -1103,6 +1119,10 @@
         ],
         [
          "2026-11-21",
+         28251.17
+        ],
+        [
+         "2026-11-22",
          28251.17
         ]
        ]
@@ -1284,6 +1304,10 @@
         [
          "2026-11-21",
          161.06
+        ],
+        [
+         "2026-11-22",
+         161.06
         ]
        ]
       },
@@ -1463,6 +1487,10 @@
         ],
         [
          "2026-11-21",
+         3844.86
+        ],
+        [
+         "2026-11-22",
          3844.86
         ]
        ]
@@ -1644,6 +1672,10 @@
         [
          "2026-11-21",
          19.33
+        ],
+        [
+         "2026-11-22",
+         19.33
         ]
        ]
       },
@@ -1823,6 +1855,10 @@
         ],
         [
          "2026-11-21",
+         33749.56
+        ],
+        [
+         "2026-11-22",
          33749.56
         ]
        ]
@@ -2004,6 +2040,10 @@
         [
          "2026-11-21",
          19932.46
+        ],
+        [
+         "2026-11-22",
+         19932.46
         ]
        ]
       },
@@ -2183,6 +2223,10 @@
         ],
         [
          "2026-11-21",
+         17167.87
+        ],
+        [
+         "2026-11-22",
          17167.87
         ]
        ]
@@ -2761,7 +2805,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-21 07:48",
+   "as_of": "2026-11-21 19:53",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2828,7 +2872,7 @@
        19490000,
        "24hStore",
        4,
-       -2.5
+       0.0
       ],
       [
        [
@@ -2846,16 +2890,6 @@
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
        36990000,
-       "24hStore",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro 2TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
-       ],
-       74990000,
        "24hStore",
        4,
        0.0
@@ -2889,6 +2923,16 @@
        "24hStore",
        4,
        -1.32
+      ],
+      [
+       [
+        "Apple iPhone 16 128GB",
+        "https://24hstore.vn/iphone-16/iphone-16-128gb-p10934"
+       ],
+       21490000,
+       "24hStore",
+       3,
+       0.0
       ]
      ]
     }
@@ -2900,10 +2944,10 @@
     "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
     "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 2TB: 74,990,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
     "Samsung Galaxy A27 128GB: 6,490,000 (24hStore)",
-    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)"
+    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)",
+    "Apple iPhone 16 128GB: 21,490,000 (24hStore)"
    ]
   }
  ]
