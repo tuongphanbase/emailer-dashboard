@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:26:45+00:00",
+ "generated_at": "2026-11-22T11:36:11+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "3 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,15 +33,6 @@
      "rows": [
       [
        [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44881945472"
-       ],
-       4,
-       1,
-       "Deploy Pages lỗi lúc 14:48 21/11"
-      ],
-      [
-       [
         "9gag-meme-emailer",
         "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/44911485052"
        ],
@@ -52,16 +43,16 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/44883460612"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45000263774"
        ],
        2,
-       1,
-       "Deploy Pages lỗi lúc 15:08 21/11"
+       0,
+       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
       ],
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44973806307"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45007452288"
        ],
        4,
        0,
@@ -72,14 +63,14 @@
         "tech-price-mailer",
         "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44971520793"
        ],
-       6,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44969977351"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45015285410"
        ],
        3,
        0,
@@ -87,8 +78,17 @@
       ],
       [
        [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44998415064"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44971567858"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45003073966"
        ],
        4,
        0,
@@ -97,16 +97,16 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44971754005"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45008340533"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44971603697"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45003184265"
        ],
        4,
        0,
@@ -125,14 +125,14 @@
     }
    ],
    "text": [
-    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 14:48 21/11 (1/4 lỗi)",
     "9gag-meme-emailer: Deploy Pages lỗi lúc 20:58 21/11 (1/6 lỗi)",
-    "reddit-top-post-emailer: Deploy Pages lỗi lúc 15:08 21/11 (1/2 lỗi)",
+    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
-    "tech-price-mailer: bình thường (0/6 lỗi)",
+    "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/4 lỗi)",
     "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)"
    ]
@@ -753,7 +753,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-22 08:28",
+   "as_of": "2026-11-22 15:31",
    "blocks": [
     {
      "type": "tiles",
@@ -2329,182 +2329,106 @@
        ]
       },
       {
-       "label": "ACV",
-       "value": 36500.0,
-       "change_pct": -3.69,
+       "label": "APH",
+       "value": 7110.0,
+       "change_pct": null,
        "period": "24h",
        "points": [
         [
          "2026-10-23",
-         42900.0
-        ],
-        [
-         "2026-10-26",
-         41800.0
-        ],
-        [
-         "2026-10-27",
-         41200.0
-        ],
-        [
-         "2026-10-28",
-         41000.0
-        ],
-        [
-         "2026-10-29",
-         41000.0
-        ],
-        [
-         "2026-10-30",
-         39700.0
-        ],
-        [
-         "2026-11-02",
-         38700.0
-        ],
-        [
-         "2026-11-03",
-         39000.0
-        ],
-        [
-         "2026-11-04",
-         39700.0
-        ],
-        [
-         "2026-11-05",
-         39600.0
-        ],
-        [
-         "2026-11-06",
-         39400.0
-        ],
-        [
-         "2026-11-10",
-         39500.0
-        ],
-        [
-         "2026-11-11",
-         39600.0
-        ],
-        [
-         "2026-11-12",
-         39100.0
-        ],
-        [
-         "2026-11-13",
-         38900.0
-        ],
-        [
-         "2026-11-16",
-         38900.0
-        ],
-        [
-         "2026-11-17",
-         39000.0
-        ],
-        [
-         "2026-11-18",
-         37800.0
-        ],
-        [
-         "2026-11-19",
-         37500.0
-        ],
-        [
-         "2026-11-20",
-         36500.0
+         7110.0
         ]
        ]
       },
       {
-       "label": "KSF",
-       "value": 67000.0,
-       "change_pct": -0.74,
+       "label": "MSR",
+       "value": 49300.0,
+       "change_pct": -4.09,
        "period": "24h",
        "points": [
         [
          "2026-10-23",
-         74700.0
+         63600.0
         ],
         [
          "2026-10-26",
-         73900.0
+         63700.0
         ],
         [
          "2026-10-27",
-         73800.0
+         67400.0
         ],
         [
          "2026-10-28",
-         73600.0
-        ],
-        [
-         "2026-10-29",
-         70900.0
-        ],
-        [
-         "2026-10-30",
-         70800.0
-        ],
-        [
-         "2026-11-02",
-         69300.0
-        ],
-        [
-         "2026-11-03",
-         68300.0
-        ],
-        [
-         "2026-11-04",
-         69800.0
-        ],
-        [
-         "2026-11-05",
-         68700.0
-        ],
-        [
-         "2026-11-06",
-         68100.0
-        ],
-        [
-         "2026-11-09",
-         66900.0
-        ],
-        [
-         "2026-11-10",
-         68200.0
-        ],
-        [
-         "2026-11-11",
-         68500.0
-        ],
-        [
-         "2026-11-12",
-         68900.0
-        ],
-        [
-         "2026-11-13",
-         68000.0
-        ],
-        [
-         "2026-11-16",
          68400.0
         ],
         [
+         "2026-10-29",
+         66000.0
+        ],
+        [
+         "2026-10-30",
+         61200.0
+        ],
+        [
+         "2026-11-02",
+         57800.0
+        ],
+        [
+         "2026-11-03",
+         60000.0
+        ],
+        [
+         "2026-11-04",
+         59400.0
+        ],
+        [
+         "2026-11-05",
+         62800.0
+        ],
+        [
+         "2026-11-06",
+         61400.0
+        ],
+        [
+         "2026-11-09",
+         61300.0
+        ],
+        [
+         "2026-11-10",
+         60200.0
+        ],
+        [
+         "2026-11-11",
+         58700.0
+        ],
+        [
+         "2026-11-12",
+         58400.0
+        ],
+        [
+         "2026-11-13",
+         58800.0
+        ],
+        [
+         "2026-11-16",
+         57900.0
+        ],
+        [
          "2026-11-17",
-         68300.0
+         53900.0
         ],
         [
          "2026-11-18",
-         67900.0
+         50900.0
         ],
         [
          "2026-11-19",
-         67500.0
+         51600.0
         ],
         [
          "2026-11-20",
-         67000.0
+         49300.0
         ]
        ]
       }
@@ -2563,10 +2487,10 @@
     "PHS: 8,900.0 (—)",
     "VFG: 41,800.0 (—)",
     "PLC: 21,400.0 (—)",
-    "ACV: 36,500.0 (-3.69%)",
-    "KSF: 67,000.0 (-0.74%)"
+    "APH: 7,110.0 (—)",
+    "MSR: 49,300.0 (-4.09%)"
    ],
-   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: THD, VGV, DNW"
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VGV, THD, DNW"
   },
   {
    "id": "interest",
@@ -2805,7 +2729,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-21 19:53",
+   "as_of": "2026-11-22 07:34",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
