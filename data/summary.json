@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:23:55+00:00",
+ "generated_at": "2026-11-22T07:26:45+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -61,7 +61,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44954263965"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/44973806307"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44941509508"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/44971520793"
        ],
        6,
        0,
@@ -81,23 +81,23 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/44969977351"
        ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44950993133"
-       ],
        3,
        0,
        "bình thường"
       ],
       [
        [
+        "vn-stock-price-emailer",
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/44971567858"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44949330852"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/44971754005"
        ],
        3,
        0,
@@ -106,16 +106,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44951041450"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/44971603697"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44964845479"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/44997357768"
        ],
        4,
        0,
@@ -130,10 +130,10 @@
     "reddit-top-post-emailer: Deploy Pages lỗi lúc 15:08 21/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/6 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/4 lỗi)",
     "apps-gone-free-emailer: bình thường (0/4 lỗi)"
    ]
   },
@@ -753,7 +753,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-22 04:20",
+   "as_of": "2026-11-22 08:28",
    "blocks": [
     {
      "type": "tiles",
@@ -761,8 +761,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25729.72,
-       "change_pct": 0.0,
+       "value": 25783.12,
+       "change_pct": 0.21,
        "period": "24h",
        "points": [
         [
@@ -939,14 +939,14 @@
         ],
         [
          "2026-11-22",
-         25729.72
+         25783.12
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28251.17,
-       "change_pct": 0.0,
+       "value": 28294.05,
+       "change_pct": 0.15,
        "period": "24h",
        "points": [
         [
@@ -1123,14 +1123,14 @@
         ],
         [
          "2026-11-22",
-         28251.17
+         28294.05
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 161.06,
-       "change_pct": 0.0,
+       "value": 162.42,
+       "change_pct": 0.84,
        "period": "24h",
        "points": [
         [
@@ -1307,14 +1307,14 @@
         ],
         [
          "2026-11-22",
-         161.06
+         162.42
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3844.86,
-       "change_pct": 0.0,
+       "value": 3852.05,
+       "change_pct": 0.19,
        "period": "24h",
        "points": [
         [
@@ -1491,14 +1491,14 @@
         ],
         [
          "2026-11-22",
-         3844.86
+         3852.05
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.33,
-       "change_pct": 0.0,
+       "value": 19.19,
+       "change_pct": -0.71,
        "period": "24h",
        "points": [
         [
@@ -1675,14 +1675,14 @@
         ],
         [
          "2026-11-22",
-         19.33
+         19.19
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 33749.56,
-       "change_pct": 0.0,
+       "value": 33765.18,
+       "change_pct": 0.05,
        "period": "24h",
        "points": [
         [
@@ -1859,14 +1859,14 @@
         ],
         [
          "2026-11-22",
-         33749.56
+         33765.18
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 19932.46,
-       "change_pct": 0.0,
+       "value": 19993.46,
+       "change_pct": 0.31,
        "period": "24h",
        "points": [
         [
@@ -2043,14 +2043,14 @@
         ],
         [
          "2026-11-22",
-         19932.46
+         19993.46
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17167.87,
-       "change_pct": 0.0,
+       "value": 17108.51,
+       "change_pct": -0.35,
        "period": "24h",
        "points": [
         [
@@ -2227,7 +2227,7 @@
         ],
         [
          "2026-11-22",
-         17167.87
+         17108.51
         ]
        ]
       }
@@ -2235,14 +2235,14 @@
     }
    ],
    "text": [
-    "USD: 25,729.72 (+0.0%)",
-    "EUR: 28,251.17 (+0.0%)",
-    "JPY: 161.06 (+0.0%)",
-    "CNY: 3,844.86 (+0.0%)",
-    "KRW: 19.33 (+0.0%)",
-    "GBP: 33,749.56 (+0.0%)",
-    "SGD: 19,932.46 (+0.0%)",
-    "AUD: 17,167.87 (+0.0%)"
+    "USD: 25,783.12 (+0.21%)",
+    "EUR: 28,294.05 (+0.15%)",
+    "JPY: 162.42 (+0.84%)",
+    "CNY: 3,852.05 (+0.19%)",
+    "KRW: 19.19 (-0.71%)",
+    "GBP: 33,765.18 (+0.05%)",
+    "SGD: 19,993.46 (+0.31%)",
+    "AUD: 17,108.51 (-0.35%)"
    ]
   },
   {
@@ -2753,6 +2753,22 @@
       ],
       [
        [
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+       ],
+       "48.399.000",
+       27.4
+      ],
+      [
+       [
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
+       ],
+       "14.999.000",
+       25.0
+      ],
+      [
+       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2766,22 +2782,6 @@
        ],
        "2.398.000",
        20.0
-      ],
-      [
-       [
-        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
-       ],
-       "6.999.000",
-       16.7
-      ],
-      [
-       [
-        "Mainboard ASUS TUF GAMING X870-PLUS WIFI",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-x870-plus-wifi"
-       ],
-       "9.774.000",
-       13.7
       ]
      ]
     }
@@ -2794,10 +2794,10 @@
     "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
     "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.850.000 (-2.6%)",
     "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 48.399.000 (+27.4%)",
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
-    "Mainboard ASUS TUF GAMING X870-PLUS WIFI: 9.774.000 (+13.7%)"
+    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)"
    ]
   },
   {
