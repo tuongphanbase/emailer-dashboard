@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:47:52+00:00",
+ "generated_at": "2026-11-23T01:47:56+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "2 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,15 @@
      "rows": [
       [
        [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45064269984"
+       ],
+       4,
+       1,
+       "Deploy Pages lỗi lúc 03:03 23/11"
+      ],
+      [
+       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45000263774"
        ],
@@ -43,7 +52,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45048450623"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45078892199"
        ],
        4,
        0,
@@ -52,7 +61,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45018653486"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45063174413"
        ],
        4,
        0,
@@ -61,7 +70,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45060767489"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45095087413"
        ],
        3,
        0,
@@ -69,53 +78,44 @@
       ],
       [
        [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/44998415064"
-       ],
-       4,
-       0,
-       "bình thường"
-      ],
-      [
-       [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45044491140"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45076554089"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45050970422"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45083463375"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45045712526"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45076576545"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45038797739"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45072537281"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45029080916"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45080414146"
        ],
        6,
        0,
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 03:03 23/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/4 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/4 lỗi)",
-    "interest-rate-emailer: bình thường (0/4 lỗi)",
-    "currency-rate-emailer: bình thường (0/4 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/4 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/6 lỗi)"
    ]
   },
@@ -765,7 +765,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-22 23:46",
+   "as_of": "2026-11-23 05:14",
    "blocks": [
     {
      "type": "tiles",
@@ -952,6 +952,10 @@
         [
          "2026-11-22",
          25783.12
+        ],
+        [
+         "2026-11-23",
+         25783.12
         ]
        ]
       },
@@ -1135,6 +1139,10 @@
         ],
         [
          "2026-11-22",
+         28294.05
+        ],
+        [
+         "2026-11-23",
          28294.05
         ]
        ]
@@ -1320,6 +1328,10 @@
         [
          "2026-11-22",
          162.42
+        ],
+        [
+         "2026-11-23",
+         162.42
         ]
        ]
       },
@@ -1503,6 +1515,10 @@
         ],
         [
          "2026-11-22",
+         3852.05
+        ],
+        [
+         "2026-11-23",
          3852.05
         ]
        ]
@@ -1688,6 +1704,10 @@
         [
          "2026-11-22",
          19.19
+        ],
+        [
+         "2026-11-23",
+         19.19
         ]
        ]
       },
@@ -1871,6 +1891,10 @@
         ],
         [
          "2026-11-22",
+         33765.18
+        ],
+        [
+         "2026-11-23",
          33765.18
         ]
        ]
@@ -2056,6 +2080,10 @@
         [
          "2026-11-22",
          19993.46
+        ],
+        [
+         "2026-11-23",
+         19993.46
         ]
        ]
       },
@@ -2239,6 +2267,10 @@
         ],
         [
          "2026-11-22",
+         17108.51
+        ],
+        [
+         "2026-11-23",
          17108.51
         ]
        ]
@@ -2617,35 +2649,35 @@
       ],
       [
        [
-        "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS",
-        "https://memoryzone.com.vn/nguon-may-tinh-gigabyte-gp-p750bs-750w-80-plus-bronze-gp-p750bs"
+        "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-14-m1407ga-ly270w.html"
        ],
-       "1.200.000",
-       -4.0
+       "21.690.000",
+       -9.2
       ],
       [
        [
-        "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX",
-        "https://memoryzone.com.vn/ssd-biwin-m100-1tb-2-5-inch-sata-iii-bm100nn01tb-rgx"
+        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
+        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
        ],
-       "2.650.000",
-       -3.6
-      ],
-      [
-       [
-        "ASUS ExpertBook P3 PM3406CHA-LY0089W",
-        "https://thinkpro.vn/laptop/asus-expertbook-p3-pm3406cha-ly0089w"
-       ],
-       "24.990.000",
-       -2.7
+       "2.450.000",
+       -7.5
       ],
       [
        [
         "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY)",
         "https://memoryzone.com.vn/ssd-huadisk-512gb-m-2-pcie-gen3-x4-nvme-hyv512x3-hxy"
        ],
-       "1.850.000",
-       -2.6
+       "1.799.000",
+       -5.3
+      ],
+      [
+       [
+        "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX",
+        "https://memoryzone.com.vn/ssd-biwin-black-opal-nv3500-512gb-pcie-gen3-x4-nvme-m-2-bnv3500512g-rgx"
+       ],
+       "2.150.000",
+       -4.4
       ]
      ]
     },
@@ -2669,14 +2701,6 @@
      "rows": [
       [
        [
-        "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc)",
-        "https://www.anphatpc.com.vn/laptop-asus-vivobook-go-14-e1404fa-eb935w.html"
-       ],
-       "25.490.000",
-       32.8
-      ],
-      [
-       [
         "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
         "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
        ],
@@ -2693,19 +2717,27 @@
       ],
       [
        [
-        "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-8gb-ddr5-bus-5600-kvr56s46bs6-8.html"
-       ],
-       "6.999.000",
-       16.7
-      ],
-      [
-       [
         "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB",
         "https://gearvn.com/products/card-man-hinh-msi-geforce-rtx-5060-ventus-2x-oc-v1-8gb"
        ],
        "16.990.000",
        13.3
+      ],
+      [
+       [
+        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
+        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
+       ],
+       "10.600.000",
+       10.4
+      ],
+      [
+       [
+        "Laptop Lenovo ThinkPad E16 Gen 3 21SR00A6VA (Ultra 5 135H, Intel Arc Graphics, RAM 16GB DDR5, SSD 512GB, 16 Inch IPS WUXGA 60Hz, NoOS)",
+        "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e16-gen-3-21sr00a6va"
+       ],
+       "31.500.000",
+       5.4
       ]
      ]
     }
@@ -2713,15 +2745,15 @@
    "empty_text": null,
    "text": [
     "Laptop MSI Modern 14S AI+ G3MG-050VN (Ultra 7 355, Intel Graphics, RAM 16GB DDR5, SSD 1TB, 14 Inch OLED FHD+ 60Hz 100% DCI-P3, Win 11 Home): 30.990.000 (-11.2%)",
-    "Nguồn máy tính Gigabyte GP-P750BS 750W 80 Plus Bronze GP-P750BS: 1.200.000 (-4.0%)",
-    "SSD Biwin M100 1TB 2.5-Inch SATA III BM100NN01TB-RGX: 2.650.000 (-3.6%)",
-    "ASUS ExpertBook P3 PM3406CHA-LY0089W: 24.990.000 (-2.7%)",
-    "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.850.000 (-2.6%)",
-    "Laptop ASUS Vivobook Go 14 E1404FA-EB935W (AMD Mendocino R5 | AMD Radeon Graphics | 14.0-inch FHD | 16GB | 512GB | Windows 11 | Bạc): 25.490.000 (+32.8%)",
+    "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 21.690.000 (-9.2%)",
+    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.450.000 (-7.5%)",
+    "SSD HUADISK 512GB M.2 PCIe Gen3 x4 NVMe HYV512X3(HXY): 1.799.000 (-5.3%)",
+    "SSD Biwin Black Opal NV3500 512GB PCIe Gen3 x4 NVMe M.2 BNV3500512G-RGX: 2.150.000 (-4.4%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
     "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Ram laptop Kingston 8GB DDR5 bus 5600 (KVR56S46BS6-8): 6.999.000 (+16.7%)",
-    "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB: 16.990.000 (+13.3%)"
+    "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB: 16.990.000 (+13.3%)",
+    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 10.600.000 (+10.4%)",
+    "Laptop Lenovo ThinkPad E16 Gen 3 21SR00A6VA (Ultra 5 135H, Intel Arc Graphics, RAM 16GB DDR5, SSD 512GB, 16 Inch IPS WUXGA 60Hz, NoOS): 31.500.000 (+5.4%)"
    ]
   },
   {
@@ -2729,7 +2761,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-22 07:34",
+   "as_of": "2026-11-22 20:03",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2765,7 +2797,7 @@
        ],
        24990000,
        "MediaMart",
-       6,
+       5,
        0.0
       ],
       [
@@ -2774,36 +2806,6 @@
         "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-256gb-p11584"
        ],
        31990000,
-       "24hStore",
-       5,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 18 Pro Max 256GB",
-        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
-       ],
-       39490000,
-       "24hStore",
-       5,
-       -1.25
-      ],
-      [
-       [
-        "Apple iPhone 15 128GB",
-        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
-       ],
-       19490000,
-       "24hStore",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro 256GB",
-        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-256gb-p11588"
-       ],
-       29990000,
        "24hStore",
        4,
        0.0
@@ -2814,6 +2816,16 @@
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
        36990000,
+       "24hStore",
+       4,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro Max 256GB",
+        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-256gb-p12566"
+       ],
+       39490000,
        "24hStore",
        4,
        0.0
@@ -2840,13 +2852,13 @@
       ],
       [
        [
-        "Xiaomi Redmi Note 17 128GB",
-        "https://24hstore.vn/redmi-note-series/xiaomi-redmi-note-17-4gb-128gb-p12582"
+        "Apple iPhone 15 128GB",
+        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
        ],
-       4490000,
+       19490000,
        "24hStore",
-       4,
-       -1.32
+       3,
+       0.0
       ],
       [
        [
@@ -2857,6 +2869,26 @@
        "24hStore",
        3,
        0.0
+      ],
+      [
+       [
+        "Apple iPhone 17 Pro 256GB",
+        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-256gb-p11588"
+       ],
+       29990000,
+       "24hStore",
+       3,
+       0.0
+      ],
+      [
+       [
+        "Apple iPhone 18 Pro 1TB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
+       ],
+       55990000,
+       "24hStore",
+       3,
+       0.0
       ]
      ]
     }
@@ -2864,14 +2896,14 @@
    "text": [
     "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
     "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
-    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
+    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
     "Samsung Galaxy A27 128GB: 6,490,000 (24hStore)",
-    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)",
-    "Apple iPhone 16 128GB: 21,490,000 (24hStore)"
+    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
+    "Apple iPhone 16 128GB: 21,490,000 (24hStore)",
+    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
+    "Apple iPhone 18 Pro 1TB: 55,990,000 (24hStore)"
    ]
   }
  ]
