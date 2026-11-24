@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:16:44+00:00",
+ "generated_at": "2026-11-24T10:25:02+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,27 +34,27 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45141451274"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions"
        ],
-       2,
        0,
-       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
+       0,
+       "không chạy lần nào"
       ],
       [
        [
         "gold-price-emailer",
         "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45302600349"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45182620392"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45312141539"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
@@ -72,14 +72,14 @@
         "phone-tablet-price-emailer",
         "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45296761357"
        ],
-       4,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45285511140"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45344573639"
        ],
        3,
        0,
@@ -90,14 +90,14 @@
         "interest-rate-emailer",
         "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45307963378"
        ],
-       3,
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45285542614"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45344551217"
        ],
        3,
        0,
@@ -106,16 +106,16 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45280632753"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45342570813"
        ],
-       2,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45220040962"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45320533565"
        ],
        4,
        0,
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/3 lỗi)",
-    "tech-price-mailer: bình thường (0/2 lỗi)",
+    "reddit-top-post-emailer: không chạy lần nào (0/0 lỗi)",
+    "gold-price-emailer: bình thường (0/2 lỗi)",
+    "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
-    "interest-rate-emailer: bình thường (0/3 lỗi)",
+    "interest-rate-emailer: bình thường (0/2 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/2 lỗi)",
+    "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/4 lỗi)"
    ]
   },
@@ -777,7 +777,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-24 06:04",
+   "as_of": "2026-11-24 13:59",
    "blocks": [
     {
      "type": "tiles",
@@ -785,8 +785,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25779.21,
-       "change_pct": -0.02,
+       "value": 25800.61,
+       "change_pct": 0.08,
        "period": "24h",
        "points": [
         [
@@ -971,14 +971,14 @@
         ],
         [
          "2026-11-24",
-         25779.21
+         25800.61
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28293.54,
-       "change_pct": -0.0,
+       "value": 28177.65,
+       "change_pct": -0.41,
        "period": "24h",
        "points": [
         [
@@ -1163,14 +1163,14 @@
         ],
         [
          "2026-11-24",
-         28293.54
+         28177.65
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 162.44,
-       "change_pct": 0.01,
+       "value": 162.21,
+       "change_pct": -0.14,
        "period": "24h",
        "points": [
         [
@@ -1355,14 +1355,14 @@
         ],
         [
          "2026-11-24",
-         162.44
+         162.21
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3858.39,
-       "change_pct": 0.16,
+       "value": 3862.77,
+       "change_pct": 0.11,
        "period": "24h",
        "points": [
         [
@@ -1547,14 +1547,14 @@
         ],
         [
          "2026-11-24",
-         3858.39
+         3862.77
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.19,
-       "change_pct": -0.04,
+       "value": 19.2,
+       "change_pct": 0.09,
        "period": "24h",
        "points": [
         [
@@ -1739,14 +1739,14 @@
         ],
         [
          "2026-11-24",
-         19.19
+         19.2
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 33761.11,
-       "change_pct": -0.01,
+       "value": 33652.74,
+       "change_pct": -0.32,
        "period": "24h",
        "points": [
         [
@@ -1931,14 +1931,14 @@
         ],
         [
          "2026-11-24",
-         33761.11
+         33652.74
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 19998.13,
-       "change_pct": 0.02,
+       "value": 19981.9,
+       "change_pct": -0.08,
        "period": "24h",
        "points": [
         [
@@ -2123,14 +2123,14 @@
         ],
         [
          "2026-11-24",
-         19998.13
+         19981.9
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17106.16,
-       "change_pct": -0.01,
+       "value": 17098.76,
+       "change_pct": -0.04,
        "period": "24h",
        "points": [
         [
@@ -2315,7 +2315,7 @@
         ],
         [
          "2026-11-24",
-         17106.16
+         17098.76
         ]
        ]
       }
@@ -2323,14 +2323,14 @@
     }
    ],
    "text": [
-    "USD: 25,779.21 (-0.02%)",
-    "EUR: 28,293.54 (-0.0%)",
-    "JPY: 162.44 (+0.01%)",
-    "CNY: 3,858.39 (+0.16%)",
-    "KRW: 19.19 (-0.04%)",
-    "GBP: 33,761.11 (-0.01%)",
-    "SGD: 19,998.13 (+0.02%)",
-    "AUD: 17,106.16 (-0.01%)"
+    "USD: 25,800.61 (+0.08%)",
+    "EUR: 28,177.65 (-0.41%)",
+    "JPY: 162.21 (-0.14%)",
+    "CNY: 3,862.77 (+0.11%)",
+    "KRW: 19.2 (+0.09%)",
+    "GBP: 33,652.74 (-0.32%)",
+    "SGD: 19,981.9 (-0.08%)",
+    "AUD: 17,098.76 (-0.04%)"
    ]
   },
   {
@@ -2688,6 +2688,14 @@
      "rows": [
       [
        [
+        "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w.html"
+       ],
+       "26.590.000",
+       -29.1
+      ],
+      [
+       [
         "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám)",
         "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-f16-fx608jhi-tu210w.html"
        ],
@@ -2717,14 +2725,6 @@
        ],
        "30.990.000",
        -11.2
-      ],
-      [
-       [
-        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
-        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
-       ],
-       "2.450.000",
-       -7.5
       ]
      ]
     },
@@ -2791,11 +2791,11 @@
    ],
    "empty_text": null,
    "text": [
+    "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 26.590.000 (-29.1%)",
     "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám): 38.990.000 (-18.8%)",
     "Ram Laptop Kingmax DDR4 16GB 3200Mhz: 3.990.000 (-14.9%)",
     "Laptop Asus Vivobook 14 M1407GA-LY270W (AMD Ryzen AI 7 445 | AMD Radeon Graphics | 14.0-inch WUXGA | 16GB | 512GB | Windows 11 | Bạc): 20.999.000 (-12.1%)",
     "Laptop MSI Modern 14S AI+ G3MG-050VN (Ultra 7 355, Intel Graphics, RAM 16GB DDR5, SSD 1TB, 14 Inch OLED FHD+ 60Hz 100% DCI-P3, Win 11 Home): 30.990.000 (-11.2%)",
-    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.450.000 (-7.5%)",
     "SSD Samsung PM991A 512GB PCIe Gen 3 x4 NVME M2 2230: 4.500.000 (+166.3%)",
     "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 48.399.000 (+27.4%)",
     "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 14.999.000 (+25.0%)",
