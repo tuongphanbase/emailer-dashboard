@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:52:36+00:00",
+ "generated_at": "2026-11-24T23:55:58+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "1 bot cần xem lại · 24 giờ qua",
+   "note": "3 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,6 +33,24 @@
      "rows": [
       [
        [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45504899475"
+       ],
+       6,
+       1,
+       "Deploy Pages lỗi lúc 05:52 25/11"
+      ],
+      [
+       [
+        "9gag-meme-emailer",
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45441167465"
+       ],
+       4,
+       1,
+       "Deploy Pages lỗi lúc 23:47 24/11"
+      ],
+      [
+       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45377939042"
        ],
@@ -43,25 +61,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45383066232"
-       ],
-       2,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45312141539"
-       ],
-       2,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45404140566"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45491032625"
        ],
        3,
        0,
@@ -69,8 +69,17 @@
       ],
       [
        [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45374855735"
+        "tech-price-mailer",
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45409181134"
+       ],
+       4,
+       0,
+       "bình thường"
+      ],
+      [
+       [
+        "house-price-emailer",
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45513230564"
        ],
        4,
        0,
@@ -79,7 +88,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45344573639"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45462639362"
        ],
        2,
        0,
@@ -88,7 +97,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45392038695"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45503367212"
        ],
        3,
        0,
@@ -97,7 +106,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45344551217"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45462547375"
        ],
        2,
        0,
@@ -106,18 +115,9 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45342570813"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45461440463"
        ],
        2,
-       0,
-       "bình thường"
-      ],
-      [
-       [
-        "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45320533565"
-       ],
-       4,
        0,
        "bình thường"
       ]
@@ -125,16 +125,16 @@
     }
    ],
    "text": [
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 05:52 25/11 (1/6 lỗi)",
+    "9gag-meme-emailer: Deploy Pages lỗi lúc 23:47 24/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
-    "gold-price-emailer: bình thường (0/2 lỗi)",
-    "tech-price-mailer: bình thường (0/2 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
+    "gold-price-emailer: bình thường (0/3 lỗi)",
+    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/2 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/2 lỗi)",
-    "apps-gone-free-emailer: bình thường (0/2 lỗi)",
-    "9gag-meme-emailer: bình thường (0/4 lỗi)"
+    "apps-gone-free-emailer: bình thường (0/2 lỗi)"
    ]
   },
   {
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-24",
+   "as_of": "2026-11-25",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -339,6 +339,10 @@
         [
          "2026-11-24",
          135000000
+        ],
+        [
+         "2026-11-25",
+         135000000
         ]
        ]
       },
@@ -531,6 +535,10 @@
         ],
         [
          "2026-11-24",
+         135000000
+        ],
+        [
+         "2026-11-25",
          135000000
         ]
        ]
@@ -725,6 +733,10 @@
         [
          "2026-11-24",
          135000000
+        ],
+        [
+         "2026-11-25",
+         135000000
         ]
        ]
       }
@@ -777,7 +789,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-24 13:59",
+   "as_of": "2026-11-25 01:43",
    "blocks": [
     {
      "type": "tiles",
@@ -972,6 +984,10 @@
         [
          "2026-11-24",
          25800.61
+        ],
+        [
+         "2026-11-25",
+         25800.61
         ]
        ]
       },
@@ -1163,6 +1179,10 @@
         ],
         [
          "2026-11-24",
+         28177.65
+        ],
+        [
+         "2026-11-25",
          28177.65
         ]
        ]
@@ -1356,6 +1376,10 @@
         [
          "2026-11-24",
          162.21
+        ],
+        [
+         "2026-11-25",
+         162.21
         ]
        ]
       },
@@ -1547,6 +1571,10 @@
         ],
         [
          "2026-11-24",
+         3862.77
+        ],
+        [
+         "2026-11-25",
          3862.77
         ]
        ]
@@ -1740,6 +1768,10 @@
         [
          "2026-11-24",
          19.2
+        ],
+        [
+         "2026-11-25",
+         19.2
         ]
        ]
       },
@@ -1931,6 +1963,10 @@
         ],
         [
          "2026-11-24",
+         33652.74
+        ],
+        [
+         "2026-11-25",
          33652.74
         ]
        ]
@@ -2124,6 +2160,10 @@
         [
          "2026-11-24",
          19981.9
+        ],
+        [
+         "2026-11-25",
+         19981.9
         ]
        ]
       },
@@ -2315,6 +2355,10 @@
         ],
         [
          "2026-11-24",
+         17098.76
+        ],
+        [
+         "2026-11-25",
          17098.76
         ]
        ]
@@ -2614,11 +2658,6 @@
        "BIDV",
        5.4,
        5.4
-      ],
-      [
-       "VietinBank",
-       5.4,
-       5.4
       ]
      ]
     },
@@ -2663,8 +2702,7 @@
     "Sacombank: 6.5%",
     "Techcombank: 6.25%",
     "Vietcombank: 5.4%",
-    "BIDV: 5.4%",
-    "VietinBank: 5.4%"
+    "BIDV: 5.4%"
    ]
   },
   {
@@ -2814,7 +2852,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-24 10:32",
+   "as_of": "2026-11-24 22:52",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
