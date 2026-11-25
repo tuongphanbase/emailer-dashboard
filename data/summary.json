@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:45:25+00:00",
+ "generated_at": "2026-11-25T09:08:13+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -70,9 +70,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45514282142"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45580392819"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ],
@@ -129,7 +129,7 @@
     "9gag-meme-emailer: Deploy Pages lỗi lúc 23:47 24/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
-    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "vn-stock-price-emailer: bình thường (0/2 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
@@ -2760,19 +2760,19 @@
       ],
       [
        [
-        "Màn hình ASUS VU249CFE-B (23.8 inch/FHD/IPS/100Hz/1ms/USB-C)",
-        "https://hacom.vn/man-hinh-asus-vu249cfe-b"
-       ],
-       "2.190.000",
-       -26.8
-      ],
-      [
-       [
         "Mainboard ASUS TUF GAMING B760M-PLUS D4",
         "https://hacom.vn/mainboard-asus-tuf-gaming-b760m-plus-d4"
        ],
        "3.159.000",
        -21.0
+      ],
+      [
+       [
+        "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám)",
+        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-f16-fx608jhi-tu210w.html"
+       ],
+       "38.990.000",
+       -18.8
       ]
      ]
     },
@@ -2842,8 +2842,8 @@
     "Nguồn máy tính AIGO GB650 - 650W (80 Plus Bronze/Màu Đen): 839.000 (-47.5%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 26.590.000 (-29.1%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4: 3.499.000 (-27.1%)",
-    "Màn hình ASUS VU249CFE-B (23.8 inch/FHD/IPS/100Hz/1ms/USB-C): 2.190.000 (-26.8%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS D4: 3.159.000 (-21.0%)",
+    "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám): 38.990.000 (-18.8%)",
     "SSD Samsung PM991A 512GB PCIe Gen 3 x4 NVME M2 2230: 4.500.000 (+166.3%)",
     "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
     "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
