@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:22:27+00:00",
+ "generated_at": "2026-11-26T03:37:56+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,11 +34,11 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45584077417"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45710080691"
        ],
        4,
        2,
-       "Deploy Pages lỗi lúc 16:18 25/11"
+       "Deploy Pages lỗi lúc 05:04 26/11"
       ],
       [
        [
@@ -61,7 +61,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45637718747"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45721373104"
        ],
        3,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45580392819"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45685381907"
        ],
        4,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45681911692"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45749132530"
        ],
        3,
        0,
@@ -88,16 +88,16 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45608552121"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45747959813"
        ],
-       2,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45649932456"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45726824155"
        ],
        3,
        0,
@@ -106,16 +106,16 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45608623368"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45747958731"
        ],
-       2,
+       3,
        0,
        "bình thường"
       ],
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45610577714"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45708596208"
        ],
        2,
        0,
@@ -125,15 +125,15 @@
     }
    ],
    "text": [
-    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 16:18 25/11 (2/4 lỗi)",
+    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 05:04 26/11 (2/4 lỗi)",
     "9gag-meme-emailer: Deploy Pages lỗi lúc 23:33 25/11 (1/4 lỗi)",
     "reddit-top-post-emailer: Deploy Pages lỗi lúc 16:42 25/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
-    "vn-stock-price-emailer: bình thường (0/2 lỗi)",
+    "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
-    "currency-rate-emailer: bình thường (0/2 lỗi)",
+    "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/2 lỗi)"
    ]
   },
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-25",
+   "as_of": "2026-11-26",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -343,6 +343,10 @@
         [
          "2026-11-25",
          134100000
+        ],
+        [
+         "2026-11-26",
+         134100000
         ]
        ]
       },
@@ -539,6 +543,10 @@
         ],
         [
          "2026-11-25",
+         134100000
+        ],
+        [
+         "2026-11-26",
          134100000
         ]
        ]
@@ -737,6 +745,10 @@
         [
          "2026-11-25",
          134100000
+        ],
+        [
+         "2026-11-26",
+         134100000
         ]
        ]
       }
@@ -763,17 +775,17 @@
       [
        "SJC",
        134100000,
-       -0.67
+       0.0
       ],
       [
        "PNJ",
        134100000,
-       -0.67
+       0.0
       ],
       [
        "DOJI",
        134100000,
-       -0.67
+       0.0
       ]
      ]
     }
@@ -789,7 +801,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-25 18:53",
+   "as_of": "2026-11-26 10:17",
    "blocks": [
     {
      "type": "tiles",
@@ -798,7 +810,7 @@
       {
        "label": "USD",
        "value": 25765.94,
-       "change_pct": -0.13,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -988,13 +1000,17 @@
         [
          "2026-11-25",
          25765.94
+        ],
+        [
+         "2026-11-26",
+         25765.94
         ]
        ]
       },
       {
        "label": "EUR",
        "value": 28238.19,
-       "change_pct": 0.21,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1184,13 +1200,17 @@
         [
          "2026-11-25",
          28238.19
+        ],
+        [
+         "2026-11-26",
+         28238.19
         ]
        ]
       },
       {
        "label": "JPY",
        "value": 161.81,
-       "change_pct": -0.25,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1380,13 +1400,17 @@
         [
          "2026-11-25",
          161.81
+        ],
+        [
+         "2026-11-26",
+         161.81
         ]
        ]
       },
       {
        "label": "CNY",
        "value": 3858.23,
-       "change_pct": -0.12,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1576,13 +1600,17 @@
         [
          "2026-11-25",
          3858.23
+        ],
+        [
+         "2026-11-26",
+         3858.23
         ]
        ]
       },
       {
        "label": "KRW",
        "value": 19.18,
-       "change_pct": -0.1,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1772,13 +1800,17 @@
         [
          "2026-11-25",
          19.18
+        ],
+        [
+         "2026-11-26",
+         19.18
         ]
        ]
       },
       {
        "label": "GBP",
        "value": 33757.35,
-       "change_pct": 0.31,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -1968,13 +2000,17 @@
         [
          "2026-11-25",
          33757.35
+        ],
+        [
+         "2026-11-26",
+         33757.35
         ]
        ]
       },
       {
        "label": "SGD",
        "value": 19974.68,
-       "change_pct": -0.04,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -2164,13 +2200,17 @@
         [
          "2026-11-25",
          19974.68
+        ],
+        [
+         "2026-11-26",
+         19974.68
         ]
        ]
       },
       {
        "label": "AUD",
        "value": 17094.5,
-       "change_pct": -0.02,
+       "change_pct": 0.0,
        "period": "24h",
        "points": [
         [
@@ -2360,6 +2400,10 @@
         [
          "2026-11-25",
          17094.5
+        ],
+        [
+         "2026-11-26",
+         17094.5
         ]
        ]
       }
@@ -2367,14 +2411,14 @@
     }
    ],
    "text": [
-    "USD: 25,765.94 (-0.13%)",
-    "EUR: 28,238.19 (+0.21%)",
-    "JPY: 161.81 (-0.25%)",
-    "CNY: 3,858.23 (-0.12%)",
-    "KRW: 19.18 (-0.1%)",
-    "GBP: 33,757.35 (+0.31%)",
-    "SGD: 19,974.68 (-0.04%)",
-    "AUD: 17,094.5 (-0.02%)"
+    "USD: 25,765.94 (+0.0%)",
+    "EUR: 28,238.19 (+0.0%)",
+    "JPY: 161.81 (+0.0%)",
+    "CNY: 3,858.23 (+0.0%)",
+    "KRW: 19.18 (+0.0%)",
+    "GBP: 33,757.35 (+0.0%)",
+    "SGD: 19,974.68 (+0.0%)",
+    "AUD: 17,094.5 (+0.0%)"
    ]
   },
   {
@@ -2382,7 +2426,7 @@
    "title": "Chứng khoán",
    "icon": "📈",
    "ok": true,
-   "as_of": "2026-11-25 18:53",
+   "as_of": "2026-10-26 20:44",
    "blocks": [
     {
      "type": "tiles",
@@ -2473,90 +2517,14 @@
        ]
       },
       {
-       "label": "VIC",
-       "value": 245400.0,
-       "change_pct": -0.12,
+       "label": "SCR",
+       "value": 4040.0,
+       "change_pct": null,
        "period": "24h",
        "points": [
         [
          "2026-10-26",
-         237000.0
-        ],
-        [
-         "2026-10-27",
-         240200.0
-        ],
-        [
-         "2026-10-28",
-         241000.0
-        ],
-        [
-         "2026-10-29",
-         241000.0
-        ],
-        [
-         "2026-10-30",
-         241000.0
-        ],
-        [
-         "2026-11-02",
-         242000.0
-        ],
-        [
-         "2026-11-03",
-         234000.0
-        ],
-        [
-         "2026-11-04",
-         234000.0
-        ],
-        [
-         "2026-11-05",
-         238000.0
-        ],
-        [
-         "2026-11-06",
-         234500.0
-        ],
-        [
-         "2026-11-09",
-         230200.0
-        ],
-        [
-         "2026-11-10",
-         242000.0
-        ],
-        [
-         "2026-11-11",
-         245200.0
-        ],
-        [
-         "2026-11-12",
-         243000.0
-        ],
-        [
-         "2026-11-16",
-         248000.0
-        ],
-        [
-         "2026-11-18",
-         245000.0
-        ],
-        [
-         "2026-11-19",
-         240000.0
-        ],
-        [
-         "2026-11-20",
-         241900.0
-        ],
-        [
-         "2026-11-23",
-         245700.0
-        ],
-        [
-         "2026-11-25",
-         245400.0
+         4040.0
         ]
        ]
       }
@@ -2586,24 +2554,24 @@
        -14.97
       ],
       [
-       "VCR",
-       37600.0,
-       -14.55
+       "MSR",
+       56600.0,
+       11.2
       ],
       [
-       "MSR",
-       55400.0,
-       14.46
+       "DSP",
+       15100.0,
+       -11.18
       ],
       [
        "THD",
-       50400.0,
-       -9.84
+       45400.0,
+       -9.92
       ],
       [
-       "PRT",
-       8500.0,
-       -8.6
+       "HDC",
+       11550.0,
+       -9.77
       ]
      ]
     }
@@ -2616,8 +2584,9 @@
     "VFG: 41,800.0 (—)",
     "PLC: 21,400.0 (—)",
     "APH: 7,110.0 (—)",
-    "VIC: 245,400.0 (-0.12%)"
-   ]
+    "SCR: 4,040.0 (—)"
+   ],
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: MSH"
   },
   {
    "id": "interest",
@@ -2768,11 +2737,11 @@
       ],
       [
        [
-        "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám)",
-        "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-f16-fx608jhi-tu210w.html"
+        "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G)",
+        "https://www.anphatpc.com.vn/vga-asus-dual-rtx-5060-8gb-gddr7-oc-dual-rtx5060-o8g.html"
        ],
-       "38.990.000",
-       -18.8
+       "11.999.000",
+       -20.0
       ]
      ]
     },
@@ -2796,43 +2765,43 @@
      "rows": [
       [
        [
-        "SSD Samsung PM991A 512GB PCIe Gen 3 x4 NVME M2 2230",
-        "https://thinkpro.vn/o-cung/ssd-samsung-m2-nvme-pm991"
+        "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz",
+        "https://thinkpro.vn/ram/ram-laptop-sk-hynix-16gb-ddr4-2400mhz"
        ],
-       "4.500.000",
-       166.3
+       "4.690.000",
+       579.7
       ],
       [
        [
-        "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze)",
-        "https://hacom.vn/nguon-asus-prime-750b-white-750w-pwas0044"
+        "RAM Laptop Samsung DDR4 16GB Bus 3200MHz",
+        "https://thinkpro.vn/ram/ram-laptop-samsung-16gb-ddr4-3200mhz"
        ],
-       "2.398.000",
-       20.0
+       "5.990.000",
+       505.1
       ],
       [
        [
-        "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze)",
-        "https://hacom.vn/nguon-asus-prime-750b-black-80-plus-bronze"
+        "RAM Laptop Micron DDR4 16GB Bus 3200MHz",
+        "https://thinkpro.vn/ram/ram-laptop-micron-16gb-ddr4-3200mhz"
        ],
-       "2.398.000",
-       20.0
+       "5.990.000",
+       505.1
       ],
       [
        [
-        "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB",
-        "https://gearvn.com/products/card-man-hinh-msi-geforce-rtx-5060-ventus-2x-oc-v1-8gb"
+        "SSD Kioxia 512GB NVME M2 2280",
+        "https://thinkpro.vn/o-cung/o-cung-ssd-kioxia-512gb-m2-nvme-2280"
        ],
-       "16.990.000",
-       13.3
+       "6.990.000",
+       441.9
       ],
       [
        [
-        "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16)",
-        "https://www.anphatpc.com.vn/ram-laptop-kingston-16gb-ddr5-bus-5600-kvr56s46bs8-16.html"
+        "SSD WD 512GB NVME M2 2280",
+        "https://thinkpro.vn/o-cung/o-cung-ssd-wd-512gb-m2-nvme-2280"
        ],
-       "10.600.000",
-       10.4
+       "6.990.000",
+       441.9
       ]
      ]
     }
@@ -2843,12 +2812,12 @@
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 26.590.000 (-29.1%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4: 3.499.000 (-27.1%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS D4: 3.159.000 (-21.0%)",
-    "Laptop ASUS TUF Gaming F16 FX608JHI-TU210W (Intel Core i5-14450HX | RTX 5050 8GB | 16 inch FHD + 144Hz | 16GB | 512GB | Win 11 | Xám): 38.990.000 (-18.8%)",
-    "SSD Samsung PM991A 512GB PCIe Gen 3 x4 NVME M2 2230: 4.500.000 (+166.3%)",
-    "Nguồn Asus PRIME 750B WHITE - 750W (80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Nguồn Asus PRIME 750B BLACK ( 80 Plus Bronze): 2.398.000 (+20.0%)",
-    "Card màn hình MSI GeForce RTX 5060 Ventus 2X OC V1 8GB: 16.990.000 (+13.3%)",
-    "Ram laptop Kingston 16GB DDR5 bus 5600 (KVR56S46BS8-16): 10.600.000 (+10.4%)"
+    "VGA ASUS Dual RTX 5060 8GB GDDR7 OC (DUAL-RTX5060-O8G): 11.999.000 (-20.0%)",
+    "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz: 4.690.000 (+579.7%)",
+    "RAM Laptop Samsung DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
+    "RAM Laptop Micron DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
+    "SSD Kioxia 512GB NVME M2 2280: 6.990.000 (+441.9%)",
+    "SSD WD 512GB NVME M2 2280: 6.990.000 (+441.9%)"
    ]
   },
   {
@@ -2856,7 +2825,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-25 09:17",
+   "as_of": "2026-11-25 22:04",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2907,26 +2876,6 @@
       ],
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28207"
-       ],
-       24990000,
-       "MediaMart",
-       4,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 17 Pro Max 256GB",
-        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-256gb-p11584"
-       ],
-       31990000,
-       "24hStore",
-       4,
-       0.0
-      ],
-      [
-       [
         "Apple iPhone 18 Pro 2TB",
         "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
        ],
@@ -2947,43 +2896,63 @@
       ],
       [
        [
-        "Apple iPhone 15 128GB",
-        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
+        "Samsung Galaxy A08 64GB",
+        "https://hoanghamobile.com/dien-thoai/samsung-galaxy-a08"
        ],
-       19490000,
+       3790000,
+       "Hoàng Hà Mobile",
+       4,
+       -7.33
+      ],
+      [
+       [
+        "Samsung Galaxy Z Fold8 Ultra 256GB",
+        "https://24hstore.vn/galaxy-z8-series/samsung-galaxy-z-fold8-ultra-5g-12gb-256gb-p12536"
+       ],
+       44390000,
        "24hStore",
+       4,
+       -7.5
+      ],
+      [
+       [
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28207"
+       ],
+       24990000,
+       "MediaMart",
        3,
        0.0
       ],
       [
        [
-        "Apple iPhone 16 128GB",
-        "https://24hstore.vn/iphone-16/iphone-16-128gb-p10934"
+        "Apple iPhone 17 Pro 1TB",
+        "https://shopdunk.com/dien-thoai-iphone-17-pro-1tb"
        ],
-       21490000,
-       "24hStore",
+       42490000,
+       "ShopDunk",
        3,
        0.0
       ],
       [
        [
-        "Apple iPhone 17 Pro 256GB",
-        "https://24hstore.vn/iphone-17-pro/iphone-17-pro-256gb-p11588"
+        "Apple iPhone 17 Pro Max 1TB",
+        "https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586"
        ],
-       29990000,
+       45490000,
        "24hStore",
        3,
-       0.0
+       -3.19
       ],
       [
        [
-        "Apple iPhone 18 Pro 1TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564"
+        "Apple iPhone 17 Pro Max 256GB",
+        "https://mediamart.vn/smartphones#28216"
        ],
-       54490000,
-       "24hStore",
+       33190000,
+       "MediaMart",
        3,
-       -2.68
+       3.75
       ]
      ]
     }
@@ -2991,14 +2960,14 @@
    "text": [
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
     "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
     "Apple iPhone 18 Pro 2TB: 73,990,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
-    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
-    "Apple iPhone 16 128GB: 21,490,000 (24hStore)",
-    "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 1TB: 54,490,000 (24hStore)"
+    "Samsung Galaxy A08 64GB: 3,790,000 (Hoàng Hà Mobile)",
+    "Samsung Galaxy Z Fold8 Ultra 256GB: 44,390,000 (24hStore)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 17 Pro 1TB: 42,490,000 (ShopDunk)",
+    "Apple iPhone 17 Pro Max 1TB: 45,490,000 (24hStore)",
+    "Apple iPhone 17 Pro Max 256GB: 33,190,000 (MediaMart)"
    ]
   }
  ]
