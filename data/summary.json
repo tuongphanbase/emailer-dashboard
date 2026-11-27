@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:46:56+00:00",
+ "generated_at": "2026-11-27T09:03:58+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -7,7 +7,7 @@
    "title": "Tình trạng các bot",
    "icon": "🩺",
    "ok": true,
-   "note": "2 bot cần xem lại · 24 giờ qua",
+   "note": "1 bot cần xem lại · 24 giờ qua",
    "blocks": [
     {
      "type": "table",
@@ -33,15 +33,6 @@
      "rows": [
       [
        [
-        "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45788116946"
-       ],
-       4,
-       1,
-       "Deploy Pages lỗi lúc 16:01 26/11"
-      ],
-      [
-       [
         "reddit-top-post-emailer",
         "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45790626914"
        ],
@@ -52,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45915570916"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45969206702"
        ],
        3,
        0,
@@ -61,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45865014541"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45924789914"
        ],
        4,
        0,
@@ -72,14 +63,23 @@
         "house-price-emailer",
         "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45923833144"
        ],
-       4,
+       3,
+       0,
+       "bình thường"
+      ],
+      [
+       [
+        "phone-tablet-price-emailer",
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45901512746"
+       ],
+       2,
        0,
        "bình thường"
       ],
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45902427417"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45939493341"
        ],
        3,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45879664327"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45926323011"
        ],
        2,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45902413972"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45939483280"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45907010206"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45941817223"
        ],
        3,
        0,
@@ -125,11 +125,11 @@
     }
    ],
    "text": [
-    "phone-tablet-price-emailer: Deploy Pages lỗi lúc 16:01 26/11 (1/4 lỗi)",
     "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/2 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
@@ -350,7 +350,7 @@
         ],
         [
          "2026-11-27",
-         134500000
+         136000000
         ]
        ]
       },
@@ -555,7 +555,7 @@
         ],
         [
          "2026-11-27",
-         134500000
+         135500000
         ]
        ]
       },
@@ -760,7 +760,7 @@
         ],
         [
          "2026-11-27",
-         134500000
+         135500000
         ]
        ]
       }
@@ -786,26 +786,26 @@
      "rows": [
       [
        "SJC",
-       134500000,
-       0.0
+       136000000,
+       1.12
       ],
       [
        "PNJ",
-       134500000,
-       0.0
+       135500000,
+       0.74
       ],
       [
        "DOJI",
-       134500000,
-       0.0
+       135500000,
+       0.74
       ]
      ]
     }
    ],
    "text": [
-    "SJC: 134,500,000 VND",
-    "PNJ: 134,500,000 VND",
-    "DOJI: 134,500,000 VND"
+    "SJC: 136,000,000 VND",
+    "PNJ: 135,500,000 VND",
+    "DOJI: 135,500,000 VND"
    ]
   },
   {
@@ -813,7 +813,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-27 05:05",
+   "as_of": "2026-11-27 11:21",
    "blocks": [
     {
      "type": "tiles",
@@ -821,8 +821,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25816.63,
-       "change_pct": 0.2,
+       "value": 25812.62,
+       "change_pct": 0.18,
        "period": "24h",
        "points": [
         [
@@ -1019,14 +1019,14 @@
         ],
         [
          "2026-11-27",
-         25816.63
+         25812.62
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28304.6,
-       "change_pct": 0.24,
+       "value": 28324.65,
+       "change_pct": 0.31,
        "period": "24h",
        "points": [
         [
@@ -1223,14 +1223,14 @@
         ],
         [
          "2026-11-27",
-         28304.6
+         28324.65
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 162.19,
-       "change_pct": 0.24,
+       "value": 162.06,
+       "change_pct": 0.16,
        "period": "24h",
        "points": [
         [
@@ -1427,14 +1427,14 @@
         ],
         [
          "2026-11-27",
-         162.19
+         162.06
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3862.91,
-       "change_pct": 0.12,
+       "value": 3867.08,
+       "change_pct": 0.23,
        "period": "24h",
        "points": [
         [
@@ -1631,14 +1631,14 @@
         ],
         [
          "2026-11-27",
-         3862.91
+         3867.08
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.2,
-       "change_pct": 0.09,
+       "value": 19.21,
+       "change_pct": 0.12,
        "period": "24h",
        "points": [
         [
@@ -1835,14 +1835,14 @@
         ],
         [
          "2026-11-27",
-         19.2
+         19.21
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 33818.22,
-       "change_pct": 0.18,
+       "value": 33829.06,
+       "change_pct": 0.21,
        "period": "24h",
        "points": [
         [
@@ -2039,14 +2039,14 @@
         ],
         [
          "2026-11-27",
-         33818.22
+         33829.06
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 19999.09,
-       "change_pct": 0.12,
+       "value": 20006.85,
+       "change_pct": 0.16,
        "period": "24h",
        "points": [
         [
@@ -2243,14 +2243,14 @@
         ],
         [
          "2026-11-27",
-         19999.09
+         20006.85
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17060.11,
-       "change_pct": -0.2,
+       "value": 17122.48,
+       "change_pct": 0.16,
        "period": "24h",
        "points": [
         [
@@ -2447,7 +2447,7 @@
         ],
         [
          "2026-11-27",
-         17060.11
+         17122.48
         ]
        ]
       }
@@ -2455,14 +2455,14 @@
     }
    ],
    "text": [
-    "USD: 25,816.63 (+0.2%)",
-    "EUR: 28,304.6 (+0.24%)",
-    "JPY: 162.19 (+0.24%)",
-    "CNY: 3,862.91 (+0.12%)",
-    "KRW: 19.2 (+0.09%)",
-    "GBP: 33,818.22 (+0.18%)",
-    "SGD: 19,999.09 (+0.12%)",
-    "AUD: 17,060.11 (-0.2%)"
+    "USD: 25,812.62 (+0.18%)",
+    "EUR: 28,324.65 (+0.31%)",
+    "JPY: 162.06 (+0.16%)",
+    "CNY: 3,867.08 (+0.23%)",
+    "KRW: 19.21 (+0.12%)",
+    "GBP: 33,829.06 (+0.21%)",
+    "SGD: 20,006.85 (+0.16%)",
+    "AUD: 17,122.48 (+0.16%)"
    ]
   },
   {
@@ -2598,24 +2598,24 @@
        -14.97
       ],
       [
+       "PRT",
+       9700.0,
+       14.12
+      ],
+      [
+       "DSP",
+       17200.0,
+       13.91
+      ],
+      [
        "VCR",
        32400.0,
        -13.83
       ],
       [
-       "DSP",
-       15100.0,
-       -11.18
-      ],
-      [
        "VGR",
-       146300.0,
-       10.17
-      ],
-      [
-       "THD",
-       55400.0,
-       9.92
+       148500.0,
+       10.9
       ]
      ]
     }
@@ -2630,7 +2630,7 @@
     "APH: 7,110.0 (—)",
     "SCR: 4,040.0 (—)"
    ],
-   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: MSH"
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VPX, THD"
   },
   {
    "id": "interest",
@@ -2781,11 +2781,11 @@
       ],
       [
        [
-        "Mainboard ASUS TUF GAMING B760M-PLUS D4",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-b760m-plus-d4"
+        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
+        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
        ],
-       "3.159.000",
-       -21.0
+       "37.999.000",
+       -21.5
       ]
      ]
     },
@@ -2856,7 +2856,7 @@
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 25.990.000 (-30.7%)",
     "Laptop Asus ZenBook UX3405CA-ST1713W (U5 225H/16GB RAM D5X/512GB SSD/14 3K Oled 120Hz/Win11H/Túi/Xanh): 30.490.000 (-27.4%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4: 3.499.000 (-27.1%)",
-    "Mainboard ASUS TUF GAMING B760M-PLUS D4: 3.159.000 (-21.0%)",
+    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-21.5%)",
     "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz: 4.690.000 (+579.7%)",
     "RAM Laptop Samsung DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
     "RAM Laptop Micron DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
