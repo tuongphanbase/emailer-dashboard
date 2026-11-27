@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T09:03:58+00:00",
+ "generated_at": "2026-11-27T12:38:55+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -34,11 +34,11 @@
       [
        [
         "reddit-top-post-emailer",
-        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45790626914"
+        "https://github.com/tuongphanbase/reddit-top-post-emailer/actions/runs/45974691628"
        ],
        2,
-       0,
-       "bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)"
+       1,
+       "Deploy Pages lỗi lúc 16:33 27/11"
       ],
       [
        [
@@ -61,18 +61,18 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45923833144"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45994889467"
        ],
-       3,
+       4,
        0,
        "bình thường"
       ],
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45901512746"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45970964388"
        ],
-       2,
+       4,
        0,
        "bình thường"
       ],
@@ -88,9 +88,9 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45926323011"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45989267852"
        ],
-       2,
+       3,
        0,
        "bình thường"
       ],
@@ -125,13 +125,13 @@
     }
    ],
    "text": [
-    "reddit-top-post-emailer: bị Reddit chặn, không gửi được email (cần secret REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET) (0/2 lỗi)",
+    "reddit-top-post-emailer: Deploy Pages lỗi lúc 16:33 27/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/3 lỗi)",
-    "phone-tablet-price-emailer: bình thường (0/2 lỗi)",
+    "house-price-emailer: bình thường (0/4 lỗi)",
+    "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
-    "interest-rate-emailer: bình thường (0/2 lỗi)",
+    "interest-rate-emailer: bình thường (0/3 lỗi)",
     "currency-rate-emailer: bình thường (0/3 lỗi)",
     "apps-gone-free-emailer: bình thường (0/3 lỗi)",
     "9gag-meme-emailer: bình thường (0/4 lỗi)"
@@ -2869,7 +2869,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-26 22:01",
+   "as_of": "2026-11-27 09:12",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2900,11 +2900,11 @@
      "rows": [
       [
        [
-        "Apple iPhone 17 256GB",
-        "https://mediamart.vn/smartphones#28207"
+        "Apple iPhone 18 Pro 256GB",
+        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
        ],
-       24990000,
-       "MediaMart",
+       36990000,
+       "24hStore",
        6,
        0.0
       ],
@@ -2920,11 +2920,11 @@
       ],
       [
        [
-        "Apple iPhone 15 128GB",
-        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
+        "Apple iPhone 17 256GB",
+        "https://mediamart.vn/smartphones#28207"
        ],
-       19490000,
-       "24hStore",
+       24990000,
+       "MediaMart",
        5,
        0.0
       ],
@@ -2940,20 +2940,10 @@
       ],
       [
        [
-        "Apple iPhone 18 Pro 256GB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562"
+        "Apple iPhone 15 128GB",
+        "https://24hstore.vn/iphone-15-moi/iphone-15-128gb-p8980"
        ],
-       36990000,
-       "24hStore",
-       5,
-       0.0
-      ],
-      [
-       [
-        "Apple iPhone 16 128GB",
-        "https://24hstore.vn/iphone-16/iphone-16-128gb-p10934"
-       ],
-       21490000,
+       19490000,
        "24hStore",
        4,
        0.0
@@ -2970,13 +2960,13 @@
       ],
       [
        [
-        "Apple iPhone 18 Pro 2TB",
-        "https://24hstore.vn/iphone-18-pro/iphone-18-pro-2tb-p12565"
+        "Apple iPhone 18 Pro Max 512GB",
+        "https://24hstore.vn/iphone-18-pro-max/iphone-18-pro-max-512gb-p12567"
        ],
-       73990000,
+       45990000,
        "24hStore",
        4,
-       -1.33
+       0.0
       ],
       [
        [
@@ -2997,21 +2987,31 @@
        "Hoàng Hà Mobile",
        4,
        -7.33
+      ],
+      [
+       [
+        "Xiaomi Redmi Note 17 128GB",
+        "https://24hstore.vn/redmi-note-series/xiaomi-redmi-note-17-4gb-128gb-p12582"
+       ],
+       4490000,
+       "24hStore",
+       4,
+       0.0
       ]
      ]
     }
    ],
    "text": [
-    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
-    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
-    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
-    "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
     "Apple iPhone 18 Pro 256GB: 36,990,000 (24hStore)",
-    "Apple iPhone 16 128GB: 21,490,000 (24hStore)",
+    "Apple iPhone 18 Pro Max 256GB: 39,490,000 (24hStore)",
+    "Apple iPhone 17 256GB: 24,990,000 (MediaMart)",
+    "Apple iPhone 17 Pro Max 256GB: 31,990,000 (24hStore)",
+    "Apple iPhone 15 128GB: 19,490,000 (24hStore)",
     "Apple iPhone 17 Pro 256GB: 29,990,000 (24hStore)",
-    "Apple iPhone 18 Pro 2TB: 73,990,000 (24hStore)",
+    "Apple iPhone 18 Pro Max 512GB: 45,990,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
-    "Samsung Galaxy A08 64GB: 3,790,000 (Hoàng Hà Mobile)"
+    "Samsung Galaxy A08 64GB: 3,790,000 (Hoàng Hà Mobile)",
+    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)"
    ]
   }
  ]
