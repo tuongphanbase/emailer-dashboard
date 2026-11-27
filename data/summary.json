@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:38:55+00:00",
+ "generated_at": "2026-11-27T23:30:33+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/45969206702"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/46050895400"
        ],
        3,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/45924789914"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/46001857823"
        ],
        4,
        0,
@@ -61,7 +61,7 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/45994889467"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/46067694175"
        ],
        4,
        0,
@@ -70,7 +70,7 @@
       [
        [
         "phone-tablet-price-emailer",
-        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/45970964388"
+        "https://github.com/tuongphanbase/phone-tablet-price-emailer/actions/runs/46071674038"
        ],
        4,
        0,
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/45939493341"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/46078839155"
        ],
        3,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/45989267852"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/46061986771"
        ],
        3,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/45939483280"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/46078859831"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/45941817223"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/46081180002"
        ],
        3,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/45921493531"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/46027836775"
        ],
        4,
        0,
@@ -142,7 +142,7 @@
    "title": "Giá vàng",
    "icon": "🪙",
    "ok": true,
-   "as_of": "2026-11-27",
+   "as_of": "2026-11-28",
    "note": "Giá bán, VND/lượng",
    "blocks": [
     {
@@ -351,6 +351,10 @@
         [
          "2026-11-27",
          136000000
+        ],
+        [
+         "2026-11-28",
+         136000000
         ]
        ]
       },
@@ -556,6 +560,10 @@
         [
          "2026-11-27",
          135500000
+        ],
+        [
+         "2026-11-28",
+         136000000
         ]
        ]
       },
@@ -761,6 +769,10 @@
         [
          "2026-11-27",
          135500000
+        ],
+        [
+         "2026-11-28",
+         136000000
         ]
        ]
       }
@@ -787,25 +799,25 @@
       [
        "SJC",
        136000000,
-       1.12
+       0.0
       ],
       [
        "PNJ",
-       135500000,
-       0.74
+       136000000,
+       0.37
       ],
       [
        "DOJI",
-       135500000,
-       0.74
+       136000000,
+       0.37
       ]
      ]
     }
    ],
    "text": [
     "SJC: 136,000,000 VND",
-    "PNJ: 135,500,000 VND",
-    "DOJI: 135,500,000 VND"
+    "PNJ: 136,000,000 VND",
+    "DOJI: 136,000,000 VND"
    ]
   },
   {
@@ -813,7 +825,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-27 11:21",
+   "as_of": "2026-11-28 05:48",
    "blocks": [
     {
      "type": "tiles",
@@ -822,7 +834,7 @@
       {
        "label": "USD",
        "value": 25812.62,
-       "change_pct": 0.18,
+       "change_pct": -0.02,
        "period": "24h",
        "points": [
         [
@@ -1020,13 +1032,17 @@
         [
          "2026-11-27",
          25812.62
+        ],
+        [
+         "2026-11-28",
+         25812.62
         ]
        ]
       },
       {
        "label": "EUR",
        "value": 28324.65,
-       "change_pct": 0.31,
+       "change_pct": 0.07,
        "period": "24h",
        "points": [
         [
@@ -1224,13 +1240,17 @@
         [
          "2026-11-27",
          28324.65
+        ],
+        [
+         "2026-11-28",
+         28324.65
         ]
        ]
       },
       {
        "label": "JPY",
        "value": 162.06,
-       "change_pct": 0.16,
+       "change_pct": -0.08,
        "period": "24h",
        "points": [
         [
@@ -1428,13 +1448,17 @@
         [
          "2026-11-27",
          162.06
+        ],
+        [
+         "2026-11-28",
+         162.06
         ]
        ]
       },
       {
        "label": "CNY",
        "value": 3867.08,
-       "change_pct": 0.23,
+       "change_pct": 0.11,
        "period": "24h",
        "points": [
         [
@@ -1632,13 +1656,17 @@
         [
          "2026-11-27",
          3867.08
+        ],
+        [
+         "2026-11-28",
+         3867.08
         ]
        ]
       },
       {
        "label": "KRW",
        "value": 19.21,
-       "change_pct": 0.12,
+       "change_pct": 0.03,
        "period": "24h",
        "points": [
         [
@@ -1836,13 +1864,17 @@
         [
          "2026-11-27",
          19.21
+        ],
+        [
+         "2026-11-28",
+         19.21
         ]
        ]
       },
       {
        "label": "GBP",
        "value": 33829.06,
-       "change_pct": 0.21,
+       "change_pct": 0.03,
        "period": "24h",
        "points": [
         [
@@ -2040,13 +2072,17 @@
         [
          "2026-11-27",
          33829.06
+        ],
+        [
+         "2026-11-28",
+         33829.06
         ]
        ]
       },
       {
        "label": "SGD",
        "value": 20006.85,
-       "change_pct": 0.16,
+       "change_pct": 0.04,
        "period": "24h",
        "points": [
         [
@@ -2244,13 +2280,17 @@
         [
          "2026-11-27",
          20006.85
+        ],
+        [
+         "2026-11-28",
+         20006.85
         ]
        ]
       },
       {
        "label": "AUD",
        "value": 17122.48,
-       "change_pct": 0.16,
+       "change_pct": 0.37,
        "period": "24h",
        "points": [
         [
@@ -2448,6 +2488,10 @@
         [
          "2026-11-27",
          17122.48
+        ],
+        [
+         "2026-11-28",
+         17122.48
         ]
        ]
       }
@@ -2455,14 +2499,14 @@
     }
    ],
    "text": [
-    "USD: 25,812.62 (+0.18%)",
-    "EUR: 28,324.65 (+0.31%)",
-    "JPY: 162.06 (+0.16%)",
-    "CNY: 3,867.08 (+0.23%)",
-    "KRW: 19.21 (+0.12%)",
-    "GBP: 33,829.06 (+0.21%)",
-    "SGD: 20,006.85 (+0.16%)",
-    "AUD: 17,122.48 (+0.16%)"
+    "USD: 25,812.62 (-0.02%)",
+    "EUR: 28,324.65 (+0.07%)",
+    "JPY: 162.06 (-0.08%)",
+    "CNY: 3,867.08 (+0.11%)",
+    "KRW: 19.21 (+0.03%)",
+    "GBP: 33,829.06 (+0.03%)",
+    "SGD: 20,006.85 (+0.04%)",
+    "AUD: 17,122.48 (+0.37%)"
    ]
   },
   {
@@ -2598,24 +2642,24 @@
        -14.97
       ],
       [
-       "PRT",
-       9700.0,
-       14.12
+       "SJG",
+       23200.0,
+       12.08
       ],
       [
-       "DSP",
-       17200.0,
-       13.91
-      ],
-      [
-       "VCR",
-       32400.0,
-       -13.83
+       "AVC",
+       41000.0,
+       11.41
       ],
       [
        "VGR",
        148500.0,
        10.9
+      ],
+      [
+       "PVS",
+       27500.0,
+       10.0
       ]
      ]
     }
@@ -2630,7 +2674,7 @@
     "APH: 7,110.0 (—)",
     "SCR: 4,040.0 (—)"
    ],
-   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VPX, THD"
+   "note": "Giá đã điều chỉnh (chia, thưởng cổ phiếu), không tính biến động: VPX"
   },
   {
    "id": "interest",
@@ -2781,11 +2825,11 @@
       ],
       [
        [
-        "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G)",
-        "https://www.anphatpc.com.vn/vga-asus-prime-rtx-5070-ti-16gb-gddr7.html"
+        "Mainboard ASUS TUF GAMING B760M-PLUS D4",
+        "https://hacom.vn/mainboard-asus-tuf-gaming-b760m-plus-d4"
        ],
-       "37.999.000",
-       -21.5
+       "3.159.000",
+       -21.0
       ]
      ]
     },
@@ -2856,7 +2900,7 @@
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 25.990.000 (-30.7%)",
     "Laptop Asus ZenBook UX3405CA-ST1713W (U5 225H/16GB RAM D5X/512GB SSD/14 3K Oled 120Hz/Win11H/Túi/Xanh): 30.490.000 (-27.4%)",
     "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4: 3.499.000 (-27.1%)",
-    "VGA Asus Prime RTX 5070 Ti 16GB GDDR7 (PRIME-RTX5070TI-16G): 37.999.000 (-21.5%)",
+    "Mainboard ASUS TUF GAMING B760M-PLUS D4: 3.159.000 (-21.0%)",
     "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz: 4.690.000 (+579.7%)",
     "RAM Laptop Samsung DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
     "RAM Laptop Micron DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
@@ -2869,7 +2913,7 @@
    "title": "Giá điện thoại & máy tính bảng",
    "icon": "📱",
    "ok": true,
-   "as_of": "2026-11-27 09:12",
+   "as_of": "2026-11-27 21:44",
    "note": "Model bán ở nhiều cửa hàng nhất, giá rẻ nhất hiện tại",
    "blocks": [
     {
@@ -2993,10 +3037,10 @@
         "Xiaomi Redmi Note 17 128GB",
         "https://24hstore.vn/redmi-note-series/xiaomi-redmi-note-17-4gb-128gb-p12582"
        ],
-       4490000,
+       4390000,
        "24hStore",
        4,
-       0.0
+       -2.23
       ]
      ]
     }
@@ -3011,7 +3055,7 @@
     "Apple iPhone 18 Pro Max 512GB: 45,990,000 (24hStore)",
     "Apple iPhone Duo 256GB: 63,990,000 (24hStore)",
     "Samsung Galaxy A08 64GB: 3,790,000 (Hoàng Hà Mobile)",
-    "Xiaomi Redmi Note 17 128GB: 4,490,000 (24hStore)"
+    "Xiaomi Redmi Note 17 128GB: 4,390,000 (24hStore)"
    ]
   }
  ]
