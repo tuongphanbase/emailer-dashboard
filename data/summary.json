@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:30:33+00:00",
+ "generated_at": "2026-11-28T07:58:05+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -43,7 +43,7 @@
       [
        [
         "gold-price-emailer",
-        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/46050895400"
+        "https://github.com/tuongphanbase/gold-price-emailer/actions/runs/46094658717"
        ],
        3,
        0,
@@ -52,7 +52,7 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/46001857823"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/46083340318"
        ],
        4,
        0,
@@ -61,9 +61,9 @@
       [
        [
         "house-price-emailer",
-        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/46067694175"
+        "https://github.com/tuongphanbase/house-price-emailer/actions/runs/46101763944"
        ],
-       4,
+       3,
        0,
        "bình thường"
       ],
@@ -79,7 +79,7 @@
       [
        [
         "vn-stock-price-emailer",
-        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/46078839155"
+        "https://github.com/tuongphanbase/vn-stock-price-emailer/actions/runs/46107437090"
        ],
        3,
        0,
@@ -88,7 +88,7 @@
       [
        [
         "interest-rate-emailer",
-        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/46061986771"
+        "https://github.com/tuongphanbase/interest-rate-emailer/actions/runs/46100326607"
        ],
        3,
        0,
@@ -97,7 +97,7 @@
       [
        [
         "currency-rate-emailer",
-        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/46078859831"
+        "https://github.com/tuongphanbase/currency-rate-emailer/actions/runs/46107444362"
        ],
        3,
        0,
@@ -106,7 +106,7 @@
       [
        [
         "apps-gone-free-emailer",
-        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/46081180002"
+        "https://github.com/tuongphanbase/apps-gone-free-emailer/actions/runs/46109426539"
        ],
        3,
        0,
@@ -115,7 +115,7 @@
       [
        [
         "9gag-meme-emailer",
-        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/46027836775"
+        "https://github.com/tuongphanbase/9gag-meme-emailer/actions/runs/46089831229"
        ],
        4,
        0,
@@ -128,7 +128,7 @@
     "reddit-top-post-emailer: Deploy Pages lỗi lúc 16:33 27/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
     "tech-price-mailer: bình thường (0/4 lỗi)",
-    "house-price-emailer: bình thường (0/4 lỗi)",
+    "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
     "interest-rate-emailer: bình thường (0/3 lỗi)",
@@ -825,7 +825,7 @@
    "title": "Tỷ giá",
    "icon": "💱",
    "ok": true,
-   "as_of": "2026-11-28 05:48",
+   "as_of": "2026-11-28 11:25",
    "blocks": [
     {
      "type": "tiles",
@@ -833,8 +833,8 @@
      "items": [
       {
        "label": "USD",
-       "value": 25812.62,
-       "change_pct": -0.02,
+       "value": 25839.82,
+       "change_pct": 0.11,
        "period": "24h",
        "points": [
         [
@@ -1035,14 +1035,14 @@
         ],
         [
          "2026-11-28",
-         25812.62
+         25839.82
         ]
        ]
       },
       {
        "label": "EUR",
-       "value": 28324.65,
-       "change_pct": 0.07,
+       "value": 28283.14,
+       "change_pct": -0.15,
        "period": "24h",
        "points": [
         [
@@ -1243,14 +1243,14 @@
         ],
         [
          "2026-11-28",
-         28324.65
+         28283.14
         ]
        ]
       },
       {
        "label": "JPY",
-       "value": 162.06,
-       "change_pct": -0.08,
+       "value": 161.98,
+       "change_pct": -0.05,
        "period": "24h",
        "points": [
         [
@@ -1451,14 +1451,14 @@
         ],
         [
          "2026-11-28",
-         162.06
+         161.98
         ]
        ]
       },
       {
        "label": "CNY",
-       "value": 3867.08,
-       "change_pct": 0.11,
+       "value": 3873.5,
+       "change_pct": 0.17,
        "period": "24h",
        "points": [
         [
@@ -1659,14 +1659,14 @@
         ],
         [
          "2026-11-28",
-         3867.08
+         3873.5
         ]
        ]
       },
       {
        "label": "KRW",
-       "value": 19.21,
-       "change_pct": 0.03,
+       "value": 19.35,
+       "change_pct": 0.76,
        "period": "24h",
        "points": [
         [
@@ -1867,14 +1867,14 @@
         ],
         [
          "2026-11-28",
-         19.21
+         19.35
         ]
        ]
       },
       {
        "label": "GBP",
-       "value": 33829.06,
-       "change_pct": 0.03,
+       "value": 33864.3,
+       "change_pct": 0.1,
        "period": "24h",
        "points": [
         [
@@ -2075,14 +2075,14 @@
         ],
         [
          "2026-11-28",
-         33829.06
+         33864.3
         ]
        ]
       },
       {
        "label": "SGD",
-       "value": 20006.85,
-       "change_pct": 0.04,
+       "value": 20024.63,
+       "change_pct": 0.09,
        "period": "24h",
        "points": [
         [
@@ -2283,14 +2283,14 @@
         ],
         [
          "2026-11-28",
-         20006.85
+         20024.63
         ]
        ]
       },
       {
        "label": "AUD",
-       "value": 17122.48,
-       "change_pct": 0.37,
+       "value": 17182.5,
+       "change_pct": 0.35,
        "period": "24h",
        "points": [
         [
@@ -2491,7 +2491,7 @@
         ],
         [
          "2026-11-28",
-         17122.48
+         17182.5
         ]
        ]
       }
@@ -2499,14 +2499,14 @@
     }
    ],
    "text": [
-    "USD: 25,812.62 (-0.02%)",
-    "EUR: 28,324.65 (+0.07%)",
-    "JPY: 162.06 (-0.08%)",
-    "CNY: 3,867.08 (+0.11%)",
-    "KRW: 19.21 (+0.03%)",
-    "GBP: 33,829.06 (+0.03%)",
-    "SGD: 20,006.85 (+0.04%)",
-    "AUD: 17,122.48 (+0.37%)"
+    "USD: 25,839.82 (+0.11%)",
+    "EUR: 28,283.14 (-0.15%)",
+    "JPY: 161.98 (-0.05%)",
+    "CNY: 3,873.5 (+0.17%)",
+    "KRW: 19.35 (+0.76%)",
+    "GBP: 33,864.3 (+0.1%)",
+    "SGD: 20,024.63 (+0.09%)",
+    "AUD: 17,182.5 (+0.35%)"
    ]
   },
   {
@@ -2793,14 +2793,6 @@
      "rows": [
       [
        [
-        "Nguồn máy tính AIGO GB650 - 650W (80 Plus Bronze/Màu Đen)",
-        "https://hacom.vn/nguon-may-tinh-aigo-gb650-650w-80-plus-bronze-mau-den"
-       ],
-       "839.000",
-       -47.5
-      ],
-      [
-       [
         "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen)",
         "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w.html"
        ],
@@ -2809,27 +2801,35 @@
       ],
       [
        [
-        "Laptop Asus ZenBook UX3405CA-ST1713W (U5 225H/16GB RAM D5X/512GB SSD/14 3K Oled 120Hz/Win11H/Túi/Xanh)",
-        "https://hacom.vn/laptop-asus-zenbook-ux3405ca-st1713w-ltau1129"
+        "Ram Laptop Kingmax DDR4 16GB 3200Mhz",
+        "https://gearvn.com/products/ram-laptop-kingmax-ddr4-16gb-3200mhz"
        ],
-       "30.490.000",
-       -27.4
+       "3.990.000",
+       -14.9
       ],
       [
        [
-        "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-b760m-plus-wifi-d4"
+        "RAM DDR4 PNY XLR8 16GB 3200MHz (1x16GB) - MD16GD4320016XR",
+        "https://hoanghapc.vn/ram-ddr4-pny-xlr8-16gb-3200mhz-md16gd4320016xr"
        ],
-       "3.499.000",
-       -27.1
+       "3.000.000",
+       -14.3
       ],
       [
        [
-        "Mainboard ASUS TUF GAMING B760M-PLUS D4",
-        "https://hacom.vn/mainboard-asus-tuf-gaming-b760m-plus-d4"
+        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
+        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
        ],
-       "3.159.000",
-       -21.0
+       "2.450.000",
+       -7.5
+      ],
+      [
+       [
+        "Ổ Cứng HDD Western Digital Red Plus 4TB (3.5 inch, SATA3, 128MB Cache, 5400rpm) - WD40EFZZ",
+        "https://hoanghapc.vn/o-cu-ng-hdd-western-digital-red-plus-4tb"
+       ],
+       "6.500.000",
+       -7.1
       ]
      ]
     },
@@ -2896,11 +2896,11 @@
    ],
    "empty_text": null,
    "text": [
-    "Nguồn máy tính AIGO GB650 - 650W (80 Plus Bronze/Màu Đen): 839.000 (-47.5%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 25.990.000 (-30.7%)",
-    "Laptop Asus ZenBook UX3405CA-ST1713W (U5 225H/16GB RAM D5X/512GB SSD/14 3K Oled 120Hz/Win11H/Túi/Xanh): 30.490.000 (-27.4%)",
-    "Mainboard ASUS TUF GAMING B760M-PLUS WIFI D4: 3.499.000 (-27.1%)",
-    "Mainboard ASUS TUF GAMING B760M-PLUS D4: 3.159.000 (-21.0%)",
+    "Ram Laptop Kingmax DDR4 16GB 3200Mhz: 3.990.000 (-14.9%)",
+    "RAM DDR4 PNY XLR8 16GB 3200MHz (1x16GB) - MD16GD4320016XR: 3.000.000 (-14.3%)",
+    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.450.000 (-7.5%)",
+    "Ổ Cứng HDD Western Digital Red Plus 4TB (3.5 inch, SATA3, 128MB Cache, 5400rpm) - WD40EFZZ: 6.500.000 (-7.1%)",
     "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz: 4.690.000 (+579.7%)",
     "RAM Laptop Samsung DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
     "RAM Laptop Micron DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
@@ -3030,7 +3030,7 @@
        3790000,
        "Hoàng Hà Mobile",
        4,
-       -7.33
+       0.0
       ],
       [
        [
