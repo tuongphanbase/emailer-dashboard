@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:58:05+00:00",
+ "generated_at": "2026-11-28T08:25:42+00:00",
  "owner": "tuongphanbase",
  "sections": [
   {
@@ -52,9 +52,9 @@
       [
        [
         "tech-price-mailer",
-        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/46083340318"
+        "https://github.com/tuongphanbase/tech-price-mailer/actions/runs/46124476328"
        ],
-       4,
+       6,
        0,
        "bình thường"
       ],
@@ -127,7 +127,7 @@
    "text": [
     "reddit-top-post-emailer: Deploy Pages lỗi lúc 16:33 27/11 (1/2 lỗi)",
     "gold-price-emailer: bình thường (0/3 lỗi)",
-    "tech-price-mailer: bình thường (0/4 lỗi)",
+    "tech-price-mailer: bình thường (0/6 lỗi)",
     "house-price-emailer: bình thường (0/3 lỗi)",
     "phone-tablet-price-emailer: bình thường (0/4 lỗi)",
     "vn-stock-price-emailer: bình thường (0/3 lỗi)",
@@ -2793,11 +2793,27 @@
      "rows": [
       [
        [
+        "RAM DDR5 CORSAIR VENGEANCE 16GB 5600MHz (1x16G) CL40",
+        "https://hoanghapc.vn/ram-ddr5-corsair-vengeance-16gb-5600mhz"
+       ],
+       "3.990.000",
+       -43.0
+      ],
+      [
+       [
         "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen)",
         "https://www.anphatpc.com.vn/laptop-asus-tuf-gaming-a15-fa506ncg-hn390w.html"
        ],
        "25.990.000",
        -30.7
+      ],
+      [
+       [
+        "Laptop ASUS Vivobook 15 X1504MA-BQ1348W (Core 5 320 | 8GB DDR5 | 512GB SSD | Intel Graphics | 15.6 inch FHD IPS | Win 11)",
+        "https://www.anphatpc.com.vn/laptop-asus-vivobook-15-x1504ma-bq1348w.html"
+       ],
+       "18.999.000",
+       -17.4
       ],
       [
        [
@@ -2814,22 +2830,6 @@
        ],
        "3.000.000",
        -14.3
-      ],
-      [
-       [
-        "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G",
-        "https://memoryzone.com.vn/ssd-kingston-nv3-500gb-m-2-pcie-gen4-x4-nvme-snv3s-500g"
-       ],
-       "2.450.000",
-       -7.5
-      ],
-      [
-       [
-        "Ổ Cứng HDD Western Digital Red Plus 4TB (3.5 inch, SATA3, 128MB Cache, 5400rpm) - WD40EFZZ",
-        "https://hoanghapc.vn/o-cu-ng-hdd-western-digital-red-plus-4tb"
-       ],
-       "6.500.000",
-       -7.1
       ]
      ]
     },
@@ -2896,11 +2896,11 @@
    ],
    "empty_text": null,
    "text": [
+    "RAM DDR5 CORSAIR VENGEANCE 16GB 5600MHz (1x16G) CL40: 3.990.000 (-43.0%)",
     "Laptop ASUS TUF Gaming A15 FA506NCG-HN390W (AMD Ryzen 7 155 | RTX 3050 4GB GDDR6 | 15,6-inch FHD | 16GB | 512GB | Windows 11 Home | Đen): 25.990.000 (-30.7%)",
+    "Laptop ASUS Vivobook 15 X1504MA-BQ1348W (Core 5 320 | 8GB DDR5 | 512GB SSD | Intel Graphics | 15.6 inch FHD IPS | Win 11): 18.999.000 (-17.4%)",
     "Ram Laptop Kingmax DDR4 16GB 3200Mhz: 3.990.000 (-14.9%)",
     "RAM DDR4 PNY XLR8 16GB 3200MHz (1x16GB) - MD16GD4320016XR: 3.000.000 (-14.3%)",
-    "SSD Kingston NV3 500GB M.2 PCIe Gen4 x4 NVMe SNV3S/500G: 2.450.000 (-7.5%)",
-    "Ổ Cứng HDD Western Digital Red Plus 4TB (3.5 inch, SATA3, 128MB Cache, 5400rpm) - WD40EFZZ: 6.500.000 (-7.1%)",
     "RAM Laptop Skhynix DDR4 16GB Bus 2400MHz: 4.690.000 (+579.7%)",
     "RAM Laptop Samsung DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
     "RAM Laptop Micron DDR4 16GB Bus 3200MHz: 5.990.000 (+505.1%)",
